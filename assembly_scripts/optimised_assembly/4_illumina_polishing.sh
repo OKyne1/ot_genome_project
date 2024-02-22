@@ -13,6 +13,10 @@ echo "hostname="`hostname`
 echo "OS="`uname -s`
 echo "username="`whoami`
 
+# This code is for polishing the assembly with illumina reads. We may not use it in our workflow but here it is.
+## 1. Activate assembly environment
+## 2. Polish!
+
 # Check for the correct number of command-line arguments
 if [ "$#" -ne 3 ]; then
     echo "Usage: $0 <ill_1><ill_2><assembly>"

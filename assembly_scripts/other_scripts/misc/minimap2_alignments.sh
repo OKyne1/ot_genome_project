@@ -13,6 +13,7 @@ echo "hostname="`hostname`
 echo "OS="`uname -s`
 echo "username="`whoami`
 
+# This code is for the visualisation (e.g. with IGV) of reads mapped to a genome. It was used to see whether there was an uneven distribution of reads across the O.tsutsugamushi genomes.
 
 # Check for the correct number of command-line arguments
 if [ "$#" -ne 2 ]; then

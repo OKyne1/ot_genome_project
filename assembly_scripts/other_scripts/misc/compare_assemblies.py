@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 """
+This is obtained from rrwick from his trycycler pipeline.
+
 This script produces a human-readable output showing the differences between two alternative
 assemblies of a genome. The two assemblies must have the same number of contigs, the contigs must
 be in the same order, and corresponding contigs must have the same strand and starting position.

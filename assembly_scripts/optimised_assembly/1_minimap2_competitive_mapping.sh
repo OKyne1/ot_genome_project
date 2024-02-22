@@ -13,8 +13,10 @@ echo "hostname=$(hostname)"
 echo "OS=$(uname -s)"
 echo "username=$(whoami)"
 
+# This code filters out reads that map to the mouse genome and not the karp genome. Future use of this code will need to change the reference doc to include more Ot diversity and also get reads mapped to all of these different genomes.
+
 # Ensure that minimap2 and samtools are available in the environment (env: minimap2)
-# The purpose of this code is to remove reads mapped to the Karp genome or unmapped and combine these into a single fastq file.
+# Check the names of the "chromosomes" AKA bacterial genomes and modify as required.
 
 # Check for the correct number of command-line arguments
 if [ "$#" -ne 2 ]; then

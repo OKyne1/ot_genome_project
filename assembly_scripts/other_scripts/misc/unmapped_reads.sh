@@ -7,6 +7,8 @@
 #SBATCH --mem-per-cpu=12G
 #SBATCH -p long
 
+# This code is used to extract reads which don't map to a reference genome. It was originally used as a way to extract O. tsutsugamushi reads before competitive mapping.
+
 # samtools often has conflicts with other packages
 # Ensure the correct environment is activated for this task!
 
