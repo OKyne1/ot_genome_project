@@ -13,9 +13,10 @@ echo "hostname="`hostname`
 echo "OS="`uname -s`
 echo "username="`whoami`
 
-# 1 select length threshold
-# 2 select percentage limit
-# 3 ensure assembly environment is activated
+# 1 ensure assembly environment is activated
+# 2 Decide on the threshold limits
+
+# Note that this is not the same as the filtering done by filtlong as the filtered reads will be used in later assembly stages and in O. tsutsugamushi can result in increased contig number.
 
 # Check for the correct number of command-line arguments
 if [ "$#" -ne 2 ]; then

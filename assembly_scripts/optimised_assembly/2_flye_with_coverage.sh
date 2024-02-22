@@ -13,6 +13,9 @@ echo "hostname="`hostname`
 echo "OS="`uname -s`
 echo "username="`whoami`
 
+# This code uses filtlong to get the best reads (longer and higher identity) for the desired coverage. Then uses them in flye assembly
+# The genome size may need to be modified for other strains or species to get the correct coverage
+
 # Activate the correct environment (assembly)
 
 # Check for the correct number of command-line arguments
@@ -34,4 +37,4 @@ echo "filtlong filtering seems to be done"
 
 flye --nano-hq ./filtered_reads/reads_"$cov".fastq --threads 6 --out-dir assemblies_flye_"$cov"
 
-echo "flye is complete"
+echo "flye coverage code is complete"

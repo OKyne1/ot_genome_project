@@ -1,0 +1,9 @@
+# Line of code for CANU assembly
+## 1. Activate assembly env
+## 2. Modify as appropriate (genome size, trimming, coverage and cluster settings)
+## 2. Run the code on the cluster (don't submit it as a job - it does this automatically)(NB this code is for a slurm cluster)
+
+canu usegrid=true -p canu_200 -d assemblies_canu_200 genomeSize=2470000 -trimmed -nanopore ../../240205_combined_ot_notmouse/240205_combined_ot_notmouse_10000/reads/ot_notmouse_all.fastq maxInputCoverage=200 gridOptions="--time=168:00:00 --partition long" gridEngine=slurm
+
+## Overall CANU performed quite poorly for Ot assembly from nanopore reads. It required ~30-60x more cpu hours and the performance was similar at best.
+

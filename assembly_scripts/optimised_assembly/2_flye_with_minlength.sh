@@ -13,6 +13,8 @@ echo "hostname="`hostname`
 echo "OS="`uname -s`
 echo "username="`whoami`
 
+# This code filters out reads below a specified length and then assembles the remaining reads using flye.
+
 # Activate the correct environment (assembly)
 
 # Check for the correct number of command-line arguments
