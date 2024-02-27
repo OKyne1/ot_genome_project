@@ -14,7 +14,8 @@ echo "OS="`uname -s`
 echo "username="`whoami`
 
 # This code is for the visualisation (e.g. with IGV) of reads mapped to a genome. It was used to see whether there was an uneven distribution of reads across the O.tsutsugamushi genomes.
-# Make sure the correct environment is active 
+# Make sure the correct environment is active, this needs to include samtools and minimap2
+# Future use of this code may want to remove unpaired reads as well. This should add an extra step to remove unpaired reads.
 
 # Check for the correct number of command-line arguments
 if [ "$#" -ne 3 ]; then
