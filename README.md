@@ -14,7 +14,11 @@ This section contains;
 3. Other, a collection of scripts that are useful, but not essential to the assembly pipeline (or were used in optimisation)
 
 ### Optimised assembly scripts
-
+Tests performed to optimise:
+1. Different assemblers (canu and flye)
+2. flye with different assembly coverage
+3. Prefiltering of reads for different coverage or lengths
+4. Nanosim simulation of data and then testing the above prefiltering
 ### Assembly QC
 
 ### Other stuff
