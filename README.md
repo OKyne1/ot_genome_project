@@ -13,6 +13,12 @@ This section contains;
 2. Assembly quality control steps
 3. Other, a collection of scripts that are useful, but not essential to the assembly pipeline (or were used in optimisation)
 
+### Optimised assembly scripts
+
+### Assembly QC
+
+### Other stuff
+
 ## Annotation
 Obligate intracellular bacteria are often hard to annotate due to duplication of genes followed by trucation, pseudogenisation or degredation of genes. This makes it hard to identify the functional importance and identity of genes in *O. tsutsugamushi*. Additionally, as there is little or no recombination between strains there can be lots of sequence divergence, yet another problem in annotation of this bacterium.
 
