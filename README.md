@@ -19,6 +19,7 @@ Tests performed to optimise:
 2. flye with different assembly coverage
 3. Prefiltering of reads for different coverage or lengths
 4. Nanosim simulation of data and then testing the above prefiltering
+
 ### Assembly QC
 
 ### Other stuff
