@@ -1,0 +1,10 @@
+# This is an area used to activate conda environments from within scripts
+# It has not been tested or integrated yet, but it may be useful information
+
+# Loading conda
+/well/moru-batty/users/vhs789/miniforge/etc/profile.d
+
+# Activation of conda environment
+conda activate assembly
+
+# Then whatever scripts or so on...
