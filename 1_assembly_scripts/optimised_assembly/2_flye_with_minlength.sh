@@ -12,6 +12,8 @@ echo "job=$SLURM_JOB_ID"
 echo "hostname="`hostname`
 echo "OS="`uname -s`
 echo "username="`whoami`
+# This line has been added in but my not work properly - still hasn't been tested.
+echo "Usage: $0 $@"
 
 # This code filters out reads below a specified length and then assembles the remaining reads using flye.
 
