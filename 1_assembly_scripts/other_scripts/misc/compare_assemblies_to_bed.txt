@@ -1,0 +1,4 @@
+# To extract the desired lines:
+sed 's/^[ \t]*//' contig_to_ref.txt | grep "^contig_6" > test.txt
+## This strips off the leading spaces and extracts reads called contig_6. These are outputted to test.txt
+## Further cleaning of the file is then required, : must be removed and - between the positions must be replaced with a space.
