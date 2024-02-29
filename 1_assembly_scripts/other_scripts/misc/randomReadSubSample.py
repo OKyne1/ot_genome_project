@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 # code taken from "https://github.com/pirovc/metameta/blob/master/scripts/randomReadSubSample.py" 240229
-
+# more useful info can be found here "https://thelegendofbioinformatics.wordpress.com/2017/08/24/random-fastq-subsampling/"
 import argparse, gzip
 from itertools import islice
 import numpy as np
