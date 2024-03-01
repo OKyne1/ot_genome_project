@@ -31,6 +31,6 @@ fi
 reads="$1"
 overlap="$2"
 
-flye --nano-hq "$reads" --threads 6 --min-overlap "$overlap" --out-dir assemblies_flye_overlap_"$cov"
+flye --nano-hq "$reads" --threads 6 --min-overlap "$overlap" --out-dir assemblies_flye_overlap_"$overlap"
 
 echo "flye is complete"
