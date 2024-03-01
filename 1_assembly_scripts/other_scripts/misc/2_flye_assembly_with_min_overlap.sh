@@ -15,6 +15,9 @@ echo "username="`whoami`
 # This line has been added in but my not work properly - still hasn't been tested.
 echo "Usage: $0 $@"
 
+# This code was tested to determine the impact of min-overlap parameter on assembly
+## Results: this doesn't achieve as good results as removing short reads from the assembly. It will not be implemented in the future.
+
 source /well/moru-batty/users/vhs789/miniforge/etc/profile.d/conda.sh
 conda activate assembly
 
