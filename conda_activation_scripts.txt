@@ -2,7 +2,7 @@
 # It has not been tested or integrated yet, but it may be useful information
 
 # Loading conda
-/well/moru-batty/users/vhs789/miniforge/etc/profile.d
+source /well/moru-batty/users/vhs789/miniforge/etc/profile.d/conda.sh
 
 # Activation of conda environment
 conda activate assembly
