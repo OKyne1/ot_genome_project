@@ -11,7 +11,7 @@ Initially, different assembly coverage values were tested. However, this had lit
 #### Testing --min-overlap Parameter
 This parameter was tested between 1000 and 10,000 at 1000 bp intervals for data from barcode 05 and the 3 combined barcodes (from the 2024 karp_2 sequencing run). Generally, the number of contigs reduces as the min-overlap increases and the longest contig seems to be optimal for around 7000 or 8000 bp. However, the performance of this was worse than other assembly attempts tested (below) and so this approach was dropped.
 
-![Figure 1: Graphs showing the effect of different min overlap values on the number of contigs, assembly size, longest contig and coverage.](../assembly_subsampling_optimisation.png)
+![Figure 1: Graphs showing the effect of different min overlap values on the number of contigs, assembly size, longest contig and coverage.](../assembly_subsampling_optimisation.png){width = 5}
 
 #### Min Read Length
 Assembly of barcode 05 and the combined barcodes was tested with min read lengths varying between 1000 to 10,000. This had the largest impact on the assembly quality. By increasing the min read lengths the number of contigs significantly reduces. The optimal for our data structure is probably around 4000-6000 bp. For historic reasons 5000 in subsampling tests.
