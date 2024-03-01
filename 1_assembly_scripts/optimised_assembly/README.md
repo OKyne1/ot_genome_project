@@ -17,7 +17,7 @@ Figure 1: Graphs showing the effect of different min overlap values on the numbe
 #### Min Read Length
 Assembly of barcode 05 and the combined barcodes was tested with min read lengths varying between 1000 to 10,000. This had the largest impact on the assembly quality. By increasing the min read lengths the number of contigs significantly reduces. The optimal for our data structure is probably around 4000-6000 bp. For historic reasons 5000 in subsampling tests.
 
-<img src="../min_read_assembly_optimisation.png">
+<img src="../min_read_assembly_optimisation.png" width="60%" height="30%">
 Figure 2: These plots show the effect of min read length on the number and length of contigs, assembly size and genome coverage. Overall, the number of contigs is lower when there is a higher threshold, however this can result in a slightly lower assembly size. Generally 4000-6000 bp seems optimal for these data structures.
 
 #### Read Coverage
