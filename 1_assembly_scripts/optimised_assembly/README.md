@@ -36,5 +36,5 @@ Despite testing different flye parameters, no specific ones are used. This is be
 ## Medaka polishing with ONT reads
 Unlike flye assembly this step uses all passed mapped reads. 
 
-## 4. Illumina polishing (Optional)
+## Illumina polishing (Optional)
 The importance of this step in currently being tested. We need to decide if we will use this in future work.
