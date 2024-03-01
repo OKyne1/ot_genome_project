@@ -1,6 +1,10 @@
 # Pipeline for Assembly of Highly Repetitive Intracellular Bacteria Using Nanopore Reads
 ## Read Filtering
+Due to high amount of host (mouse) DNA pre-filtering is required before assembly. 
 
+Filtering method:
+1. Map reads to host (mouse) genome and known *O. tsutsugamushi* genomes.
+2. Extract *O. tsutsugamushi* mapped reads and unmapped reads for later processing.
 
 ## Initial Optimisation Tests
 ### Different Assemblers
@@ -23,13 +27,14 @@ Assembly of barcode 05 and the combined barcodes was tested with min read length
 Figure 2: These plots show the effect of min read length on the number and length of contigs, assembly size and genome coverage. Overall, the number of contigs is lower when there is a higher threshold, however this can result in a slightly lower assembly size. Generally 4000-6000 bp seems optimal for these data structures.
 
 ### Flye Assembly Method
-Currently this is the method used for flye assembly:
+Currently this is the method used for flye assembly (2_flye_with_minlength.sh):
 ```
 flye --nano-hq reads.fastq --threads 6 --out-dir output
 ```
 Despite testing different flye parameters, no specific ones are used. This is because reads are prefiltered to remove reads below 5000 bp (though the value can change).
 
-## 3. Medaka polishing with ONT reads
+## Medaka polishing with ONT reads
+Unlike flye assembly this step uses all passed mapped reads. 
 
 ## 4. Illumina polishing (Optional)
-
+The importance of this step in currently being tested. We need to decide if we will use this in future work.
