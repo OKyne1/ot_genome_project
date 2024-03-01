@@ -7,7 +7,7 @@ Canu and flye were both tested. In this analysis flye performed significantly be
 ### Flye Assembly Optimisation
 #### Testing --min-overlap Parameter
 This parameter was tested between 1000 and 10,000 at 1000 bp intervals for data from barcode 05 and the 3 combined barcodes (from the 2024 karp_2 sequencing run). Generally, the number of contigs reduces as the min-overlap increases and the longest contig seems to be optimal for around 7000 or 8000 bp. However, the performance of this was worse than other assembly attempts tested (below) and so this approach was dropped.
-
+![](../assembly_subsampling_optimisation.png)
 ## 1. Read filtering
 
 ## 2. Pre-assembly filtering and flye assembly
