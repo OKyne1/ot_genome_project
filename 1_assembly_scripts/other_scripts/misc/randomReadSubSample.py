@@ -2,6 +2,9 @@
 
 # code taken from "https://github.com/pirovc/metameta/blob/master/scripts/randomReadSubSample.py" 240229
 # more useful info can be found here "https://thelegendofbioinformatics.wordpress.com/2017/08/24/random-fastq-subsampling/"
+# example of usage: python /well/moru-batty/projects/ot/ot_genome_project/1_assembly_scripts/other_scripts/misc/randomReadSubSample.py -f ../../../rawdata/240116_karp_super/240116_karp_super/raw_files/trimmed_and_mapped/bar05/ot_and_unmapped.fastq -n 1 -s 0.10 -o 10
+
+
 import argparse, gzip
 from itertools import islice
 import numpy as np
