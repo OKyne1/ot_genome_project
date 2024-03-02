@@ -28,6 +28,13 @@ Traditionally BUSCO is the main method to test completeness. This is something w
 
 Thus, whilst this method is important it has its limitations. That said, it does correctly show the [Karp 2022 genome](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_022936085.1/) has lower levels of correctness due to many homopolymer errors.
 
+#### Completeness
+Assessment methods:
+
+1. Is the genome closed?
+2. Alignment to reference (for test assemblies)
+3. Number and length of contigs
+
 ## Annotation
 Obligate intracellular bacteria are often hard to annotate due to duplication of genes followed by trucation, pseudogenisation or degredation of genes. This makes it hard to identify the functional importance and identity of genes in *O. tsutsugamushi*. Additionally, as there is little or no recombination between strains there can be lots of sequence divergence, yet another problem in annotation of this bacterium.
 
