@@ -8,21 +8,12 @@ This is the repo for code relating to assembly and annotation of O. tsutsugamush
 - Analysis
 
 ## Assembly
-This section contains;
-1. *O. tsutsugamushi* optimised assembly scripts
-2. Assembly quality control steps
-3. Other, a collection of scripts that are useful, but not essential to the assembly pipeline (or were used in optimisation)
-
-### Optimised assembly scripts
-Tests performed to optimise:
-1. Different assemblers (canu and flye)
-2. flye with different assembly coverage
-3. Prefiltering of reads for different coverage or lengths
-4. Nanosim simulation of data and then testing the above prefiltering
-
-### Assembly QC
-
-### Other stuff
+Detailed information of assembly can be found [here](https://github.com/OKyne1/ot_genome_project/blob/main/1_assembly_scripts/optimised_assembly/README.md). The current approach involves;
+1. Initial minimap2 filtering to remove host reads
+2. Filtering out of shorter reads (<5000)
+3. Flye assembly
+4. Medaka polishing with all reads
+5. Possibly Illumina polishing
 
 ## Annotation
 Obligate intracellular bacteria are often hard to annotate due to duplication of genes followed by trucation, pseudogenisation or degredation of genes. This makes it hard to identify the functional importance and identity of genes in *O. tsutsugamushi*. Additionally, as there is little or no recombination between strains there can be lots of sequence divergence, yet another problem in annotation of this bacterium.
