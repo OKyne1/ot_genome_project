@@ -34,7 +34,7 @@ flye --nano-hq reads.fastq --threads 6 --out-dir output
 Despite testing different flye parameters, no specific ones are used. This is because reads are prefiltered to remove reads below 5000 bp (though the value can change).
 
 ## Medaka polishing with ONT reads
-Unlike flye assembly this step uses all passed mapped reads. 
+Unlike flye assembly this step uses all passed mapped reads. Polishing tests show this resolves most of the "errors" (it is hard to validate what are real errors).
 
 ## Illumina polishing (Optional)
 The importance of this step in currently being tested. We need to decide if we will use this in future work.
