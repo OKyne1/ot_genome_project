@@ -12,11 +12,13 @@ echo "job=$SLURM_JOB_ID"
 echo "hostname="`hostname`
 echo "OS="`uname -s`
 echo "username="`whoami`
+echo "Usage: $0 $@"
+
+source /well/moru-batty/users/vhs789/miniforge/etc/profile.d/conda.sh
+conda activate assembly
 
 # This code uses filtlong to get the best reads (longer and higher identity) for the desired coverage. Then uses them in flye assembly
 # The genome size may need to be modified for other strains or species to get the correct coverage
-
-# Activate the correct environment (assembly)
 
 # Check for the correct number of command-line arguments
 if [ "$#" -ne 2 ]; then
