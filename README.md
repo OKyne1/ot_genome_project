@@ -23,7 +23,7 @@ The 3 C's of genome assembly:
 2. Contiguity
 3. Correctness
 
-A detailed description of the different tools can be found [here](https://github.com/OKyne1/Assembly_Quality_Control/blob/main/README.md).
+A detailed description of tools and methods to approach each of these points can be found [here](https://github.com/OKyne1/Assembly_Quality_Control/blob/main/README.md).
 
 #### Completeness
 Traditionally BUSCO is the main method to test completeness. This is something we use in our analysis. However, unfortunately the regions that are hardest to assemble and polish are RAGEs. As these don't contain concerved single copy genes an assembly can score well on BUSCO but have low completeness. Additionally, RAGE regions are the hardest parts to polish and in our tests show the highest error rates (assemblies vs reference).
@@ -33,7 +33,7 @@ Thus, whilst this method is important it has its limitations. That said, it does
 #### Contiguity
 Assessment methods:
 
-1. Genome N50
+1. Genome N50 or even better the NG50
 2. Alignment to reference (for test assemblies)
 3. Number and length of contigs
 
