@@ -12,10 +12,13 @@ echo "job=$SLURM_JOB_ID"
 echo "hostname="`hostname`
 echo "OS="`uname -s`
 echo "username="`whoami`
+echo "Usage: $0 $@"
+
+source /well/moru-batty/users/vhs789/miniforge/etc/profile.d/conda.sh
+conda activate assembly
 
 # Used for polishing assemblies with nanopore reads
-## 1. Activate assembly environment
-## 2. Modify the -m for the correct flow cell model
+## 1. Modify the -m for the correct flow cell model
 
 echo "script is running"
 # Check for the correct number of command-line arguments
