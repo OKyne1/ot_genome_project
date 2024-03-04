@@ -12,6 +12,10 @@ echo "job=$SLURM_JOB_ID"
 echo "hostname=$(hostname)"
 echo "OS=$(uname -s)"
 echo "username=$(whoami)"
+echo "Usage: $0 $@"
+
+source /well/moru-batty/users/vhs789/miniforge/etc/profile.d/conda.sh
+conda activate minimap
 
 # This code filters out reads that map to the mouse genome and not the karp genome. Future use of this code will need to change the reference doc to include more Ot diversity and also get reads mapped to all of these different genomes.
 
