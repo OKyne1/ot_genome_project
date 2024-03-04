@@ -12,10 +12,13 @@ echo "job=$SLURM_JOB_ID"
 echo "hostname="`hostname`
 echo "OS="`uname -s`
 echo "username="`whoami`
+echo "Usage: $0 $@"
+
+source /well/moru-batty/users/vhs789/miniforge/etc/profile.d/conda.sh
+conda activate assembly
 
 # This code is for polishing the assembly with illumina reads. We may not use it in our workflow but here it is.
-## 1. Activate assembly environment
-## 2. Polish!
+
 
 # Check for the correct number of command-line arguments
 if [ "$#" -ne 3 ]; then
