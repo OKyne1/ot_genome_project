@@ -36,4 +36,7 @@ samtools index sorted_mapped.bam
 # Extract primary mapped reads
 samtools view -F 260 -q 1 -b sorted_mapped.bam > primary_mapped.bam
 
+# Index primary mapped reads
+samtools index primary_mapped.bam
+
 echo "Well, it seems to have finished running..."
