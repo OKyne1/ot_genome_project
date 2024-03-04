@@ -23,6 +23,8 @@ The 3 C's of genome assembly:
 2. Contiguity
 3. Correctness
 
+A detailed description of the different tools can be found [here](https://github.com/OKyne1/Assembly_Quality_Control/blob/main/README.md).
+
 #### Completeness
 Traditionally BUSCO is the main method to test completeness. This is something we use in our analysis. However, unfortunately the regions that are hardest to assemble and polish are RAGEs. As these don't contain concerved single copy genes an assembly can score well on BUSCO but have low completeness. Additionally, RAGE regions are the hardest parts to polish and in our tests show the highest error rates (assemblies vs reference).
 
