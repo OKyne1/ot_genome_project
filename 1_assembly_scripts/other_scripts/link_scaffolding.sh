@@ -28,6 +28,6 @@ reads="$2"
 
 mkdir scaffolded
 
-LINKS -f "$draft" -s "$reads" -o scaffolded_"$draft" -t 4
+LINKS -f "$draft" -s "$reads" -o scaffolded.fasta -t 4
 
 echo "well something may have happened..."
