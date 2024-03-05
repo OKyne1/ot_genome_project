@@ -25,6 +25,7 @@ fi
 
 draft="$1"
 reads="$2"
+# reads actually needs to be a file-of-filenames (a txt file with the full path and files)
 
 mkdir scaffolded
 
