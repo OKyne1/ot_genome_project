@@ -15,6 +15,7 @@ echo "username=$(whoami)"
 echo "Usage: $0 $@"
 
 source /well/moru-batty/users/vhs789/miniforge/etc/profile.d/conda.sh
+# This environment is just links and its dependencies
 conda activate links
 
 if [ "$#" -ne 2 ]; then
