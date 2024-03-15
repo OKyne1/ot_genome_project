@@ -6,3 +6,9 @@ Some important domains (ankyrin and tetratricopeptide repeats) are not annotated
 2. hmmersearch to identify the presence of these domains
 3. Parsing hmmer outputs to give the domain type and counts
 4. Adding this information back into the gbff files
+I am planning to create a main script which links these different scripts sequentially (essentially making a package)
+
+## To Do
+1. Decide on hmmersearch thresholds (coverage and identity type things?)
+2. Work out why the hmmer database is currently insufficient for tpr annotation, find alternatives?
+3. Find a way (and location) to add the data back into the gbff file
