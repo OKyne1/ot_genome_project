@@ -1,4 +1,5 @@
 import argparse  # Import the argparse module to handle command-line arguments
+import os  # Import the os module for file operations
 
 def parse_input_file(input_file):
     # Initialize data structures
@@ -35,7 +36,7 @@ def parse_input_file(input_file):
 
 def generate_output_file(unique_col1_values, data, input_file):
     # Generate the output file name by replacing '.txt' with '_count.txt'
-    output_file = input_file.replace('.txt', '_count.txt')
+    output_file = os.path.splitext(input_file)[0] + '_count.txt'
     # Open the output file for writing
     with open(output_file, 'w') as f:
         # Iterate over the unique values from column 1
@@ -52,17 +53,19 @@ def main():
     # Initialize the command-line argument parser
     parser = argparse.ArgumentParser(description="Process .txt file and generate output in table format")
     # Add the input file argument
-    parser.add_argument("input_file", help="Input .txt file")
+    parser.add_argument("input_files", nargs='+', help="Input .txt files")
     # Parse the command-line arguments
     args = parser.parse_args()
 
     try:
-        # Parse the input file
-        unique_col1_values, data = parse_input_file(args.input_file)
-        # Generate the output file
-        generate_output_file(unique_col1_values, data, args.input_file)
+        # Iterate over each input file
+        for input_file in args.input_files:
+            # Parse the input file
+            unique_col1_values, data = parse_input_file(input_file)
+            # Generate the output file
+            generate_output_file(unique_col1_values, data, input_file)
         # Print a success message
-        print("Output file generated successfully.")
+        print("Output files generated successfully.")
     # Catch any exceptions and print an error message
     except Exception as e:
         print(f"Error: {e}")
