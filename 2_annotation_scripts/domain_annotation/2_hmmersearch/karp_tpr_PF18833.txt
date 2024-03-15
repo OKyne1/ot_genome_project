@@ -1,0 +1,13 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      tpr_PF18833.hmm
+# Target file:     karp.faa
+# Option settings: hmmsearch --domtblout karp_tpr_PF18833.txt -E 1000 -Z 75585367 tpr_PF18833.hmm karp.faa 
+# Current dir:     /mnt/c/Users/oakem/Orientia Biology Dropbox/Oakem Kyne/PC/Documents/230904_moru/240312_domain_identification/3_hmmer/2_hmmersearch
+# Date:            Fri Mar 15 14:06:41 2024
+# [ok]
