@@ -1,3 +1,5 @@
+# This scrip does processing on the hmmersearch output when the --domtblout command is used. However, when using --tblout this is not required.
+
 import argparse  # Import the argparse module to handle command-line arguments
 import os  # Import the os module for file operations
 

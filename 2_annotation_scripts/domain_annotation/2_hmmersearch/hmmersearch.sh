@@ -4,6 +4,9 @@
 # May want to give it multiple cpus
 # Dependencies: hmmer (and its dependencies)
 # Check if at least one HMM and one FAA file are provided
+
+# May need to give a coverage requirement for the hmmsearch, some things are recognised as anks but may be a bit short
+
 if [ "$#" -lt 2 ]; then
     echo "Usage: $0 <hmm_files...> <faa_files...>"  # Display usage message
     exit 1  # Exit with error code
@@ -36,6 +39,6 @@ for hmm_file in "${hmm_files[@]}"; do
         faa_name=$(basename "$faa_file" .faa)
 
         # Run hmmsearch command
-        hmmsearch -Z 75585367 -E 1000 --domtblout "${faa_name}_${hmm_name}.txt" "$hmm_file" "$faa_file"
+        hmmsearch -Z 75585367 -E 1000 --tblout "${faa_name}_${hmm_name}.txt" "$hmm_file" "$faa_file"
     done
 done
