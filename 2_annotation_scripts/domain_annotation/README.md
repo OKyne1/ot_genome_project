@@ -33,7 +33,7 @@ TPR domain .hmm files were more challenging due to an abundance of different fil
 
 This resulted in 19 different tpr .hmm models which could be concatenated into a single file.
 
-### TPR .hmm files used:
+#### TPR .hmm files used:
 | TPR   | PFAM ID   |
 |-------|---------|
 |	TPR_1	|	PF00515	|
