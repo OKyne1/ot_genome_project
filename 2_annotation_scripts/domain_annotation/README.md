@@ -10,6 +10,7 @@ I am planning to create a main script which links these different scripts sequen
 Initially I used --domtblout, but by changing this to --tblout additional parsing to extract counts is no longer required.
 
 ## hmmersearch parameters
+The threshold used by bakta is 1E-10, thus this is what we use for our script.
 
 ## HMM file origins and choices
 ### Anks
@@ -22,10 +23,12 @@ TPR domain .hmm files were more challenging due to an abundance of different fil
 3. Filter out all non-PFAM entries
 4. Remove all enties with names other than exactly "Tetratricopeptide repeat"
 5. Identify the short name for each tpr type.
+6. Download and concatenate the files
+
 This resulted in 19 different tpr .hmm models which could be concatenated into a single file.
 
 ### TPR .hmm files used:
-| TPR   | PF ID   |
+| TPR   | PFAM ID   |
 |-------|---------|
 |	TPR_1	|	PF00515	|
 |	TPR_2	|	PF07719	|
@@ -51,6 +54,5 @@ This resulted in 19 different tpr .hmm models which could be concatenated into a
 
 
 ## To Do
-1. Decide on hmmersearch thresholds (coverage and identity type things?)
 2. Work out why the hmmer database is currently insufficient for tpr annotation, find alternatives?
 3. Find a way (and location) to add the data back into the gbff file
