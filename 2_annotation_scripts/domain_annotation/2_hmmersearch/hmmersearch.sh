@@ -42,7 +42,7 @@ for hmm_file in "${hmm_files[@]}"; do
 
         # Run hmmsearch command
         # The E value given here is the one used in the bakta scripts
-        # removed this: -Z 75585367 
+        # removed this: -Z 75585367, not present in bakta (check if this is the right decision)
         hmmsearch -E 1E-10 --tblout "${faa_name}_${hmm_name}.txt" "$hmm_file" "$faa_file"
     done
 done
