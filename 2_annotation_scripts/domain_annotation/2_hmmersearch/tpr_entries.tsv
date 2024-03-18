@@ -1,0 +1,19 @@
+PF00515	Tetratricopeptide repeat		PFAM	TPR_1
+PF07719	Tetratricopeptide repeat	This Pfam entry includes outlying Tetratricopeptide-like repeats (TPR) that are not matched by Pfam:PF00515.	PFAM	TPR_2
+PF07720	Tetratricopeptide repeat	This Pfam entry includes tetratricopeptide-like repeats found in the LcrH/SycD-like chaperones [[cite:PUB00015206]].	PFAM	TPR_3
+PF07721	Tetratricopeptide repeat	"This Pfam entry includes tetratricopeptide-like repeats not detected by the Pfam:PF00515, Pfam:PF07719 and Pfam:PF07720 models."	PFAM	TPR_4
+PF12688	Tetratrico peptide repeat	"BH0479 of Bacillus halodurans is a hypothetical protein which contains a tetratrico peptide repeat (TPR) structural motif. The TPR motif is often involved in mediating protein-protein interactions.  This protein is likely to function as a dimer. The first 48 amino acids are not present in the clone construct. This Pfam entry includes tetratricopeptide-like repeats not detected by the Pfam:PF00515, Pfam:PF07719, Pfam:PF07720 and Pfam:PF07221 models."	PFAM	TPR_5
+PF13174	Tetratricopeptide repeat		PFAM	TPR_6
+PF13176	Tetratricopeptide repeat		PFAM	TPR_7
+PF13181	Tetratricopeptide repeat		PFAM	TPR_8
+PF13371	Tetratricopeptide repeat		PFAM	TPR_9
+PF13374	Tetratricopeptide repeat		PFAM	TPR_10
+PF13424	Tetratricopeptide repeat		PFAM	TPR_12
+PF13428	Tetratricopeptide repeat		PFAM	TPR_14
+PF13429	Tetratricopeptide repeat		PFAM	TPR_15
+PF13431	Tetratricopeptide repeat		PFAM	TPR_17
+PF13432	Tetratricopeptide repeat	This family is found predominantly at the C-terminus of transglutaminase enzyme core regions.	PFAM	TPR_16
+PF13512	Tetratricopeptide repeat		PFAM	TPR_18
+PF14559	Tetratricopeptide repeat		PFAM	TPR_19
+PF14561	Tetratricopeptide repeat		PFAM	TPR_20
+PF18833	Tetratricopeptide repeat	This Pfam entry includes outlying Tetratricopeptide-like repeats (two repeat units) that are not matched by Pfam:PF00515.	PFAM	TPR_22

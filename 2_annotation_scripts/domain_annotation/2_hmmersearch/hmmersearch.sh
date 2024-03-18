@@ -1,4 +1,6 @@
 #!/bin/bash
+
+
 # Will want to make is cluster compatable - do i have to do this, if its being called inside a different script?
 # May want to modify the parameters
 # May want to give it multiple cpus
@@ -39,6 +41,8 @@ for hmm_file in "${hmm_files[@]}"; do
         faa_name=$(basename "$faa_file" .faa)
 
         # Run hmmsearch command
-        hmmsearch -Z 75585367 -E 1000 --tblout "${faa_name}_${hmm_name}.txt" "$hmm_file" "$faa_file"
+        # The E value given here is the one used in the bakta scripts
+        # removed this: -Z 75585367 
+        hmmsearch -E 1E-10 --tblout "${faa_name}_${hmm_name}.txt" "$hmm_file" "$faa_file"
     done
 done

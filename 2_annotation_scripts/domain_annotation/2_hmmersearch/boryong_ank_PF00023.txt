@@ -52,5 +52,5 @@ boryong_08230        -          Ank                  PF00023.34   7.5e+02   12.2
 # Target file:     boryong.faa
 # Option settings: hmmsearch --tblout boryong_ank_PF00023.txt -E 1000 -Z 75585367 ank_PF00023.hmm boryong.faa 
 # Current dir:     /mnt/c/Users/oakem/Orientia Biology Dropbox/Oakem Kyne/PC/Documents/ot_genome_project/2_annotation_scripts/domain_annotation/2_hmmersearch
-# Date:            Fri Mar 15 15:14:38 2024
+# Date:            Fri Mar 15 15:34:57 2024
 # [ok]
