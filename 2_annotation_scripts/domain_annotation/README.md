@@ -23,6 +23,10 @@ Initially I used **--domtblout**, but by changing this to **--tblout**. This pro
 ### Anks
 Choice of pfam .hmm file for anks was simple as there was only a single model (PF00023). 
 
+My initial analysis showed that in both boryong and karp, ank proteins were annotated as ankyrin or unnamed and the product had some information (though not always the repeat number). 
+
+This suggests that it will be worth overwritting the product with the number of ankyrin repeats.
+
 ### TPRs
 TPR domain .hmm files were more challenging due to an abundance of different files. This is the method used to identify the .hmm files to use for tpr identification:
 1. Interpro search for "Tetratricopeptide repeat"
@@ -57,7 +61,10 @@ This resulted in 19 different tpr .hmm models which could be concatenated into a
 |	TPR_20	|	PF14561	|
 |	TPR_22	|	PF18833	|
 
-
+Analysis of the product names (from bakta) for the tprs annotated through hmmer show:
+1. Most proteins are correctly annotated with tpr product details, and with a gene name of tpr or no name
+2. There are some proteins which are called pilW but shouldnt be
+3. There are a couple of cases where there are other details/product descriptions (not pilW or tpr)
 
 
 ## To Do
