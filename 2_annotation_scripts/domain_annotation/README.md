@@ -9,8 +9,14 @@ I am planning to create a main script which links these different scripts sequen
 
 Initially I used --domtblout, but by changing this to --tblout additional parsing to extract counts is no longer required.
 
+## Parsing gbff files to faa files
+hmmersearch requires a .faa file input. To produce this, gbff files from bakta were converted to .faa files with the locus tag as the header.
+The script [gen_2_faa.py](1_gbff_2_faa.py/gen_2_faa.py)
+
 ## hmmersearch parameters
-The threshold used by bakta is 1E-10, thus this is what we use for our script.
+### Thresholds
+By default the -E theshold is 10, however this is way higher than we would like.
+The threshold used by bakta is -E 1E-10, we used this. This means that per hit there will be on average 10^-10 false positivies. Later on we may want to consider reducing the stringency of this threshold.
 
 ## HMM file origins and choices
 ### Anks
@@ -54,5 +60,4 @@ This resulted in 19 different tpr .hmm models which could be concatenated into a
 
 
 ## To Do
-2. Work out why the hmmer database is currently insufficient for tpr annotation, find alternatives?
 3. Find a way (and location) to add the data back into the gbff file
