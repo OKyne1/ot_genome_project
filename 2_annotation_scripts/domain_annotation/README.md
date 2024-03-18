@@ -7,8 +7,6 @@ Some important domains (ankyrin and tetratricopeptide repeats) are not annotated
 3. Adding this information back into the gbff files
 I am planning to create a main script which links these different scripts sequentially (essentially making a package)
 
-Initially I used --domtblout, but by changing this to --tblout additional parsing to extract counts is no longer required.
-
 ## Parsing gbff files to faa files
 hmmersearch requires a .faa file input. To produce this, gbff files from bakta were converted to .faa files with the locus tag as the header.
 The script [gen_2_faa.py](https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/domain_annotation/1_gbff_2_faa/gen_2_faa.py)
@@ -17,6 +15,9 @@ The script [gen_2_faa.py](https://github.com/OKyne1/ot_genome_project/blob/main/
 ### Thresholds
 By default the -E theshold is 10, however this is way higher than we would like.
 The threshold used by bakta is -E 1E-10, we used this. This means that per hit there will be on average 10^-10 false positivies. Later on we may want to consider reducing the stringency of this threshold.
+
+### Output Format
+Initially I used **--domtblout**, but by changing this to **--tblout**. This produces a simplified table which means additional parsing for things like anks is not required.
 
 ## HMM file origins and choices
 ### Anks
