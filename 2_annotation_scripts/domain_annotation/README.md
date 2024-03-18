@@ -11,7 +11,8 @@ Initially I used --domtblout, but by changing this to --tblout additional parsin
 
 ## Parsing gbff files to faa files
 hmmersearch requires a .faa file input. To produce this, gbff files from bakta were converted to .faa files with the locus tag as the header.
-The script [gen_2_faa.py](/1_gbff_2_faa/gen_2_faa.py)
+The script [gen_2_faa.py](/2_annotation_scripts/domain_annotation/1_gbff_2_faa
+/gen_2_faa.py)
 
 ## hmmersearch parameters
 ### Thresholds
