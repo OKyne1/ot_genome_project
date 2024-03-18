@@ -1,5 +1,5 @@
 # Domain Annotation
-Some important domains (ankyrin and tetratricopeptide repeats) are not annotated as thougherly or completely by bakta as desired. Consequently we are implementing an alternative approach for the annotation of these features.
+Some important domains (ankyrin and tetratricopeptide repeats) are not annotated as thoroughly or completely by bakta as desired. Consequently we are implementing an alternative approach for the annotation of these features.
 
 ## Structure of Domain Annotation Code
 1. Parsing gbff files from bakta to faa files containing locus_tag and sequence information
