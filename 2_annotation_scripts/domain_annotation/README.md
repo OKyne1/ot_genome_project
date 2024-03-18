@@ -60,4 +60,4 @@ This resulted in 19 different tpr .hmm models which could be concatenated into a
 
 
 ## To Do
-3. Find a way (and location) to add the data back into the gbff file
+Currently the tprs are producing multiple tpr hits of different types on the same locus tag. Are these unique or is it that these are duplicated hits?
