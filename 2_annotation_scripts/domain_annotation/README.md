@@ -60,4 +60,5 @@ This resulted in 19 different tpr .hmm models which could be concatenated into a
 
 
 ## To Do
-Currently the tprs are producing multiple tpr hits of different types on the same locus tag. Are these unique or is it that these are duplicated hits?
+Currently the tprs are producing multiple tpr hits of different types on the same locus tag. Are these unique or is it that these are duplicated hits? Yes these hits are being duplicated. For a location it can produce multiple different hits for the different models.
+This means that the number of tprs is hard to classify using this data, however the it is still possible to identify the presence of a tpr. What is important in classification of these proteins?
