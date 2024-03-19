@@ -21,10 +21,11 @@ Initially I used **--domtblout**, but by changing this to **--tblout**. This pro
 
 ## HMM file origins and choices
 ### Anks
-Choice of pfam .hmm file for anks was simple as there was only a single model (PF00023). Comparison of the bakta outputs and the hmmer results showed that;
-1. All anks detected (at that stringency) were also annotated by bakta
-2. Bakta annotation didn't accurately label the number of repeats in the product section
-These data suggest that it will be worth overwriting the product description for these proteins. Additionally, some but not all of these proteins are annotated as aNKYR. It is probably worth either removing this label (it looks bad) or adding the gene name of ank for all anks.
+Choice of pfam .hmm file for anks was simple as there was only a single model (PF00023). 
+
+My initial analysis showed that in both boryong and karp, ank proteins were annotated as ankyrin or unnamed and the product had some information (though not always the repeat number). 
+
+This suggests that it will be worth overwritting the product with the number of ankyrin repeats.
 
 ### TPRs
 TPR domain .hmm files were more challenging due to an abundance of different files. This is the method used to identify the .hmm files to use for tpr identification:
@@ -60,11 +61,10 @@ This resulted in 19 different tpr .hmm models which could be concatenated into a
 |	TPR_20	|	PF14561	|
 |	TPR_22	|	PF18833	|
 
-## Adding back to gbff
-### Location
-**Gene name**: I don't think a protein should be named after a domain. So, I plan to remove any of these present.
-**Product**: This is where I plant to store the TPR and ANK information. From what I've pulled out of the gbff files, it looks like I can just overwrite this information for (nearly) all cases.
-
+Analysis of the product names (from bakta) for the tprs annotated through hmmer show:
+1. Most proteins are correctly annotated with tpr product details, and with a gene name of tpr or no name
+2. There are some proteins which are called pilW but shouldnt be
+3. There are a couple of cases where there are other details/product descriptions (not pilW or tpr)
 
 
 ## To Do
