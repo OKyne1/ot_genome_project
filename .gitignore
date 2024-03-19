@@ -2,3 +2,5 @@
 # Domain annotation:
 ## hmm files to exclude
 /2_annotation_scripts/domain_annotation/2_hmmersearch/tpr_hmm/
+## gbff and faa files to exclude
+/2_annotation_scripts/domain_annotation/1_gbff_2_faa/gbff

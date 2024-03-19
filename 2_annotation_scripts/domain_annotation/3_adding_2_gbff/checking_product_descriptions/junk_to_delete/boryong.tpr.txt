@@ -1,0 +1,28 @@
+locus_tag	gene	product
+boryong_00145	NA	tetratricopeptide repeat protein
+boryong_00150	NA	tetratricopeptide repeat protein
+boryong_00610	NA	Tetratricopeptide repeat protein with 2 trp repeats
+boryong_00645	NA	Tetratricopeptide repeat protein with 5 trp repeats
+boryong_00745	NA	TPR repeat-containing protein 08
+boryong_00750	NA	tetratricopeptide repeat protein
+boryong_01260	NA	hypothetical protein
+boryong_01605	NA	Tetratricopeptide repeat protein with 2 trp repeats
+boryong_02940	NA	Glycosyl transferase family 8
+boryong_03590	NA	Tetratricopeptide repeat protein with 5 trp repeats
+boryong_04115	NA	Tetratricopeptide repeat protein with 8 trp repeats
+boryong_06290	NA	Tetratricopeptide repeat protein with 5 trp repeats
+boryong_06685	NA	Tetratricopeptide repeat protein with 5 trp repeats
+boryong_06850	NA	Tetratricopeptide repeat protein with 5 trp repeats
+boryong_06895	NA	Tetratricopeptide repeat protein with 2 trp repeats
+boryong_07370	NA	SycD/LcrH family type III secretion system chaperone
+boryong_07670	NA	TPR repeat-containing protein 08
+boryong_07675	NA	tetratricopeptide repeat protein
+boryong_07715	NA	TPR repeat-containing protein 03
+boryong_08805	NA	tetratricopeptide repeat protein
+boryong_08810	NA	TPR repeat-containing protein 08
+boryong_09500	NA	Tetratricopeptide repeat protein with 8 trp repeats
+boryong_10490	NA	TPR repeat-containing protein 08
+boryong_10495	NA	tetratricopeptide repeat protein
+boryong_11315	NA	TPR repeat-containing protein 01_07
+boryong_11585	bamD	outer membrane protein assembly factor BamD
+boryong_11735	NA	Tetratricopeptide repeat protein with 5 trp repeats
