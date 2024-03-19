@@ -66,6 +66,12 @@ Analysis of the product names (from bakta) for the tprs annotated through hmmer 
 2. There are some proteins which are called pilW but shouldnt be
 3. There are a couple of cases where there are other details/product descriptions (not pilW or tpr)
 
+## Adding back to gbff
+### Location
+**Gene name**: I don't think a protein should be named after a domain. So, I plan to remove any of these present.
+
+**Product**: This is where I plant to store the TPR and ANK information. From what I've pulled out of the gbff files, it looks like I can just overwrite this information for (nearly) all cases.
+
 
 ## To Do
 Currently the tprs are producing multiple tpr hits of different types on the same locus tag. Are these unique or is it that these are duplicated hits? Yes these hits are being duplicated. For a location it can produce multiple different hits for the different models.
