@@ -72,6 +72,18 @@ Analysis of the product names (from bakta) for the tprs annotated through hmmer 
 
 **Product**: This is where I plant to store the TPR and ANK information. From what I've pulled out of the gbff files, it looks like I can just overwrite this information for (nearly) all cases.
 
+### Parsing the Hmmer Output
+Different approaches are required for both anks and tprs. For anks we give details on both the repeat and the number of repeats, where as for tprs, this isn't possible as there is no standardised database.
+
+For parsing, the code extracts the locus tag from the hmmer file. Then if -dom ank is specified it extracts the number of ank repeats. But if -dom tpr is specified it outputs "Tetratricopeptide repeat protein" and doesn't specify the repeat number (and excluded repeated values)
+
+### Overwriting Product
+The script [overwriting_gbff.py](https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/domain_annotation/3_adding_2_gbff/overwriting_gbff.py) can takes a gbff file and txt file. This overwrites the product in the gbff file based on the data in the txt file (col1=locus_tag and col2=product).
+
+Also need to modify it so the gene value is removed. There shouldn't be the domain based names there currently are.
+
+### Other annotations
+Currently this work hasn't tried to detect annotations which aren't detected by hmmer. This may be a limitation and could be worth investigating.
 
 ## To Do
 Currently the tprs are producing multiple tpr hits of different types on the same locus tag. Are these unique or is it that these are duplicated hits? Yes these hits are being duplicated. For a location it can produce multiple different hits for the different models.
