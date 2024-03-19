@@ -69,6 +69,7 @@ Analysis of the product names (from bakta) for the tprs annotated through hmmer 
 ## Adding back to gbff
 ### Location
 **Gene name**: I don't think a protein should be named after a domain. So, I plan to remove any of these present.
+
 **Product**: This is where I plant to store the TPR and ANK information. From what I've pulled out of the gbff files, it looks like I can just overwrite this information for (nearly) all cases.
 
 
