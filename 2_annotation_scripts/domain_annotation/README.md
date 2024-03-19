@@ -82,9 +82,12 @@ The script [overwriting_gbff.py](https://github.com/OKyne1/ot_genome_project/blo
 
 Also need to modify it so the gene value is removed. There shouldn't be the domain based names there currently are.
 
+**Entries with traG or bamD value for gene, should not be overwritten.**
+
+There seems to be no evidence for genes with traG in the product only, or "SycD/LcrH family type III secretion system chaperone" - these can be over written.
+
 ### Other annotations
 Currently this work hasn't tried to detect annotations which aren't detected by hmmer. This may be a limitation and could be worth investigating.
 
 ## To Do
-Currently the tprs are producing multiple tpr hits of different types on the same locus tag. Are these unique or is it that these are duplicated hits? Yes these hits are being duplicated. For a location it can produce multiple different hits for the different models.
-This means that the number of tprs is hard to classify using this data, however the it is still possible to identify the presence of a tpr. What is important in classification of these proteins?
+Consider what the TPR script will overwrite. Currently there are 9 gene names with traG which will be removed and 12 products with traG which will be removed. This is probably a problem and needs investigation.
