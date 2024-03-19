@@ -77,6 +77,7 @@ Different approaches are required for both anks and tprs. For anks we give detai
 
 #### Parsing Ank Hmmer Output
 Need to convert to a txt file with this format:
+
 locus_tag    product
 
 Product should be "Ankyrin repeat protein with "$number" ankyrin repeats"
