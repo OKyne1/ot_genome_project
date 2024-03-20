@@ -4,8 +4,10 @@ Some important domains (ankyrin and tetratricopeptide repeats) are not annotated
 ## Structure of Domain Annotation Code
 1. Parsing gbff files from bakta to faa files containing locus_tag and sequence information
 2. hmmersearch to identify the presence of these domains
-3. Adding this information back into the gbff files
-I am planning to create a main script which links these different scripts sequentially (essentially making a package)
+3. Parsing hmmer output
+4. Adding this information back into the gbff files
+
+These 4 scripts are linked by (domain_annotation.sh)[https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/domain_annotation/domain_annotation_package/scripts/domain_annotation.sh] which requires all files from the domain_annotation_package directory (excluding test) in the positions they are currently found in, and correct packages installed (see (environment.yml)[https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/domain_annotation/domain_annotation_package/environment.yml]). The command line usage is then: `bash domain_annotaiton.sh <gbff files>`
 
 ## Parsing gbff files to faa files
 hmmersearch requires a .faa file input. To produce this, gbff files from bakta were converted to .faa files with the locus tag as the header.
