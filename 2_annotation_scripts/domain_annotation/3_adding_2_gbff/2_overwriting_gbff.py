@@ -17,19 +17,31 @@ def update_product_from_txt(genbank_file, txt_file, domain):
         for feature in record.features:
             if feature.type == 'gene' and 'gene' in feature.qualifiers:
                 gene_names = feature.qualifiers['gene']
-                for gene_name in gene_names:
-                    if gene_name.lower() in ('trag', 'bamd') and domain == 'tpr':
-                        continue  # Skip modification for traG or bamD in the 'gene' section
+                filtered_gene_names = [name for name in gene_names if name.lower() in ('trag', 'bamd')]
+                if filtered_gene_names:
+                    feature.qualifiers['gene'] = filtered_gene_names
+                else:
+                    del feature.qualifiers['gene']
             elif feature.type == 'CDS' and 'locus_tag' in feature.qualifiers and feature.qualifiers['locus_tag'][0] in locus_to_product:
                 gene_names = feature.qualifiers.get('gene', [])
                 gene_names_lower = [name.lower() for name in gene_names] if gene_names else []
                 if domain == 'tpr' and ('trag' in gene_names_lower or 'bamd' in gene_names_lower):
                     continue  # Skip modification for traG or bamD in the 'CDS' section
+                filtered_gene_names = [name for name in gene_names if name.lower() in ('trag', 'bamd')]
+                if filtered_gene_names:
+                    feature.qualifiers['gene'] = filtered_gene_names
+                else:
+                    if 'gene' in feature.qualifiers:
+                        del feature.qualifiers['gene']  # Remove gene name if not 'trag' or 'bamd'
+
                 locus_tag = feature.qualifiers['locus_tag'][0]
-                if locus_tag in locus_to_product and 'product' not in feature.qualifiers:
-                    feature.qualifiers['product'] = [locus_to_product[locus_tag]]
-                if gene_names:
-                    feature.qualifiers['gene'] = gene_names  # Retain gene names
+                if locus_tag in locus_to_product:
+                    if 'product' in feature.qualifiers:  # Check if product is already set
+                        # Replace the existing product with the new one
+                        feature.qualifiers['product'] = [locus_to_product[locus_tag]]
+                    else:
+                        # Set the product if it's not already present
+                        feature.qualifiers['product'] = [locus_to_product[locus_tag]]
 
     # Write the updated records back to the GenBank file
     with open(genbank_file, 'w') as gbff_handle:

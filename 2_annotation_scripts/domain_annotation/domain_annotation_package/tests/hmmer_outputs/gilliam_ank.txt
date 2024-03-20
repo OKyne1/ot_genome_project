@@ -1,0 +1,57 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+gilliam_11705        -          Ank                  PF00023.34   6.2e-58  186.9  26.1     6e-08   30.0   0.1   8.8   8   0   0   8   8   8   8 -
+gilliam_01065        -          Ank                  PF00023.34   8.1e-54  174.0  24.5   1.1e-10   38.6   0.5   7.2   7   0   0   7   7   7   6 -
+gilliam_09150        -          Ank                  PF00023.34   1.3e-52  170.2  29.6   1.9e-09   34.7   1.7   8.7   8   1   0   8   8   8   7 -
+gilliam_05810        -          Ank                  PF00023.34   3.2e-50  162.7  31.3   9.6e-10   35.6   2.3   9.3   9   1   0   9   9   9   7 -
+gilliam_01720        -          Ank                  PF00023.34   5.7e-47  152.5  18.5     7e-08   29.8   0.1   7.4   7   0   0   7   7   6   6 -
+gilliam_05280        -          Ank                  PF00023.34   4.5e-46  149.7  14.0   2.8e-10   37.3   0.3   7.7   8   0   0   8   8   7   5 -
+gilliam_08485        -          Ank                  PF00023.34   4.5e-46  149.7  14.0   2.8e-10   37.3   0.3   7.7   8   0   0   8   8   7   5 -
+gilliam_13740        -          Ank                  PF00023.34   1.2e-44  145.2  32.8   4.1e-09   33.6   0.1   9.6   9   0   0   9   9   9   7 -
+gilliam_00265        -          Ank                  PF00023.34   5.8e-44  143.0  27.3   1.7e-07   28.6   0.2   9.3  10   0   0  10  10   8   7 -
+gilliam_02325        -          Ank                  PF00023.34   5.8e-44  143.0  27.3   1.7e-07   28.6   0.2   9.3  10   0   0  10  10   8   7 -
+gilliam_01985        -          Ank                  PF00023.34   1.3e-41  135.7  16.4   2.7e-07   27.9   0.2   9.6   9   1   0   9   9   9   6 -
+gilliam_10900        -          Ank                  PF00023.34   1.7e-40  132.2  24.2     7e-09   32.9   0.2   7.0   7   0   0   7   7   6   5 -
+gilliam_02675        -          Ank                  PF00023.34   2.2e-33  109.8  26.5   2.2e-07   28.2   0.1   8.5   9   0   0   9   9   8   5 -
+gilliam_05725        -          Ank                  PF00023.34   9.4e-33  107.8   8.5   5.1e-08   30.2   0.1   5.7   5   1   1   6   6   6   4 -
+gilliam_10805        -          Ank                  PF00023.34   2.6e-31  103.3   8.3   2.6e-08   31.1   0.0   6.8   6   1   0   6   6   6   5 -
+gilliam_13005        -          Ank                  PF00023.34   2.5e-29   97.1  17.1     3e-07   27.8   0.2   7.9   8   0   0   8   8   8   5 -
+gilliam_01780        -          Ank                  PF00023.34   2.6e-29   97.0   6.1   4.1e-08   30.5   0.0   6.4   6   1   0   6   6   6   4 -
+gilliam_08030        -          Ank                  PF00023.34   3.1e-29   96.8   7.0   4.1e-08   30.5   0.0   6.8   6   1   0   6   6   6   4 -
+gilliam_12310        -          Ank                  PF00023.34   1.3e-28   94.8   9.1   8.8e-08   29.5   0.0   6.4   6   1   0   6   6   6   4 -
+gilliam_01955        -          Ank                  PF00023.34   4.2e-28   93.3   8.0   7.1e-08   29.7   0.0   6.4   6   1   0   6   6   6   4 -
+gilliam_00950        -          Ank                  PF00023.34   5.3e-28   92.9   8.1   7.1e-08   29.7   0.0   6.4   6   1   0   6   6   6   4 -
+gilliam_03220        -          Ank                  PF00023.34   5.3e-28   92.9   8.1   7.1e-08   29.7   0.0   6.4   6   1   0   6   6   6   4 -
+gilliam_06055        -          Ank                  PF00023.34   5.3e-28   92.9   8.3   7.1e-08   29.7   0.0   6.8   6   1   0   6   6   6   4 -
+gilliam_05115        -          Ank                  PF00023.34   5.9e-28   92.8  10.9   3.1e-08   30.9   0.0   5.4   5   0   0   5   5   5   5 -
+gilliam_09300        -          Ank                  PF00023.34   6.6e-28   92.6   7.9   4.1e-08   30.5   0.0   6.8   6   1   0   6   6   6   3 -
+gilliam_04225        -          Ank                  PF00023.34   7.6e-28   92.4   6.8   4.1e-08   30.5   0.0   6.8   6   1   0   6   6   6   3 -
+gilliam_00870        -          Ank                  PF00023.34   1.5e-27   91.5   9.1   4.1e-08   30.5   0.0   6.8   6   1   0   6   6   6   3 -
+gilliam_02730        -          Ank                  PF00023.34   4.7e-27   89.9   6.6   4.1e-08   30.5   0.0   6.4   6   1   0   6   6   6   3 -
+gilliam_05380        -          Ank                  PF00023.34   4.7e-27   89.9   6.6   4.1e-08   30.5   0.0   6.4   6   1   0   6   6   6   3 -
+gilliam_10235        -          Ank                  PF00023.34   4.7e-27   89.9   6.6   4.1e-08   30.5   0.0   6.4   6   1   0   6   6   6   3 -
+gilliam_05585        -          Ank                  PF00023.34   6.7e-27   89.5   7.2   4.1e-08   30.5   0.0   6.4   6   1   0   6   6   6   3 -
+gilliam_12765        -          Ank                  PF00023.34   6.7e-27   89.5   7.2   4.1e-08   30.5   0.0   6.4   6   1   0   6   6   6   3 -
+gilliam_10605        -          Ank                  PF00023.34   1.2e-26   88.7  10.2   1.4e-07   28.8   0.1   6.8   6   1   0   6   6   6   3 -
+gilliam_11850        -          Ank                  PF00023.34   1.2e-26   88.6   7.5   4.1e-08   30.5   0.0   6.4   6   1   0   6   6   6   3 -
+gilliam_02380        -          Ank                  PF00023.34   2.1e-26   87.9  10.6   1.5e-07   28.7   0.1   6.8   6   1   0   6   6   6   3 -
+gilliam_13220        -          Ank                  PF00023.34   1.2e-25   85.5  10.5   4.1e-08   30.5   0.0   6.4   6   1   0   6   6   6   3 -
+gilliam_02375        -          Ank                  PF00023.34   6.3e-25   83.3   2.5   7.5e-06   23.4   0.9   4.7   5   0   0   5   5   4   4 -
+gilliam_03225        -          Ank                  PF00023.34   6.3e-25   83.3   2.5   7.5e-06   23.4   0.9   4.7   5   0   0   5   5   4   4 -
+gilliam_07485        -          Ank                  PF00023.34   1.3e-22   76.0   1.1   7.4e-08   29.7   0.1   4.2   4   0   0   4   4   4   3 -
+gilliam_10580        -          Ank                  PF00023.34   5.9e-14   48.8   6.4   1.3e-07   28.9   0.2   3.9   3   1   0   3   3   3   2 -
+gilliam_11205        -          Ank                  PF00023.34   1.4e-12   44.5   0.0   1.1e-08   32.3   0.0   2.2   2   0   0   2   2   2   2 -
+gilliam_00395        -          Ank                  PF00023.34   3.3e-12   43.3   1.1   6.6e-08   29.8   0.2   2.9   3   0   0   3   3   3   2 -
+gilliam_09075        -          Ank                  PF00023.34   3.3e-12   43.3   1.1   6.6e-08   29.8   0.2   2.9   3   0   0   3   3   3   2 -
+gilliam_12280        -          Ank                  PF00023.34   4.7e-11   39.7   0.0   2.2e-08   31.3   0.1   2.2   2   0   0   2   2   2   1 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/c/Users/oakem/Orientia Biology Dropbox/Oakem Kyne/PC/Documents/ot_genome_project/2_annotation_scripts/domain_annotation/domain_annotation_package/scripts/../hmm_files/ank.hmm
+# Target file:     faa_files/gilliam.faa
+# Option settings: hmmsearch --tblout gilliam_ank.txt -E 1E-10 /mnt/c/Users/oakem/Orientia Biology Dropbox/Oakem Kyne/PC/Documents/ot_genome_project/2_annotation_scripts/domain_annotation/domain_annotation_package/scripts/../hmm_files/ank.hmm faa_files/gilliam.faa 
+# Current dir:     /mnt/c/Users/oakem/Orientia Biology Dropbox/Oakem Kyne/PC/Documents/ot_genome_project/2_annotation_scripts/domain_annotation/domain_annotation_package/tests
+# Date:            Wed Mar 20 11:46:26 2024
+# [ok]
