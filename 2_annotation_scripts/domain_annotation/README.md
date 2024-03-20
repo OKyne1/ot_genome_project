@@ -80,7 +80,7 @@ Different approaches are required for both anks and tprs. For anks we give detai
 For parsing, the code extracts the locus tag from the hmmer file. Then if -dom ank is specified it extracts the number of ank repeats. But if -dom tpr is specified it outputs "Tetratricopeptide repeat protein" and doesn't specify the repeat number (and excluded repeated values)
 
 ### Overwriting Product
-The script [overwriting_gbff.py](https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/domain_annotation/3_adding_2_gbff/overwriting_gbff.py) can takes a gbff file and txt file. This overwrites the product in the gbff file based on the data in the txt file (col1=locus_tag and col2=product).
+The script [4_overwriting_gbff.py](https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/domain_annotation/domain_annotation_package/scripts/4_overwriting_gbff.py) can takes a gbff file and txt file. This overwrites the product in the gbff file based on the data in the txt file (col1=locus_tag and col2=product).
 
 Investigation of the products for existing entries (8 genomes) showed that overwriting anks would cause no errors. However, overwriting tprs would cause loss of 9 legitimate **traG** proteins and also 8 legitimate **bamD**. Consequently, when overwriting tpr information, entries with gene names of traG or bamD are excluded. Those with product, but not gene name are just overwritten and they were not legitimate cases (of traG and there were none for bamD).
 
