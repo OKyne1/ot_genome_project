@@ -80,11 +80,9 @@ For parsing, the code extracts the locus tag from the hmmer file. Then if -dom a
 ### Overwriting Product
 The script [overwriting_gbff.py](https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/domain_annotation/3_adding_2_gbff/overwriting_gbff.py) can takes a gbff file and txt file. This overwrites the product in the gbff file based on the data in the txt file (col1=locus_tag and col2=product).
 
-Also need to modify it so the gene value is removed. There shouldn't be the domain based names there currently are.
+Investigation of the products for existing entries (8 genomes) showed that overwriting anks would cause no errors. However, overwriting tprs would cause loss of 9 legitimate **traG** proteins and also 8 legitimate **bamD**. Consequently, when overwriting tpr information, entries with gene names of traG or bamD are excluded. Those with product, but not gene name are just overwritten and they were not legitimate cases (of traG and there were none for bamD).
 
-**Entries with traG or bamD value for gene, should not be overwritten.**
-
-There seems to be no evidence for genes with traG in the product only, or "SycD/LcrH family type III secretion system chaperone" - these can be over written.
+Other things overwritten in tprs; "**SycD/LcrH family type III secretion system chaperone**" and **pilW** proteins. There seems to be extremely weak evidence for these entries.
 
 ### Other annotations
 Currently this work hasn't tried to detect annotations which aren't detected by hmmer. This may be a limitation and could be worth investigating.
