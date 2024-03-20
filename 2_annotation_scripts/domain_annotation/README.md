@@ -1,13 +1,13 @@
 # Domain Annotation
-Some important domains (ankyrin and tetratricopeptide repeats) are not annotated as thoroughly or completely by bakta as desired. Consequently we are implementing an alternative approach for the annotation of these features.
+Some important domains (ankyrin and tetratricopeptide repeats) are not annotated as thoroughly or completely by bakta as desired. Consequently we are implementing an alternative approach for the annotation of these domains.
 
 ## Structure of Domain Annotation Code
 1. Parsing gbff files from bakta to faa files containing locus_tag and sequence information
-2. hmmersearch to identify the presence of these domains
+2. hmmersearch to identify the presence of tprs or anks domains
 3. Parsing hmmer output
 4. Adding this information back into the gbff files
 
-These 4 scripts are linked by [domain_annotation.sh](https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/domain_annotation/domain_annotation_package/scripts/domain_annotation.sh) which requires all files from the domain_annotation_package directory (excluding test) in the positions they are currently found in, and correct packages installed (see [environment.yml](https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/domain_annotation/domain_annotation_package/environment.yml)). The command line usage is then: `bash domain_annotaiton.sh <gbff files>`
+These 4 scripts are linked by [domain_annotation.sh](https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/domain_annotation/domain_annotation_package/scripts/domain_annotation.sh) which requires all files from the domain_annotation_package directory (excluding test directory) in the positions they are currently found in, and correct packages installed (see [environment.yml](https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/domain_annotation/domain_annotation_package/environment.yml)). The command line usage is then: `bash domain_annotaiton.sh <gbff files>`
 
 ## Parsing gbff files to faa files
 hmmersearch requires a .faa file input. To produce this, gbff files from bakta were converted to .faa files with the locus tag as the header.
@@ -70,9 +70,9 @@ Analysis of the product names (from bakta) for the tprs annotated through hmmer 
 
 ## Adding back to gbff
 ### Location
-**Gene name**: I don't think a protein should be named after a domain. So, I plan to remove any of these present.
+**Gene name**: I don't think a protein should be named after a domain. So, I plan to remove any of these if present.
 
-**Product**: This is where I plant to store the TPR and ANK information. From what I've pulled out of the gbff files, it looks like I can just overwrite this information for (nearly) all cases.
+**Product**: This is where I plant to store the TPR and ANK information. From what I've pulled out of the gbff files, it looks like I can just overwrite this information for (nearly) all cases (except bamD and traG).
 
 ### Parsing the Hmmer Output
 Different approaches are required for both anks and tprs. For anks we give details on both the repeat and the number of repeats, where as for tprs, this isn't possible as there is no standardised database.
@@ -84,10 +84,9 @@ The script [4_overwriting_gbff.py](https://github.com/OKyne1/ot_genome_project/b
 
 Investigation of the products for existing entries (8 genomes) showed that overwriting anks would cause no errors. However, overwriting tprs would cause loss of 9 legitimate **traG** proteins and also 8 legitimate **bamD**. Consequently, when overwriting tpr information, entries with gene names of traG or bamD are excluded. Those with product, but not gene name are just overwritten and they were not legitimate cases (of traG and there were none for bamD).
 
-Other things overwritten in tprs; "**SycD/LcrH family type III secretion system chaperone**" and **pilW** proteins. There seems to be extremely weak evidence for these entries.
-
-### Other annotations
-Currently this work hasn't tried to detect/check annotations which aren't detected by hmmer. This may be a limitation and could be worth investigating.
+Other things overwritten in tprs; "**SycD/LcrH family type III secretion system chaperone**" and **pilW** proteins. There seems to be extremely weak evidence for these entries and thus it is reasonable to overwrite.
 
 ## Current code limitations
 Only processes tprs or anks, if additional domains are desired the hmmer file will need to be added to the hmm_files directory and script 3 and 4 will need to be modified to take/process additional domains. This needs to consider what to overwrite and whether to include the number of repeats.
+
+We have also not investigated things annotated as tprs or anks that aren't detected by bakta. This may be worth investigating in the furture, but is unlikely to cause any major problems.
