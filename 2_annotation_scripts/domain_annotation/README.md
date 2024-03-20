@@ -19,7 +19,7 @@ By default the -E theshold is 10, however this is way higher than we would like.
 The threshold used by bakta is -E 1E-10, we used this. This means that per hit there will be on average 10^-10 false positivies. Later on we may want to consider reducing the stringency of this threshold.
 
 ### Output Format
-Initially I used **--domtblout**, but by changing this to **--tblout**. This produces a simplified table which means additional parsing for things like anks is not required.
+Initially I used `--domtblout`, but by changing this to `--tblout`. This produces a simplified table which means additional parsing for things like anks is not required.
 
 ## HMM file origins and choices
 ### Anks
