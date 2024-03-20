@@ -89,3 +89,5 @@ Other things overwritten in tprs; "**SycD/LcrH family type III secretion system 
 ### Other annotations
 Currently this work hasn't tried to detect/check annotations which aren't detected by hmmer. This may be a limitation and could be worth investigating.
 
+## Current code limitations
+Only processes tprs or anks, if additional domains are desired the hmmer file will need to be added to the hmm_files directory and script 3 and 4 will need to be modified to take/process additional domains. This needs to consider what to overwrite and whether to include the number of repeats.
