@@ -85,7 +85,5 @@ Investigation of the products for existing entries (8 genomes) showed that overw
 Other things overwritten in tprs; "**SycD/LcrH family type III secretion system chaperone**" and **pilW** proteins. There seems to be extremely weak evidence for these entries.
 
 ### Other annotations
-Currently this work hasn't tried to detect annotations which aren't detected by hmmer. This may be a limitation and could be worth investigating.
+Currently this work hasn't tried to detect/check annotations which aren't detected by hmmer. This may be a limitation and could be worth investigating.
 
-## To Do
-Consider what the TPR script will overwrite. Currently there are 9 gene names with traG which will be removed and 12 products with traG which will be removed. This is probably a problem and needs investigation.
