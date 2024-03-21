@@ -69,18 +69,18 @@ Analysis of the product names (from bakta) for the tprs annotated through hmmer 
 2. There are some proteins which are called pilW but shouldnt be
 3. There are a couple of cases where there are other details/product descriptions (not pilW or tpr)
 
-### Parsing the Hmmer Output
+## Parsing the Hmmer Output
 Different approaches are required for both anks and tprs. For anks we give details on both the repeat and the number of repeats, where as for tprs, this isn't possible as there is no standardised database.
 
 For parsing, the code extracts the locus tag from the hmmer file. Then if -dom ank is specified it extracts the number of ank repeats. But if -dom tpr is specified it outputs "Tetratricopeptide repeat protein" and doesn't specify the repeat number (and excluded repeated values)
 
-### Overwriting Product
-#### Location
+## Overwriting Product
+### Location
 **Gene name**: I don't think a protein should be named after a domain. So, I plan to remove any of these if present.
 
 **Product**: This is where I plant to store the TPR and ANK information. From what I've pulled out of the gbff files, it looks like I can just overwrite this information for (nearly) all cases (except bamD and traG).
 
-#### Script
+### Script
 The script [4_overwriting_gbff.py](https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/domain_annotation/domain_annotation_package/scripts/4_overwriting_gbff.py) can takes a gbff file and txt file. This overwrites the product in the gbff file based on the data in the txt file (col1=locus_tag and col2=product) and removes any gene names present.
 
 Investigation of the products for existing entries (8 genomes) showed that overwriting anks would cause no errors. However, overwriting tprs would cause loss of 9 legitimate **traG** proteins and also 8 legitimate **bamD**. Consequently, when overwriting tpr information, entries with gene names of traG or bamD are excluded. Those with product, but not gene name are just overwritten and they were not legitimate cases (of traG and there were none for bamD).
