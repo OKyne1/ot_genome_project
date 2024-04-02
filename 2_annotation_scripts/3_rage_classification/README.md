@@ -42,6 +42,7 @@ This likely doesn't will only have a very minor influence. However, it may be wo
 The boundaries code doesn't check whether a region (between boundaries) is part of a RAGE region. Consequently, after generating this information, we need to remove regions which are not contained within a RAGE derived regions.
 
 Currently I am using bedtools to identify entries contained within the rage derived regions, as shown below.
+
 `bedtools intersect -a file1.bed -b file2.bed -f 1 -wa`
 
 ## Testing for required genes
