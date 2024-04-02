@@ -36,9 +36,13 @@ This likely doesn't will only have a very minor influence. However, it may be wo
 1. Make the code handle contigs
 2. Do I want to consider the edge case
 3. Break the code into more readable chunks
+4. It will also currently recognise a single integrase when it is next to another one (-->-->)
 
 ## Validating boundaries
 The boundaries code doesn't check whether a region (between boundaries) is part of a RAGE region. Consequently, after generating this information, we need to remove regions which are not contained within a RAGE derived regions.
+
+Currently I am using bedtools to identify entries contained within the rage derived regions, as shown below.
+`bedtools intersect -a file1.bed -b file2.bed -f 1 -wa`
 
 ## Testing for required genes
 To be a complete RAGE, it must have the boundries (already identified), all tra genes, at least 1 transposase and at least 1 cargo gene.
