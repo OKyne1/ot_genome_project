@@ -1,5 +1,5 @@
 # Annotation of RAGE regions
-Structure:
+## Code structure 
 1. Defining RAGE derived regions
 2. Defining boundaries for complete RAGEs
 3. Validating boundaries within RAGE derived regions
@@ -33,8 +33,10 @@ Currently, the script doesn't cover this rare edge case where there are 2 integr
 This likely doesn't will only have a very minor influence. However, it may be worth considering in the future.
 
 ## Validating boundaries
+The boundaries code doesn't check whether a region (between boundaries) is part of a RAGE region. Consequently, after generating this information, we need to remove regions which are not contained within a RAGE derived regions.
 
 ## Testing for required genes
+To be a complete RAGE, it must have the boundries (already identified), all tra genes, at least 1 transposase and at least 1 cargo gene.
 
 ## Current limitations
 - Edge case mentioned above
