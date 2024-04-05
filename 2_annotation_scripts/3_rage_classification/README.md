@@ -51,9 +51,6 @@ To be a complete RAGE, it must have the boundries (already identified), all tra 
 ## Initial results
 These scripts identify **100%** of complete RAGEs (3/3) but it also identifies **17/52** of the complete RAGEs with truncated genes. This is probably better than underclassification, however, we need to find a way to identify which of these are not truncated.
 
-**Next steps**:
-Investigate whether these complete RAGEs with truncated genes contain pseudo or truncated descriptions. If they do this may be a method to exclude them.
-
 
 ## Current limitations
 - Edge case mentioned above (this is still a very rare case so may not be worth considering)
