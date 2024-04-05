@@ -9,6 +9,7 @@
 
 These stages are tied together in the script `main.sh` so that processing of genbank files can be performed in one stage to define the RAGEs derived regions and complete RAGEs. Output files .bed files.
 
+
 ## RAGE derived regions
 These are currently defined by a list of different rage genes. These were determined by identifying genes in the bakta annotation which were considered in RAGE regions by Jeanne's paper. 
 
@@ -25,6 +26,7 @@ The effect here is not that large and so the current script only allows 1 non-ma
 2. A region can contain a single non-matched gene (but not at the edges)
 3. Genes must match the `RAGE_gene_list` but they cannot match to the `exclusion_list` (this was generated so that genes which match the list but contain more information and should be excluded)
 
+
 ## Complete RAGE boundaries
 ### Rules for boundaries are:
 <img src="https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/3_rage_classification/diagrams/rage_boundaries_conditions.png" width="500">
@@ -36,17 +38,21 @@ Currently, the script doesn't cover this rare edge case where there are 2 integr
 
 This likely doesn't will only have a very minor influence. However, it may be worth considering in the future.
 
+
 ## Validating boundaries
 Boundaries identified are validated against the RAGE derived regions. Only those contained within this .bed file are kept for required gene testing. This step uses the package bed tools.
 
+
 ## Testing for required genes
 To be a complete RAGE, it must have the boundries (already identified), all tra genes, at least 1 transposase and at least 1 cargo gene (currently using those defined in the paper).
+
 
 ## Initial results
 These scripts identify 100% of complete RAGEs (3/3) but it also identifies 17/52 of the complete RAGEs with truncated genes.
 
 **Next steps**:
 Investigate whether these complete RAGEs with truncated genes contain pseudo or truncated descriptions. If they do this may be a method to exclude them.
+
 
 ## Current limitations
 - Edge case mentioned above (this is still a very rare case so may not be worth considering)
