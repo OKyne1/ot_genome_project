@@ -5,6 +5,8 @@
 3. Validating boundaries within RAGE derived regions
 4. Identifying complete RAGEs based on required genes
 
+These stages are tied together in the script `main.sh` so that processing of genbank files can be performed in one stage to define the RAGEs derived regions and complete RAGEs.
+
 ## RAGE derived regions
 These are currently defined by a list of different rage genes. These were determined by identifying genes in the bakta annotation which were considered in RAGE regions by Jeanne's paper. 
 
@@ -39,14 +41,16 @@ This likely doesn't will only have a very minor influence. However, it may be wo
 4. It will also currently recognise a single integrase when it is next to another one (-->-->)
 
 ## Validating boundaries
-The boundaries code doesn't check whether a region (between boundaries) is part of a RAGE region. Consequently, after generating this information, we need to remove regions which are not contained within a RAGE derived regions.
-
-Currently I am using bedtools to identify entries contained within the rage derived regions, as shown below.
-
-`bedtools intersect -a file1.bed -b file2.bed -f 1 -wa`
+Boundaries identified are validated against the RAGE derived regions. Only those contained within this .bed file are kept for required gene testing. This step uses the package bed tools.
 
 ## Testing for required genes
-To be a complete RAGE, it must have the boundries (already identified), all tra genes, at least 1 transposase and at least 1 cargo gene.
+To be a complete RAGE, it must have the boundries (already identified), all tra genes, at least 1 transposase and at least 1 cargo gene (currently using those defined in the paper).
+
+## Initial results
+These scripts identify 100% of complete RAGEs (3/3) but it also identifies 17/52 of the complete RAGEs with truncated genes.
+
+Next steps:
+Investigate whether these complete RAGEs with truncated genes contain pseudo or truncated descriptions. If they do this may be a method to exclude them.
 
 ## Current limitations
 - Edge case mentioned above
