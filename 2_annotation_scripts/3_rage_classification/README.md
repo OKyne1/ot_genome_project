@@ -13,7 +13,7 @@ These are currently defined by a list of different rage genes. These were determ
 This list of RAGE genes was generated from the Karp, Gilliam and Boryong genomes, then tested on some other genomes to validate the success.
 
 ### Visualising success
-![kato rage derived regions](https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/3_rage_classification/kato_rage_derived.png)
+![kato rage derived regions](https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/3_rage_classification/diagrams/kato_rage_derived.png)
 This IGV image of the different boundaries shows that my script closely resembles the manual annotations (note manual annotations have additional breaks for boundaries between RAGEs). The 2 lines below the manual annotated boundaries shows the effects of allowing one or 2 mis-matched genes within a RAGE region.
 
 The effect here is not that large and so the current script only allows 1 non-match. However it can easily be modified to permit 2. The code was developed to permit this, and also not to allow these non-matches to be adjacent to eachother. 
@@ -25,11 +25,11 @@ The effect here is not that large and so the current script only allows 1 non-ma
 
 ## Complete RAGE boundaries
 ### Rules for boundaries are:
-<img src="https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/3_rage_classification/rage_boundaries_conditions.png" width="500">
+<img src="https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/3_rage_classification/diagrams/rage_boundaries_conditions.png" width="500">
 The black lines mark the boundary, if a gene is not included in the boundary then the script will restart on this line to identify additional boundaries using this gene.
 
 ### Edge case currently not covered:
-![Edge case](https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/3_rage_classification/edge_case.png)
+![Edge case](https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/3_rage_classification/diagrams/edge_case.png)
 Currently, the script doesn't cover this rare edge case where there are 2 integrases 'facing' eachother with a dnaA gene sandwiched between them. The script will only accept the first RAGE region and not the second.
 
 This likely doesn't will only have a very minor influence. However, it may be worth considering in the future.
