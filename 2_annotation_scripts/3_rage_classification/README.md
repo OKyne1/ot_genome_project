@@ -34,12 +34,6 @@ Currently, the script doesn't cover this rare edge case where there are 2 integr
 
 This likely doesn't will only have a very minor influence. However, it may be worth considering in the future.
 
-### Modifications to make
-1. Make the code handle contigs
-2. Do I want to consider the edge case
-3. Break the code into more readable chunks
-4. It will also currently recognise a single integrase when it is next to another one (-->-->)
-
 ## Validating boundaries
 Boundaries identified are validated against the RAGE derived regions. Only those contained within this .bed file are kept for required gene testing. This step uses the package bed tools.
 
@@ -53,7 +47,7 @@ These scripts identify 100% of complete RAGEs (3/3) but it also identifies 17/52
 Investigate whether these complete RAGEs with truncated genes contain pseudo or truncated descriptions. If they do this may be a method to exclude them.
 
 ## Current limitations
-- Edge case mentioned above
+- Edge case mentioned above (this is still a very rare case so may not be worth considering)
 - Need to make it work for contigs
 - Need to tie the scripts together
 - May want to make the scripts more readable/shorter by breaking them into smaller functions/chunks
