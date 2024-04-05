@@ -9,6 +9,9 @@
 
 These stages are tied together in the script `main.sh` so that processing of genbank files can be performed in one stage to define the RAGEs derived regions and complete RAGEs. Output files .bed files.
 
+### Code usage
+1. Create and activate the rage conda environment. This can be created from `rage_environment.yml`.
+2. The script can be run like this (locally, not adjusted for the cluster):  `bash ../main.sh <gbff_file> <gbff_file> ... <gbff_file>`. 
 
 ## RAGE derived regions
 These are currently defined by a list of different rage genes. These were determined by identifying genes in the bakta annotation which were considered in RAGE regions by Jeanne's paper. 
