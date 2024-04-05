@@ -4,7 +4,9 @@
 2. Defining boundaries for complete RAGEs
 3. Validating boundaries within RAGE derived regions
 4. Identifying complete RAGEs based on required genes
+
 ![workflow](https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/3_rage_classification/diagrams/code_workflow.png)
+
 These stages are tied together in the script `main.sh` so that processing of genbank files can be performed in one stage to define the RAGEs derived regions and complete RAGEs.
 
 ## RAGE derived regions
