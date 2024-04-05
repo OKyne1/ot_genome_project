@@ -44,11 +44,11 @@ Boundaries identified are validated against the RAGE derived regions. Only those
 
 
 ## Testing for required genes
-To be a complete RAGE, it must have the boundries (already identified), all tra genes, at least 1 transposase and at least 1 cargo gene (currently using those defined in the paper).
+To be a complete RAGE, it must have the boundries (already identified), all tra genes, at least 1 transposase and at least 1 cargo gene (currently using those defined in the paper). The presence of these genes is tested on the validated boundaries and the regions which meet these criteria are outputted in a new .bed file.
 
 
 ## Initial results
-These scripts identify 100% of complete RAGEs (3/3) but it also identifies 17/52 of the complete RAGEs with truncated genes.
+These scripts identify **100%** of complete RAGEs (3/3) but it also identifies **17/52** of the complete RAGEs with truncated genes. This is probably better than underclassification, however, we need to find a way to identify which of these are not truncated.
 
 **Next steps**:
 Investigate whether these complete RAGEs with truncated genes contain pseudo or truncated descriptions. If they do this may be a method to exclude them.
