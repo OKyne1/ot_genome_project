@@ -49,7 +49,7 @@ To be a complete RAGE, it must have the boundries (already identified), all tra 
 ## Initial results
 These scripts identify 100% of complete RAGEs (3/3) but it also identifies 17/52 of the complete RAGEs with truncated genes.
 
-Next steps:
+**Next steps**:
 Investigate whether these complete RAGEs with truncated genes contain pseudo or truncated descriptions. If they do this may be a method to exclude them.
 
 ## Current limitations
@@ -57,3 +57,4 @@ Investigate whether these complete RAGEs with truncated genes contain pseudo or 
 - Need to make it work for contigs
 - Need to tie the scripts together
 - May want to make the scripts more readable/shorter by breaking them into smaller functions/chunks
+- Handle the identification of complete RAGEs with truncated genes
