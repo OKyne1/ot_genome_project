@@ -1,9 +1,9 @@
 # Pipeline for Assembly of Highly Repetitive Intracellular Bacteria Using Nanopore Reads
 ## File pre-processing
-.fastq files are;
-1. For each barcode, passed files are joined using `cat *.fastq.gz > barcode.fastq.gz`
-2. If the flowcell was washed, then files for 'run' are combined
-3. This produces a single fastq.gz file per barcode
+1. Files are first uploaded to the cluster e.g. using `scp -r sequencing_fastq_files username@cluster1.bmrc.ox.ac.uk:/well/moru-batty/projects/ot/rawdata/sequencing_name`
+2. For each barcode, passed files are joined using `cat *.fastq.gz > barcode.fastq.gz`
+3. If the flowcell was washed, then files for 'run' are combined (same as above)
+4. This produces a single fastq.gz file per barcode
 
 ## Read Filtering
 Due to high amount of host (mouse) DNA pre-filtering is required before assembly. 
