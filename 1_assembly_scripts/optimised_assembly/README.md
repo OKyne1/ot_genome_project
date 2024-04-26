@@ -47,15 +47,21 @@ The importance of this step in currently being tested. We need to decide if we w
 
 ## Example code usage
 Barcode file joining:
-`cat barcodexx/*.fastq.gz > barcodexx.fastq.gz`
+```
+cat barcodexx/*.fastq.gz > barcodexx.fastq.gz
+```
 This code assumes you are in the directory containing the different barcode directories.
 
 Changing the file permisions:
-`chmod -wx file_name`
+```
+chmod -wx file_name
+```
 This is used to protect the file from being overwritten. Ideally it should be applied to all raw data to avoid overwriting (my code won't do this, but it is best practice).
 
 Joining files from washed flowcells:
-`cat run1.fastq.gz run2.fastq.gz > barcodexx.fastq.gz`
+```
+cat run1.fastq.gz run2.fastq.gz > barcodexx.fastq.gz
+```
 This is only required if the flowcell was washed during the run.
 
 Read mapping:
