@@ -35,12 +35,10 @@ The effect here is not that large and so the current script only allows 1 non-ma
 <img src="https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/3_rage_classification/diagrams/rage_boundaries_conditions.png" width="500">
 The black lines mark the boundary, if a gene is not included in the boundary then the script will restart on this line to identify additional boundaries using this gene.
 
-### Edge case not covered:
+### Edge case:
 <img src="https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/3_rage_classification/diagrams/edge_case.png" width="800">
 
-Currently, the script doesn't cover this rare edge case where there are 2 integrases 'facing' eachother with a dnaA gene sandwiched between them. The script will only accept the first RAGE region and not the second.
-
-This likely doesn't will only have a very minor influence. However, it may be worth considering in the future.
+The script currently allows 2 RAGE regions to share a dnaA gene. This is unlikely to cause any issues as the chance of 2 complete RAGEs next to eachother is extremely unlikely and not problematic.
 
 
 ## Validating boundaries
