@@ -419,9 +419,13 @@ def main():
     blast_file = sys.argv[1]
     gene_matches = process_blast_output(blast_file)
     for gene, data in gene_matches.items():
-        print(f"Gene: {gene}")
-        #print(f"Matches: {data['matches']}")
-        print(f"Per Match: {data['per_match']}")
+        #print(f"Gene: {gene}")
+        ##print(f"Matches: {data['matches']}")
+        #print(f"Per Match: {data['per_match']}")
+        #print(f"Completeness: {data['completeness']}")
+        print(f"Gene: {data['gene']}", end=" | ")
+        #print(f"Matches: {data['matches']}", end=" | ")
+        print(f"Per Match: {data['per_match']}", end=" | ")
         print(f"Completeness: {data['completeness']}")
         print()
 
