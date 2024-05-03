@@ -1,1 +1,0 @@
-Currently this script correctly identifies complete RAGEs. But over identifies many of the incomplete RAGEs as complete due to truncated proteins not being recognised.

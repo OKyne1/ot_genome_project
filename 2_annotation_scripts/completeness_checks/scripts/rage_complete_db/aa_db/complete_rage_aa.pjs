@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "complete_rage_aa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "complete_rage_aa",
+  "number-of-letters": 450980,
+  "number-of-sequences": 1338,
+  "last-updated": "2024-05-03T10:11:00",
+  "number-of-volumes": 1,
+  "bytes-total": 645407,
+  "bytes-to-cache": 463135,
+  "files": [
+    "complete_rage_aa.pdb",
+    "complete_rage_aa.phr",
+    "complete_rage_aa.pin",
+    "complete_rage_aa.pot",
+    "complete_rage_aa.psq",
+    "complete_rage_aa.ptf",
+    "complete_rage_aa.pto"
+  ]
+}

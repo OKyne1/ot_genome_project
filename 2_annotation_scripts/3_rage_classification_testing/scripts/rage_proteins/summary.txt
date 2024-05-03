@@ -1,0 +1,29 @@
+Lists tested thoroughly;
+
+1. exclusion_list
+2. lists_combined
+
+These were refined with lots of bed file testing on different genomes (karp, gilliam, boryong and maybe ikeda (but i don't think this actually was done))
+
+
+Tra proteins:
+
+These are the conjugal proteins that have to be present in a RAGE region
+
+
+
+transposases:
+
+This is a short list of transposases (including transposase), one has to be present in the RAGE
+
+
+Cargo proteins:
+
+NEED TO: develop this list from the paper and the list_combined
+
+
+Boundaries:
+
+This file is for defining the boundaries of complete rages. integrase is entered twice as a complete RAGE can either be bordered by 2 or these, or one of these and a dnaA.
+
+May want to permit domain containing protein type things in this region.

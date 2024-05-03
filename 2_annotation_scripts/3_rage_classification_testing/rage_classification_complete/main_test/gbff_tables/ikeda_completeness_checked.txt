@@ -1,0 +1,2189 @@
+NA	Hormone receptor domain-containing protein	ikeda_00005	456	4977	Yes
+virB4-2	virB4 protein precursor	ikeda_00010	4976	7430	Yes
+gapA	type I glyceraldehyde-3-phosphate dehydrogenase	ikeda_00015	7704	8721	No
+pgk	phosphoglycerate kinase	ikeda_00020	8801	10022	No
+NA	hypothetical protein	ikeda_00025	10035	10329	No
+proS	proline--tRNA ligase	ikeda_00030	10342	11644	No
+clpX	ATP-dependent Clp protease ATP-binding subunit ClpX	ikeda_00035	11871	13125	Yes
+efp	elongation factor P	ikeda_00040	13330	13900	No
+suhB	extragenic suppressor protein SuhB	ikeda_00045	13896	14682	No
+tsaB	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB	ikeda_00050	14701	15403	No
+NA	IS982 family transposase	ikeda_00055	15650	16271	No
+prfA	peptide chain release factor 1	ikeda_00060	16646	17726	No
+NA	Peptidylprolyl isomerase	ikeda_00065	17929	18949	No
+era	GTPase Era	ikeda_00070	18945	19866	No
+NA	hypothetical protein	ikeda_00075	20090	20216	Yes
+bamE	SmpA / OmlA family	ikeda_00080	20253	20619	Yes
+rpmF	50S ribosomal protein L32	ikeda_00085	20715	20922	No
+coxW	cytochrome c oxidase assembly protein	ikeda_00090	21204	21732	Yes
+hisJ	amino acid ABC transporter substrate-binding protein	ikeda_00095	22156	22960	No
+dapB	dihydrodipicolinate reductase	ikeda_00100	22966	23818	No
+sixA	phosphohistidine phosphatase	ikeda_00105	23899	24373	No
+uvrD	ATP-dependent DNA helicase UvrD	ikeda_00110	24385	27853	No
+gltP	dicarboxylate/amino acid:cation symporter	ikeda_00115	28030	29230	No
+pcnB	poly(A) polymerase	ikeda_00120	29282	30491	No
+znuA	zinc ABC transporter substrate-binding protein	ikeda_00125	30487	31384	No
+himA	Bacterial nucleoid DNA-binding protein IHF-alpha	ikeda_00135	31919	32228	No
+surA	Chaperone SurA	ikeda_00140	32410	33286	No
+rsmA	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase	ikeda_00145	33414	34236	No
+rmuC	DNA recombination protein RmuC	ikeda_00150	34296	35646	No
+rseP	RIP metalloprotease RseP	ikeda_00155	35755	36817	No
+bamA	outer membrane protein assembly factor BamA	ikeda_00160	36829	39148	No
+NA	Thioredoxin	ikeda_00165	39170	39497	No
+NA	hypothetical protein	ikeda_00170	39745	39847	Yes
+rpmJ	50S ribosomal protein L36	ikeda_00175	40729	40855	No
+NA	Transposase	ikeda_00180	41918	42104	Yes
+NA	Transposase	ikeda_00185	42141	42270	Yes
+NA	Transposase	ikeda_00190	42281	42635	Yes
+NA	DDE transposase family protein	ikeda_00195	42603	42738	Yes
+NA	Conjugal transfer protein TraD	ikeda_00200	43562	43829	No
+NA	hypothetical protein	ikeda_00205	43975	44173	No
+NA	Ankyrin repeat-containing protein	ikeda_00210	44401	44929	No
+NA	Conjugal transfer protein TraC	ikeda_00215	44732	45440	Yes
+NA	hypothetical protein	ikeda_00220	45702	45885	Yes
+NA	Conjugal transfer protein	ikeda_00225	45884	46067	Yes
+NA	conjugative transfer protein	ikeda_00230	46096	46414	Yes
+traL	conjugal transfer protein traL, complete TraL	ikeda_00235	46413	46737	Yes
+xerD	Site-specific recombinase XerD	ikeda_00240	46874	47690	Yes
+NA	Integrase	ikeda_00245	47810	47921	Yes
+NA	Integrase	ikeda_00250	47923	48100	Yes
+NA	DnaA-N domain-containing protein	ikeda_00255	49072	50392	No
+NA	Replicative DNA helicase	ikeda_00260	50400	50523	No
+lacA	ribose-5-phosphate isomerase	ikeda_00265	51564	52014	Yes
+NA	hypothetical protein	ikeda_00270	52307	52841	Yes
+NA	Conjugal transfer TraD family protein	ikeda_00275	53181	53334	Yes
+NA	Conjugal transfer protein TraE	ikeda_00280	54266	54431	No
+NA	Putative conjugative transfer protein TraE	ikeda_00285	54396	54558	No
+NA	hypothetical protein	ikeda_00290	54554	54710	No
+aNKYR	Ankyrin repeat-containing protein 01_02	ikeda_00295	54829	55864	Yes
+NA	Putative conjugative transfer protein TraU	ikeda_00300	56141	56423	No
+NA	IS110-like element ISOt5 family transposase	ikeda_00305	56556	57519	Yes
+NA	Putative transposase	ikeda_00310	57747	58197	No
+traD	conjugal transfer protein TraD	ikeda_00315	58206	59772	Yes
+NA	Conjugal transfer protein TraH	ikeda_00320	59779	60010	Yes
+NA	Conjugal transfer protein TraH	ikeda_00325	59963	60857	Yes
+NA	conjugal transfer protein TraN	ikeda_00330	61028	61214	Yes
+NA	Conjugal transfer protein TraN	ikeda_00335	61250	61664	Yes
+NA	conjugal transfer protein	ikeda_00340	61695	61962	Yes
+NA	Conjugative transfer protein	ikeda_00345	62165	62372	Yes
+traL	conjugal transfer protein traL	ikeda_00350	62400	62694	Yes
+xerD	integrase	ikeda_00355	62758	63145	Yes
+NA	IS110-like element ISOt5 family transposase	ikeda_00360	63417	64380	No
+NA	Putative integrase	ikeda_00365	64395	64980	Yes
+NA	Integrase	ikeda_00370	64995	65238	Yes
+NA	Ankyrin repeat family protein	ikeda_00375	65374	65653	No
+NA	hypothetical protein	ikeda_00380	65807	65924	No
+NA	hypothetical protein	ikeda_00385	65913	66075	No
+NA	IS5 family transposase ISOt6	ikeda_00390	66304	66679	Yes
+NA	Transposase	ikeda_00395	66690	66960	Yes
+NA	hypothetical protein	ikeda_00400	67178	67391	Yes
+NA	DUF3857 domain-containing protein	ikeda_00405	68776	70705	Yes
+NA	DUF3857 domain-containing protein	ikeda_00410	70750	72649	Yes
+rhaT	membrane protein	ikeda_00415	72797	73718	No
+radA	DNA repair protein RadA	ikeda_00420	73755	75111	Yes
+rsmD	16S rRNA (guanine(966)-N(2))-methyltransferase RsmD	ikeda_00425	75110	75680	Yes
+fabZ	beta-hydroxyacyl-ACP dehydratase	ikeda_00430	75698	76184	Yes
+surf1	surfeit locus protein 1	ikeda_00435	76422	77145	No
+NA	conjugal transfer protein	ikeda_00440	77139	77610	Yes
+xerD	site-specific tyrosine recombinase XerD	ikeda_00445	77940	78870	Yes
+tolC	TolC family protein	ikeda_00455	79226	80600	No
+popZ	Cell pole-organizing protein PopZ	ikeda_00460	80650	81217	No
+NA	hypothetical protein	ikeda_00465	81218	83075	No
+trmD	tRNA (guanine(37)-N(1))-methyltransferase	ikeda_00470	83122	83878	No
+rplS	50S ribosomal protein L19	ikeda_00475	83874	84249	No
+recD	ATP-dependent RecD-like DNA helicase	ikeda_00480	84275	86471	No
+ilvE	branched chain amino acid aminotransferase	ikeda_00485	87474	88377	No
+dapA	4-hydroxy-tetrahydrodipicolinate synthase	ikeda_00490	88369	89254	No
+smpB	SsrA-binding protein SmpB	ikeda_00495	89256	89718	No
+sppA	signal peptide peptidase SppA	ikeda_00500	89737	90646	No
+lipA	lipoyl synthase	ikeda_00505	90656	91565	No
+yfjG	ubiquinone-binding protein	ikeda_00510	91585	92032	No
+purC	Phosphoribosylaminoimidazole-succinocarboxamide synthase	ikeda_00515	92015	92750	No
+NA	Putative integrase	ikeda_00520	93888	94233	No
+NA	Putative integrase	ikeda_00525	94442	94784	No
+NA	Integrase	ikeda_00530	94735	94984	No
+NA	IS630 family transposase	ikeda_00535	95454	95604	No
+NA	Conjugal transfer protein TraE	ikeda_00540	95603	95747	No
+NA	Conjugal transfer protein TraE	ikeda_00545	95830	96157	No
+NA	hypothetical protein	ikeda_00550	96153	96456	No
+NA	hypothetical protein	ikeda_00555	96455	96560	No
+NA	Putative conjugative transfer protein TraB	ikeda_00560	96659	96899	No
+NA	Conjugal transfer protein	ikeda_00565	96861	97131	No
+traV	conjugal transfer protein TraV, complete TraV	ikeda_00570	97130	97460	No
+traC	conjugal transfer protein TraC	ikeda_00575	97440	99453	No
+virB4	conjugal transfer protein	ikeda_00580	99651	99930	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	ikeda_00585	99926	100586	No
+NA	hypothetical protein	ikeda_00590	100671	100875	No
+traU	conjugal transfer protein TraU, complete TraU	ikeda_00595	100908	101853	No
+NA	IS110-like element ISOt5 family transposase	ikeda_00600	102147	103110	No
+traG	conjugal transfer protein TraG	ikeda_00605	103374	103818	No
+NA	TPR repeat-containing protein 01_01	ikeda_00610	104005	104392	No
+NA	TPR repeat-containing protein 01_02	ikeda_00615	104423	104681	No
+NA	Conjugal transfer protein TraD	ikeda_00620	104716	105031	No
+NA	Conjugal transfer protein TraD	ikeda_00625	105091	105421	No
+NA	hypothetical protein	ikeda_00630	106105	108577	No
+NA	IS5 family transposase ISOt6	ikeda_00635	108696	108825	Yes
+tnp-IS630	IS630 family transposase	ikeda_00640	109257	110124	No
+NA	Transposase	ikeda_00645	110124	110466	No
+NA	Transposase	ikeda_00650	110419	110794	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	ikeda_00655	111172	112264	No
+NA	transposase	ikeda_00660	112273	113257	Yes
+NA	Conjugal transfer protein TraI	ikeda_00665	113308	114379	Yes
+traA	conjugal transfer protein TraA	ikeda_00670	114709	116458	Yes
+NA	Conjugal transfer protein TraA	ikeda_00675	116499	116958	Yes
+traD	conjugal transfer protein TraD, complete TraD	ikeda_00680	117166	117622	No
+NA	hypothetical protein	ikeda_00685	117705	117849	No
+tPR	TPR repeat-containing protein 02_01	ikeda_00690	117945	118230	No
+NA	Transposase	ikeda_00695	118733	118853	Yes
+putP	sodium:proline symporter	ikeda_00700	119301	122739	No
+NA	Transposase DDE domain protein	ikeda_00705	123210	123285	Yes
+NA	IS5 family transposase ISOt6	ikeda_00710	123266	123413	Yes
+NA	Transposase	ikeda_00715	123416	123773	Yes
+NA	transposase	ikeda_00720	123908	124847	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_00725	124968	125556	Yes
+baeS	ATP-binding protein	ikeda_00730	125597	126092	Yes
+NA	ATP-binding protein	ikeda_00735	126110	127049	Yes
+baeS	sensor histidine kinase	ikeda_00740	127071	127545	Yes
+NA	hypothetical protein	ikeda_00745	127586	127868	Yes
+baeS	histidine kinase	ikeda_00750	127996	128287	Yes
+ykfC	reverse transcriptase	ikeda_00755	128797	129937	No
+NA	hypothetical protein	ikeda_00760	130209	130326	Yes
+NA	conjugal transfer protein TraN	ikeda_00765	130359	130545	Yes
+NA	Conjugal transfer protein TraN	ikeda_00770	130581	130995	Yes
+traU	conjugal transfer protein TraU, complete TraU	ikeda_00775	131026	131971	Yes
+traW	type-F conjugative transfer system protein TraW, complete TraW	ikeda_00780	132008	132623	Yes
+NA	hypothetical protein	ikeda_00785	132922	134014	Yes
+virB4	Type IV secretory pathway, VirB4 component	ikeda_00790	134166	136143	Yes
+traV	conjugal transfer protein TraV, complete TraV	ikeda_00795	136123	136453	Yes
+NA	Conjugal transfer protein	ikeda_00800	136452	136635	Yes
+NA	conjugative transfer protein	ikeda_00805	136664	136982	Yes
+NA	IS630 family transposase	ikeda_00810	136981	137131	Yes
+ykfC	reverse transcriptase	ikeda_00815	137624	138764	Yes
+NA	hypothetical protein	ikeda_00820	139366	139624	No
+NA	DDE-3 domain-containing protein	ikeda_00825	139682	139856	Yes
+NA	IS630 family transposase	ikeda_00830	139861	139987	Yes
+NA	Transposase family protein	ikeda_00835	140148	140514	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_00840	140644	141232	No
+NA	hypothetical protein	ikeda_00845	141353	141914	No
+NA	hypothetical protein	ikeda_00850	142208	142424	Yes
+NA	hypothetical protein	ikeda_00855	142834	143611	Yes
+NA	Transposase	ikeda_00860	143833	144046	Yes
+NA	Membrane protein	ikeda_00865	144026	144209	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ikeda_00870	144256	144901	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_00875	144938	145490	Yes
+NA	hypothetical protein	ikeda_00880	145503	145665	No
+dnaB	Replicative DNA helicase	ikeda_00885	145726	146059	Yes
+NA	DnaA N-terminal domain protein	ikeda_00890	146122	146965	Yes
+NA	hypothetical protein	ikeda_00895	147093	147789	Yes
+NA	IS982 family transposase	ikeda_00900	147940	148498	No
+NA	hypothetical protein	ikeda_00905	149563	149680	No
+NA	Transposase	ikeda_00910	149691	149934	No
+NA	Transposase	ikeda_00915	149937	150066	No
+NA	hypothetical protein	ikeda_00920	150403	151798	No
+kdpD	hybrid sensor histidine kinase/response regulator	ikeda_00925	152845	156073	No
+NA	DDE transposase family protein	ikeda_00930	156254	156527	No
+NA	Transposase	ikeda_00935	156677	156848	No
+trpS	tryptophan--tRNA ligase	ikeda_00940	158056	159064	No
+NA	(P)pGpp hydrolase	ikeda_00945	159628	159769	Yes
+dnaB	replicative DNA helicase	ikeda_00950	160183	161632	Yes
+NA	DnaA-N domain-containing protein	ikeda_00955	161640	162174	Yes
+NA	Reverse transcriptase	ikeda_00960	163020	163200	No
+NA	hypothetical protein	ikeda_00965	164257	164770	Yes
+bamD	outer membrane protein assembly factor BamD	ikeda_00970	166061	166856	Yes
+lspA	Lipoprotein signal peptidase	ikeda_00980	167150	167657	No
+NA	Conjugal transfer protein TraA	ikeda_00985	168480	168759	No
+NA	Putative conjugative transfer protein TraA	ikeda_00990	168768	170226	No
+NA	Conjugal transfer protein TraA	ikeda_00995	170282	171038	No
+NA	Putative conjugative transfer protein TraI	ikeda_01000	171301	171772	No
+NA	Conjugal transfer protein TraI	ikeda_01005	171800	172121	No
+NA	Putative conjugative transfer protein TraI	ikeda_01010	172101	172485	No
+NA	Putative conjugative transfer protein TraA	ikeda_01015	172508	173597	Yes
+traD	conjugal transfer protein TraD, complete TraD	ikeda_01020	173875	174331	No
+xthA2	exodeoxyribonuclease III	ikeda_01025	174372	175158	Yes
+NA	(P)ppGpp synthetase	ikeda_01030	175447	175546	Yes
+NA	hypothetical protein	ikeda_01035	175771	177715	Yes
+NA	Transposase	ikeda_01040	178714	179137	No
+NA	Repeat-containing protein A_01	ikeda_01045	179468	181364	No
+NA	hypothetical protein	ikeda_01050	181303	181444	Yes
+dnaB	Replicative DNA helicase	ikeda_01055	181489	181771	Yes
+NA	Transposase	ikeda_01060	181907	182132	Yes
+NA	IS982 family transposase	ikeda_01065	182338	183085	No
+NA	hypothetical protein	ikeda_01070	183427	184003	Yes
+traD	conjugal transfer protein TraD, complete TraD	ikeda_01075	184091	184547	Yes
+NA	Putative conjugative transfer protein TraA	ikeda_01080	184824	184944	No
+traA	conjugal transfer protein TraA	ikeda_01085	184998	187659	No
+NA	Conjugal transfer protein TraI	ikeda_01090	187989	189060	No
+rpnC	transposase	ikeda_01095	189111	189672	No
+NA	IS110-like element ISOt5 family transposase	ikeda_01100	189687	190650	Yes
+xerD	integrase	ikeda_01105	190922	191309	No
+traL	conjugal transfer protein traL	ikeda_01110	191373	191667	No
+NA	Conjugative transfer protein	ikeda_01115	191695	191902	No
+NA	conjugal transfer protein	ikeda_01120	192105	192372	No
+NA	Conjugal transfer protein TraN	ikeda_01125	192403	192817	No
+NA	conjugal transfer protein TraN	ikeda_01130	192853	193039	No
+NA	Conjugal transfer protein TraH	ikeda_01135	193210	194104	No
+NA	Conjugal transfer protein TraH	ikeda_01140	194057	194288	No
+NA	Conjugal transfer protein TraD	ikeda_01145	194295	194613	No
+NA	Putative conjugative transfer protein TraD	ikeda_01150	194601	195093	Yes
+NA	Conjugal transfer protein	ikeda_01155	195142	195601	Yes
+traG	conjugal transfer protein TraG	ikeda_01160	195606	196806	Yes
+NA	IS110-like element ISOt5 family transposase	ikeda_01165	196888	197851	Yes
+traG	conjugal transfer protein TraG	ikeda_01170	198027	198363	Yes
+NA	Conjugal transfer protein TraH	ikeda_01175	198362	198818	Yes
+NA	Putative conjugative transfer protein TraH	ikeda_01180	198771	199437	Yes
+NA	Putative conjugative transfer protein TraH	ikeda_01185	199518	199665	Yes
+traF	conjugal transfer protein TraF, complete TraF	ikeda_01190	199661	200384	Yes
+aNKYR	Ankyrin repeat protein with 6 ankyrin repeats	ikeda_01195	200587	201766	Yes
+traN	conjugal transfer protein TraN, complete TraN	ikeda_01200	201922	203614	Yes
+NA	Conjugative transfer protein	ikeda_01205	203610	203892	Yes
+NA	Conjugal transfer protein	ikeda_01210	204015	204693	Yes
+NA	Ankyrin repeat-containing protein 01_02	ikeda_01215	205069	206104	No
+virB4	conjugal transfer protein TraC	ikeda_01220	206017	207805	Yes
+traV	conjugal transfer protein TraV, complete TraV	ikeda_01225	207785	208115	Yes
+NA	Conjugal transfer protein	ikeda_01230	208114	208384	Yes
+NA	Putative conjugative transfer protein TraB	ikeda_01235	208346	209165	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	ikeda_01240	209483	209813	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	ikeda_01245	210177	210654	Yes
+traE	conjugal transfer protein TraE, complete TraE	ikeda_01250	210650	211202	Yes
+traL	conjugal transfer protein traL, complete TraL	ikeda_01255	211201	211525	Yes
+NA	Putative integrase	ikeda_01260	211860	212070	Yes
+NA	Putative integrase	ikeda_01265	212021	212912	Yes
+traV	conjugal transfer protein TraV	ikeda_01270	213348	213648	No
+virB4	conjugal transfer protein TraC	ikeda_01275	213628	215431	No
+aNKYR	Ankyrin repeat-containing protein 01_02	ikeda_01280	215329	216340	Yes
+NA	Putative conjugative transfer protein TraU	ikeda_01285	216509	217082	No
+NA	Putative membrane protein	ikeda_01290	217104	217209	No
+NA	Type-F conjugative transfer system pilin assembly family protein	ikeda_01295	217205	217487	No
+NA	Putative conjugative transfer protein TraN	ikeda_01300	217483	218251	No
+NA	Conjugative transfer protein	ikeda_01305	218539	219172	No
+NA	SycD/LcrH family type III secretion system chaperone	ikeda_01310	219423	220932	No
+gepA	DUF4065 domain-containing protein	ikeda_01315	221042	221489	No
+NA	hypothetical protein	ikeda_01320	221584	221719	No
+traF	conjugal transfer protein TraF	ikeda_01325	221765	222332	No
+NA	Transposase	ikeda_01330	222611	222809	Yes
+NA	Putative ompA-like autotransporter	ikeda_01335	223064	223721	Yes
+NA	Ankyrin repeat-containing protein 03_02	ikeda_01340	223717	224077	Yes
+NA	ankyrin repeat domain-containing protein	ikeda_01345	224309	224588	Yes
+NA	hypothetical protein	ikeda_01350	224812	224941	Yes
+NA	hypothetical protein	ikeda_01355	224906	225371	Yes
+NA	DnaA-N domain-containing protein	ikeda_01360	225446	225680	Yes
+NA	hypothetical protein	ikeda_01365	225883	226087	Yes
+NA	hypothetical protein	ikeda_01370	226506	226629	Yes
+NA	Conjugal transfer protein	ikeda_01375	226845	227193	Yes
+NA	Reverse transcriptase	ikeda_01380	227303	227438	Yes
+ypwA	carboxypeptidase M32	ikeda_01385	228228	229719	No
+mgtE	magnesium transporter	ikeda_01390	229823	231188	Yes
+holB2	DNA polymerase III subunit delta	ikeda_01400	231376	232396	Yes
+leuS	leucine--tRNA ligase	ikeda_01405	232415	234935	Yes
+pcaH	intradiol ring-cleavage dioxygenase	ikeda_01410	235554	236286	Yes
+ppx	exopolyphosphatase	ikeda_01415	237769	239218	Yes
+NA	Transposase	ikeda_01420	240016	240409	Yes
+NA	Transposase	ikeda_01425	240565	240931	Yes
+NA	Ankyrin repeat-containing protein 07_01	ikeda_01430	241932	242373	Yes
+NA	DNA helicase	ikeda_01435	243250	243535	Yes
+dnaB	replicative DNA helicase	ikeda_01440	243524	244694	Yes
+NA	DnaA-N domain-containing protein	ikeda_01445	244702	246262	Yes
+NA	Replicative DNA helicase	ikeda_01450	246771	246975	Yes
+raiA	Ribosome-associated translation inhibitor RaiA	ikeda_01455	247712	248063	Yes
+baeS	Signal transduction histidine kinase	ikeda_01460	248346	249909	No
+NA	hypothetical protein	ikeda_01465	250028	250226	No
+dnaB	replicative DNA helicase	ikeda_01470	250659	252114	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ikeda_01475	252599	253769	Yes
+groES	Co-chaperonin GroES	ikeda_01480	254703	254988	No
+groEL	molecular chaperone GroEL	ikeda_01485	255060	256728	No
+acpS	holo-ACP synthase	ikeda_01490	258857	259253	Yes
+spoT	bifunctional (p)ppGpp synthase/hydrolase SpoT	ikeda_01495	259263	261399	Yes
+rpoZ	DNA-directed RNA polymerase subunit omega	ikeda_01500	261416	261803	Yes
+yccA	modulator of FtsH protease YccA	ikeda_01505	262152	262893	No
+NA	hypothetical protein	ikeda_01510	263052	263382	No
+nrfF	Cytochrome C biogenesis protein	ikeda_01515	263404	263782	No
+obgE	GTPase ObgE	ikeda_01520	263798	264791	No
+tatA	twin-arginine translocase TatA/TatE family subunit	ikeda_01525	265309	265468	No
+NA	hypothetical protein	ikeda_01530	265942	266467	Yes
+NA	DnaA-N domain-containing protein	ikeda_01535	267646	269206	No
+dnaB	replicative DNA helicase	ikeda_01540	269214	270600	No
+NA	hypothetical protein	ikeda_01545	270467	270995	Yes
+ykfC	reverse transcriptase	ikeda_01550	273263	274403	Yes
+NA	hypothetical protein	ikeda_01555	275083	275473	Yes
+ahpC	alkyl hydroperoxide reductase	ikeda_01560	276858	277461	No
+dprA	DNA-processing protein DprA	ikeda_01565	277503	278664	No
+NA	Transposase	ikeda_01570	279292	279730	No
+NA	DDE superendonuclease family protein	ikeda_01575	279741	279993	No
+dnaG	DNA primase	ikeda_01580	280343	282119	No
+rpoD	RNA polymerase sigma factor RpoD	ikeda_01585	282102	283950	No
+NA	hypothetical protein	ikeda_01590	284209	284668	No
+xerD	Site-specific recombinase XerD	ikeda_01595	284983	285757	No
+NA	integrase	ikeda_01600	285781	286228	No
+NA	reverse transcriptase	ikeda_01605	286831	287050	No
+NA	IS110-like element ISOt5 family transposase	ikeda_01610	287065	288028	Yes
+ykfC	reverse transcriptase	ikeda_01615	288280	289216	No
+NA	Membrane protein	ikeda_01620	289513	289603	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ikeda_01625	289649	290294	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_01630	290331	290727	Yes
+NA	SpoT-like ppGpp hydrolase domain protein	ikeda_01635	290738	290903	Yes
+dnaB	replicative DNA helicase	ikeda_01640	291137	292586	Yes
+NA	DnaA-N domain-containing protein	ikeda_01645	292594	293266	Yes
+NA	hypothetical protein	ikeda_01650	294022	294154	Yes
+NA	hypothetical protein	ikeda_01655	294316	294436	Yes
+cafA	ribonuclease E	ikeda_01660	294485	296513	Yes
+NA	RelA-SpoT domain-containing protein	ikeda_01665	297284	301553	No
+NA	hypothetical protein	ikeda_01670	302005	303985	No
+aceF	dihydrolipoamide acetyltransferase	ikeda_01675	304276	304579	No
+mreB	rod shape-determining protein	ikeda_01680	304679	305744	No
+mreC	rod shape-determining protein MreC	ikeda_01685	305750	306602	No
+aNKYR	Ankyrin repeat	ikeda_01690	307355	308624	No
+NA	DDE-3 domain-containing protein	ikeda_01695	309140	309386	Yes
+NA	hypothetical protein	ikeda_01700	310371	310566	No
+NA	hypothetical protein	ikeda_01705	310741	312502	Yes
+atoC	sigma-54-dependent Fis family transcriptional regulator	ikeda_01710	312609	314079	Yes
+NA	two-component sensor histidine kinase	ikeda_01715	314219	315797	Yes
+comEC	competence protein ComEC	ikeda_01725	316463	318512	Yes
+NA	hypothetical protein	ikeda_01730	318668	319436	Yes
+NA	hypothetical protein	ikeda_01735	320045	320183	No
+NA	DnaA-N domain-containing protein	ikeda_01740	320308	320842	No
+dnaB	Replicative DNA helicase	ikeda_01745	320850	321282	No
+NA	Integrase	ikeda_01750	321713	321956	No
+NA	Putative integrase	ikeda_01755	321971	322583	No
+xerD	integrase	ikeda_01760	322561	322948	No
+traL	conjugal transfer protein traL	ikeda_01765	323000	323306	No
+NA	Conjugative transfer protein	ikeda_01770	323334	323541	No
+NA	Conjugal transfer protein TraE	ikeda_01775	323585	323738	No
+NA	hypothetical protein	ikeda_01780	323734	324037	No
+NA	hypothetical protein	ikeda_01785	324036	324141	No
+NA	Conjugal transfer protein	ikeda_01790	324240	324714	No
+NA	DnaA-N domain-containing protein	ikeda_01795	324922	326638	No
+dnaB	replicative DNA helicase	ikeda_01800	326646	328083	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_01805	328496	328892	No
+NA	Ankyrin	ikeda_01810	328929	329046	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ikeda_01815	329026	329575	No
+NA	Putative ompA-like autotransporter	ikeda_01820	329594	330170	No
+dam	DNA methyltransferase	ikeda_01825	330173	330983	Yes
+NA	ATP-binding protein	ikeda_01830	331349	331628	No
+baeS	histidine kinase	ikeda_01835	331692	332394	No
+NA	hypothetical protein	ikeda_01840	332522	332804	No
+baeS	sensor histidine kinase	ikeda_01845	332845	333319	No
+NA	ATP-binding protein	ikeda_01850	333341	334280	No
+baeS	ATP-binding protein	ikeda_01855	334298	334793	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_01860	334834	335422	No
+NA	transposase	ikeda_01865	335543	336482	No
+NA	Transposase	ikeda_01870	336617	336974	No
+NA	IS5 family transposase ISOt6	ikeda_01875	336977	337124	No
+NA	Transposase DDE domain protein	ikeda_01880	337105	337180	No
+putP	sodium:proline symporter	ikeda_01885	337651	341089	Yes
+NA	Transposase	ikeda_01890	341537	341657	No
+NA	hypothetical protein	ikeda_01895	341900	342305	No
+NA	hypothetical protein	ikeda_01900	342610	343762	No
+tPR	TPR repeat-containing protein 02_01	ikeda_01905	344341	344623	Yes
+traD	conjugal transfer protein TraD, complete TraD	ikeda_01910	344945	345401	Yes
+NA	Conjugal transfer protein TraA	ikeda_01915	345695	347006	No
+recD	ATPase/5’-3’ helicase helicase subunit RecD of the DNA repair enzyme RecBCD (exonuclease V)	ikeda_01920	346977	347688	No
+traI	conjugal transfer protein TraI	ikeda_01925	347929	350077	No
+rpnC	transposase	ikeda_01930	350128	350689	No
+NA	IS110-like element ISOt5 family transposase	ikeda_01935	350704	351667	Yes
+traG	conjugal transfer protein TraG	ikeda_01940	351843	352179	Yes
+NA	Conjugal transfer protein TraH	ikeda_01945	352178	352658	Yes
+NA	Conjugative relaxosome accessory transposon family protein	ikeda_01950	352852	353482	Yes
+ykfC	reverse transcriptase	ikeda_01955	353893	355033	Yes
+NA	Putative ompA-like autotransporter	ikeda_01960	355572	355854	No
+dam	DNA methyltransferase	ikeda_01965	355857	356670	Yes
+NA	hypothetical protein	ikeda_01970	357140	359009	Yes
+baeS	sensor histidine kinase	ikeda_01975	359694	360441	No
+NA	hypothetical protein	ikeda_01980	360445	360844	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_01985	360864	361443	No
+NA	Transposase family protein	ikeda_01990	361535	361874	No
+tnp-IS630	IS630 family transposase	ikeda_01995	361867	362374	No
+NA	transposase	ikeda_02000	362528	363467	No
+traD	conjugal transfer protein TraD, complete TraD	ikeda_02005	363534	363990	Yes
+NA	Conjugal transfer protein TraA	ikeda_02010	364268	365585	No
+NA	AAA domain protein	ikeda_02015	365569	366280	No
+NA	Conjugal transfer protein TraA	ikeda_02020	366336	367119	No
+NA	Putative conjugative transfer protein TraI	ikeda_02025	367384	367942	No
+NA	Reverse transcriptase family protein	ikeda_02030	368239	368839	Yes
+NA	Reverse transcriptase	ikeda_02035	368843	369377	Yes
+NA	hypothetical protein	ikeda_02040	369980	370457	No
+NA	hypothetical protein	ikeda_02045	370839	371649	No
+NA	hypothetical protein	ikeda_02050	372103	372376	No
+gatB	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferasesubunit B	ikeda_02055	372385	373846	Yes
+gatA	glutamyl-tRNA(Gln) amidotransferase subunit A	ikeda_02060	373848	375327	Yes
+gatC	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferasesubunit C	ikeda_02065	375326	375626	Yes
+rnjA	RNase J family beta-CASP ribonuclease	ikeda_02070	375708	377505	Yes
+ctrA	DNA-binding response regulator	ikeda_02075	377559	378297	Yes
+NA	hypothetical protein	ikeda_02085	381286	381451	No
+NA	hypothetical protein	ikeda_02090	381447	381642	No
+NA	hypothetical protein	ikeda_02095	381993	382227	No
+NA	Conjugal transfer protein	ikeda_02100	382360	382633	No
+NA	IS110 family transposase	ikeda_02105	383156	383270	No
+map	type I methionyl aminopeptidase	ikeda_02110	384837	385644	No
+tnp-IS630	IS630 family transposase	ikeda_02115	386340	386847	No
+NA	Transposase	ikeda_02120	386795	387056	Yes
+clpP	ATP-dependent Clp protease proteolytic subunit	ikeda_02125	387625	388246	No
+NA	HNH endonuclease	ikeda_02130	388995	389115	No
+NA	IS982 family transposase	ikeda_02135	389630	390506	No
+NA	Transposase	ikeda_02140	390571	390766	No
+NA	hypothetical protein	ikeda_02145	391150	391984	No
+ettA	energy-dependent translational throttle protein EttA	ikeda_02150	392118	393786	No
+NA	DUF2672 domain-containing protein	ikeda_02155	393818	394190	No
+ftsK	DNA translocase FtsK	ikeda_02160	394280	396569	No
+NA	IS110-like element ISOt5 family transposase	ikeda_02165	397185	398148	No
+NA	DDE superendonuclease family protein	ikeda_02170	398595	399036	Yes
+NA	Transposase	ikeda_02175	399227	399617	Yes
+atpF	ATP synthase subunit b	ikeda_02180	399979	400444	Yes
+atpF	ATP synthase subunit B	ikeda_02185	400456	400954	Yes
+atpE	ATP synthase subunit C	ikeda_02190	400961	401186	Yes
+atpB	ATP synthase subunit A	ikeda_02195	401241	401970	Yes
+vut1	queuosine precursor transporter	ikeda_02200	403316	403991	No
+NA	hypothetical protein	ikeda_02205	404383	404563	No
+ppdK	pyruvate, phosphate dikinase	ikeda_02210	405183	407889	Yes
+NA	hypothetical protein	ikeda_02215	409531	410122	No
+NA	hypothetical protein	ikeda_02220	410133	411795	No
+NA	(P)ppGpp synthetase	ikeda_02225	412020	412119	No
+xthA2	exodeoxyribonuclease III	ikeda_02230	412408	413194	No
+traD	conjugal transfer protein TraD, complete TraD	ikeda_02235	413235	413691	Yes
+NA	Conjugal transfer protein TraA	ikeda_02240	413969	415286	No
+NA	AAA domain protein	ikeda_02245	415270	415981	No
+NA	Conjugal transfer protein TraA	ikeda_02250	416037	416820	No
+aNKYR	Ankyrin repeat	ikeda_02255	416848	418504	Yes
+NA	Putative conjugative transfer protein TraI	ikeda_02260	418664	419783	No
+rpnC	transposase	ikeda_02265	419767	420832	No
+traD	conjugal transfer protein TraD, complete TraD	ikeda_02270	420841	422596	Yes
+NA	TPR repeat-containing protein 01_07	ikeda_02275	422601	423741	Yes
+traG	conjugal transfer protein TraG	ikeda_02280	423749	426077	Yes
+NA	IS110-like element ISOt5 family transposase	ikeda_02285	426159	427122	Yes
+traG	conjugal transfer protein TraG	ikeda_02290	427298	427634	Yes
+traH	conjugal transfer protein TraH, complete TraH	ikeda_02295	427633	428935	Yes
+traF	conjugal transfer protein TraF	ikeda_02300	429010	429622	Yes
+NA	Conjugal transfer protein TraN	ikeda_02305	429633	430833	Yes
+NA	Putative conjugative transfer protein TraN	ikeda_02310	430883	431324	Yes
+NA	Conjugative transfer protein	ikeda_02315	431320	431602	Yes
+NA	Conjugal transfer protein	ikeda_02320	431725	432403	Yes
+NA	Ankyrin repeat-containing protein 01_02	ikeda_02325	432779	433814	No
+NA	Conjugal transfer protein TraC	ikeda_02330	433727	434882	Yes
+traV	conjugal transfer protein TraV, complete TraV	ikeda_02335	434979	435300	Yes
+traB	conjugal transfer protein TraB, complete TraB	ikeda_02340	435299	436628	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	ikeda_02345	436670	437000	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	ikeda_02350	437144	437621	Yes
+NA	Conjugal transfer protein TraE	ikeda_02355	437617	437770	Yes
+NA	Conjugal transfer protein TraE	ikeda_02360	437750	438170	Yes
+traL	conjugal transfer protein traL, complete TraL	ikeda_02365	438169	438493	Yes
+NA	Putative integrase	ikeda_02370	438828	439200	Yes
+NA	Integrase	ikeda_02375	439452	439659	Yes
+NA	integrase	ikeda_02380	439612	440023	Yes
+NA	Transposase	ikeda_02385	440440	440800	Yes
+spo0J	chromosome partitioning protein	ikeda_02390	441093	441975	Yes
+parA	chromosome partitioning protein ParA	ikeda_02395	441986	442784	Yes
+rsmG	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG	ikeda_02400	442790	443387	Yes
+NA	hypothetical protein	ikeda_02405	443417	443552	No
+tatC	twin-arginine translocase subunit TatC	ikeda_02410	443532	444300	No
+serS	serine--tRNA ligase	ikeda_02415	444277	445567	No
+rsmI	16S rRNA (cytidine(1402)-2'-O)-methyltransferase	ikeda_02420	445568	446426	Yes
+tlc	ATP/ADP translocase	ikeda_02430	446792	448325	No
+mutS	DNA mismatch repair protein MutS	ikeda_02435	448377	451047	No
+secF	protein translocase subunit SecF	ikeda_02440	451125	452052	No
+NA	IS982 family transposase	ikeda_02445	452467	453070	Yes
+NA	hypothetical protein	ikeda_02450	453677	453878	Yes
+NA	Transposase	ikeda_02455	453981	454284	No
+prfB	peptide chain release factor RF-2	ikeda_02460	454470	454731	Yes
+menH	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxy late synthase MenH and related esterases, alpha/beta hydrolase fold	ikeda_02465	454855	455599	Yes
+NA	Putative spoT-like ppGpp hydrolase	ikeda_02470	456398	456536	Yes
+NA	RelA/SpoT-related protein	ikeda_02475	456540	456738	Yes
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	ikeda_02480	456804	456894	Yes
+baeS	sensor histidine kinase	ikeda_02485	456994	457852	Yes
+NA	ATP-binding protein	ikeda_02490	457873	458602	Yes
+NA	Repeat-containing protein B	ikeda_02495	459502	461008	No
+NA	hypothetical protein	ikeda_02500	461251	461428	Yes
+NA	Site-specific DNA-methyltransferase (adenine-specific)	ikeda_02505	462135	462768	No
+NA	hypothetical protein	ikeda_02510	462953	463997	Yes
+NA	hypothetical protein	ikeda_02515	464382	464580	Yes
+NA	hypothetical protein	ikeda_02520	464636	464849	Yes
+NA	Putative membrane protein	ikeda_02525	465537	465660	Yes
+NA	TPR repeat-containing protein 02_02	ikeda_02530	465723	465861	No
+NA	Conjugal transfer protein TraD	ikeda_02535	466225	466390	No
+NA	transposase	ikeda_02540	466556	467531	Yes
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	ikeda_02545	467847	468240	Yes
+NA	IS110-like element ISOt5 family transposase	ikeda_02550	468366	469329	Yes
+baeS	ATP-binding protein	ikeda_02555	469505	470021	Yes
+baeS	ATP-binding protein	ikeda_02560	470039	470474	Yes
+NA	hypothetical protein	ikeda_02565	470564	471056	Yes
+NA	ATP-binding protein	ikeda_02570	471131	471248	Yes
+kdpD	K+-sensing histidine kinase KdpD	ikeda_02575	471270	471939	Yes
+NA	Histidine kinase	ikeda_02580	471953	472223	Yes
+NA	(P)pGpp hydrolase	ikeda_02585	472459	472885	Yes
+dnaB	replicative DNA helicase	ikeda_02590	473118	474555	Yes
+cflA	Bcr/CflA family drug resistance efflux transporter	ikeda_02595	475773	476955	No
+NA	Transposase	ikeda_02600	477118	477361	Yes
+NA	hypothetical protein	ikeda_02605	478259	478433	No
+NA	Conjugal transfer protein	ikeda_02610	478923	479490	No
+ykfC	Retron-type reverse transcriptase	ikeda_02615	480119	480446	No
+NA	hypothetical protein	ikeda_02620	480606	481689	Yes
+NA	ankyrin repeat domain-containing protein	ikeda_02625	482166	482823	Yes
+scaC	ScaC autotransporter protein	ikeda_02635	484503	486066	Yes
+hipB	XRE family transcriptional regulator	ikeda_02640	486244	486484	No
+NA	hypothetical protein	ikeda_02645	486909	487176	Yes
+gtaD	phage portal protein	ikeda_02650	487194	488385	Yes
+NA	hypothetical protein	ikeda_02655	488518	490306	Yes
+NA	hypothetical protein	ikeda_02660	491051	491243	No
+NA	hypothetical protein	ikeda_02665	491474	491735	No
+NA	DnaA N-terminal domain protein	ikeda_02670	491713	492145	No
+dnaB	Replicative DNA helicase	ikeda_02675	492153	492633	No
+NA	Replicative DNA helicase	ikeda_02680	492798	493143	No
+NA	Replicative DNA helicase	ikeda_02685	493382	493586	No
+NA	Repeat-containing protein A_02	ikeda_02690	493674	494022	Yes
+tnp-IS630	IS630 family transposase	ikeda_02695	494587	494962	No
+NA	Transposase	ikeda_02700	494948	495083	No
+tnp-ISOt3	IS630 family ISOt3 transposase	ikeda_02705	495139	495514	No
+NA	IS630 family transposase	ikeda_02710	495500	496007	No
+NA	IS5 family transposase ISOt6	ikeda_02715	495955	496216	Yes
+NA	ATP-binding protein	ikeda_02720	496244	496400	Yes
+NA	DnaA-N domain-containing protein	ikeda_02725	496970	497747	No
+NA	Putative integrase	ikeda_02730	498154	499177	No
+ykfC	reverse transcriptase	ikeda_02735	500002	501142	No
+NA	IS630 family transposase	ikeda_02740	501635	501785	No
+NA	Conjugal transfer protein TraE	ikeda_02745	501784	501928	No
+NA	Conjugal transfer protein TraE	ikeda_02750	502011	502338	No
+NA	hypothetical protein	ikeda_02755	502334	502637	No
+NA	hypothetical protein	ikeda_02760	502636	502741	No
+NA	Putative conjugative transfer protein TraB	ikeda_02765	502840	503080	No
+NA	Conjugal transfer protein	ikeda_02770	503042	503312	No
+traV	conjugal transfer protein TraV, complete TraV	ikeda_02775	503311	503641	No
+virB4	conjugal transfer protein TraC	ikeda_02780	503621	505409	No
+NA	Ankyrin repeat-containing protein 01_02	ikeda_02785	505322	506357	Yes
+NA	Conjugal transfer protein	ikeda_02790	506733	507411	No
+NA	Conjugative transfer protein	ikeda_02795	507534	507816	No
+NA	Putative conjugative transfer protein TraN	ikeda_02800	507812	508253	No
+NA	Conjugal transfer protein TraN	ikeda_02805	508303	509503	No
+traF	conjugal transfer protein TraF	ikeda_02810	509514	510126	No
+traH	conjugal transfer protein TraH, complete TraH	ikeda_02815	510201	511503	No
+traG	conjugal transfer protein TraG	ikeda_02820	511502	511838	No
+NA	IS110-like element ISOt5 family transposase	ikeda_02825	512014	512977	No
+NA	Putative integrase	ikeda_02830	512992	513577	Yes
+NA	Integrase	ikeda_02835	513592	513835	Yes
+NA	ATP-binding protein	ikeda_02840	514266	514395	Yes
+pld	phospholipase D family protein	ikeda_02845	514490	515081	No
+NA	IS630 family transposase	ikeda_02850	515130	515349	Yes
+NA	Transposase	ikeda_02855	515567	515780	No
+NA	Transposase	ikeda_02860	516166	516367	No
+NA	Transposase	ikeda_02865	516560	516689	Yes
+NA	Transposase	ikeda_02870	516887	517385	Yes
+uvrD	ATP-dependent DNA helicase UvrD	ikeda_02875	517544	519695	No
+NA	IS982 family transposase	ikeda_02880	519686	520445	Yes
+NA	hypothetical protein	ikeda_02885	521270	521438	Yes
+csa3	transposase	ikeda_02890	521540	521894	Yes
+dsbG	protein-disulfide isomerase	ikeda_02895	522049	522880	Yes
+NA	hypothetical protein	ikeda_02900	523173	523344	Yes
+panF	sodium:pantothenate symporter	ikeda_02905	523698	525150	No
+polA	DNA polymerase I	ikeda_02910	525520	528253	No
+der	ribosome biogenesis GTPase Der	ikeda_02915	528318	529683	No
+NA	hypothetical protein	ikeda_02920	529691	530375	No
+zapE	cell division protein ZapE	ikeda_02925	530445	531519	No
+tmk	thymidylate kinase	ikeda_02930	531511	532165	No
+mnmG	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG	ikeda_02935	532309	534178	Yes
+NA	hypothetical protein	ikeda_02940	534817	536101	Yes
+NA	hypothetical protein	ikeda_02945	537148	537337	Yes
+rho	transcription termination factor Rho	ikeda_02950	538045	539551	Yes
+hemE	uroporphyrinogen decarboxylase	ikeda_02955	541039	542068	No
+hemH	ferrochelatase	ikeda_02960	542060	543095	No
+hemJ	Uncharacterised protein family (UPF0093)	ikeda_02965	543103	543538	No
+NA	Reverse transcriptase	ikeda_02970	543956	544184	No
+NA	Reverse transcriptase	ikeda_02975	544802	544940	Yes
+NA	hypothetical protein	ikeda_02980	545124	545277	Yes
+NA	hypothetical protein	ikeda_02985	545602	545800	No
+NA	hypothetical protein	ikeda_02990	545830	546076	No
+NA	Conjugal transfer protein TraI	ikeda_02995	545994	546240	Yes
+NA	putative ATPase	ikeda_03000	546373	546880	Yes
+NA	hypothetical protein	ikeda_03005	546940	547129	Yes
+NA	hypothetical protein	ikeda_03010	547405	547648	Yes
+NA	N-acetyltransferase domain-containing protein	ikeda_03015	547644	548034	Yes
+NA	Acetyltransferase (GNAT) family	ikeda_03020	548043	548562	Yes
+NA	hypothetical protein	ikeda_03025	548500	548656	Yes
+grpB	GrpB domain, putative nucleotidyltransferase, UPF0157 family	ikeda_03030	548652	550041	Yes
+NA	APH domain-containing protein	ikeda_03035	550047	550680	Yes
+rimI	GNAT family N-acetyltransferase	ikeda_03040	550679	551087	Yes
+ydeE	putative transcriptional regulator YdeE, contains AraC-type DNA-binding domain	ikeda_03045	551083	551581	Yes
+mdlB	ABC transporter permease	ikeda_03050	551715	553494	Yes
+fabG	3-ketoacyl-ACP reductase	ikeda_03055	553505	554243	Yes
+marR	MarR family transcriptional regulator	ikeda_03060	554389	554860	No
+rimL	Protein N-acetyltransferase, RimJ/RimL family	ikeda_03065	554856	555882	No
+mutT	DNA mismatch repair protein MutT	ikeda_03070	556451	556916	No
+NA	hypothetical protein	ikeda_03075	556912	557458	No
+ubiE	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE	ikeda_03080	557471	557888	No
+NA	hypothetical protein	ikeda_03085	558341	558728	No
+NA	APH domain-containing protein	ikeda_03090	558730	559207	No
+tnp-IS630	IS630 family transposase	ikeda_03095	559367	559706	Yes
+NA	IS630 family transposase	ikeda_03100	559782	560289	Yes
+tnp-ISOt3	IS630 family ISOt3 transposase	ikeda_03105	560275	560650	Yes
+NA	Methyltransf-25 domain-containing protein	ikeda_03110	560984	561500	No
+NA	hypothetical protein	ikeda_03115	561509	561737	No
+tspO	Tryptophan-rich sensory TspO/CrtK (mitochondrial benzodiazepine receptor-like protein)	ikeda_03120	561720	562200	No
+NA	Bacterial regulatory helix-turn-helix s, AraC family protein	ikeda_03125	562768	563122	No
+NA	putative ester cyclase	ikeda_03130	563266	563797	No
+dLH	dienelactone hydrolase	ikeda_03135	563875	564589	No
+strB	streptomycin-6-phosphotransferase	ikeda_03140	564557	565460	Yes
+NA	Conjugal transfer protein TraI	ikeda_03145	565894	567109	Yes
+NA	Conjugal transfer protein TraA	ikeda_03150	567375	568158	Yes
+NA	AAA domain protein	ikeda_03155	568214	568925	Yes
+NA	Conjugal transfer protein TraA	ikeda_03160	568909	570226	Yes
+traD	conjugal transfer protein TraD, complete TraD	ikeda_03165	570503	570959	No
+NA	transposase	ikeda_03170	571026	571953	Yes
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	ikeda_03175	572268	572661	Yes
+baeS	ATP-binding protein	ikeda_03180	572702	573197	Yes
+baeS	ATP-binding protein	ikeda_03185	573215	573647	Yes
+NA	ATP-binding protein	ikeda_03190	573737	574148	Yes
+baeS	sensor histidine kinase	ikeda_03195	574155	574644	Yes
+NA	ATP-binding protein	ikeda_03200	574833	575085	Yes
+NA	hypothetical protein	ikeda_03205	575192	575318	No
+NA	hypothetical protein	ikeda_03210	575307	575862	No
+NA	hypothetical protein	ikeda_03215	576003	576777	No
+dnaB	Replicative DNA helicase	ikeda_03220	576929	577952	Yes
+NA	DnaA-N domain-containing protein	ikeda_03225	577960	579676	Yes
+NA	Transposase	ikeda_03230	580141	580534	No
+NA	Transposase	ikeda_03235	580556	580787	No
+NA	Transposase	ikeda_03240	580740	581037	No
+fdx	(2Fe-2S) ferredoxin	ikeda_03245	581414	581759	Yes
+hscA	molecular chaperone HscA	ikeda_03250	581775	583629	Yes
+hscB	co-chaperone HscB	ikeda_03255	583615	584119	Yes
+iscA	iron-sulfur cluster assembly accessory protein	ikeda_03260	584131	584506	Yes
+iscU	Fe-S cluster assembly scaffold IscU	ikeda_03265	584515	584941	Yes
+sufS	cysteine desulfurase	ikeda_03270	584980	586252	Yes
+nifS	aminotransferase class V-fold PLP-dependent enzyme	ikeda_03275	586266	587553	Yes
+iscR	[Fe-S]-binding protein	ikeda_03280	587564	587978	Yes
+NA	alpha/beta hydrolase	ikeda_03285	588214	588916	No
+ftsA	cell division protein FtsA	ikeda_03295	589209	590457	No
+NA	hypothetical protein	ikeda_03300	590435	591746	No
+bcsA	glycosyl transferase	ikeda_03305	591730	593482	No
+NA	hypothetical protein	ikeda_03310	593581	593689	No
+NA	Transposase	ikeda_03315	593881	594367	No
+NA	Conjugative transfer protein	ikeda_03320	594666	594843	Yes
+mdh	malate dehydrogenase	ikeda_03325	595504	596806	Yes
+yfdV	permease	ikeda_03330	596825	597752	Yes
+NA	hypothetical protein	ikeda_03335	598060	598660	No
+gltA	citrate synthase	ikeda_03340	598788	599100	No
+NA	IS982 family transposase	ikeda_03345	599096	599852	Yes
+NA	Transposase	ikeda_03350	599965	600172	Yes
+atpC	ATP synthase subunit epsilon	ikeda_03355	600209	600614	Yes
+atpB	ATP synthase subunit beta	ikeda_03360	600610	602047	Yes
+capM	capsule biosynthesis protein CapM	ikeda_03365	602392	603532	Yes
+menH	alpha/beta hydrolase	ikeda_03370	603567	604335	No
+mltE	murein transglycosylase	ikeda_03375	604731	606729	Yes
+fabD	ACP S-malonyltransferase	ikeda_03380	606770	607709	No
+NA	IS630 family transposase	ikeda_03385	608869	609424	Yes
+NA	Transposase	ikeda_03390	609447	609756	Yes
+NA	Putative reverse transcriptase	ikeda_03395	610227	610344	Yes
+NA	hypothetical protein	ikeda_03400	611321	611447	No
+pheS	phenylalanine--tRNA ligase subunit alpha	ikeda_03405	612351	613386	No
+pheT	phenylalanine--tRNA ligase subunit beta	ikeda_03410	613382	615824	No
+tsf	elongation factor Ts	ikeda_03415	615910	616840	Yes
+rpsB	30S ribosomal protein S2	ikeda_03420	616836	617715	Yes
+mipZ	ATPase MipZ family protein	ikeda_03425	618041	618893	Yes
+pepB	leucyl aminopeptidase	ikeda_03430	618876	620529	Yes
+NA	IS630 family transposase	ikeda_03435	620723	620870	Yes
+NA	Ankyrin repeat protein with 8 ankyrin repeats	ikeda_03440	621329	622814	Yes
+NA	IS5 family transposase ISOt6	ikeda_03445	623219	623348	Yes
+NA	Transposase	ikeda_03450	623608	623878	Yes
+NA	DDE superendonuclease family protein	ikeda_03455	623887	624046	Yes
+NA	IS110-like element ISOt5 family transposase	ikeda_03460	624374	625337	No
+yifB	AAA family ATPase	ikeda_03465	625824	627336	No
+leuS	leucine--tRNA ligase	ikeda_03470	627668	627932	No
+NA	RNA-binding protein	ikeda_03475	628175	628889	No
+NA	IS630 family transposase	ikeda_03480	628913	629420	Yes
+tnp-ISOt3	IS630 family ISOt3 transposase	ikeda_03485	629406	629781	Yes
+NA	Transposase	ikeda_03490	629837	629972	Yes
+tnp-IS630	IS630 family transposase	ikeda_03495	629958	630333	Yes
+NA	Transposase	ikeda_03500	630545	630719	No
+NA	DDE superendonuclease family protein	ikeda_03505	630672	631047	No
+rbfA	ribosome-binding factor A	ikeda_03510	631069	631432	Yes
+infB	translation initiation factor IF-2	ikeda_03515	631462	634003	Yes
+nusA	transcription termination/antitermination protein NusA	ikeda_03520	634252	635755	Yes
+rimP	Ribosome maturation factor RimP	ikeda_03525	635773	636256	Yes
+coq7	ubiquinone biosynthesis protein	ikeda_03530	636793	637567	No
+ubiB	ubiquinone biosynthesis protein UbiB	ikeda_03535	637563	638952	No
+NA	Transposase	ikeda_03540	639033	639528	No
+NA	DDE superendonuclease family protein	ikeda_03545	639481	639856	No
+NA	Transposase	ikeda_03550	640147	640258	No
+NA	Tetratricopeptide and ankyrin rep with 1 trp repeats	ikeda_03555	641859	644685	No
+NA	IS982 family transposase	ikeda_03560	645408	646014	Yes
+NA	hypothetical protein	ikeda_03565	647783	647882	No
+NA	Transposase	ikeda_03570	647960	648104	No
+ccmF	cytochrome C biogenesis protein	ikeda_03575	648275	650138	Yes
+mgtE	magnesium transporter	ikeda_03580	650127	651396	Yes
+NA	hypothetical protein	ikeda_03585	652656	652827	No
+sodB	superoxide dismutase	ikeda_03590	652926	653568	No
+sucA	2-oxoglutarate dehydrogenase E1 component	ikeda_03595	653608	656500	No
+sucB	dihydrolipoamide succinyltransferase	ikeda_03600	656499	657777	No
+NA	hypothetical protein	ikeda_03605	657782	659261	No
+NA	MFS transporter	ikeda_03610	659553	660855	No
+yraN	Uncharacterised protein family UPF0102	ikeda_03615	660921	661260	No
+coxC	cytochrome c oxidase subunit III	ikeda_03620	661648	662473	Yes
+ruvB	Holliday junction branch migration DNA helicase RuvB	ikeda_03625	662654	663632	Yes
+ruvA	Holliday junction branch migration protein RuvA	ikeda_03630	663631	664249	Yes
+NA	hypothetical protein	ikeda_03635	664492	666634	Yes
+NA	hypothetical protein	ikeda_03640	666681	666864	No
+araJ	MFS transporter	ikeda_03645	667001	668207	Yes
+NA	IS630 family transposase	ikeda_03650	668848	669019	No
+NA	IS110-like element ISOt5 family transposase	ikeda_03655	669034	669997	Yes
+NA	hypothetical protein	ikeda_03660	670225	670507	No
+putP	sodium:proline symporter	ikeda_03665	670925	674363	No
+NA	Transposase	ikeda_03670	674301	674526	No
+NA	Putative integrase	ikeda_03675	674984	676007	No
+ykfC	reverse transcriptase	ikeda_03680	676831	677971	No
+NA	IS630 family transposase	ikeda_03685	678463	678613	No
+NA	conjugative transfer protein	ikeda_03690	678612	678930	No
+NA	Conjugal transfer protein	ikeda_03695	678959	679142	No
+traV	conjugal transfer protein TraV, complete TraV	ikeda_03700	679141	679471	No
+NA	Conjugative transfer protein TraC	ikeda_03705	679451	680177	No
+virB4	Type IV secretory pathway, VirB4 component	ikeda_03710	680268	680430	No
+NA	Conjugal transfer protein TraC	ikeda_03715	680501	681497	No
+NA	Conjugal transfer protein TraN	ikeda_03720	681562	682765	No
+NA	IS110-like element ISOt5 family transposase	ikeda_03725	682780	683743	Yes
+NA	Conjugal transfer protein TraN	ikeda_03730	684079	684274	No
+NA	Tetratricopeptide repeat protein with 5 trp repeats	ikeda_03735	684527	685319	No
+gepA	DUF4065 domain-containing protein	ikeda_03740	685428	686022	No
+NA	IS110-like element ISOt5 family transposase	ikeda_03745	686198	687161	No
+rpnC	transposase	ikeda_03750	687176	687737	Yes
+NA	Putative conjugative transfer protein TraI	ikeda_03755	687788	688907	Yes
+NA	Putative conjugative transfer protein TraA	ikeda_03760	689190	689598	Yes
+tnp-IS630	IS630 family transposase	ikeda_03765	689621	689966	No
+NA	IS630 family transposase	ikeda_03770	689952	690459	No
+NA	Putative conjugative transfer protein TraA	ikeda_03775	690472	690913	Yes
+traA	conjugal transfer protein TraA	ikeda_03780	690969	692982	Yes
+traD	conjugal transfer protein TraD, complete TraD	ikeda_03785	693259	693715	No
+NA	hypothetical protein	ikeda_03790	693808	694345	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_03795	694371	694947	Yes
+baeS	sensor histidine kinase	ikeda_03800	695047	695905	Yes
+NA	Histidine kinase domain-containing protein	ikeda_03805	695926	696655	Yes
+dam	DNA methyltransferase	ikeda_03810	697028	697841	No
+NA	Putative ompA-like autotransporter	ikeda_03815	697844	698126	Yes
+ykfC	Retron-type reverse transcriptase	ikeda_03820	698665	699649	No
+lplB	lipoate-protein ligase B	ikeda_03825	700552	701179	Yes
+murD	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase	ikeda_03830	701261	702680	No
+ftsW	cell division protein FtsW	ikeda_03835	702686	703814	No
+murG	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase	ikeda_03840	703817	704897	No
+NA	reverse transcriptase	ikeda_03845	705399	705660	No
+NA	hypothetical protein	ikeda_03850	705786	705894	No
+NA	DDE superendonuclease family protein	ikeda_03855	706681	707056	Yes
+NA	DDE superendonuclease family protein	ikeda_03860	707067	707244	Yes
+NA	DDE superendonuclease family protein	ikeda_03865	707286	707424	Yes
+metL1	aspartate kinase	ikeda_03870	707777	708992	Yes
+NA	hypothetical protein	ikeda_03875	709271	709763	Yes
+kch	potassium transporter	ikeda_03880	709749	711492	Yes
+ygfA	5-formyltetrahydrofolate cyclo-ligase	ikeda_03885	711664	712237	No
+NA	Colicin V production protein	ikeda_03890	712233	712848	No
+NA	Conjugal transfer protein TraC	ikeda_03895	712812	712998	Yes
+NA	hypothetical protein	ikeda_03900	713041	713149	Yes
+NA	Putative conjugative transfer protein TraC	ikeda_03905	713133	713577	Yes
+NA	Transposase	ikeda_03910	713949	714363	No
+NA	Transposase	ikeda_03915	714644	714773	No
+cinA	competence-damaged protein CinA	ikeda_03920	714879	717465	No
+cinB	hypothetical protein (cinB)	ikeda_03925	717505	720010	No
+NA	Transposase	ikeda_03930	719989	720442	Yes
+NA	Transposase	ikeda_03935	720441	720717	Yes
+NA	Transposase DDE domain protein	ikeda_03940	720723	720948	No
+ctaA	Heme A synthase	ikeda_03945	721943	723023	No
+NA	conjugal transfer protein TraB	ikeda_03950	724089	724326	No
+NA	Conjugal transfer protein	ikeda_03955	724615	724732	No
+NA	Conjugal transfer protein	ikeda_03960	724834	724990	No
+rmd1	ribonuclease D	ikeda_03965	725337	726207	No
+NA	Conjugal transfer protein TraC	ikeda_03970	726886	727192	Yes
+traG	conjugal transfer protein TraG	ikeda_03975	727401	728103	Yes
+traU	conjugal transfer protein TraU, complete TraU	ikeda_03980	728134	729079	Yes
+NA	hypothetical protein	ikeda_03985	729112	729316	Yes
+traW	type-F conjugative transfer system protein TraW, complete TraW	ikeda_03990	729401	730061	Yes
+virB4	conjugal transfer protein	ikeda_03995	730057	730336	Yes
+traC	conjugal transfer protein TraC	ikeda_04000	730534	732547	Yes
+traV	conjugal transfer protein TraV, complete TraV	ikeda_04005	732527	732857	Yes
+NA	Conjugal transfer protein	ikeda_04010	732856	733126	Yes
+NA	Putative conjugative transfer protein TraB	ikeda_04015	733088	733328	Yes
+NA	hypothetical protein	ikeda_04020	733427	733532	Yes
+NA	hypothetical protein	ikeda_04025	733531	733834	Yes
+NA	Conjugal transfer protein TraE	ikeda_04030	733830	734157	Yes
+NA	Conjugal transfer protein TraE	ikeda_04035	734240	734384	Yes
+NA	IS630 family transposase	ikeda_04040	734383	734533	Yes
+NA	Integrase	ikeda_04045	735003	735252	Yes
+NA	Putative integrase	ikeda_04050	735203	735545	Yes
+NA	Putative integrase	ikeda_04055	735754	736099	Yes
+NA	Transposase	ikeda_04060	736515	736875	Yes
+tPR	Tetratricopeptide (TPR) repeat	ikeda_04065	736928	737246	No
+NA	hypothetical protein	ikeda_04070	737269	737368	Yes
+NA	Transposase	ikeda_04075	737371	737614	Yes
+NA	Transposase	ikeda_04080	737625	737982	Yes
+ung	uracil-DNA glycosylase	ikeda_04085	738291	739098	No
+potE	Serine transporter YbeC, amino acid:H+ symporter family	ikeda_04090	740779	742063	No
+NA	Repeat-containing protein C	ikeda_04095	742446	745827	Yes
+NA	Transposase	ikeda_04100	746259	746517	No
+qcrB,petB	cytochrome b	ikeda_04105	747252	748449	Yes
+petA	ubiquinol-cytochrome c reductase iron-sulfur subunit	ikeda_04110	748598	749264	Yes
+NA	DUF2670 domain-containing protein	ikeda_04115	749375	750515	Yes
+ccmB	heme exporter protein B	ikeda_04120	750668	751319	Yes
+ccmA	cytochrome c biogenesis protein CcmA	ikeda_04125	751315	751921	Yes
+NA	hypothetical protein	ikeda_04130	752141	752345	No
+NA	Aconitate hydratase	ikeda_04135	752292	752604	No
+acnA	Aconitate hydratase A	ikeda_04140	752751	753150	No
+NA	Transposase	ikeda_04145	753659	753785	No
+NA	Transposase	ikeda_04150	754165	754480	Yes
+NA	IS982 family transposase	ikeda_04155	754496	754922	Yes
+ssb	single-stranded DNA-binding protein	ikeda_04160	755293	755761	No
+NA	peptidase	ikeda_04165	755839	756700	No
+NA	Conjugal transfer protein TraE	ikeda_04170	757508	757721	Yes
+NA	hypothetical protein	ikeda_04175	757720	757981	Yes
+lepA	elongation factor 4	ikeda_04180	758289	760095	Yes
+prfA	peptide chain release factor 1	ikeda_04185	760486	761350	No
+NA	hypothetical protein	ikeda_04190	761671	763201	Yes
+NA	hypothetical protein	ikeda_04195	763443	764127	Yes
+NA	hypothetical protein	ikeda_04200	764457	764622	No
+hemB	porphobilinogen synthase	ikeda_04205	764842	765856	Yes
+tolQ	protein TolQ	ikeda_04210	766026	766716	No
+tolR	protein TolR	ikeda_04215	766721	767180	No
+NA	hypothetical protein	ikeda_04220	767166	768396	No
+nadK	NAD kinase	ikeda_04225	768494	769286	Yes
+tsaD	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD	ikeda_04230	769298	770333	Yes
+cdnL	CarD family transcriptional regulator	ikeda_04235	770356	770866	Yes
+dnaQ	DNA polymerase III subunit epsilon	ikeda_04240	771085	771754	Yes
+putP	sodium:proline symporter	ikeda_04245	772500	775938	No
+NA	Transposase	ikeda_04250	775876	776101	No
+xerD	Site-specific recombinase XerD	ikeda_04255	776682	777801	No
+traL	conjugal transfer protein traL, complete TraL	ikeda_04260	777938	778262	No
+NA	conjugative transfer protein	ikeda_04265	778261	778579	No
+NA	Conjugal transfer protein	ikeda_04270	778608	778791	No
+NA	hypothetical protein	ikeda_04275	778790	778973	No
+NA	Conjugal transfer protein TraC	ikeda_04280	779235	780261	No
+aNKYR	Ankyrin repeat-containing protein 01_02	ikeda_04285	780289	781279	Yes
+NA	Conjugal transfer protein	ikeda_04290	781433	781583	No
+NA	Conjugal transfer protein	ikeda_04295	781586	782243	No
+NA	Type-F conjugative transfer system pilin assembly protein TrbC	ikeda_04300	782368	782650	No
+NA	DnaA-N domain-containing protein	ikeda_04305	782937	783069	No
+NA	hypothetical protein	ikeda_04310	783402	783519	No
+NA	DnaA-N domain-containing protein	ikeda_04315	783757	784498	No
+dnaB	Replicative DNA helicase	ikeda_04320	784506	784986	No
+NA	Replicative DNA helicase	ikeda_04325	785151	785943	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_04330	786180	786756	No
+NA	hypothetical protein	ikeda_04335	786842	786953	Yes
+NA	hypothetical protein	ikeda_04340	786915	787101	Yes
+NA	hypothetical protein	ikeda_04345	787595	787775	No
+tnp-IS630	IS630 family transposase	ikeda_04350	787788	788295	Yes
+tnp-IS630	IS630 family transposase	ikeda_04355	788436	788625	Yes
+NA	Repeat-containing protein D	ikeda_04360	788810	790436	No
+rlpA	septal ring lytic transglycosylase RlpA family lipoprotein	ikeda_04365	791246	791912	Yes
+NA	Putative integrase	ikeda_04370	792602	792710	Yes
+mscC	mechanosensitive ion channel protein MscS	ikeda_04375	792963	793830	No
+tatD	DNA-binding protein	ikeda_04380	794493	795282	Yes
+metG	methionine--tRNA ligase	ikeda_04385	795293	796829	Yes
+priA	primosomal protein N'	ikeda_04390	797015	798956	No
+virB3	type VI secretion protein	ikeda_04395	799271	799559	No
+virB4-1	VirB4 family type IV secretion/conjugal transferATPase	ikeda_04400	799569	801987	No
+virB6-1	type VI secretion protein	ikeda_04405	801986	804434	No
+virB6-2	type VI secretion protein	ikeda_04410	804455	808343	No
+virB6-3	type VI secretion protein	ikeda_04415	808396	811669	No
+virB6-4	type VI secretion protein	ikeda_04420	811661	814226	No
+narK	MFS transporter	ikeda_04425	814262	815516	No
+mutL	DNA mismatch repair protein MutL	ikeda_04430	815543	817586	No
+gltX2	glutamate--tRNA ligase 2	ikeda_04435	817712	819113	No
+cysS	cysteine--tRNA ligase	ikeda_04440	819177	820614	No
+NA	Transposase	ikeda_04445	820761	820983	No
+NA	IS982 family transposase	ikeda_04450	821000	821603	No
+NA	Transposase	ikeda_04455	822267	822534	No
+NA	Transposase	ikeda_04460	822582	822801	No
+NA	DUF2659 domain-containing protein	ikeda_04465	822939	823617	No
+bamB	outer membrane protein assembly factor BamB	ikeda_04470	823676	825029	No
+NA	Transposase	ikeda_04475	825472	825595	Yes
+NA	Transposase	ikeda_04480	825629	825959	Yes
+rpmG	50S ribosomal protein L33	ikeda_04485	827026	827197	No
+rpsP	30S ribosomal protein S16	ikeda_04490	827205	827529	No
+NA	Transposase	ikeda_04500	829047	829281	No
+NA	DDE superendonuclease family protein	ikeda_04505	829369	829480	No
+NA	Transposase	ikeda_04510	829496	829694	No
+NA	hypothetical protein	ikeda_04515	830733	830829	No
+rplT	50S ribosomal protein L20	ikeda_04520	831454	831820	Yes
+rpmI	50S ribosomal protein L35	ikeda_04525	831839	832046	Yes
+htpG	molecular chaperone HtpG	ikeda_04530	832487	834380	No
+dapE	succinyl-diaminopimelate desuccinylase	ikeda_04535	834544	835711	No
+tig	trigger factor	ikeda_04545	835862	837332	No
+mdlB	multidrug resistance protein	ikeda_04550	837854	839525	Yes
+ompR	two-component system response regulator	ikeda_04555	839630	840380	Yes
+rpsF	30S ribosomal protein S6	ikeda_04560	840672	841029	No
+rpsR	30S ribosomal protein S18	ikeda_04565	841074	841383	No
+rplI	50S ribosomal protein L9	ikeda_04570	841425	841941	No
+tlcC	AAA family ATPase	ikeda_04575	842107	843583	No
+bcp	peroxiredoxin	ikeda_04580	844948	845419	Yes
+NA	Integrase	ikeda_04585	845427	845853	Yes
+NA	UN-NPL4 domain-containing protein	ikeda_04590	845908	846127	Yes
+NA	Transposase	ikeda_04595	846649	847210	No
+NA	Transposase	ikeda_04600	847797	847980	No
+NA	DUF2748 domain-containing protein	ikeda_04615	849422	850766	No
+mnmA	tRNA 2-thiouridine(34) synthase MnmA	ikeda_04620	850999	852109	Yes
+NA	Propionyl-CoA carboxylase beta chain	ikeda_04625	852356	852449	No
+NA	Propionyl-CoA carboxylase beta chain	ikeda_04630	852467	852659	No
+NA	Propionyl-CoA carboxylase beta chain	ikeda_04635	852800	852944	No
+NA	Propionyl-CoA carboxylase beta chain	ikeda_04640	853454	853736	No
+NA	ATP-binding protein	ikeda_04645	853788	854004	No
+NA	ATP-binding protein	ikeda_04650	854162	854459	No
+NA	Hydrolase	ikeda_04655	854515	854689	No
+NA	Transposase	ikeda_04660	855460	855754	Yes
+tnp-IS630	IS630 family transposase	ikeda_04665	855813	856188	No
+NA	Transposase	ikeda_04670	856174	856309	No
+tnp-ISOt3	IS630 family ISOt3 transposase	ikeda_04675	856365	856740	No
+NA	IS630 family transposase	ikeda_04680	856726	857233	No
+NA	Transposase	ikeda_04685	857181	857484	Yes
+NA	Putative membrane protein	ikeda_04690	858430	858640	Yes
+erhM	2-hydroxyacid dehydrogenase	ikeda_04695	858708	860181	Yes
+hyfB	cation:proton antiporter	ikeda_04700	860190	861681	Yes
+mnhC	cation:proton antiporter subunit C	ikeda_04705	861673	862069	Yes
+NA	Na(+)/H(+) antiporter subunit B	ikeda_04710	862052	862487	Yes
+mnhB	DUF4040 domain-containing protein	ikeda_04715	862507	863095	Yes
+NA	sodium:proton antiporter	ikeda_04720	863094	863424	Yes
+nagD	TIGR01459 family HAD-type hydrolase	ikeda_04730	863976	864837	Yes
+gyrB	DNA gyrase subunit B	ikeda_04735	864953	867377	No
+NA	hypothetical protein	ikeda_04740	867415	867940	Yes
+potE	amino acid permease	ikeda_04745	868245	869664	No
+NA	Transposase	ikeda_04755	870508	870691	No
+NA	Transposase	ikeda_04760	870800	870929	Yes
+NA	DDE superendonuclease family protein	ikeda_04765	871289	871406	Yes
+NA	IS5 family transposase ISOt6	ikeda_04770	871541	871667	Yes
+yidC	membrane protein insertase YidC	ikeda_04775	872574	874278	No
+yihA	YihA family ribosome biogenesis GTP-binding protein	ikeda_04780	874274	874898	No
+argB	acetylglutamate kinase	ikeda_04785	874845	875787	No
+NA	Transposase	ikeda_04790	875884	876085	Yes
+NA	IS5 family transposase ISOt6	ikeda_04795	876223	876478	Yes
+NA	Transposase	ikeda_04800	876859	877111	Yes
+NA	cell surface protein	ikeda_04805	877293	880146	Yes
+gmk	guanylate kinase	ikeda_04810	880279	880945	Yes
+NA	hypothetical protein	ikeda_04815	881161	881926	Yes
+cutA	divalent-cation tolerance protein CutA	ikeda_04820	882684	883041	Yes
+ffh	signal recognition particle protein	ikeda_04825	883098	884451	Yes
+NA	NADH dehydrogenase ubiquinone Fe-S protein 4	ikeda_04830	885540	885822	Yes
+xseB	exodeoxyribonuclease VII small subunit	ikeda_04835	885875	886115	No
+NA	Transposase	ikeda_04840	887228	887531	Yes
+NA	Transposase	ikeda_04845	887603	887975	Yes
+NA	Putative transposase	ikeda_04850	888002	888140	Yes
+NA	IS110-like element ISOt5 family transposase	ikeda_04855	888487	889450	No
+tnp-IS630	IS630 family transposase	ikeda_04860	890214	890589	No
+NA	Transposase	ikeda_04865	890575	890710	No
+tnp-ISOt3	IS630 family ISOt3 transposase	ikeda_04870	890766	891141	No
+NA	IS630 family transposase	ikeda_04875	891127	891634	No
+NA	Transposase	ikeda_04880	892170	892347	Yes
+hPt	histidine phosphotransferase	ikeda_04885	892728	893406	No
+fumC	class II fumarate hydratase	ikeda_04890	893469	894870	No
+pTR2	MFS transporter	ikeda_04895	895035	896514	Yes
+NA	hypothetical protein	ikeda_04900	897919	898111	No
+NA	Transposase	ikeda_04910	898794	899031	No
+aNKYR	Ankyrin repeat	ikeda_04915	899765	901238	Yes
+NA	Transposase	ikeda_04920	901632	901851	Yes
+csa3	IS630 family transposase	ikeda_04925	901888	902749	No
+traG	conjugal transfer protein TraG	ikeda_04930	902733	904668	Yes
+NA	IS110-like element ISOt5 family transposase	ikeda_04935	904750	905713	Yes
+traG	conjugal transfer protein TraG	ikeda_04940	905889	906225	Yes
+NA	Conjugal transfer protein TraH	ikeda_04945	906224	906704	Yes
+NA	Putative conjugative transfer protein TraH	ikeda_04950	906898	907528	Yes
+traF	conjugal transfer protein TraF, complete TraF	ikeda_04955	907524	908208	Yes
+NA	Conjugal transfer protein TraN	ikeda_04960	908219	908504	Yes
+NA	Integrase	ikeda_04965	908933	909791	No
+NA	Putative integrase	ikeda_04970	909759	910131	No
+ykfC	reverse transcriptase	ikeda_04975	910730	911870	No
+NA	Putative conjugative transfer protein TraH	ikeda_04980	912282	912897	No
+NA	Conjugal transfer protein TraH	ikeda_04985	913106	913361	No
+NA	Conjugal transfer protein TraD	ikeda_04990	913341	913704	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	ikeda_04995	913660	914935	No
+NA	Putative transposase	ikeda_05000	914944	915358	Yes
+NA	IS110-like element ISOt5 family transposase	ikeda_05005	915586	916549	No
+rpnC	transposase	ikeda_05010	916564	917125	Yes
+NA	Putative conjugative transfer protein TraI	ikeda_05015	917176	918295	Yes
+aNKYR	Ankyrin repeat	ikeda_05020	918455	920111	No
+NA	Conjugal transfer protein TraA	ikeda_05025	920139	920922	Yes
+NA	AAA domain protein	ikeda_05030	920978	921689	Yes
+NA	Conjugal transfer protein TraA	ikeda_05035	921673	922984	Yes
+traD	conjugal transfer protein TraD, complete TraD	ikeda_05040	923261	923717	No
+NA	transposase	ikeda_05045	923784	924831	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_05050	925147	925540	Yes
+baeS	ATP-binding protein	ikeda_05055	925581	926076	Yes
+NA	ATP-binding protein	ikeda_05060	926094	927033	Yes
+NA	ATP-binding protein	ikeda_05065	927055	927280	Yes
+NA	Site-specific DNA-methyltransferase (adenine-specific)	ikeda_05070	927417	927717	No
+NA	RNA-binding protein	ikeda_05075	928483	930148	No
+dnaB	replicative DNA helicase	ikeda_05080	930236	931670	Yes
+NA	DnaA-N domain-containing protein	ikeda_05085	931694	932993	Yes
+NA	hypothetical protein	ikeda_05090	933226	933352	Yes
+NA	Transposase	ikeda_05095	933632	933953	No
+NA	Conjugal transfer protein TraD	ikeda_05100	934160	934370	Yes
+NA	Conjugal transfer protein TraA	ikeda_05105	934569	934866	No
+NA	Conjugal transfer protein TraA	ikeda_05110	935041	935236	No
+NA	hypothetical protein	ikeda_05115	935891	937490	No
+grxC	glutaredoxin	ikeda_05120	937911	938295	Yes
+NA	hypothetical protein	ikeda_05125	938502	938931	Yes
+gtaA	DUF2163 domain-containing protein	ikeda_05130	939028	939832	Yes
+NA	TIGR02217 family protein	ikeda_05135	939844	940447	Yes
+NA	hypothetical protein	ikeda_05140	940439	940865	Yes
+NA	head-tail adaptor protein	ikeda_05145	940864	941206	Yes
+NA	hypothetical protein	ikeda_05150	941207	941753	Yes
+gtaC	phage major capsid protein	ikeda_05155	941786	942902	Yes
+gtaF	prohead protease	ikeda_05160	942913	943468	Yes
+NA	hypothetical protein	ikeda_05165	944139	945096	Yes
+ftsZ	cell division protein FtsZ	ikeda_05170	945178	946531	Yes
+murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	ikeda_05175	946735	948001	Yes
+NA	hypothetical protein	ikeda_05180	948825	949521	No
+NA	Conjugal transfer protein	ikeda_05190	950358	950514	No
+brkB	Virulence factor BrkB	ikeda_05195	951097	951943	Yes
+NA	Transposase	ikeda_05200	953354	953471	Yes
+NA	IS5 family transposase ISOt6	ikeda_05205	953707	953833	Yes
+NA	hypothetical protein	ikeda_05210	954102	954321	Yes
+nuoA	NADH-quinone oxidoreductase subunit A	ikeda_05215	954537	954909	No
+nuoB	NADH-quinone oxidoreductase subunit B	ikeda_05220	954921	955437	No
+nuoC	NADH-quinone oxidoreductase subunit C	ikeda_05225	955447	956038	No
+nuoD	NADH-quinone oxidoreductase subunit D	ikeda_05230	956049	957240	No
+nuoE	NADH-quinone oxidoreductase subunit E	ikeda_05235	957236	957791	No
+nuoF	NADH-quinone oxidoreductase subunit F	ikeda_05240	957808	959077	No
+NA	hypothetical protein	ikeda_05245	959380	960142	Yes
+NA	DDE superendonuclease family protein	ikeda_05250	960632	961007	Yes
+NA	DDE superendonuclease family protein	ikeda_05255	961018	961486	Yes
+tlc	ATP/ADP translocase	ikeda_05260	961865	963365	No
+virB2	TrbC/VIRB2 pilin	ikeda_05265	963610	963967	No
+NA	TrbC/VIRB2 pilin	ikeda_05270	963982	964384	No
+ruvC	crossover junction endodeoxyribonuclease RuvC	ikeda_05275	964531	965011	No
+dusB	tRNA dihydrouridine synthase DusB	ikeda_05280	965067	966030	No
+yggU	UPF0235 protein OTT_0925	ikeda_05285	966064	966403	Yes
+ubiG	bifunctional 3-demethylubiquinone 3-O-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase	ikeda_05290	966558	967299	No
+prmC	peptide chain release factor N(5)-glutamine methyltransferase	ikeda_05295	967285	968152	Yes
+truA	tRNA pseudouridine(38-40) synthase TruA	ikeda_05300	968153	969005	Yes
+rplM	50S ribosomal protein L13	ikeda_05305	969146	969629	No
+rpsI	30S ribosomal protein S9	ikeda_05310	969632	970124	No
+NA	hypothetical protein	ikeda_05320	970458	971205	No
+NA	Putative transposase	ikeda_05325	971304	971475	No
+NA	DDE superendonuclease family protein	ikeda_05330	971621	971759	No
+NA	DDE superendonuclease family protein	ikeda_05335	971748	972168	No
+NA	hypothetical protein	ikeda_05340	973991	974120	No
+NA	IS630 family transposase	ikeda_05345	975164	975293	No
+NA	Transposase	ikeda_05350	975427	975703	No
+NA	Integrase	ikeda_05355	976387	976582	No
+xerD	Site-specific recombinase XerD	ikeda_05360	976690	977332	No
+traK1	conjugal transfer protein traK1, complete TraK-1	ikeda_05365	977388	977853	Yes
+traE	conjugal transfer protein TraE, complete TraE	ikeda_05370	977849	978401	Yes
+traL	conjugal transfer protein traL, complete TraL	ikeda_05375	978400	978724	Yes
+xerD	Site-specific recombinase XerD	ikeda_05380	978861	979908	Yes
+NA	Integrase	ikeda_05385	979924	980089	Yes
+sco1	SCO family protein	ikeda_05390	980527	981178	Yes
+NA	Transposase	ikeda_05395	982386	982533	Yes
+NA	Transposase DDE domain protein	ikeda_05400	982510	982666	Yes
+NA	IS110 family transposase	ikeda_05405	982679	982820	Yes
+tsaC	threonylcarbamoyl-AMP synthase	ikeda_05410	984103	985072	Yes
+glyS	glycine--tRNA ligase subunit beta	ikeda_05415	985049	987101	Yes
+glyQ	glycine--tRNA ligase subunit alpha	ikeda_05420	987093	987972	Yes
+tsa56	type-specific antigen TSA56	ikeda_05425	988516	990067	No
+NA	Type specific antigen	ikeda_05430	990293	991028	No
+murC	UDP-N-acetylmuramate--L-alanine ligase	ikeda_05435	991195	992704	No
+murB	UDP-N-acetylenolpyruvoylglucosamine reductase	ikeda_05440	992672	993584	No
+ddl	D-alanine--D-alanine ligase	ikeda_05445	993564	994536	No
+ftsQ	cell division protein FtsQ	ikeda_05450	994528	995359	No
+recF	DNA replication/repair protein RecF	ikeda_05455	995376	996516	No
+NA	Transposase	ikeda_05460	996666	996996	Yes
+NA	Conjugal transfer protein TraH	ikeda_05465	997594	997744	No
+NA	Transposase	ikeda_05470	997772	997991	No
+NA	Transposase	ikeda_05475	998033	998474	No
+NA	Ankyrin repeat family protein	ikeda_05480	999188	999401	Yes
+NA	DnaA-N domain-containing protein	ikeda_05485	999749	1000160	Yes
+rppH	RNA pyrophosphohydrolase	ikeda_05490	1000515	1001001	No
+NA	Conjugal transfer protein TraA	ikeda_05495	1002065	1002185	No
+NA	Putative conjugative transfer protein TraA	ikeda_05500	1002248	1002359	No
+traA	conjugal transfer protein TraA	ikeda_05505	1002398	1004615	No
+secA	preprotein translocase subunit SecA	ikeda_05510	1005105	1007748	Yes
+NA	hypothetical protein	ikeda_05515	1007925	1008126	No
+NA	peptidylprolyl isomerase	ikeda_05520	1008138	1009170	No
+folC	bifunctional folylpolyglutamate synthase/dihydrofolate synthase	ikeda_05525	1009270	1010602	Yes
+thrS	threonine--tRNA ligase	ikeda_05530	1010861	1012808	No
+infC	translation initiation factor IF-3	ikeda_05535	1012818	1013364	No
+dut	deoxyuridine 5'-triphosphate nucleotidohydrolase	ikeda_05540	1013530	1013977	No
+atpH	ATP synthase subunit delta	ikeda_05545	1014071	1014617	No
+atpA	ATP synthase subunit alpha	ikeda_05550	1014659	1016198	No
+atpG	ATPase	ikeda_05555	1016212	1017103	No
+NA	hypothetical protein	ikeda_05560	1017113	1017746	Yes
+NA	hypothetical protein	ikeda_05565	1017747	1019361	Yes
+alaS	alanine--tRNA ligase	ikeda_05570	1019493	1022163	No
+gltX	glutamate--tRNA ligase	ikeda_05575	1022362	1023787	No
+iscA	iron-sulfur cluster assembly accessory protein	ikeda_05580	1023795	1024140	Yes
+argS	arginine--tRNA ligase	ikeda_05585	1024305	1026078	No
+NA	Sporulation related domain protein	ikeda_05590	1026089	1026821	No
+NA	Transposase	ikeda_05595	1026883	1027078	No
+NA	Transposase	ikeda_05600	1027201	1027375	No
+NA	Transposase	ikeda_05605	1027764	1028055	Yes
+NA	hypothetical protein	ikeda_05610	1028335	1028461	No
+NA	DnaA-N domain-containing protein	ikeda_05615	1028514	1030044	No
+dnaB	replicative DNA helicase	ikeda_05620	1030052	1031489	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_05625	1031902	1032298	No
+NA	Ankyrin	ikeda_05630	1032335	1032452	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ikeda_05635	1032432	1032981	No
+NA	Putative ompA-like autotransporter	ikeda_05640	1033000	1033576	No
+dam	DNA methyltransferase	ikeda_05645	1033579	1034389	Yes
+NA	ATP-binding protein	ikeda_05650	1034755	1035034	No
+baeS	histidine kinase	ikeda_05655	1035098	1035800	No
+NA	hypothetical protein	ikeda_05660	1035928	1036210	No
+baeS	sensor histidine kinase	ikeda_05665	1036251	1036725	No
+NA	ATP-binding protein	ikeda_05670	1036747	1037686	No
+baeS	ATP-binding protein	ikeda_05675	1037704	1038199	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	ikeda_05680	1038240	1038633	No
+NA	transposase	ikeda_05685	1038948	1039947	No
+traD	conjugal transfer protein TraD, complete TraD	ikeda_05690	1040014	1040470	Yes
+NA	Putative conjugative transfer protein TraA	ikeda_05695	1040747	1040867	No
+traA	conjugal transfer protein TraA	ikeda_05700	1040921	1043582	No
+NA	Conjugal transfer protein TraI	ikeda_05705	1043912	1044983	No
+rpnC	transposase	ikeda_05710	1045034	1045595	No
+NA	IS110-like element ISOt5 family transposase	ikeda_05715	1045610	1046573	Yes
+NA	hypothetical protein	ikeda_05720	1046904	1047033	No
+NA	hypothetical protein	ikeda_05725	1047190	1047742	No
+gpsA	glycerol-3-phosphate dehydrogenase (NAD(P)(+))	ikeda_05735	1047994	1048987	Yes
+mtaB	tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))- methylthiotransferase MtaB	ikeda_05740	1049049	1050321	Yes
+NA	Transposase	ikeda_05745	1050530	1050842	No
+NA	Integrase	ikeda_05750	1051413	1051578	No
+NA	Putative integrase	ikeda_05755	1051594	1052170	No
+fimB	integrase	ikeda_05760	1052194	1052641	No
+traL	conjugal transfer protein traL, complete TraL	ikeda_05765	1052778	1053102	No
+NA	Conjugal transfer protein TraE	ikeda_05770	1053101	1053494	No
+NA	hypothetical protein	ikeda_05775	1053617	1053824	Yes
+NA	hypothetical protein	ikeda_05780	1053832	1054135	No
+NA	Conjugal transfer protein	ikeda_05785	1054210	1054369	No
+NA	Conjugal transfer protein TraI	ikeda_05790	1054667	1054919	Yes
+NA	Repeat-containing protein E_01	ikeda_05795	1055259	1055802	Yes
+NA	Conjugal transfer protein TraA	ikeda_05800	1055968	1056724	Yes
+recD	ATPase/5’-3’ helicase helicase subunit RecD of the DNA repair enzyme RecBCD (exonuclease V)	ikeda_05805	1056780	1057491	Yes
+NA	Conjugal transfer protein TraA	ikeda_05810	1057462	1058797	Yes
+NA	hypothetical protein	ikeda_05815	1059103	1060426	No
+NA	Putative conjugative transfer protein	ikeda_05820	1060471	1060600	No
+NA	Putative conjugative transfer protein TraD	ikeda_05825	1060587	1060926	No
+secA	preprotein translocase SecA subunit-like protein	ikeda_05830	1061201	1061738	No
+secA	preprotein translocase subunit SecA	ikeda_05835	1061975	1063418	No
+aNKYR	Ankyrin repeat	ikeda_05840	1063941	1065198	No
+NA	hypothetical protein	ikeda_05845	1065472	1065739	No
+NA	hypothetical protein	ikeda_05850	1065753	1066380	No
+NA	hypothetical protein	ikeda_05855	1066532	1067060	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_05860	1067065	1067641	Yes
+baeS	sensor histidine kinase	ikeda_05865	1067741	1068500	Yes
+baeS	sensor histidine kinase	ikeda_05870	1068603	1069350	Yes
+NA	Site-specific DNA-methyltransferase (adenine-specific)	ikeda_05875	1069724	1070114	No
+tnp-IS630	IS630 family transposase	ikeda_05880	1070148	1070523	No
+NA	Transposase	ikeda_05885	1070509	1070644	No
+tnp-ISOt3	IS630 family ISOt3 transposase	ikeda_05890	1070700	1071075	No
+NA	IS630 family transposase	ikeda_05895	1071061	1071568	No
+dam	DNA-adenine methylase	ikeda_05900	1071568	1072054	No
+NA	Putative ompA-like autotransporter	ikeda_05905	1072057	1072561	Yes
+aNKYR	Ankyrin repeat	ikeda_05910	1072658	1073159	Yes
+dnaB	replicative DNA helicase	ikeda_05915	1073520	1074969	Yes
+NA	DnaA N-terminal domain protein	ikeda_05920	1074977	1075409	Yes
+NA	DnaA-N domain-containing protein	ikeda_05925	1075387	1076536	Yes
+NA	Transposase	ikeda_05930	1076743	1076899	No
+NA	DDE Tnp4 domain-containing protein	ikeda_05935	1077172	1077313	Yes
+fabF	beta-ketoacyl-[acyl-carrier-protein] synthase II	ikeda_05940	1077724	1078996	Yes
+acpP	acyl carrier protein	ikeda_05945	1079082	1079469	Yes
+fabG	3-oxoacyl-ACP reductase	ikeda_05950	1079591	1080317	Yes
+recA	DNA recombination/repair protein RecA	ikeda_05955	1080310	1081381	Yes
+rlmB	23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB	ikeda_05960	1081477	1082206	Yes
+tuf	elongation factor Tu	ikeda_05975	1082669	1083854	No
+rpsJ	30S ribosomal protein S10	ikeda_05980	1083896	1084202	No
+rplC	50S ribosomal protein L3	ikeda_05985	1084185	1084869	No
+rplD	50S ribosomal protein L4	ikeda_05990	1084883	1085516	No
+rplW	50S ribosomal protein L23	ikeda_05995	1085512	1085809	No
+rplB	50S ribosomal protein L2	ikeda_06000	1085809	1086631	No
+rpsS	30S ribosomal protein S19	ikeda_06005	1086654	1086933	No
+rplV	50S ribosomal protein L22	ikeda_06010	1086934	1087285	No
+rpsC	30S ribosomal protein S3	ikeda_06015	1087300	1087960	No
+rplP	50S ribosomal protein L16	ikeda_06020	1087988	1088399	No
+rpmC	50S ribosomal protein L29	ikeda_06025	1088391	1088613	No
+rpsQ	30S ribosomal protein S17	ikeda_06030	1088613	1088853	No
+rplN	50S ribosomal protein L14	ikeda_06035	1088941	1089310	No
+rplX	50S ribosomal protein L24	ikeda_06040	1089311	1089629	No
+rplE	50S ribosomal protein L5	ikeda_06045	1089653	1090223	No
+rpsN	30S ribosomal protein S14	ikeda_06050	1090241	1090547	No
+rpsH	30S ribosomal protein S8	ikeda_06055	1090569	1090971	No
+rplF	50S ribosomal protein L6	ikeda_06060	1090998	1091532	No
+rplR	50S ribosomal protein L18	ikeda_06065	1091545	1091920	No
+rpsE	30S ribosomal protein S5	ikeda_06070	1091940	1092462	No
+NA	hypothetical protein	ikeda_06075	1092461	1092596	No
+rplO	50S ribosomal protein L15	ikeda_06080	1092694	1093186	No
+secY	preprotein translocase subunit SecY	ikeda_06085	1093187	1094495	No
+adk	adenylate kinase	ikeda_06090	1094503	1095136	No
+rpsM	30S ribosomal protein S13	ikeda_06095	1095215	1095593	No
+rpsK	30S ribosomal protein S11	ikeda_06100	1095602	1095983	No
+rpoA	DNA-directed RNA polymerase subunit alpha	ikeda_06105	1096031	1097060	No
+rplQ	50S ribosomal protein L17	ikeda_06110	1097078	1097516	No
+rpsT	30S ribosomal protein S20	ikeda_06115	1097597	1097870	No
+ptrB	S9 family peptidase	ikeda_06120	1097934	1099995	No
+hemA	5-aminolevulinate synthase	ikeda_06125	1100019	1101231	No
+perM	AI-2E family transporter	ikeda_06130	1101240	1102293	Yes
+pgpA	phosphatidylglycerophosphatase A	ikeda_06135	1102586	1103183	No
+cinA	Competence-damaged protein cinA	ikeda_06140	1103242	1103743	No
+thyA	thymidylate synthase (FAD)	ikeda_06145	1103790	1104693	No
+virB8-1	type VI secretion protein	ikeda_06160	1108250	1108952	No
+virB9-1	P-type conjugative transfer protein VirB9	ikeda_06165	1108941	1109703	No
+NA	DUF2660 domain-containing protein	ikeda_06170	1109958	1110348	Yes
+ftsY	signal recognition particle-docking protein FtsY	ikeda_06175	1110459	1111398	No
+ybeY	rRNA maturation RNase YbeY	ikeda_06180	1114351	1114855	No
+mgtE	magnesium transporter	ikeda_06185	1114867	1115782	No
+ubiX	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	ikeda_06190	1115831	1116395	Yes
+pleD	PleD family two-component system response regulator	ikeda_06200	1116878	1118348	No
+apaG	Co2+/Mg2+ efflux protein ApaG	ikeda_06205	1118706	1119132	Yes
+NA	DDE transposase family protein	ikeda_06210	1119608	1119827	Yes
+NA	hypothetical protein	ikeda_06215	1119966	1120077	No
+NA	hypothetical protein	ikeda_06220	1120043	1120175	No
+NA	Conjugal transfer protein TraA	ikeda_06225	1120352	1120703	No
+NA	Conjugal transfer protein TraA	ikeda_06230	1120707	1121472	No
+NA	Conjugal transfer protein TraA	ikeda_06235	1121654	1122068	No
+NA	PRANC domain-containing protein	ikeda_06240	1122005	1122263	Yes
+NA	Ankyrin repeat-containing protein 09	ikeda_06245	1122301	1122703	Yes
+NA	hypothetical protein	ikeda_06250	1122737	1122914	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	ikeda_06255	1122922	1123966	Yes
+NA	Conjugal transfer protein	ikeda_06260	1124011	1124206	Yes
+NA	TPR repeat-containing protein 01_04	ikeda_06265	1124211	1124586	Yes
+NA	TPR repeat-containing protein 01_05	ikeda_06270	1124588	1124897	Yes
+NA	Conjugal transfer protein TraG	ikeda_06275	1125368	1125593	Yes
+traG	conjugal transfer protein TraG	ikeda_06280	1125574	1125898	Yes
+NA	hypothetical protein	ikeda_06285	1126234	1126402	Yes
+NA	hypothetical protein	ikeda_06290	1126398	1126491	Yes
+NA	Putative conjugative transfer protein	ikeda_06295	1126487	1126652	Yes
+ispB	octaprenyl-diphosphate synthase	ikeda_06300	1127056	1128073	Yes
+NA	hypothetical protein	ikeda_06305	1128092	1129907	Yes
+tlcC	AAA family ATPase	ikeda_06310	1129906	1131451	Yes
+tlc	ATP/ADP translocase	ikeda_06315	1131603	1133007	Yes
+NA	Transposase	ikeda_06320	1133651	1133966	Yes
+NA	Transposase	ikeda_06325	1133914	1134313	Yes
+NA	Conjugative transfer protein	ikeda_06330	1134630	1134792	Yes
+NA	Transposase	ikeda_06335	1134976	1135168	No
+NA	Transposase	ikeda_06340	1135309	1135576	No
+NA	Transposase	ikeda_06345	1135576	1135783	No
+hlyD	HlyD family type I secretion periplasmic adaptor subunit	ikeda_06350	1136870	1138409	Yes
+arpD	type I secretion system permease/ATPase	ikeda_06355	1138446	1140201	Yes
+murJ	lipid II flippase MurJ	ikeda_06360	1141654	1143169	No
+NA	hypothetical protein	ikeda_06365	1143205	1143586	Yes
+NA	Lipase (class 3)	ikeda_06370	1144964	1146158	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ikeda_06375	1146363	1147071	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_06380	1147108	1147504	Yes
+NA	SpoT-like ppGpp hydrolase domain protein	ikeda_06385	1147515	1147680	Yes
+NA	Replicative DNA helicase	ikeda_06390	1147913	1148045	Yes
+NA	hypothetical protein	ikeda_06395	1148373	1148499	No
+NA	DnaA-N domain-containing protein	ikeda_06400	1148552	1150082	No
+dnaB	replicative DNA helicase	ikeda_06405	1150090	1151527	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_06410	1151940	1152336	No
+NA	Ankyrin	ikeda_06415	1152373	1152490	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ikeda_06420	1152470	1153019	No
+NA	Putative ompA-like autotransporter	ikeda_06425	1153038	1153614	No
+dam	DNA methyltransferase	ikeda_06430	1153617	1154427	Yes
+NA	ATP-binding protein	ikeda_06435	1154793	1155072	No
+baeS	histidine kinase	ikeda_06440	1155136	1155838	No
+NA	hypothetical protein	ikeda_06445	1155966	1156248	No
+baeS	sensor histidine kinase	ikeda_06450	1156289	1156763	No
+NA	ATP-binding protein	ikeda_06455	1156785	1157724	No
+baeS	ATP-binding protein	ikeda_06460	1157742	1158237	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_06465	1158278	1158866	No
+NA	transposase	ikeda_06470	1158987	1159950	No
+NA	Conjugal transfer protein TraD	ikeda_06475	1160116	1160293	Yes
+NA	hypothetical protein	ikeda_06480	1160591	1161029	No
+NA	hypothetical protein	ikeda_06485	1161070	1161559	No
+traD	conjugal transfer protein TraD, complete TraD	ikeda_06490	1161617	1162073	Yes
+NA	Conjugal transfer protein TraA	ikeda_06495	1162367	1162766	No
+traA	conjugal transfer protein TraA	ikeda_06500	1162790	1165196	No
+NA	Putative conjugative transfer protein TraI, complete TraI	ikeda_06505	1165464	1168137	No
+rpnC	transposase	ikeda_06510	1168121	1169114	No
+traD	conjugal transfer protein TraD, complete TraD	ikeda_06515	1169123	1170878	Yes
+NA	TPR repeat-containing protein 01_07	ikeda_06520	1170883	1172029	Yes
+traG	conjugal transfer protein TraG	ikeda_06525	1172044	1174396	Yes
+NA	IS110-like element ISOt5 family transposase	ikeda_06530	1174478	1175441	Yes
+traG	conjugal transfer protein TraG	ikeda_06535	1175617	1175953	Yes
+NA	Conjugal transfer protein TraH	ikeda_06540	1175952	1176432	Yes
+NA	Putative conjugative transfer protein TraH	ikeda_06545	1176626	1177256	Yes
+traF	conjugal transfer protein TraF, complete TraF	ikeda_06550	1177252	1177936	Yes
+NA	Conjugative transfer protein	ikeda_06555	1177947	1178583	Yes
+NA	Putative conjugative transfer protein TraN	ikeda_06560	1178871	1179639	Yes
+NA	Type-F conjugative transfer system pilin assembly family protein	ikeda_06565	1179635	1179917	Yes
+NA	Putative membrane protein	ikeda_06570	1179913	1180018	Yes
+NA	Putative conjugative transfer protein TraU	ikeda_06575	1180040	1180613	Yes
+aNKYR	Ankyrin repeat-containing protein 01_02	ikeda_06580	1180782	1181793	No
+virB4	conjugal transfer protein TraC	ikeda_06585	1181691	1183494	Yes
+traV	conjugal transfer protein TraV, complete TraV	ikeda_06590	1183474	1183804	Yes
+NA	Conjugal transfer protein	ikeda_06595	1183803	1184073	Yes
+NA	Putative conjugative transfer protein TraB	ikeda_06600	1184035	1184275	Yes
+NA	hypothetical protein	ikeda_06605	1184374	1184479	Yes
+NA	hypothetical protein	ikeda_06610	1184478	1184781	Yes
+NA	Conjugal transfer protein TraE	ikeda_06615	1184777	1185104	Yes
+NA	Conjugal transfer protein TraE	ikeda_06620	1185187	1185331	Yes
+NA	IS630 family transposase	ikeda_06625	1185330	1185480	Yes
+NA	Putative integrase	ikeda_06630	1185990	1186200	Yes
+NA	Putative integrase	ikeda_06635	1186151	1186469	Yes
+NA	hypothetical protein	ikeda_06640	1187662	1187824	No
+NA	hypothetical protein	ikeda_06645	1188174	1188354	No
+NA	DDE transposase family protein	ikeda_06650	1188524	1188743	No
+NA	Putative transposase	ikeda_06655	1189192	1189330	No
+NA	IS982 family transposase	ikeda_06660	1189467	1190184	No
+yajC	preprotein translocase subunit YajC	ikeda_06665	1190716	1191097	No
+secD	protein translocase subunit SecD	ikeda_06670	1191093	1192656	No
+ykfC	reverse transcriptase	ikeda_06675	1193052	1194192	Yes
+NA	Transposase	ikeda_06680	1194703	1194877	Yes
+NA	DDE superendonuclease family protein	ikeda_06685	1194946	1195063	Yes
+NA	DDE superendonuclease family protein	ikeda_06690	1195293	1195494	No
+NA	Transposase	ikeda_06695	1195612	1196017	No
+NA	DDE superendonuclease family protein	ikeda_06700	1196037	1196475	No
+NA	IS5 family transposase ISOt6	ikeda_06705	1196486	1196690	No
+NA	IS5 family transposase ISOt6	ikeda_06710	1196794	1196902	Yes
+aatA	aspartate aminotransferase	ikeda_06715	1197281	1198484	Yes
+ubiG	Ubiquinone biosynthesis O-methyltransferase	ikeda_06720	1198590	1199628	No
+mlaA	ABC transporter	ikeda_06725	1199687	1200521	No
+mlaC	MlaC protein	ikeda_06730	1200523	1201108	No
+hemW	radical SAM family heme chaperone HemW	ikeda_06735	1201135	1202338	No
+NA	hypothetical protein	ikeda_06740	1202378	1202891	No
+recO	DNA repair protein RecO	ikeda_06745	1202950	1203676	No
+NA	Transposase	ikeda_06750	1204067	1204196	Yes
+NA	Transposase	ikeda_06755	1204249	1204552	No
+NA	Transposase	ikeda_06760	1204505	1204886	No
+NA	Putative integrase	ikeda_06765	1205407	1205596	Yes
+NA	Putative integrase	ikeda_06770	1205659	1205782	Yes
+NA	Putative integrase	ikeda_06775	1205768	1205891	Yes
+NA	DUF721 domain-containing protein	ikeda_06780	1206650	1206974	Yes
+radC	DNA repair protein RadC	ikeda_06785	1207011	1207692	Yes
+rpsL	30S ribosomal protein S12	ikeda_06790	1207940	1208312	No
+rpsG	30S ribosomal protein S7	ikeda_06795	1208336	1208858	No
+fusA	elongation factor G	ikeda_06800	1208861	1210982	No
+rpsA	30S ribosomal protein S1	ikeda_06805	1211232	1212708	No
+NA	DDE superendonuclease family protein	ikeda_06810	1213820	1214057	No
+NA	IS5 family transposase ISOt6	ikeda_06815	1214010	1214139	No
+NA	IS5 family transposase ISOt6	ikeda_06820	1215030	1215195	Yes
+cspC	cold-shock protein	ikeda_06825	1216319	1216541	Yes
+gcvT	aminomethyltransferase	ikeda_06830	1218258	1219125	No
+NA	Transposase	ikeda_06835	1219302	1219518	Yes
+NA	hypothetical protein	ikeda_06840	1219827	1221678	No
+hinT	Purine nucleoside phosphoramidase	ikeda_06845	1221914	1222286	No
+asd	aspartate-semialdehyde dehydrogenase	ikeda_06850	1222345	1223383	No
+cyoB	protoheme IX farnesyltransferase	ikeda_06855	1223523	1224462	Yes
+ctaD	cytochrome c oxidase subunit I	ikeda_06860	1224472	1226059	Yes
+gtaE	phage terminase large subunit	ikeda_06865	1226251	1227673	Yes
+ctc	50S ribosomal protein L25/general stress proteinCtc	ikeda_06870	1228004	1228628	No
+arfB	aminoacyl-tRNA hydrolase	ikeda_06875	1228627	1229188	No
+ychF	GTP-binding protein YchF	ikeda_06880	1229197	1230298	No
+xthA2	exodeoxyribonuclease III	ikeda_06885	1231668	1232463	No
+NA	hypothetical protein	ikeda_06890	1232952	1233075	No
+NA	hypothetical protein	ikeda_06895	1233627	1233756	No
+ykfC	reverse transcriptase	ikeda_06900	1234053	1235193	Yes
+NA	Putative ompA-like autotransporter	ikeda_06905	1235732	1236014	No
+dam	DNA methyltransferase	ikeda_06910	1236017	1236830	Yes
+NA	ATP-binding protein	ikeda_06915	1237203	1237305	No
+NA	Integrase	ikeda_06920	1237736	1237979	No
+NA	Putative integrase	ikeda_06925	1237994	1238606	No
+xerD	Site-specific recombinase XerD	ikeda_06930	1238584	1238908	No
+traL	conjugal transfer protein traL, complete TraL	ikeda_06935	1238965	1239289	No
+NA	Conjugal transfer protein TraE	ikeda_06940	1239288	1239681	No
+NA	hypothetical protein	ikeda_06945	1239689	1239842	No
+NA	hypothetical protein	ikeda_06950	1239838	1240165	No
+NA	TPR repeat-containing protein 06_01	ikeda_06955	1240304	1240472	No
+NA	hypothetical protein	ikeda_06960	1240524	1240677	No
+tPR	TPR repeat-containing protein 02_02	ikeda_06965	1240736	1240952	No
+NA	autotransporter domain-containing protein	ikeda_06970	1243045	1247572	No
+NA	hypothetical protein	ikeda_06975	1248559	1248790	Yes
+NA	Integrase	ikeda_06980	1248990	1249197	Yes
+NA	hypothetical protein	ikeda_06985	1249193	1249337	Yes
+NA	Integrase	ikeda_06990	1249562	1249703	Yes
+NA	hypothetical protein	ikeda_06995	1249944	1250142	Yes
+NA	Transposase	ikeda_07000	1250402	1250816	No
+NA	Transposase	ikeda_07005	1250769	1250967	No
+NA	Integrase	ikeda_07010	1251343	1251514	Yes
+NA	hypothetical protein	ikeda_07015	1252143	1252269	Yes
+NA	Replicative DNA helicase	ikeda_07020	1252351	1252975	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_07025	1253199	1253775	No
+NA	Repeat-containing protein F	ikeda_07030	1254513	1256664	No
+xthA2	exodeoxyribonuclease III	ikeda_07035	1257315	1258101	No
+traD	conjugal transfer protein TraD, complete TraD	ikeda_07040	1258142	1258598	Yes
+NA	Conjugal transfer protein TraA	ikeda_07045	1258875	1259850	No
+bcp	peroxiredoxin	ikeda_07050	1259954	1260425	Yes
+xerD	Site-specific recombinase XerD, complete integrase	ikeda_07055	1260427	1261567	Yes
+NA	Conjugal transfer protein TraD	ikeda_07060	1261998	1262265	No
+NA	Transposase	ikeda_07065	1262502	1262622	Yes
+putP	sodium:proline symporter	ikeda_07070	1263070	1266508	No
+NA	hypothetical protein	ikeda_07075	1267048	1267300	Yes
+aNKYR	ankyrin repeat domain-containing protein	ikeda_07080	1268107	1269037	No
+NA	hypothetical protein	ikeda_07085	1269029	1269230	No
+ykfC	reverse transcriptase	ikeda_07090	1269700	1270840	No
+NA	Membrane protein	ikeda_07095	1271137	1271311	Yes
+ykfC	reverse transcriptase	ikeda_07100	1271865	1273005	Yes
+NA	Putative ompA-like autotransporter	ikeda_07105	1273545	1273827	No
+dam	DNA-adenine methylase	ikeda_07110	1273836	1274466	Yes
+NA	hypothetical protein	ikeda_07115	1275195	1275855	No
+NA	Integrase	ikeda_07120	1275909	1276074	Yes
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	ikeda_07125	1276296	1276584	Yes
+NA	Conjugal transfer protein	ikeda_07130	1276840	1277032	Yes
+NA	Conjugal transfer protein	ikeda_07135	1277072	1277180	Yes
+gst	glutathione S-transferase	ikeda_07145	1277676	1278345	No
+nusB	transcription antitermination factor NusB	ikeda_07150	1278930	1279407	Yes
+hisS	histidine--tRNA ligase	ikeda_07155	1279430	1280702	Yes
+mlaD	outer membrane lipid asymmetry maintenance protein MlaD	ikeda_07160	1280704	1281148	Yes
+nuo	NADH ubiquinone oxidoreductase	ikeda_07165	1281194	1281557	Yes
+rnhA	ribonuclease H	ikeda_07170	1281528	1282035	Yes
+sspB2	Stringent starvation protein B	ikeda_07175	1282034	1282562	Yes
+dsbA	thiol:disulfide interchange protein	ikeda_07180	1282690	1283515	Yes
+fdxA	ferredoxin	ikeda_07185	1283643	1283964	Yes
+ccmC	heme exporter protein C	ikeda_07190	1283969	1284680	Yes
+yfiH	Laccase domain protein YfiH	ikeda_07195	1284672	1285404	Yes
+glnA	glutamine synthetase	ikeda_07200	1285468	1286233	No
+NA	Transposase	ikeda_07205	1286630	1286861	Yes
+NA	hypothetical protein	ikeda_07210	1287068	1287194	No
+NA	Integrase	ikeda_07215	1287876	1288104	No
+xerD	Site-specific recombinase XerD	ikeda_07220	1288150	1288312	No
+bcp	peroxiredoxin	ikeda_07225	1288314	1288785	No
+traL	conjugal transfer protein traL, complete TraL	ikeda_07230	1288864	1289188	No
+NA	Conjugal transfer protein TraE	ikeda_07235	1289187	1289580	No
+NA	IS110-like element ISOt5 family transposase	ikeda_07240	1289676	1290639	Yes
+NA	Conjugal transfer protein TraC	ikeda_07245	1291019	1291601	No
+virB4	conjugal transfer protein	ikeda_07250	1291799	1292078	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	ikeda_07255	1292074	1292734	No
+NA	hypothetical protein	ikeda_07260	1292820	1293024	No
+traU	conjugal transfer protein TraU, complete TraU	ikeda_07265	1293024	1294002	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ikeda_07270	1294024	1294408	No
+traN	conjugal transfer protein TraN, complete TraN	ikeda_07275	1294404	1296096	No
+NA	Ankyrin repeat-containing protein 16	ikeda_07280	1296254	1297055	No
+NA	Putative conjugative transfer protein TraF	ikeda_07285	1297391	1297868	No
+ykfC	reverse transcriptase	ikeda_07290	1298338	1299478	No
+NA	Conjugal transfer protein TraH	ikeda_07295	1299890	1300784	No
+NA	Conjugal transfer protein TraH	ikeda_07300	1300737	1300968	No
+NA	Putative conjugative transfer protein TraI	ikeda_07305	1301220	1302066	Yes
+NA	Conjugal transfer protein TraA	ikeda_07310	1302431	1302779	Yes
+NA	Conjugal transfer protein TraA	ikeda_07315	1302763	1302994	Yes
+NA	hypothetical protein	ikeda_07320	1303291	1304323	No
+NA	RelA/SpoT-related protein	ikeda_07325	1304614	1304803	Yes
+NA	RelA/SpoT-related protein	ikeda_07330	1304907	1305285	Yes
+baeS	ATP-binding protein	ikeda_07335	1305394	1305763	Yes
+kdpD	K+-sensing histidine kinase KdpD	ikeda_07340	1305785	1306454	Yes
+baeS	histidine kinase	ikeda_07345	1306468	1307170	Yes
+NA	ATP-binding protein	ikeda_07350	1307234	1307513	Yes
+NA	IS630 family transposase	ikeda_07355	1307769	1308276	Yes
+tnp-ISOt3	IS630 family ISOt3 transposase	ikeda_07360	1308262	1308637	Yes
+dnaB	Replicative DNA helicase	ikeda_07365	1309026	1309137	Yes
+NA	DnaA-N domain-containing protein	ikeda_07370	1309150	1309633	Yes
+NA	hypothetical protein	ikeda_07375	1309684	1310563	Yes
+NA	Transposase	ikeda_07380	1310759	1311038	No
+NA	IS982 family transposase	ikeda_07390	1312144	1312684	No
+greA	transcription elongation factor GreA	ikeda_07395	1313304	1313784	No
+rpoH	RNA polymerase factor sigma-32	ikeda_07400	1313830	1314730	No
+NA	Transposase	ikeda_07405	1314918	1315119	No
+NA	Copper(I)-binding protein	ikeda_07410	1315419	1315962	Yes
+NA	hypothetical protein	ikeda_07415	1316244	1316415	No
+NA	Transposase	ikeda_07420	1317705	1318008	Yes
+NA	DDE superendonuclease family protein	ikeda_07425	1318019	1318457	Yes
+aNKYR	Ankyrin repeat protein with 8 ankyrin repeats	ikeda_07430	1318891	1320379	Yes
+NA	Conjugative transfer protein TraC	ikeda_07435	1320709	1321063	No
+virB4	Type IV secretory pathway, VirB4 component	ikeda_07440	1321154	1321316	No
+NA	Conjugal transfer protein TraC	ikeda_07445	1321387	1322383	No
+NA	Conjugal transfer protein TraN	ikeda_07450	1322448	1322928	No
+NA	Conjugal transfer protein TraN	ikeda_07455	1322914	1323619	No
+ykfC	reverse transcriptase	ikeda_07460	1323891	1325031	Yes
+NA	IS5 family transposase ISOt6	ikeda_07465	1325792	1326023	Yes
+NA	IS5 family transposase ISOt6	ikeda_07470	1326200	1326383	Yes
+NA	Conjugal transfer protein TraA	ikeda_07475	1326865	1327312	No
+NA	Conjugal transfer protein TraA	ikeda_07480	1327390	1327630	No
+NA	hypothetical protein	ikeda_07485	1328135	1328612	Yes
+NA	hypothetical protein	ikeda_07490	1329115	1329298	Yes
+cyc7	cytochrome c family protein	ikeda_07495	1329544	1330093	Yes
+hflC	paraslipin	ikeda_07500	1330340	1331300	No
+NA	hypothetical protein	ikeda_07505	1331754	1331877	Yes
+NA	Transposase	ikeda_07510	1332254	1332608	No
+NA	IS630 family transposase	ikeda_07515	1332586	1333126	No
+mrp	ATP-binding protein	ikeda_07520	1333628	1334645	Yes
+hflK	FtsH protease activity modulator HflK	ikeda_07525	1334824	1335880	No
+hflC	protease modulator HflC	ikeda_07530	1335903	1336770	No
+tsa47	Type surface antigen 47 (47 kDa/htrA)	ikeda_07535	1336787	1338188	No
+ompA	peptidoglycan-associated lipoprotein	ikeda_07540	1338401	1339016	No
+gtaB	glycoside hydrolase TIM-barrel-like domain-containing protein	ikeda_07545	1339279	1342063	Yes
+fpr	ferredoxin--NADP(+) reductase	ikeda_07550	1342261	1343278	No
+folD	bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase	ikeda_07555	1343274	1344180	No
+NA	hypothetical protein	ikeda_07560	1344114	1345500	Yes
+topA	DNA topoisomerase I	ikeda_07565	1345499	1347866	Yes
+mdh	malate dehydrogenase	ikeda_07570	1347958	1348915	Yes
+rimM	ribosome maturation factor RimM	ikeda_07575	1349134	1349629	Yes
+NA	AsmA-like C-terminal region	ikeda_07580	1349797	1352329	No
+fmt	methionyl-tRNA formyltransferase	ikeda_07585	1352543	1353467	Yes
+def	peptide deformylase	ikeda_07590	1353463	1354009	Yes
+traI	conjugal transfer protein TraI, complete TraI	ikeda_07595	1354191	1356669	No
+NA	transposase	ikeda_07600	1356720	1357740	No
+NA	Conjugal transfer protein	ikeda_07605	1357749	1358280	Yes
+NA	hypothetical protein	ikeda_07610	1358959	1359985	No
+NA	DDE-3 domain-containing protein	ikeda_07615	1360165	1360411	No
+NA	hypothetical protein	ikeda_07620	1360632	1361217	No
+NA	peptidylprolyl isomerase	ikeda_07625	1361243	1362701	Yes
+NA	hypothetical protein	ikeda_07630	1362708	1362873	No
+tpiA	triose-phosphate isomerase	ikeda_07635	1362876	1363626	No
+secG	preprotein translocase subunit SecG	ikeda_07640	1363631	1363925	No
+NA	hypothetical protein	ikeda_07645	1363991	1364099	No
+lysS	lysine--tRNA ligase	ikeda_07655	1364688	1366269	Yes
+dsbB	disulfide bond formation protein B	ikeda_07660	1366407	1366956	No
+ubiB	ubiquinone biosynthesis protein UbiB	ikeda_07665	1366918	1367464	No
+psd	phosphatidylserine decarboxylase	ikeda_07670	1367564	1368257	No
+pssA	CDP-diacylglycerol--serine O-phosphatidyltransferase	ikeda_07675	1368308	1369082	No
+mnhE	sodium:proton antiporter	ikeda_07680	1369131	1369617	No
+NA	Multiple resistance and pH regulation F family protein	ikeda_07685	1369613	1369868	No
+NA	PDDEXK-1 domain-containing protein	ikeda_07690	1369896	1372737	No
+NA	hypothetical protein	ikeda_07695	1372645	1372843	Yes
+ndh	NADH dehydrogenase	ikeda_07700	1372928	1374590	Yes
+sucD	succinyl-CoA synthetase subunit alpha	ikeda_07705	1374670	1375549	Yes
+sucC	succinyl-CoA ligase subunit beta	ikeda_07710	1375563	1376724	Yes
+ubiH	2-polyprenyl-6-methoxyphenol 4-hydroxylase	ikeda_07715	1376780	1378043	Yes
+trcR	cell cycle transcriptional regulator TrcR	ikeda_07725	1378397	1378985	Yes
+ileS	isoleucine--tRNA ligase	ikeda_07730	1379112	1382316	Yes
+NA	Ubiquinone biosynthesis protein COQ9	ikeda_07735	1382352	1382958	Yes
+rpsU	30S ribosomal protein S21	ikeda_07740	1383128	1383335	No
+holC	DNA polymerase III subunit chi	ikeda_07745	1383363	1383873	Yes
+NA	Proline/betaine transporter	ikeda_07750	1383967	1385209	No
+NA	DUF5394 domain-containing protein	ikeda_07755	1385452	1386178	No
+NA	Ankyrin repeat protein with 1d ankyrin repeats	ikeda_07760	1386269	1387523	No
+NA	hypothetical protein	ikeda_07765	1387683	1388061	No
+pnp	polyribonucleotide nucleotidyltransferase	ikeda_07770	1388282	1390493	Yes
+rpsO	30S ribosomal protein S15	ikeda_07775	1390757	1391027	Yes
+tru	tRNA pseudouridine(55) synthase	ikeda_07780	1391050	1391959	Yes
+NA	IS110-like element ISOt5 family transposase	ikeda_07785	1392239	1393202	No
+NA	Transposase and inactivated derivative	ikeda_07790	1393494	1394037	Yes
+hipB	XRE family transcriptional regulator	ikeda_07795	1394599	1395040	Yes
+NA	hypothetical protein	ikeda_07800	1395636	1395966	Yes
+NA	Conjugal transfer protein	ikeda_07805	1395943	1396219	Yes
+NA	Conjugal transfer protein TraD	ikeda_07810	1396184	1396544	Yes
+NA	Conjugal transfer protein TraD	ikeda_07815	1396604	1396919	Yes
+NA	TPR repeat-containing protein 01_02	ikeda_07820	1396954	1397212	Yes
+NA	TPR repeat-containing protein 01_01	ikeda_07825	1397243	1397630	Yes
+traG	conjugal transfer protein TraG	ikeda_07830	1397817	1398261	Yes
+NA	IS110-like element ISOt5 family transposase	ikeda_07835	1398343	1399306	Yes
+traG	conjugal transfer protein TraG	ikeda_07840	1399482	1399818	Yes
+NA	Conjugal transfer protein TraH	ikeda_07845	1399817	1400297	Yes
+NA	Conjugative relaxosome accessory transposon family protein	ikeda_07850	1400491	1401121	Yes
+infA	translation initiation factor IF-1	ikeda_07860	1401886	1402111	No
+maf	septum formation inhibitor Maf	ikeda_07865	1402144	1402750	No
+tACO1	YebC/PmpR family DNA-binding transcriptional regulator	ikeda_07870	1402876	1403626	No
+gyrA	DNA gyrase subunit A	ikeda_07875	1403727	1406445	No
+glyA	serine hydroxymethyltransferase	ikeda_07880	1406478	1407759	No
+NA	hypothetical protein	ikeda_07885	1408138	1408273	Yes
+NA	DUF3971 domain-containing protein	ikeda_07890	1408448	1410941	Yes
+rnpA	ribonuclease P	ikeda_07895	1411176	1411716	Yes
+rpmH	50S ribosomal protein L34	ikeda_07900	1411716	1411899	Yes
+cYT1	Cytochrome c1	ikeda_07905	1412733	1413528	No
+rph	ribonuclease PH	ikeda_07910	1414016	1414772	Yes
+grpE	nucleotide exchange factor GrpE	ikeda_07915	1414901	1415498	No
+NA	Transposase	ikeda_07920	1415867	1415999	Yes
+NA	IS5 family transposase ISOt6	ikeda_07925	1416147	1416303	No
+NA	hypothetical protein	ikeda_07930	1416719	1416827	No
+rnd	ribonuclease D	ikeda_07935	1416849	1417482	Yes
+ftsB	Cell division protein FtsB	ikeda_07940	1417488	1417788	Yes
+cdsA	phosphatidate cytidylyltransferase	ikeda_07945	1417795	1418446	Yes
+uppS	polyprenyl diphosphate synthase	ikeda_07950	1418448	1419144	Yes
+abcT	ABC transporter ATP-binding protein	ikeda_07955	1419319	1421125	No
+dnaE	DNA polymerase III subunit alpha	ikeda_07960	1421442	1425147	Yes
+valS	valine--tRNA ligase	ikeda_07965	1425136	1427701	Yes
+ubiA	4-hydroxybenzoate octaprenyltransferase	ikeda_07970	1427732	1428608	No
+NA	hypothetical protein	ikeda_07975	1428875	1429652	Yes
+ldcA	LD-carboxypeptidase	ikeda_07980	1430002	1431001	No
+NA	hypothetical protein	ikeda_07985	1431092	1431191	Yes
+NA	Putative integrase	ikeda_07990	1432348	1432636	Yes
+NA	Transposase	ikeda_07995	1432693	1433068	Yes
+NA	Transposase	ikeda_08000	1433021	1433195	Yes
+NA	hypothetical protein	ikeda_08005	1433787	1434048	Yes
+coxB	cytochrome c oxidase subunit II	ikeda_08010	1434579	1435275	Yes
+NA	RDD family protein	ikeda_08015	1435486	1435963	Yes
+virB6-5	conjugal transfer protein	ikeda_08020	1437128	1439345	No
+gepA	DUF4065 domain-containing protein	ikeda_08025	1440464	1440689	Yes
+NA	TPR repeat-containing protein 03	ikeda_08030	1440889	1441168	Yes
+uvrA	excinuclease ABC subunit A	ikeda_08035	1441637	1444511	Yes
+NA	Putative transposase	ikeda_08040	1444864	1444993	No
+NA	Conjugal transfer protein TraC	ikeda_08045	1445414	1445555	No
+NA	Conjugal transfer protein TraA	ikeda_08050	1445504	1446368	Yes
+NA	Putative conjugative transfer protein TraA	ikeda_08055	1446357	1446801	Yes
+NA	hypothetical protein	ikeda_08060	1446961	1447132	Yes
+NA	RelA/SpoT-related protein	ikeda_08065	1447203	1447491	Yes
+NA	DNA helicase	ikeda_08070	1447833	1448049	Yes
+NA	Conjugal transfer protein TraA	ikeda_08075	1448241	1449012	No
+NA	Conjugal transfer protein TraA	ikeda_08080	1449090	1449279	No
+NA	Putative integrase	ikeda_08085	1449464	1449656	Yes
+NA	Integrase	ikeda_08090	1449758	1449872	Yes
+NA	MFS transporter	ikeda_08095	1450511	1451774	No
+panF	sodium:pantothenate symporter	ikeda_08100	1451789	1453193	No
+NA	DDE superendonuclease family protein	ikeda_08105	1453549	1453888	Yes
+NA	Transposase	ikeda_08110	1453975	1454416	Yes
+NA	hypothetical protein	ikeda_08115	1454465	1454645	Yes
+NA	hypothetical protein	ikeda_08120	1454739	1454976	Yes
+NA	Conjugal transfer protein TraE	ikeda_08125	1454972	1455104	Yes
+NA	Conjugal transfer protein TraE	ikeda_08130	1455103	1455418	Yes
+NA	Integrase	ikeda_08135	1455672	1455843	Yes
+NA	hypothetical protein	ikeda_08140	1456747	1457047	No
+qor	NADP-dependent oxidoreductase	ikeda_08145	1457394	1457682	Yes
+curA	NADP-dependent oxidoreductase	ikeda_08150	1457940	1459086	Yes
+ccmE	cytochrome c biogenesis protein CcmE	ikeda_08155	1459396	1459789	No
+NA	DUF1189 domain-containing protein	ikeda_08160	1459822	1460737	No
+ruvX	Holliday junction resolvase RuvX	ikeda_08165	1460733	1461207	No
+recJ	single-stranded-DNA-specific exonuclease RecJ	ikeda_08170	1461220	1462984	No
+mlaF	ABC transporter ATP-binding protein	ikeda_08175	1463292	1464048	Yes
+mlaE	Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla	ikeda_08180	1464076	1464943	Yes
+rsmE	Ribosomal RNA small subunit methyltransferase E	ikeda_08185	1464981	1465773	Yes
+rpsD	30S ribosomal protein S4	ikeda_08190	1465899	1466523	No
+NA	hypothetical protein	ikeda_08195	1466584	1466815	No
+NA	Conjugal transfer protein	ikeda_08200	1466997	1467084	No
+NA	Conjugative transfer protein	ikeda_08205	1467146	1467752	No
+NA	Conjugal transfer protein TraN	ikeda_08210	1467818	1468001	No
+NA	Conjugative transfer protein TraH	ikeda_08215	1468004	1468358	No
+NA	Conjugal transfer protein TraG	ikeda_08220	1468598	1468877	No
+traD	conjugal transfer protein TraD	ikeda_08225	1468848	1470384	No
+NA	Putative transposase	ikeda_08230	1470393	1470843	Yes
+NA	IS110-like element ISOt5 family transposase	ikeda_08235	1471071	1472034	No
+rpnC	transposase	ikeda_08240	1472049	1472610	Yes
+NA	Conjugal transfer protein TraI	ikeda_08245	1472661	1474215	Yes
+NA	hypothetical protein	ikeda_08250	1474220	1474373	Yes
+NA	Repeat-containing protein E_02	ikeda_08255	1474564	1475269	Yes
+traA	conjugal transfer protein TraA, complete TraA	ikeda_08260	1475435	1478258	Yes
+traD	conjugal transfer protein TraD, complete TraD	ikeda_08265	1478533	1478989	No
+NA	transposase	ikeda_08270	1479067	1480066	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_08275	1480187	1480763	Yes
+baeS	sensor histidine kinase	ikeda_08280	1480863	1481721	Yes
+NA	Histidine kinase domain-containing protein	ikeda_08285	1481742	1482471	Yes
+NA	hypothetical protein	ikeda_08290	1482820	1483537	Yes
+NA	Site-specific DNA-methyltransferase (adenine-specific)	ikeda_08295	1484739	1485036	No
+NA	Putative ompA-like autotransporter	ikeda_08300	1485051	1485552	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ikeda_08305	1485653	1486298	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_08310	1486335	1486731	Yes
+NA	SpoT-like ppGpp hydrolase domain protein	ikeda_08315	1486742	1486907	Yes
+NA	Transposase	ikeda_08320	1487256	1487646	No
+nrdA	ribonucleotide-diphosphate reductase subunit alpha	ikeda_08325	1488475	1490290	No
+nrdB	ribonucleotide-diphosphate reductase subunit beta	ikeda_08330	1490312	1491347	No
+NA	hypothetical protein	ikeda_08335	1491795	1492146	No
+NA	Integrase	ikeda_08340	1492515	1492743	No
+abcT	ABC transporter ATP-binding protein	ikeda_08345	1492840	1494550	No
+NA	hypothetical protein	ikeda_08350	1494509	1494866	No
+prmA	Ribosomal protein L11 methyltransferase	ikeda_08355	1494991	1495195	No
+NA	Replicative DNA helicase	ikeda_08360	1495823	1495952	No
+dnaB	replicative DNA helicase	ikeda_08365	1495965	1497420	No
+aNKYR	Ankyrin repeat	ikeda_08370	1497781	1498282	No
+NA	Putative ompA-like autotransporter	ikeda_08375	1498379	1498883	No
+dam	DNA methyltransferase	ikeda_08380	1498886	1499696	Yes
+NA	ATP-binding protein	ikeda_08385	1500062	1500341	No
+NA	Putative signal transduction histidine kinase	ikeda_08390	1500405	1500900	No
+baeS	histidine kinase	ikeda_08395	1500939	1501107	No
+NA	hypothetical protein	ikeda_08400	1501121	1501373	No
+NA	IS630 family transposase	ikeda_08405	1501321	1501828	Yes
+tnp-ISOt3	IS630 family ISOt3 transposase	ikeda_08410	1501814	1502189	Yes
+kdpD	K+-sensing histidine kinase KdpD	ikeda_08415	1502232	1502757	No
+NA	hypothetical protein	ikeda_08420	1502779	1503001	No
+NA	HATPase-c domain-containing protein	ikeda_08425	1502997	1503264	No
+NA	ATP-binding protein	ikeda_08430	1503237	1503345	Yes
+dam	DNA methyltransferase	ikeda_08435	1503711	1503888	No
+NA	RelA/SpoT-related protein	ikeda_08440	1504119	1504296	No
+NA	RelA/SpoT-related protein	ikeda_08445	1504317	1504734	No
+aNKYR	Ankyrin repeat	ikeda_08450	1505349	1506078	No
+traD	conjugal transfer protein TraD, complete TraD	ikeda_08455	1506131	1506587	Yes
+traA	conjugal transfer protein TraA	ikeda_08460	1506754	1508752	No
+NA	hypothetical protein	ikeda_08465	1508973	1510758	Yes
+NA	DDE superendonuclease family protein	ikeda_08470	1511097	1511268	Yes
+NA	Conjugal transfer protein TraI	ikeda_08475	1511404	1512475	No
+rpnC	transposase	ikeda_08480	1512459	1513488	No
+traD	conjugal transfer protein TraD, complete TraD	ikeda_08485	1513497	1515252	Yes
+NA	TPR repeat-containing protein 01_07	ikeda_08490	1515257	1516403	Yes
+traG	conjugal transfer protein TraG	ikeda_08495	1516418	1518770	Yes
+NA	IS110-like element ISOt5 family transposase	ikeda_08500	1518852	1519815	Yes
+traG	conjugal transfer protein TraG	ikeda_08505	1519991	1520327	Yes
+NA	Conjugal transfer protein TraH	ikeda_08510	1520326	1520806	Yes
+NA	Putative conjugative transfer protein TraH	ikeda_08515	1521000	1521630	Yes
+traF	conjugal transfer protein TraF, complete TraF	ikeda_08520	1521626	1522310	Yes
+NA	Conjugative transfer protein	ikeda_08525	1522321	1522957	Yes
+NA	Putative conjugative transfer protein TraN	ikeda_08530	1523245	1524013	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ikeda_08535	1524009	1524393	Yes
+NA	Putative conjugative transfer protein TraU	ikeda_08540	1524415	1524988	Yes
+aNKYR	Ankyrin repeat-containing protein 01_02	ikeda_08545	1525157	1526168	No
+virB4	conjugal transfer protein TraC	ikeda_08550	1526066	1527869	Yes
+traV	conjugal transfer protein TraV, complete TraV	ikeda_08555	1527849	1528179	Yes
+NA	Conjugal transfer protein	ikeda_08560	1528178	1528448	Yes
+NA	Putative conjugative transfer protein TraB	ikeda_08565	1528410	1529229	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	ikeda_08570	1529547	1529877	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	ikeda_08575	1530241	1530718	Yes
+traE	conjugal transfer protein TraE, complete TraE	ikeda_08580	1530714	1531266	Yes
+traL	conjugal transfer protein traL, complete TraL	ikeda_08585	1531265	1531589	Yes
+NA	Putative integrase	ikeda_08590	1531726	1532173	Yes
+NA	Putative integrase	ikeda_08595	1532197	1532773	Yes
+NA	Integrase	ikeda_08600	1532789	1532954	Yes
+NA	Transposase	ikeda_08605	1533354	1533837	Yes
+NA	OTT_1508-like deaminase	ikeda_08610	1533944	1535111	Yes
+aNKYR	Ankyrin repeat	ikeda_08615	1535129	1536386	Yes
+NA	hypothetical protein	ikeda_08620	1537385	1537547	Yes
+amiR	N-acetylmuramoyl-L-alanine amidase	ikeda_08625	1538556	1539654	Yes
+NA	Repeat-containing protein D	ikeda_08630	1540329	1542075	No
+NA	DDE superendonuclease family protein	ikeda_08635	1543126	1543243	No
+NA	DDE superendonuclease family protein	ikeda_08640	1543254	1543497	No
+NA	hypothetical protein	ikeda_08645	1543403	1543688	Yes
+NA	Integrase	ikeda_08650	1544253	1544640	No
+NA	Integrase	ikeda_08655	1544747	1544933	No
+lipB	lipase LipB	ikeda_08660	1545217	1546111	No
+NA	Integrase	ikeda_08665	1546504	1546621	Yes
+NA	Putative integrase	ikeda_08670	1546679	1546940	Yes
+NA	Reverse transcriptase	ikeda_08675	1548336	1548555	Yes
+NA	Ankyrin repeat-containing protein 18	ikeda_08680	1548913	1549132	Yes
+NA	Ankyrin repeat-containing protein 19	ikeda_08685	1549360	1549780	Yes
+NA	Ankyrin repeat-containing protein	ikeda_08690	1549797	1549974	Yes
+NA	Conjugal transfer protein TraI	ikeda_08695	1550310	1550697	Yes
+NA	hypothetical protein	ikeda_08700	1550820	1551489	No
+NA	Conjugal transfer protein TraA	ikeda_08705	1551686	1552442	Yes
+NA	Conjugal transfer protein TraA	ikeda_08710	1552498	1553641	Yes
+NA	Conjugal transfer protein TraA	ikeda_08715	1553708	1553861	Yes
+traD	conjugal transfer protein TraD, complete TraD	ikeda_08720	1554139	1554604	No
+NA	hypothetical protein	ikeda_08725	1554607	1556173	Yes
+dnaB	Replicative DNA helicase	ikeda_08730	1556882	1557215	Yes
+NA	DnaA N-terminal domain protein	ikeda_08735	1557278	1558121	Yes
+NA	hypothetical protein	ikeda_08740	1558096	1558480	Yes
+NA	ATP-binding protein	ikeda_08745	1558781	1558931	No
+NA	DDE superendonuclease family protein	ikeda_08750	1558959	1559202	No
+NA	Transposase	ikeda_08755	1559280	1559457	No
+NA	Transposase	ikeda_08760	1559620	1559806	No
+ykfC	reverse transcriptase	ikeda_08765	1560447	1561383	Yes
+NA	IS110-like element ISOt5 family transposase	ikeda_08770	1561635	1562598	No
+NA	reverse transcriptase	ikeda_08775	1562613	1562832	Yes
+NA	Putative integrase	ikeda_08780	1563656	1564679	Yes
+NA	hypothetical protein	ikeda_08785	1566411	1567200	Yes
+NA	cell envelope biogenesis protein OmpA	ikeda_08790	1567975	1568191	No
+NA	Putative ompA-like autotransporter	ikeda_08795	1568226	1568376	No
+ykfC	reverse transcriptase	ikeda_08800	1568940	1570080	No
+phrB	deoxyribodipyrimidine photo-lyase	ikeda_08805	1571001	1572513	No
+trxB	thioredoxin-disulfide reductase	ikeda_08810	1572533	1573496	Yes
+yfdV	AEC family transporter	ikeda_08815	1573625	1574549	Yes
+tolB	translocation protein TolB	ikeda_08820	1574724	1576086	Yes
+lpd	dihydrolipoyl dehydrogenase	ikeda_08825	1576419	1577847	Yes
+ubiE	SAM-dependent methyltransferase	ikeda_08830	1577938	1578742	Yes
+tsa22	major outer membrane protein TSA22	ikeda_08835	1578917	1579526	No
+NA	Putative conjugative transfer protein TraA	ikeda_08840	1579696	1580365	Yes
+NA	Putative conjugative transfer protein TraA	ikeda_08845	1580342	1580795	Yes
+NA	Transposase	ikeda_08850	1580904	1581144	No
+NA	Conjugal transfer protein TraD	ikeda_08855	1581363	1581534	No
+NA	transposase	ikeda_08860	1581601	1582480	Yes
+NA	Tnp-DDE-dom domain-containing protein	ikeda_08865	1582649	1582811	Yes
+NA	DnaA-N domain-containing protein	ikeda_08870	1583063	1584155	No
+NA	transposase	ikeda_08875	1584273	1585272	No
+traD	conjugal transfer protein TraD, complete TraD	ikeda_08880	1585344	1585743	Yes
+NA	IS110-like element ISOt5 family transposase	ikeda_08885	1586043	1587006	Yes
+traG	conjugal transfer protein TraG	ikeda_08890	1587182	1587518	Yes
+NA	Conjugal transfer protein TraH	ikeda_08895	1587517	1587997	Yes
+NA	Putative conjugative transfer protein TraH	ikeda_08900	1588191	1588821	Yes
+ykfC	reverse transcriptase	ikeda_08905	1589233	1590373	Yes
+NA	hypothetical protein	ikeda_08910	1590557	1590710	Yes
+NA	hypothetical protein	ikeda_08915	1591182	1592982	Yes
+NA	Transposase	ikeda_08920	1593494	1593878	Yes
+virD4	type IV secretion system protein VirD4	ikeda_08925	1594094	1595867	Yes
+virB11	type VI secretion protein	ikeda_08930	1595866	1596856	Yes
+virB10	type VI secretion protein	ikeda_08935	1596855	1598385	Yes
+virB9-2	P-type conjugative transfer protein VirB9	ikeda_08940	1598384	1598822	Yes
+virB8-2	type VI secretion protein	ikeda_08945	1598805	1599486	Yes
+virB7	DNA polymerase III subunit beta	ikeda_08950	1599724	1601023	Yes
+dnaA	chromosomal replication initiation protein DnaA	ikeda_08955	1601041	1602454	Yes
+sdhE	Succinate dehydrogenase flavin-adding protein, antitoxin component of the CptAB toxin-antitoxin module	ikeda_08960	1602799	1603063	No
+aNKYR	Ankyrin repeat protein with 8 ankyrin repeats	ikeda_08965	1603486	1605013	No
+ygaA	Uncharacterized membrane protein YqaA, VTT domain	ikeda_08975	1606139	1606562	Yes
+ubiD	3-polyprenyl-4-hydroxybenzoate decarboxylase	ikeda_08980	1606892	1608386	No
+pBP2	penicillin-binding protein 2	ikeda_08985	1608508	1610260	Yes
+mreD	Rod shape-determining protein MreD	ikeda_08990	1610249	1610735	Yes
+rodA	rod shape-determining protein RodA	ikeda_08995	1610740	1611874	Yes
+tsaE	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE	ikeda_09000	1612044	1612467	Yes
+alkA	3-methyladenine DNA glycosylase	ikeda_09005	1612482	1613019	Yes
+ftsH	ATP-dependent metalloprotease	ikeda_09010	1613053	1614937	Yes
+tilS	tRNA lysidine(34) synthetase TilS	ikeda_09015	1614953	1616279	Yes
+nuoN	NADH-quinone oxidoreductase subunit N	ikeda_09020	1616604	1618044	Yes
+nuoM	NADH-quinone oxidoreductase subunit M	ikeda_09025	1618088	1619588	Yes
+erhM	2-hydroxyacid dehydrogenase	ikeda_09030	1619588	1621496	Yes
+nuoK	NADH-quinone oxidoreductase subunit K	ikeda_09035	1621499	1621823	Yes
+nuoJ	NADH:ubiquinone oxidoreductase subunit J	ikeda_09040	1621806	1622415	Yes
+nuoI	NADH-quinone oxidoreductase subunit I	ikeda_09045	1622418	1622904	Yes
+nuoH	NADH:ubiquinone oxidoreductase subunit H	ikeda_09050	1622957	1624001	Yes
+nuoG	NADH-quinone oxidoreductase subunit G	ikeda_09055	1624057	1626097	Yes
+frr	ribosome-recycling factor	ikeda_09060	1626376	1626940	No
+NA	porin	ikeda_09065	1627133	1628414	Yes
+dcd	deoxycytidine triphosphate deaminase	ikeda_09070	1629008	1629575	No
+secB	protein-export protein SecB	ikeda_09075	1629616	1630111	No
+NA	hypothetical protein	ikeda_09080	1630285	1630405	Yes
+xerD	integrase, complete integrase	ikeda_09085	1631108	1632308	No
+traL	conjugal transfer protein traL, complete TraL	ikeda_09090	1632440	1632764	No
+traE	conjugal transfer protein TraE, complete TraE	ikeda_09095	1632763	1633315	No
+NA	hypothetical protein	ikeda_09100	1633311	1633614	No
+NA	hypothetical protein	ikeda_09105	1633613	1633718	No
+NA	Putative conjugative transfer protein TraB	ikeda_09110	1633817	1634924	No
+NA	Conjugal transfer protein TraC	ikeda_09115	1634925	1635045	No
+NA	hypothetical protein	ikeda_09120	1635194	1636010	No
+NA	Transposase	ikeda_09125	1636060	1636306	Yes
+NA	conjugal transfer protein	ikeda_09130	1636694	1637378	No
+NA	Conjugative transfer protein	ikeda_09135	1637501	1637783	No
+traN	conjugal transfer protein TraN, complete TraN	ikeda_09140	1637779	1639471	No
+traF	conjugal transfer protein TraF	ikeda_09145	1639482	1640094	No
+NA	Conjugal transfer protein TraH	ikeda_09150	1640169	1641063	No
+NA	Conjugal transfer protein TraH	ikeda_09155	1641016	1641247	No
+NA	Conjugal transfer protein TraD	ikeda_09160	1641254	1641572	No
+NA	FtsK/SpoIIIE family protein	ikeda_09165	1641546	1641747	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	ikeda_09170	1641809	1642820	No
+NA	transposase	ikeda_09175	1642837	1643377	Yes
+dapD	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	ikeda_09180	1643432	1644284	Yes
+NA	Znf/thioredoxin-put domain-containing protein	ikeda_09185	1644384	1645029	No
+NA	hypothetical protein	ikeda_09190	1645390	1645510	Yes
+kdpD	K+-sensing histidine kinase KdpD	ikeda_09200	1646105	1646525	No
+NA	ATP-binding protein	ikeda_09205	1646547	1646952	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	ikeda_09210	1646952	1647711	No
+tPR	Tetratricopeptide (TPR) repeat	ikeda_09215	1648163	1648523	Yes
+NA	hypothetical protein	ikeda_09220	1648619	1648763	Yes
+NA	hypothetical protein	ikeda_09225	1648893	1649025	Yes
+fimB	Integrase/recombinase, includes phage integrase	ikeda_09230	1649267	1649810	Yes
+NA	Integrase	ikeda_09235	1650093	1650267	Yes
+NA	DUF2312 domain-containing protein	ikeda_09240	1650551	1650797	Yes
+rnhB	ribonuclease HII	ikeda_09245	1651362	1651980	Yes
+miaA	tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA	ikeda_09250	1652049	1653087	No
+purF	amidophosphoribosyltransferase	ikeda_09255	1653070	1653817	No
+hda	DnaA regulatory inactivator Hda	ikeda_09260	1653946	1654597	No
+ycbZ	endopeptidase La	ikeda_09265	1654660	1657033	Yes
+tdcB	threonine dehydratase	ikeda_09270	1657149	1658163	No
+NA	hypothetical protein	ikeda_09275	1658727	1660596	Yes
+NA	RNA-binding protein	ikeda_09280	1661148	1662918	Yes
+NA	DDE superendonuclease family protein	ikeda_09285	1663296	1663653	No
+NA	hypothetical protein	ikeda_09290	1663664	1663817	No
+tnp-IS630	IS630 family transposase	ikeda_09295	1663874	1664249	No
+NA	Transposase	ikeda_09300	1664235	1664370	No
+tnp-ISOt3	IS630 family ISOt3 transposase	ikeda_09305	1664426	1664801	No
+NA	IS630 family transposase	ikeda_09310	1664787	1665294	No
+proP	proline/betaine transporter	ikeda_09315	1666217	1667438	Yes
+hemC	hydroxymethylbilane synthase	ikeda_09320	1667749	1668646	Yes
+icd	isocitrate dehydrogenase	ikeda_09325	1668818	1670378	No
+NA	Transposase	ikeda_09335	1670874	1671021	Yes
+putP	sodium:proline symporter	ikeda_09340	1671519	1674954	No
+NA	Transposase, YhgA-like family protein	ikeda_09345	1675144	1675348	Yes
+NA	Conjugal transfer protein TraI	ikeda_09350	1675399	1676518	Yes
+NA	Conjugal transfer protein TraA	ikeda_09355	1676801	1677584	Yes
+NA	Putative conjugative transfer protein TraA	ikeda_09360	1677640	1678564	Yes
+NA	Conjugal transfer protein TraA	ikeda_09365	1678605	1679622	Yes
+traD	conjugal transfer protein TraD, complete TraD	ikeda_09370	1679899	1680355	No
+NA	hypothetical protein	ikeda_09375	1680413	1680902	Yes
+NA	hypothetical protein	ikeda_09380	1680943	1681381	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_09385	1681747	1682362	Yes
+NA	IS982 family transposase	ikeda_09390	1682645	1683041	Yes
+NA	Transposase	ikeda_09395	1683135	1683507	Yes
+traL	conjugal transfer protein traL, complete TraL	ikeda_09400	1683960	1684284	No
+NA	Conjugal transfer protein TraE	ikeda_09405	1684283	1684700	No
+NA	RelA/SpoT-related protein	ikeda_09410	1684641	1684818	No
+NA	transposase	ikeda_09415	1684939	1685866	No
+NA	OTT_1508-like deaminase	ikeda_09420	1686161	1687052	Yes
+ykfC	reverse transcriptase	ikeda_09425	1687327	1688467	Yes
+NA	hypothetical protein	ikeda_09430	1688651	1688804	Yes
+baeS	histidine kinase	ikeda_09435	1688976	1689267	No
+baeS	sensor histidine kinase	ikeda_09440	1689494	1689968	No
+NA	ATP-binding protein	ikeda_09445	1689990	1690929	No
+baeS	ATP-binding protein	ikeda_09450	1690947	1691442	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	ikeda_09455	1691483	1691876	No
+NA	transposase	ikeda_09460	1692192	1693191	No
+NA	Conjugal transfer protein TraD	ikeda_09465	1693258	1693522	Yes
+NA	SycD/LcrH family type III secretion system chaperone	ikeda_09470	1693886	1694960	Yes
+NA	Conjugal transfer protein TraD	ikeda_09475	1695307	1695547	Yes
+NA	hypothetical protein	ikeda_09480	1695715	1696135	No
+NA	hypothetical protein	ikeda_09485	1696157	1697111	No
+NA	hypothetical protein	ikeda_09490	1697157	1697409	No
+traD	conjugal transfer protein TraD, complete TraD	ikeda_09495	1697481	1697940	Yes
+traA	conjugal transfer protein TraA	ikeda_09500	1698218	1700231	No
+NA	Putative conjugative transfer protein TraI	ikeda_09505	1700472	1700865	No
+rpnC	Recombination-promoting DNA endonuclease RpnC/YadD	ikeda_09510	1700850	1701498	Yes
+NA	Conjugal transfer protein TraI	ikeda_09515	1701549	1702620	Yes
+traA	conjugal transfer protein TraA	ikeda_09520	1702950	1704699	Yes
+NA	Conjugal transfer protein TraA	ikeda_09525	1704740	1705757	Yes
+traD	conjugal transfer protein TraD, complete TraD	ikeda_09530	1706034	1706490	No
+NA	hypothetical protein	ikeda_09535	1706587	1707124	No
+NA	RelA/SpoT-related protein	ikeda_09540	1707209	1707428	Yes
+ykfC	reverse transcriptase	ikeda_09545	1707901	1709041	Yes
+xerD	integrase, complete integrase	ikeda_09550	1709641	1710841	Yes
+NA	hypothetical protein	ikeda_09555	1711408	1711675	No
+NA	hypothetical protein	ikeda_09560	1711740	1711992	No
+NA	hypothetical protein	ikeda_09565	1712234	1712726	No
+glpE	Thiosulfate sulfurtransferase GlpE	ikeda_09570	1712764	1713514	Yes
+tim44	transporter	ikeda_09575	1713624	1714260	Yes
+NA	Transposase	ikeda_09580	1714715	1714853	Yes
+NA	IS630 family transposase	ikeda_09585	1714952	1715075	Yes
+NA	IS630 family transposase	ikeda_09590	1715016	1715229	Yes
+midA	SAM-dependent methyltransferase, MidA family	ikeda_09595	1715273	1716428	Yes
+NA	hypothetical protein	ikeda_09600	1716949	1717138	No
+NA	Conjugative transfer protein	ikeda_09605	1717880	1718174	Yes
+NA	Putative transposase	ikeda_09610	1718942	1719080	Yes
+ykfC	Retron-type reverse transcriptase	ikeda_09615	1719513	1719780	No
+ykfC	reverse transcriptase	ikeda_09620	1720303	1721443	No
+NA	Membrane protein	ikeda_09625	1721740	1721830	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ikeda_09630	1721876	1722521	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_09635	1722558	1722954	Yes
+NA	SpoT-like ppGpp hydrolase domain protein	ikeda_09640	1722965	1723130	Yes
+dnaB	replicative DNA helicase	ikeda_09645	1723364	1724801	Yes
+NA	DnaA-N domain-containing protein	ikeda_09650	1724809	1725481	Yes
+xerD	integrase, complete integrase	ikeda_09655	1726047	1727247	No
+traL	conjugal transfer protein traL, complete TraL	ikeda_09660	1727379	1727703	No
+traE	conjugal transfer protein TraE, complete TraE	ikeda_09665	1727702	1728254	No
+traK1	conjugal transfer protein traK1, complete TraK-1	ikeda_09670	1728250	1728727	No
+traK2	conjugal transfer protein traK2, complete TraK-2	ikeda_09675	1729091	1729421	No
+NA	Putative conjugative transfer protein TraB	ikeda_09680	1729739	1730558	No
+NA	Conjugal transfer protein	ikeda_09685	1730520	1730790	No
+traV	conjugal transfer protein TraV, complete TraV	ikeda_09690	1730789	1731119	No
+traC	conjugal transfer protein TraC	ikeda_09695	1731099	1733112	No
+NA	Conjugal transfer protein TraC	ikeda_09700	1733310	1733589	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	ikeda_09705	1733585	1734245	No
+NA	hypothetical protein	ikeda_09710	1734331	1734535	No
+traU	conjugal transfer protein TraU, complete TraU	ikeda_09715	1734568	1735513	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ikeda_09720	1735535	1735919	No
+traN	conjugal transfer protein TraN, complete TraN	ikeda_09725	1735915	1737607	No
+traF	conjugal transfer protein TraF, complete TraF	ikeda_09730	1737618	1738302	No
+NA	Conjugal transfer protein TraH	ikeda_09735	1738298	1738928	No
+NA	Putative conjugative transfer protein TraH	ikeda_09740	1738977	1739322	No
+tnp-ISOt3	IS630 family ISOt3 transposase	ikeda_09745	1739378	1739753	No
+NA	IS630 family transposase	ikeda_09750	1739739	1740246	No
+NA	Conjugal transfer protein TraH	ikeda_09755	1740355	1740568	No
+traG	conjugal transfer protein TraG	ikeda_09760	1740567	1740903	No
+NA	IS110-like element ISOt5 family transposase	ikeda_09765	1741079	1742042	No
+NA	Transposase	ikeda_09770	1742079	1742208	Yes
+putP	sodium:proline symporter	ikeda_09775	1742656	1745908	No
+NA	transposase	ikeda_09780	1746028	1746991	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_09785	1747112	1747688	Yes
+baeS	sensor histidine kinase	ikeda_09790	1747788	1748646	Yes
+NA	Histidine kinase domain-containing protein	ikeda_09795	1748667	1749396	Yes
+dam	DNA methyltransferase	ikeda_09800	1749771	1750581	No
+NA	hypothetical protein	ikeda_09805	1750584	1751133	Yes
+NA	Ankyrin repeat protein with 5 ankyrin repeats	ikeda_09810	1751180	1751681	Yes
+dnaB	replicative DNA helicase	ikeda_09815	1752042	1753479	Yes
+NA	DnaA-N domain-containing protein	ikeda_09820	1753487	1754681	Yes
+NA	Conjugal transfer protein TraH	ikeda_09825	1754756	1755452	Yes
+NA	Putative conjugative transfer protein TraH	ikeda_09830	1755441	1755555	Yes
+NA	Conjugal transfer protein TraF	ikeda_09835	1755551	1755659	Yes
+NA	integrase	ikeda_09840	1755630	1756023	Yes
+NA	reverse transcriptase	ikeda_09845	1756605	1756902	Yes
+znuB	metal ABC transporter permease	ikeda_09850	1757660	1758449	Yes
+znuC	zinc ABC transporter ATP-binding protein	ikeda_09855	1758429	1759143	Yes
+ybaB	YbaB/EbfC family nucleoid-associated protein	ikeda_09860	1759412	1759973	Yes
+dnaX	DNA polymerase III subunit gamma/tau	ikeda_09865	1759984	1761664	Yes
+scaD	ScaD autotransporter protein	ikeda_09875	1762718	1765223	No
+hisJ	PBPb domain-containing protein	ikeda_09880	1765314	1766790	Yes
+xseA	exodeoxyribonuclease VII large subunit	ikeda_09885	1766848	1768219	Yes
+NA	hypothetical protein	ikeda_09890	1768314	1768494	No
+phnP	MBL fold metallo-hydrolase	ikeda_09895	1768414	1769164	Yes
+NA	phospholipid phosphatase	ikeda_09900	1769268	1769937	No
+rplU	50S ribosomal protein L21	ikeda_09905	1770074	1770401	No
+rpmA	50S ribosomal protein L27	ikeda_09910	1770441	1770711	No
+NA	Transposase	ikeda_09915	1772828	1773032	No
+NA	hypothetical protein	ikeda_09920	1773181	1773322	Yes
+NA	hypothetical protein	ikeda_09925	1773933	1774098	Yes
+NA	Conjugal transfer protein TraC	ikeda_09935	1775963	1776116	No
+NA	Putative transposase	ikeda_09940	1776381	1776531	Yes
+NA	IS5 family transposase ISOt6	ikeda_09945	1776687	1776879	Yes
+NA	IS5 family transposase ISOt6	ikeda_09950	1777083	1777200	Yes
+xerD	Site-specific recombinase XerD	ikeda_09955	1777458	1778115	No
+traL	conjugal transfer protein traL, complete TraL	ikeda_09960	1778252	1778576	No
+traE	conjugal transfer protein TraE, complete TraE	ikeda_09965	1778575	1779127	No
+traK1	conjugal transfer protein traK1, complete TraK-1	ikeda_09970	1779123	1779600	No
+traK2	conjugal transfer protein traK2, complete TraK-2	ikeda_09975	1779744	1780077	No
+NA	Conjugal transfer protein	ikeda_09980	1780130	1780526	No
+NA	ATP-binding protein	ikeda_09985	1780619	1781003	No
+tnp-ISOt3	IS630 family ISOt3 transposase	ikeda_09990	1781334	1781709	No
+NA	IS630 family transposase	ikeda_09995	1781695	1782202	No
+tnp-IS630	IS630 family transposase	ikeda_10000	1782278	1782617	No
+NA	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase family protein	ikeda_10005	1782822	1783086	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_10010	1783127	1783715	No
+xthA2	exodeoxyribonuclease III	ikeda_10015	1784217	1784730	No
+pgsA	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	ikeda_10020	1785166	1785715	Yes
+NA	DDE superendonuclease family protein	ikeda_10025	1786277	1786715	Yes
+NA	IS5 family transposase ISOt6	ikeda_10030	1787188	1787323	No
+scaE	ScaE autotransporter protein	ikeda_10035	1787965	1790218	No
+pipB2	Secreted effector protein PipB2	ikeda_10040	1790728	1794355	No
+NA	Transposase	ikeda_10045	1794709	1795027	Yes
+tyrS	tyrosine--tRNA ligase	ikeda_10050	1796360	1797602	Yes
+NA	Replicative DNA helicase	ikeda_10055	1798099	1798270	No
+NA	hypothetical protein	ikeda_10060	1798744	1799101	No
+NA	Conjugative transfer protein	ikeda_10065	1799242	1799476	No
+NA	Conjugal transfer protein TraC	ikeda_10070	1799685	1800030	No
+NA	IS5 family transposase ISOt6	ikeda_10075	1800971	1801280	No
+sppA	S49 family peptidase	ikeda_10080	1801405	1802323	Yes
+miaB	tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB	ikeda_10085	1802613	1803963	No
+hemF	oxygen-dependent coproporphyrinogen oxidase	ikeda_10090	1804126	1804963	No
+NA	DUF2610 domain-containing protein	ikeda_10095	1805102	1805444	No
+NA	Transposase	ikeda_10100	1806031	1806463	Yes
+NA	hypothetical protein	ikeda_10105	1806914	1807058	No
+NA	Putative integrase	ikeda_10110	1807475	1808021	No
+NA	Integrase	ikeda_10115	1808057	1808237	No
+NA	Putative integrase	ikeda_10120	1808375	1808585	No
+NA	Putative integrase	ikeda_10125	1808749	1809673	Yes
+trm112	tetraacyldisaccharide 4'-kinase	ikeda_10130	1810606	1810774	Yes
+NA	hypothetical protein	ikeda_10135	1810903	1811125	Yes
+rpmE	50S ribosomal protein L31	ikeda_10145	1811400	1811625	Yes
+rpmB	50S ribosomal protein L28	ikeda_10150	1811634	1811922	Yes
+eamA	EamA family transporter	ikeda_10155	1812166	1813039	No
+NA	MFS transporter	ikeda_10160	1813056	1814313	No
+NA	hypothetical protein	ikeda_10165	1815041	1815794	No
+pBP4	penicillin-binding protein 4	ikeda_10170	1816172	1817384	Yes
+aspS	aspartate--tRNA(Asp/Asn) ligase	ikeda_10175	1817409	1819203	Yes
+rpoB	DNA-directed RNA polymerase subunit beta'	ikeda_10180	1819466	1823657	Yes
+rpoB	DNA-directed RNA polymerase subunit beta	ikeda_10185	1823773	1827898	Yes
+rplL	50S ribosomal protein L7/L12	ikeda_10190	1828213	1828603	Yes
+rplJ	50S ribosomal protein L10	ikeda_10195	1828624	1829134	Yes
+rplA	50S ribosomal protein L1	ikeda_10200	1829137	1829887	Yes
+rplK	50S ribosomal protein L11	ikeda_10205	1829890	1830337	Yes
+nusG	transcription termination/antitermination factorNusG	ikeda_10210	1830376	1830913	Yes
+secE	preprotein translocase subunit SecE	ikeda_10215	1830955	1831156	Yes
+tuf	elongation factor Tu	ikeda_10225	1831419	1832604	Yes
+plsC	1-acyl-sn-glycerol-3-phosphate acyltransferase	ikeda_10230	1832776	1833541	Yes
+NA	hypothetical protein	ikeda_10235	1833571	1833661	Yes
+recR	recombination protein RecR	ikeda_10240	1833657	1834269	Yes
+yciB	septation protein A	ikeda_10245	1834356	1834893	Yes
+fTR1	iron permease	ikeda_10250	1834896	1835736	Yes
+NA	cupredoxin domain-containing protein	ikeda_10255	1835764	1836130	Yes
+eAL	EAL domain-containing protein	ikeda_10265	1836595	1837825	Yes
+abcT	ABC transporter ATP-binding protein	ikeda_10270	1838013	1838745	Yes
+art	arginine ABC transporter permease	ikeda_10275	1838737	1839355	Yes
+NA	DDE transposase family protein	ikeda_10280	1840022	1840235	No
+NA	Putative transposase	ikeda_10285	1840253	1840382	No
+NA	IS982 family transposase	ikeda_10290	1840779	1841172	No
+NA	Integrase	ikeda_10300	1843888	1844155	No
+NA	Putative transposase	ikeda_10305	1845003	1845141	No
+NA	Tnp-DDE-dom domain-containing protein	ikeda_10310	1845396	1845678	No
+xerD	Site-specific recombinase XerD	ikeda_10315	1846219	1847338	No
+traL	conjugal transfer protein traL, complete TraL	ikeda_10320	1847475	1847799	No
+traE	conjugal transfer protein TraE, complete TraE	ikeda_10325	1847798	1848350	No
+traK1	conjugal transfer protein traK1, complete TraK-1	ikeda_10330	1848346	1848823	No
+traK2	conjugal transfer protein traK2, complete TraK-2	ikeda_10335	1849187	1849523	No
+traB	conjugal transfer protein TraB, complete TraB	ikeda_10340	1849576	1850911	No
+NA	conjugal transfer protein, complete TraV	ikeda_10345	1850910	1851204	No
+traC	conjugal transfer protein TraC, complete TraC	ikeda_10350	1851184	1853674	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	ikeda_10355	1853670	1854330	No
+NA	hypothetical protein	ikeda_10360	1854415	1854619	No
+traU	conjugal transfer protein TraU, complete TraU	ikeda_10365	1854655	1855600	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ikeda_10370	1855622	1856006	No
+traN	conjugal transfer protein TraN, complete TraN	ikeda_10375	1856002	1857697	No
+traF	conjugal transfer protein TraF, complete TraF	ikeda_10380	1857708	1858398	No
+NA	Conjugal transfer protein TraH	ikeda_10385	1858394	1859288	No
+NA	Conjugal transfer protein TraH	ikeda_10390	1859241	1859697	No
+traG	conjugal transfer protein TraG, complete TraG	ikeda_10395	1859696	1862324	No
+NA	TPR repeat-containing protein 01_07	ikeda_10400	1862336	1863476	No
+traD	conjugal transfer protein TraD, complete TraD	ikeda_10405	1863475	1865230	No
+NA	transposase	ikeda_10410	1865231	1866251	Yes
+NA	Putative conjugative transfer protein TraI, complete TraI	ikeda_10415	1866235	1868908	Yes
+traA	conjugal transfer protein TraA	ikeda_10420	1869176	1871582	Yes
+NA	Conjugal transfer protein TraA	ikeda_10425	1871606	1872005	Yes
+traD	conjugal transfer protein TraD, complete TraD	ikeda_10430	1872299	1872755	No
+NA	transposase	ikeda_10435	1872822	1873737	Yes
+tnp-IS630	IS630 family transposase	ikeda_10440	1873947	1874454	Yes
+tnp-IS630	IS630 family transposase	ikeda_10445	1874595	1874784	Yes
+NA	Transposase	ikeda_10450	1875084	1875672	No
+NA	Transposase	ikeda_10455	1876021	1876150	No
+sleL	Spore cortex hydrolase SleL/YaaH, N-acetylglucosaminidase of GH18 family	ikeda_10460	1876109	1877228	Yes
+tnp-IS630	IS630 family transposase	ikeda_10465	1877759	1878134	No
+NA	Transposase	ikeda_10470	1878120	1878255	No
+tnp-ISOt3	IS630 family ISOt3 transposase	ikeda_10475	1878311	1878686	No
+tnp-IS630	IS630 family transposase	ikeda_10480	1878672	1879179	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_10485	1879127	1879721	Yes
+baeS	sensor histidine kinase	ikeda_10490	1879856	1880714	Yes
+baeS	sensor histidine kinase	ikeda_10495	1880697	1881465	Yes
+dam	DNA methyltransferase	ikeda_10500	1881821	1882634	No
+NA	Putative ompA-like autotransporter	ikeda_10505	1882637	1883147	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ikeda_10510	1883247	1883895	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_10515	1883932	1884508	Yes
+dnaB	replicative DNA helicase	ikeda_10520	1884741	1886178	Yes
+NA	DnaA-N domain-containing protein	ikeda_10525	1886202	1887249	Yes
+NA	hypothetical protein	ikeda_10530	1887435	1887969	Yes
+NA	hypothetical protein	ikeda_10535	1888078	1888957	Yes
+csa3	IS630 family transposase	ikeda_10540	1889358	1890219	No
+NA	Transposase	ikeda_10545	1890245	1890470	No
+NA	hypothetical protein	ikeda_10550	1891205	1891358	Yes
+NA	Ankyrin repeat-containing protein	ikeda_10555	1892360	1892462	Yes
+NA	hypothetical protein	ikeda_10560	1893426	1894326	No
+NA	hypothetical protein	ikeda_10565	1894514	1895375	No
+NA	hypothetical protein	ikeda_10570	1895358	1895520	No
+NA	Transposase	ikeda_10575	1895799	1896093	Yes
+rluC	ribosomal large subunit pseudouridine synthase	ikeda_10580	1896945	1897884	Yes
+holB	DNA polymerase III subunit delta'	ikeda_10585	1897867	1898740	Yes
+ppa	inorganic pyrophosphatase	ikeda_10590	1898763	1899291	Yes
+dksA	RNA polymerase-binding protein DksA	ikeda_10595	1899376	1899808	Yes
+xerC	recombinase XerC	ikeda_10600	1899842	1900781	Yes
+mnmE	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE	ikeda_10605	1900806	1902150	Yes
+gdhA	NAD-glutamate dehydrogenase	ikeda_10610	1902231	1907157	No
+NA	Putative transposase	ikeda_10615	1907613	1907751	No
+NA	Transposase	ikeda_10620	1908138	1908570	No
+mdlB	multidrug ABC transporter ATP-binding protein	ikeda_10625	1908573	1910355	Yes
+pyrH	UMP kinase	ikeda_10630	1910404	1911157	Yes
+mraY	phospho-N-acetylmuramoyl-pentapeptide- transferase	ikeda_10635	1911384	1912476	Yes
+murF	UDP-N-acetylmuramoylalanyl-D-glutamyl-2, 6-diaminopimelate--D-alanyl-D-alanine ligase	ikeda_10640	1912465	1913875	Yes
+murE	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-di aminopimelate ligase	ikeda_10645	1913871	1915341	Yes
+pbpA2	penicillin-binding protein	ikeda_10650	1915327	1917079	Yes
+ftsL	Cell division protein FtsL	ikeda_10655	1917382	1917643	Yes
+rsmH	16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH	ikeda_10660	1917683	1918622	Yes
+dnaJ	molecular chaperone DnaJ	ikeda_10665	1918690	1919824	Yes
+dnaK	molecular chaperone DnaK	ikeda_10670	1919912	1921841	Yes
+bolA	BolA family transcriptional regulator	ikeda_10675	1922221	1922509	Yes
+fabI	enoyl-ACP reductase	ikeda_10680	1922715	1923513	No
+NA	hypothetical protein	ikeda_10685	1923711	1923840	Yes
+ykfC	reverse transcriptase	ikeda_10690	1924189	1925329	Yes
+NA	Putative ompA-like autotransporter	ikeda_10695	1925868	1926150	No
+dam	DNA methyltransferase	ikeda_10700	1926153	1926963	Yes
+NA	Histidine kinase domain-containing protein	ikeda_10705	1927338	1928067	No
+baeS	sensor histidine kinase	ikeda_10710	1928088	1928946	No
+NA	Putative spoT-like ppGpp hydrolase	ikeda_10715	1929046	1929247	No
+ykfC	reverse transcriptase	ikeda_10720	1929717	1930857	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	ikeda_10725	1931141	1931549	No
+NA	transposase	ikeda_10730	1931670	1932573	No
+traD	conjugal transfer protein TraD, complete TraD	ikeda_10735	1932640	1933096	Yes
+NA	Conjugal transfer protein TraA	ikeda_10740	1933372	1933675	No
+NA	Conjugal transfer protein TraA	ikeda_10745	1933704	1934796	No
+NA	Conjugal transfer protein TraA	ikeda_10750	1934782	1934944	No
+NA	Uncharacterized domain associated with phage/plasmid primase	ikeda_10755	1934981	1935533	No
+rpnC	transposase	ikeda_10760	1935584	1936145	No
+NA	IS110-like element ISOt5 family transposase	ikeda_10765	1936160	1937123	Yes
+NA	hypothetical protein	ikeda_10770	1937351	1937630	No
+ndk	nucleoside-diphosphate kinase	ikeda_10775	1938002	1938422	Yes
+xerD	Site-specific recombinase XerD, complete integrase	ikeda_10785	1940378	1941518	No
+bcp	peroxiredoxin	ikeda_10790	1941520	1941991	No
+traL	conjugal transfer protein traL, complete TraL	ikeda_10795	1942070	1942394	No
+traE	conjugal transfer protein TraE, complete TraE	ikeda_10800	1942393	1942945	No
+traK1	conjugal transfer protein traK1, complete TraK-1	ikeda_10805	1942941	1943418	No
+traK2	conjugal transfer protein traK2, complete TraK-2	ikeda_10810	1943782	1944112	No
+NA	Putative conjugative transfer protein TraB	ikeda_10815	1944430	1945249	No
+NA	Conjugal transfer protein	ikeda_10820	1945211	1945481	No
+traV	conjugal transfer protein TraV, complete TraV	ikeda_10825	1945480	1945810	No
+virB4	conjugal transfer protein TraC	ikeda_10830	1945790	1947593	No
+aNKYR	Ankyrin repeat-containing protein 01_02	ikeda_10835	1947491	1948502	Yes
+NA	Putative conjugative transfer protein TraU	ikeda_10840	1948671	1949244	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ikeda_10845	1949266	1949650	No
+traN	conjugal transfer protein TraN, complete TraN	ikeda_10850	1949646	1951341	No
+aNKYR	Ankyrin repeat protein with 6 ankyrin repeats	ikeda_10855	1951497	1952676	No
+traF	conjugal transfer protein TraF, complete TraF	ikeda_10860	1952879	1953602	No
+NA	Putative conjugative transfer protein TraH	ikeda_10865	1953598	1953745	No
+NA	Putative conjugative transfer protein TraH	ikeda_10870	1953826	1954492	No
+NA	Conjugal transfer protein TraH	ikeda_10875	1954445	1954901	No
+traG	conjugal transfer protein TraG	ikeda_10880	1954900	1955236	No
+NA	IS110-like element ISOt5 family transposase	ikeda_10885	1955412	1956375	No
+rpnC	transposase	ikeda_10890	1956390	1956951	Yes
+NA	Conjugal transfer protein TraI	ikeda_10895	1957002	1958208	Yes
+NA	hypothetical protein	ikeda_10900	1958388	1959453	No
+NA	Conjugal transfer protein TraA	ikeda_10905	1959756	1960539	Yes
+traA	conjugal transfer protein TraA	ikeda_10910	1960595	1962608	Yes
+traD	conjugal transfer protein TraD, complete TraD	ikeda_10915	1962886	1963342	No
+NA	transposase	ikeda_10920	1963409	1964432	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ikeda_10925	1964552	1965128	Yes
+NA	hypothetical protein	ikeda_10930	1965148	1965547	Yes
+baeS	Signal transduction histidine kinase	ikeda_10935	1965568	1966297	Yes
+NA	Site-specific DNA-methyltransferase (adenine-specific)	ikeda_10940	1966663	1966963	No
+NA	IS982 family transposase	ikeda_10945	1967372	1968248	Yes
+NA	OTT_1508-like deaminase	ikeda_10950	1968355	1969522	Yes
+aNKYR	Ankyrin repeat	ikeda_10955	1969540	1970797	Yes
+NA	Transposase	ikeda_10960	1972061	1972169	No
+NA	Transposase	ikeda_10965	1972146	1972455	No
+pepA	aminopeptidase	ikeda_10970	1972695	1974468	Yes
+ligA	DNA ligase (NAD(+)) LigA	ikeda_10975	1974464	1976564	Yes
+tadA	tRNA-specific adenosine deaminase	ikeda_10980	1976627	1977089	Yes
+fieF	Cation efflux family	ikeda_10985	1977150	1978068	Yes
+NA	transcriptional regulator	ikeda_10990	1978347	1979145	No
+NA	hypothetical protein	ikeda_10995	1979407	1979560	No
+NA	hypothetical protein	ikeda_11000	1979775	1979979	Yes
+nifU	NifU family protein	ikeda_11005	1980245	1980794	Yes
+grxD	Grx4 family monothiol glutaredoxin	ikeda_11010	1980831	1981185	Yes
+nth	endonuclease III	ikeda_11015	1981261	1981900	No
+ypfH	esterase	ikeda_11020	1981896	1982529	No
+menE,fadK	acyl-[ACP]--phospholipid O-acyltransferase	ikeda_11025	1982848	1986322	No
+NA	(P)pGpp hydrolase	ikeda_11030	1986835	1986982	Yes
+dnaB	Replicative DNA helicase	ikeda_11035	1987217	1987589	Yes
+NA	DDE superendonuclease family protein	ikeda_11040	1987629	1987746	Yes
+NA	Transposase	ikeda_11045	1988295	1988499	No
+rnc	ribonuclease III	ikeda_11050	1988688	1989429	Yes
+lepB	signal peptidase I	ikeda_11055	1989483	1990224	Yes
+NA	IS982 family transposase	ikeda_11060	1990789	1991665	No
+NA	IS630 family transposase	ikeda_11065	1991968	1992250	No
+sdhB	succinate dehydrogenase iron-sulfur subunit	ikeda_11070	1992276	1993062	Yes
+sdhA	succinate dehydrogenase flavoprotein subunit	ikeda_11075	1993096	1994884	Yes
+sdhD	succinate dehydrogenase, hydrophobic membrane anchor protein	ikeda_11080	1995078	1995468	Yes
+sdhC	succinate dehydrogenase, cytochrome b556 subunit	ikeda_11085	1995498	1995849	Yes
+NA	hypothetical protein	ikeda_11090	1996564	1996765	Yes
+NA	IS110-like element ISOt5 family transposase	ikeda_11095	1997064	1998027	No
+NA	DnaA-N domain-containing protein	ikeda_11100	1998150	1998867	Yes
+NA	hypothetical protein	ikeda_11105	1998842	1999073	Yes
+NA	hypothetical protein	ikeda_11110	1999290	1999662	Yes
+NA	C48 family peptidase	ikeda_11115	1999883	2003990	Yes
+cyaY	iron donor protein CyaY	ikeda_11120	2005115	2005448	No
+mdlB	ATP-binding protein	ikeda_11125	2005440	2007168	No
+NA	Putative transposase	ikeda_11130	2007712	2007817	No
+NA	DDE superendonuclease family protein	ikeda_11135	2007828	2008209	No
+NA	hypothetical protein	ikeda_11140	2008239	2008338	Yes
