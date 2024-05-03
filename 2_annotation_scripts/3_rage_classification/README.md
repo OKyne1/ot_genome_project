@@ -53,9 +53,20 @@ To be a complete RAGE, it must have the boundries (already identified), all tra 
 These scripts identify **100%** of complete RAGEs (3/3) but it also identifies **17/52** of the complete RAGEs with truncated genes. This is probably better than underclassification, however, we need to find a way to identify which of these are not truncated.
 
 
+## RAGE gene completeness
+Overclassification of RAGEs, is a result of truncated or degraded genes not being identified. Using a Blast+ script 
+
+Method:
+1. Blast+ search of the genomes genes against a database of complete tra genes and complete integrases
+2. Testing the percentage of the genome aligned
+
+This was successful in identifying >95% of all cases (when testing 7 genomes using a db of the 8th), consequently the coverage will be increased when the all 8 are used in the db.
+
+**Need to write this information into the gbff**
+
 ## Current limitations
-- Edge case mentioned above (this is still a very rare case so may not be worth considering)
 - Need to make it work for contigs
-- May want to make the scripts more readable/shorter by breaking them into smaller functions/chunks
-- Handle the identification of complete RAGEs with truncated genes
+- Handle the identification of complete RAGEs with truncated genes?
 - Bed files are currently indexed wrong. Need to -1 from all start entries (not done yet as it makes comparisons easier)
+- Need to add in the information from the completeness checks (and trak1 and trak2)
+- Add complete, as a requirement for the complete RAGEs
