@@ -1,0 +1,20 @@
+These are the most recent bakta annotation files (240322).
+
+all_jeanne_annotations.faa:
+1. File contains jeannes annotations (after considerable cleaning (name formating etc) and removing truncated/degraded/pseudo proteins)
+2. File gene products have been cleaned/improved
+3. Currently gta proteins need renaming as currently they just have my placeholder names.
+
+combined_expert.faa
+- These largely remain the same as in the previous run (directory 19 in bakta (on computer)), analysis of jeanne traA annotations showed that they were all between 830 and 958 bp. Consequently, sequences with lengths between 700 and 1200 were chosen (fairly arbitary) from ncbi.
+- Used this code to clean the headers: awk -F' ' '/^>/ {printf ">%s 90~~~80~~~80~~~traA~~~conjugal transfer protein TraA~~~\n", $1; next} {print}' traa.faa > traa_cleaned.faa
+- Used cat to join all the different faa files
+
+Proteins with modified confidences (80~~~80~~~80~~~ instead of 90~~~80~~~80~~~):
+- scaD
+- scaA
+- tsa22
+- tsa56
+These genes were modified due to the variability of their sequences and were tested thoroughly)
+
+all_jeanne_annotations.faa and combined_expert.faa were then joined.
