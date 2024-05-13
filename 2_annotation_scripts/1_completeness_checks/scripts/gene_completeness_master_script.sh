@@ -25,5 +25,5 @@ for gbff_file in *.gbff; do
     # Run the Python script with the gbff and txt file names
     python3 "$script_dir2"/3_writing_to_gbff.py "$gbff_file" "$txt_file"
 done
-rm *.fna *_blast.txt *_blast_complete.txt # if trouble shooting, you may want to comment this line to see what files are produced.
 echo "The script seems to be finished. Hopefully it worked."
+# do some file cleaning up
