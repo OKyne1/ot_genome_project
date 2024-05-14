@@ -2,8 +2,11 @@
 This approach uses bakta, a rapid genome annotation tool (which doesn't require species specific databases) and enables user provided genes.
 
 ## Curated Proteins
-1. Gene annotations from Giengkam et al. 2023, with truncated, pseudo or degraded proteins removed. Also all domain based annotations were removed (e.g. Ank and tpr) to priorise more specific naming
+1. Gene annotations from Giengkam et al. 2023
 2. Genes from NCBI for increased coverage.
+
+### Manual Annotations
+Substantial cleaning of the dataset from Giengkam et al. 2023 was performed to create this database. This involved the removal of any truncated, pseudo or degraded sequences as well as removal of domain based annotations (e.g. ank and tprs) as these could result in less specific annotations.
 
 ### NCBI Proteins
 *Orientia tsutsugamushi* protein sequences from NCBI: cinA, scaA, scaB, scaD, scaE, secA, traA, traG, tsa22, tsa47 and tsa56.
