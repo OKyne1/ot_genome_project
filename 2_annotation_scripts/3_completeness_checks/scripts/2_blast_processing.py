@@ -1,14 +1,10 @@
 import sys
 import os
 
-# Blast commands: blastn -query genome.fna -db path/to/rage_complete_db/complete_rage -out genome_name.txt -outfmt 6 -num_alignments 1 -evalue 1e-30
-
 # Usage: python3 blast_processing.py blast_outputs.txt (any number)
 
-# This script only works for blastp results
-
 def process_blast_output(blast_file):
-    # awk '/^>/ {header = "\"" substr($0, 2) "\""; getline; print header ": " length($0)","}' all_full_tra_proteins.fna # code used to make the dict
+    # Define the gene lengths
     gene_lengths = {
         "Full-length_Boryong_01982_TraA": 829,
         "Full-length_Boryong_02264_TraA": 829,
@@ -1357,13 +1353,30 @@ def process_blast_output(blast_file):
             columns = line.strip().split('\t')
             gene_name_match = columns[1]
             gene_name_output = columns[0]
-            start = int(columns[8])
-            end = int(columns[9])
+            start = int(columns[6])
+            end = int(columns[7])
 
-            # Create a list of zeros of the gene length
+            # Get the gene length from the dictionary
             gene_length = gene_lengths.get(gene_name_match)
             if gene_length is None:
                 continue
+
+            # Store the old end value
+            old_end = end
+
+            # Ensure the end value does not exceed the gene length
+            if end > gene_length:
+                end = gene_length
+
+            # Ensure start is within valid range
+            if start < 1:
+                start = 1
+
+            # Print old and new end values if they are different
+            if old_end != end:
+                print(f"For gene '{gene_name_output}', adjusted end value from {old_end} to {end}")
+
+            # Create a list of zeros of the gene length
             gene_list = [0] * gene_length
 
             # Mark the matching positions as 1s
