@@ -63,8 +63,4 @@ Method:
 This was successful in identifying >95% of all cases (when testing 7 genomes using a db of the 8th), consequently the coverage will be increased when the all 8 are used in the db.
 
 ## Current limitations
-- Need to make it work for contigs
-- Handle the identification of complete RAGEs with truncated genes?
 - Bed files are currently indexed wrong. Need to -1 from all start entries (not done yet as it makes comparisons easier)
-- Need to add in the information from the completeness checks (and trak1 and trak2)
-- Add complete, as a requirement for the complete RAGEs
