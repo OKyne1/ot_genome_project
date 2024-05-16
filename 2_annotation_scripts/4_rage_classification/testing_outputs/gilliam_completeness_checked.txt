@@ -1,0 +1,2711 @@
+Gene	Product	Locus	Start	End	Complement
+dnaA	chromosomal replication initiation protein DnaA	gilliam_00005	0	1413	No
+virB7	DNA polymerase III subunit beta	gilliam_00010	1431	2730	No
+virB8-2	type VI secretion protein	gilliam_00015	2968	3649	No
+virB9-2	P-type conjugative transfer protein VirB9	gilliam_00020	3632	4070	No
+virB10	type VI secretion protein	gilliam_00025	4069	5602	No
+virB11	type VI secretion protein	gilliam_00030	5598	6588	No
+virD4	type IV secretion system protein VirD4	gilliam_00035	6587	8360	No
+NA	hypothetical protein	gilliam_00040	8368	8527	No
+NA	IS5 family transposase ISOt6	gilliam_00045	8803	8959	No
+NA	IS630 family transposase	gilliam_00050	9332	9596	No
+tnp-IS630	IS630 family transposase	gilliam_00055	9580	9988	No
+NA	Putative transposase	gilliam_00060	10211	10385	No
+NA	IS5 family transposase ISOt6	gilliam_00065	10338	10503	No
+NA	hypothetical protein	gilliam_00070	10951	12751	No
+NA	DDE superendonuclease family protein	gilliam_00075	13233	13413	No
+NA	DDE superendonuclease family protein	gilliam_00080	13461	13566	No
+NA	IS5 family transposase ISOt6	gilliam_00085	13577	13748	No
+NA	IS630 family transposase	gilliam_00090	14189	14351	No
+tnp-IS630	IS630 family transposase	gilliam_00095	14364	14871	Yes
+NA	IS630 family transposase	gilliam_00100	15094	15232	Yes
+tnp-IS630	IS630 family transposase	gilliam_00105	15351	15690	No
+NA	IS5 family transposase ISOt6	gilliam_00110	15638	15899	Yes
+NA	FAD binding domain of DNA photolyase family protein	gilliam_00115	16025	16574	No
+trxB	thioredoxin-disulfide reductase	gilliam_00120	16594	17557	Yes
+yfdV	AEC family transporter	gilliam_00125	17686	18610	Yes
+tolB	translocation protein TolB	gilliam_00130	18786	20148	Yes
+lpd	dihydrolipoyl dehydrogenase	gilliam_00135	20463	21891	Yes
+ubiE	SAM-dependent methyltransferase	gilliam_00140	21982	22786	Yes
+tsa22	major outer membrane protein TSA22	gilliam_00145	22961	23570	No
+NA	Conjugal transfer protein TraA	gilliam_00150	23679	24501	Yes
+NA	Conjugal transfer protein TraA	gilliam_00155	24537	24858	Yes
+NA	Reverse transcriptase	gilliam_00160	25579	26527	No
+ltrA	group II intron reverse transcriptase/maturase	gilliam_00165	26780	26945	No
+traD	conjugal transfer protein TraD, complete TraD	gilliam_00170	27364	27820	No
+NA	hypothetical protein	gilliam_00175	28383	28527	No
+NA	hypothetical protein	gilliam_00180	29340	30882	Yes
+NA	transposase	gilliam_00185	31131	32034	Yes
+NA	HD domain protein	gilliam_00190	32155	32551	Yes
+nrdA	ribonucleotide-diphosphate reductase subunit alpha	gilliam_00195	33106	34924	No
+nrdB	ribonucleotide-diphosphate reductase subunit beta	gilliam_00200	34946	35936	No
+NA	hypothetical protein	gilliam_00205	36093	36306	No
+NA	Integrase	gilliam_00210	36764	36944	No
+NA	Integrase	gilliam_00215	37270	37909	No
+bcp	peroxiredoxin	gilliam_00220	37911	38382	No
+NA	AAA-like domain protein	gilliam_00225	38461	39517	No
+traU	conjugal transfer protein TraU	gilliam_00230	39531	40404	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	gilliam_00235	40426	40810	No
+NA	(P)pGpp hydrolase	gilliam_00240	40939	41152	No
+NA	hypothetical protein	gilliam_00245	41175	41688	Yes
+NA	hypothetical protein	gilliam_00250	41827	42040	Yes
+NA	hypothetical protein	gilliam_00255	42033	42381	Yes
+NA	A nuclease of the HNH/ENDO VII superwith conserved AHH family protein	gilliam_00260	42398	42611	Yes
+NA	Ankyrin repeat family protein	gilliam_00265	42951	44583	Yes
+NA	DEAD/DEAH box helicase family protein	gilliam_00270	44934	47517	Yes
+secA	preprotein translocase SecA subunit-like protein	gilliam_00275	47557	47740	Yes
+traD	conjugal transfer protein TraD, complete TraD	gilliam_00280	48159	48615	Yes
+NA	hypothetical protein	gilliam_00285	48945	49182	No
+NA	Conjugal transfer protein TraI	gilliam_00290	49530	50532	No
+NA	Conjugal transfer protein TraI	gilliam_00295	50545	51043	No
+tnp-IS630	IS630 family transposase	gilliam_00300	51214	51589	No
+tnp-IS630	IS630 family transposase	gilliam_00305	51575	52004	No
+NA	IS110 family transposase	gilliam_00310	52288	52732	Yes
+traG	conjugal transfer protein TraG	gilliam_00315	52718	54380	Yes
+NA	Conjugal transfer protein TraH	gilliam_00320	54366	54753	Yes
+NA	Conjugal transfer protein TraH	gilliam_00325	54941	55571	Yes
+traF	conjugal transfer protein TraF, complete TraF	gilliam_00330	55567	56296	Yes
+NA	hypothetical protein	gilliam_00335	56307	56820	Yes
+NA	Conjugal transfer protein TraI	gilliam_00340	56875	57376	Yes
+traI	conjugal transfer protein TraI	gilliam_00345	57389	59495	Yes
+traA	conjugal transfer protein TraA, complete TraA	gilliam_00350	59760	62628	Yes
+traD	conjugal transfer protein TraD, complete TraD	gilliam_00355	62906	63362	No
+NA	transposase	gilliam_00360	63429	64380	Yes
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	gilliam_00365	64500	65076	Yes
+baeS	sensor histidine kinase	gilliam_00370	65176	66034	Yes
+NA	ATP-binding protein	gilliam_00375	66055	66784	Yes
+dam	DNA methyltransferase	gilliam_00380	67134	67938	No
+NA	hypothetical protein	gilliam_00385	68036	69293	No
+NA	hypothetical protein	gilliam_00390	69336	69789	No
+NA	Ankyrin	gilliam_00395	69842	70124	Yes
+NA	DDE superendonuclease family protein	gilliam_00400	70454	70844	Yes
+tnp-IS630	IS630 family transposase	gilliam_00405	70830	71205	Yes
+NA	(P)pGpp hydrolase	gilliam_00410	71261	71705	Yes
+dnaB	replicative DNA helicase	gilliam_00415	71938	73387	Yes
+NA	DnaA-N domain-containing protein	gilliam_00420	73395	75111	Yes
+NA	hypothetical protein	gilliam_00425	75603	75729	Yes
+NA	hypothetical protein	gilliam_00430	75944	76070	Yes
+yajC	preprotein translocase subunit YajC	gilliam_00435	77086	77467	No
+secD	protein translocase subunit SecD	gilliam_00440	77463	79026	No
+NA	Transposase family protein	gilliam_00445	80064	80433	No
+NA	IS630 family transposase	gilliam_00450	80426	80561	No
+NA	IS630 family transposase	gilliam_00455	80574	81081	Yes
+NA	Transposase family protein	gilliam_00460	81496	81781	Yes
+NA	IS5 family transposase ISOt6	gilliam_00465	81934	82042	Yes
+aatA	aspartate aminotransferase	gilliam_00470	82426	83629	Yes
+ubiG	Ubiquinone biosynthesis O-methyltransferase	gilliam_00475	83735	84773	No
+mlaA	ABC transporter	gilliam_00480	84832	85666	No
+mlaC	MlaC protein	gilliam_00485	85668	86253	No
+hemW	radical SAM family heme chaperone HemW	gilliam_00490	86280	87483	No
+NA	hypothetical protein	gilliam_00495	87523	88036	No
+recO	DNA repair protein RecO	gilliam_00500	88095	88821	No
+NA	DDE transposase family protein	gilliam_00505	89243	89399	No
+NA	IS630 family transposase	gilliam_00510	89513	89693	No
+tnp-IS630	IS630 family transposase	gilliam_00515	89696	90071	No
+tnp-IS630	IS630 family transposase	gilliam_00520	90057	90564	No
+NA	IS5 family transposase ISOt6	gilliam_00525	90585	90849	No
+NA	DDE superendonuclease family protein	gilliam_00530	90860	91235	No
+NA	Conjugative transfer protein	gilliam_00535	92130	92283	Yes
+NA	DUF721 domain-containing protein	gilliam_00540	92353	92677	Yes
+radC	DNA repair protein RadC	gilliam_00545	92715	93396	Yes
+rpsL	30S ribosomal protein S12	gilliam_00550	93644	94016	No
+rpsG	30S ribosomal protein S7	gilliam_00555	94039	94561	No
+fusA	elongation factor G	gilliam_00560	94564	96691	No
+rpsA	30S ribosomal protein S1	gilliam_00565	96956	98432	No
+NA	DDE transposase family protein	gilliam_00570	98832	99012	No
+NA	IS630 family transposase	gilliam_00575	98960	99476	Yes
+NA	IS630 family transposase	gilliam_00580	99632	99830	Yes
+tnp-IS630	IS630 family transposase	gilliam_00585	99995	100112	No
+tnp-IS630	IS630 family transposase	gilliam_00590	100172	100511	No
+NA	IS5 family transposase ISOt6	gilliam_00595	101219	101417	Yes
+NA	DDE superendonuclease family protein	gilliam_00600	101428	101548	Yes
+NA	hypothetical protein	gilliam_00605	101620	101734	Yes
+cspC	cold-shock protein	gilliam_00610	102859	103081	Yes
+NA	Transposase	gilliam_00615	104333	104438	Yes
+gcvT	aminomethyltransferase	gilliam_00620	104817	105684	No
+NA	Transposase	gilliam_00625	105858	106071	Yes
+NA	hypothetical protein	gilliam_00630	106380	108231	No
+hinT	Purine nucleoside phosphoramidase	gilliam_00635	108468	108840	No
+asd	aspartate-semialdehyde dehydrogenase	gilliam_00640	108899	109937	No
+cyoB	protoheme IX farnesyltransferase	gilliam_00645	110076	111015	Yes
+ctaD	cytochrome c oxidase subunit I	gilliam_00650	111025	112612	Yes
+gtaE	phage terminase large subunit	gilliam_00655	112804	114226	Yes
+ctc	50S ribosomal protein L25/general stress proteinCtc	gilliam_00660	114555	115176	No
+arfB	aminoacyl-tRNA hydrolase	gilliam_00665	115175	115736	No
+ychF	GTP-binding protein YchF	gilliam_00670	115745	116846	No
+NA	hypothetical protein	gilliam_00675	116893	117034	Yes
+tnp-IS630	IS630 family transposase	gilliam_00680	117475	117904	Yes
+tnp-IS630	IS630 family transposase	gilliam_00685	117890	118265	Yes
+xthA2	exodeoxyribonuclease III	gilliam_00690	118824	119619	No
+NA	DDE superendonuclease family protein	gilliam_00695	119976	120363	Yes
+NA	IS630 family transposase	gilliam_00700	120359	120866	Yes
+NA	Phage integrase family protein, complete integrase	gilliam_00705	121360	122680	No
+traL	conjugal transfer protein traL, complete TraL	gilliam_00710	122747	123071	No
+traE	conjugal transfer protein TraE, complete TraE	gilliam_00715	123070	123622	No
+traK1	conjugal transfer protein traK1, complete TraK-1	gilliam_00720	123618	124095	No
+traK2	conjugal transfer protein traK2, complete TraK-2	gilliam_00725	124458	124791	No
+traB	conjugal transfer protein TraB, complete TraB	gilliam_00730	124829	126152	No
+traV	conjugal transfer protein TraV, complete TraV	gilliam_00735	126151	126472	No
+traC	conjugal transfer protein TraC, complete TraC	gilliam_00740	126452	128942	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	gilliam_00745	128938	129598	No
+NA	hypothetical protein	gilliam_00750	129688	129862	No
+traU	conjugal transfer protein TraU, complete TraU	gilliam_00755	129862	130840	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	gilliam_00760	130862	131246	No
+traN	conjugal transfer protein TraN, complete TraN	gilliam_00765	131242	132934	No
+traF	conjugal transfer protein TraF, complete TraF	gilliam_00770	132945	133629	No
+traH	conjugal transfer protein TraH, complete TraH	gilliam_00775	133625	134927	No
+traG	conjugal transfer protein TraG, complete TraG	gilliam_00780	134926	137551	No
+NA	TPR repeat-containing protein 03	gilliam_00785	137563	138703	No
+traD	conjugal transfer protein TraD, complete TraD	gilliam_00790	138706	140461	No
+NA	transposase	gilliam_00795	140470	141526	Yes
+traI	conjugal transfer protein TraI, complete TraI	gilliam_00800	141577	144247	Yes
+traA	conjugal transfer protein TraA, complete TraA	gilliam_00805	144512	147332	Yes
+traD	conjugal transfer protein TraD, complete TraD	gilliam_00810	147610	148066	No
+NA	transposase	gilliam_00815	148133	149228	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_00820	149348	149936	Yes
+baeS	ATP-binding protein	gilliam_00825	149977	150472	Yes
+NA	ATP-binding protein	gilliam_00830	150490	151429	Yes
+NA	Putative signal transduction histidine kinase	gilliam_00835	151445	152246	Yes
+NA	ATP-binding protein	gilliam_00840	152321	152438	Yes
+kdpD	K+-sensing histidine kinase KdpD	gilliam_00845	152460	153129	Yes
+baeS	histidine kinase	gilliam_00850	153143	153845	Yes
+NA	ATP-binding protein	gilliam_00855	153909	154188	Yes
+dam	DNA methyltransferase	gilliam_00860	154554	155364	No
+NA	Putative ompA-like autotransporter	gilliam_00865	155367	155871	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	gilliam_00870	155918	156563	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_00875	156597	157173	Yes
+dnaB	replicative DNA helicase	gilliam_00880	157405	158854	Yes
+NA	DnaA-N domain-containing protein	gilliam_00885	158862	160578	Yes
+tnp-IS630	IS630 family transposase	gilliam_00890	160733	161060	Yes
+NA	IS630 family transposase	gilliam_00895	161063	161243	Yes
+NA	Repeat-containing protein D	gilliam_00900	161284	163573	Yes
+NA	transposase	gilliam_00905	164204	165131	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_00910	165251	165839	Yes
+baeS	ATP-binding protein	gilliam_00915	165880	166375	Yes
+NA	ATP-binding protein	gilliam_00920	166393	167332	Yes
+baeS	sensor histidine kinase	gilliam_00925	167339	167927	Yes
+baeS	histidine kinase	gilliam_00930	168055	168757	Yes
+NA	ATP-binding protein	gilliam_00935	168821	169631	Yes
+dam	DNA methyltransferase	gilliam_00940	169998	170808	No
+NA	Putative ompA-like autotransporter	gilliam_00945	170911	171319	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	gilliam_00950	171365	172010	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_00955	172047	172623	Yes
+dnaB	replicative DNA helicase	gilliam_00960	172856	174305	Yes
+NA	DnaA-N domain-containing protein	gilliam_00965	174313	175669	Yes
+NA	hypothetical protein	gilliam_00970	175902	176028	Yes
+NA	Transposase	gilliam_00975	176235	176358	No
+sco1	SCO family protein	gilliam_00980	177894	178545	No
+NA	Integrase	gilliam_00985	178996	179287	No
+tnp-IS630	IS630 family transposase	gilliam_00990	179421	179796	No
+NA	DDE superendonuclease family protein	gilliam_00995	179950	180289	No
+NA	Integrase	gilliam_01000	180452	180788	No
+NA	Integrase	gilliam_01005	180845	181106	No
+tnp-IS630	IS630 family transposase	gilliam_01010	181130	181637	Yes
+tnp-IS630	IS630 family transposase	gilliam_01015	181623	181998	Yes
+traL	conjugal transfer protein traL	gilliam_01020	182321	182624	No
+NA	Conjugal transfer protein TraE	gilliam_01025	182623	183043	No
+NA	hypothetical protein	gilliam_01030	183023	183176	No
+traK1	conjugal transfer protein traK1, complete TraK-1	gilliam_01035	183172	183664	No
+traK2	conjugal transfer protein traK2, complete TraK-2	gilliam_01040	183808	184135	No
+traB	conjugal transfer protein TraB, complete TraB	gilliam_01045	184177	185503	No
+traV	conjugal transfer protein TraV, complete TraV	gilliam_01050	185502	185832	No
+NA	AAA-like domain protein	gilliam_01055	185812	186841	No
+NA	hypothetical protein	gilliam_01060	186790	187024	Yes
+NA	Ankyrin repeat family protein	gilliam_01065	187001	188225	Yes
+NA	Conjugal transfer protein	gilliam_01070	188454	189138	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	gilliam_01075	189160	189544	No
+NA	Conjugal transfer protein TraN	gilliam_01080	189540	189864	No
+NA	Conjugative transfer protein	gilliam_01085	189937	190135	No
+traF	conjugal transfer protein TraF, complete TraF	gilliam_01090	190146	190836	No
+NA	Conjugal transfer protein TraH	gilliam_01095	190832	191018	No
+NA	DDE superendonuclease family protein	gilliam_01100	191717	191879	Yes
+hPt	Histidine phosphotransfer protein ChpT, HPt domain	gilliam_01105	192080	192758	No
+fumC	class II fumarate hydratase	gilliam_01110	192821	194222	No
+pTR2	MFS transporter	gilliam_01115	194387	195866	Yes
+NA	Peroxiredoxin	gilliam_01125	198827	199196	Yes
+NA	hypothetical protein	gilliam_01130	199284	199716	Yes
+NA	hypothetical protein	gilliam_01135	200000	200126	No
+NA	hypothetical protein	gilliam_01140	200341	200467	No
+NA	hypothetical protein	gilliam_01145	200859	201156	No
+NA	DnaA-N domain-containing protein	gilliam_01150	201261	201537	No
+NA	Replicative DNA helicase	gilliam_01155	201592	201787	No
+NA	Conjugal transfer protein TraA	gilliam_01160	201899	202580	No
+recD	conjugal transfer protein TraA	gilliam_01165	202671	202815	No
+NA	Conjugal transfer protein TraI	gilliam_01170	203381	203696	No
+NA	IS5 family transposase ISOt6	gilliam_01175	203667	203931	Yes
+tnp-IS630	IS630 family transposase	gilliam_01180	204380	204755	No
+tnp-IS630	IS630 family transposase	gilliam_01185	204732	205248	No
+amiR	N-acetylmuramoyl-L-alanine amidase	gilliam_01190	205821	206916	Yes
+NA	hypothetical protein	gilliam_01195	207107	207236	Yes
+NA	Repeat-containing protein D	gilliam_01200	207596	209360	No
+NA	IS5 family transposase ISOt6	gilliam_01205	210521	210656	No
+NA	hypothetical protein	gilliam_01210	210717	211047	Yes
+traE	conjugal transfer protein TraE, complete TraE	gilliam_01215	211043	211595	Yes
+NA	Integrase	gilliam_01220	212909	213296	No
+NA	Integrase	gilliam_01225	213436	213685	No
+lipB	lipase LipB	gilliam_01230	214321	215215	No
+NA	Integrase	gilliam_01235	215608	215725	Yes
+NA	Integrase	gilliam_01240	215787	216180	Yes
+tnp-IS630	IS630 family transposase	gilliam_01245	216176	216683	Yes
+tnp-IS630	IS630 family transposase	gilliam_01250	216669	217044	Yes
+NA	IS5 family transposase ISOt6	gilliam_01255	217312	217438	Yes
+NA	Transposase, YhgA-like family protein	gilliam_01260	218002	218479	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	gilliam_01265	218488	219220	Yes
+NA	hypothetical protein	gilliam_01270	219844	220891	No
+NA	hypothetical protein	gilliam_01275	221441	222038	No
+NA	peptidylprolyl isomerase	gilliam_01280	222074	223532	Yes
+NA	hypothetical protein	gilliam_01285	223539	223704	No
+tpiA	triose-phosphate isomerase	gilliam_01290	223707	224457	No
+secG	preprotein translocase subunit SecG	gilliam_01295	224462	224759	No
+lysS	lysine--tRNA ligase	gilliam_01305	225507	227091	Yes
+dsbB	disulfide bond formation protein B	gilliam_01310	227216	227780	No
+ubiB	ubiquinone biosynthesis protein UbiB	gilliam_01315	227742	228288	No
+psd	phosphatidylserine decarboxylase	gilliam_01320	228364	229057	No
+pssA	CDP-diacylglycerol--serine O-phosphatidyltransferase	gilliam_01325	229108	229882	No
+mnhE	sodium:proton antiporter	gilliam_01330	229931	230417	No
+NA	Multiple resistance and pH regulation F family protein	gilliam_01335	230413	230662	No
+NA	PDDEXK-1 domain-containing protein	gilliam_01340	230699	233528	No
+NA	hypothetical protein	gilliam_01345	233436	233634	Yes
+ndh	NADH dehydrogenase	gilliam_01350	233719	235384	Yes
+sucD	succinyl-CoA synthetase subunit alpha	gilliam_01355	235464	236343	Yes
+sucC	succinyl-CoA ligase subunit beta	gilliam_01360	236357	237518	Yes
+ubiH	2-polyprenyl-6-methoxyphenol 4-hydroxylase	gilliam_01365	237574	238783	Yes
+trcR	cell cycle transcriptional regulator TrcR	gilliam_01375	239137	239725	Yes
+ileS	isoleucine--tRNA ligase	gilliam_01380	239852	243056	Yes
+NA	Ubiquinone biosynthesis protein COQ9	gilliam_01385	243094	243700	Yes
+rpsU	30S ribosomal protein S21	gilliam_01390	243846	244053	No
+holC	DNA polymerase III subunit chi	gilliam_01395	244081	244591	Yes
+NA	Proline/betaine transporter	gilliam_01400	244688	245930	No
+NA	DUF5394 domain-containing protein	gilliam_01405	246155	246878	No
+NA	Ankyrin repeats family protein	gilliam_01410	246960	248214	No
+NA	Ankyrin repeat domain-containing protein	gilliam_01415	248302	249481	No
+pnp	polyribonucleotide nucleotidyltransferase	gilliam_01420	249520	251731	Yes
+rpsO	30S ribosomal protein S15	gilliam_01425	252064	252334	Yes
+tru	tRNA pseudouridine(55) synthase	gilliam_01430	252357	253266	Yes
+NA	IS630 family transposase	gilliam_01435	253961	254126	No
+hipB	XRE family transcriptional regulator	gilliam_01440	254510	254951	Yes
+NA	Group II intron, maturase-specific domain protein	gilliam_01445	255211	255469	Yes
+ykfC	Retron-type reverse transcriptase	gilliam_01450	255520	256540	Yes
+NA	hypothetical protein	gilliam_01455	256724	256877	Yes
+NA	Putative ompA-like autotransporter	gilliam_01460	257079	257361	No
+dam	DNA methyltransferase	gilliam_01465	257364	258174	Yes
+NA	ATP-binding protein	gilliam_01470	258540	258717	No
+NA	ATP-binding protein	gilliam_01475	258868	259267	No
+baeS	sensor histidine kinase	gilliam_01480	259288	260146	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_01485	260246	260822	No
+NA	transposase	gilliam_01490	260942	262001	No
+traD	conjugal transfer protein TraD, complete TraD	gilliam_01495	262068	262524	Yes
+traA	conjugal transfer protein TraA, complete TraA	gilliam_01500	262802	265517	No
+NA	Conjugal transfer protein TraA	gilliam_01505	265485	265647	No
+traI	conjugal transfer protein TraI, complete TraI	gilliam_01510	266401	269071	No
+NA	transposase	gilliam_01515	269122	270106	No
+traD	conjugal transfer protein TraD, complete TraD	gilliam_01520	270115	271870	Yes
+NA	Tetratricopeptide repeat family protein	gilliam_01525	271873	273019	Yes
+traG	conjugal transfer protein TraG	gilliam_01530	273041	275276	Yes
+NA	Conjugal transfer protein TraH	gilliam_01535	275262	275787	Yes
+NA	Conjugal transfer protein TraH	gilliam_01540	275836	276466	Yes
+traF	conjugal transfer protein TraF, complete TraF	gilliam_01545	276462	277146	Yes
+NA	Conjugal transfer protein TraN	gilliam_01550	277157	278273	Yes
+NA	IS630 family transposase	gilliam_01555	278294	278801	Yes
+tnp-IS630	IS630 family transposase	gilliam_01560	278787	279162	Yes
+NA	Conjugal transfer protein TraN	gilliam_01565	279195	279528	Yes
+NA	Conjugal transfer protein TraN	gilliam_01570	279557	279818	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	gilliam_01575	279814	280198	Yes
+traU	conjugal transfer protein TraU	gilliam_01580	280220	281078	Yes
+NA	Conjugal transfer protein TraC	gilliam_01585	281107	282307	Yes
+traV	conjugal transfer protein TraV	gilliam_01590	282316	282616	Yes
+NA	Phage integrase family protein, complete integrase	gilliam_01595	283052	284336	No
+traL	conjugal transfer protein traL	gilliam_01600	284460	284763	No
+NA	Conjugal transfer protein TraE	gilliam_01605	284762	285182	No
+NA	hypothetical protein	gilliam_01610	285162	285315	No
+traK1	conjugal transfer protein traK1, complete TraK-1	gilliam_01615	285311	285788	No
+traK2	conjugal transfer protein traK2, complete TraK-2	gilliam_01620	285932	286259	No
+traB	conjugal transfer protein TraB, complete TraB	gilliam_01625	286301	287621	No
+traV	conjugal transfer protein TraV, complete TraV	gilliam_01630	287620	287950	No
+NA	Conjugal transfer protein TraC	gilliam_01635	287930	288803	No
+NA	Conjugal transfer protein TraC	gilliam_01640	288774	289209	No
+NA	Conjugal transfer protein TraC	gilliam_01645	289212	289734	No
+NA	Ankyrin repeat-containing protein	gilliam_01650	289632	290295	Yes
+NA	Conjugal transfer protein	gilliam_01655	291195	291873	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	gilliam_01660	291895	292279	No
+traN	conjugal transfer protein TraN, complete TraN	gilliam_01665	292275	293964	No
+NA	TPR repeat-containing protein 03	gilliam_01670	294218	295001	No
+NA	SycD/LcrH family type III secretion system chaperone	gilliam_01675	295018	295444	No
+gepA	DUF4065 domain-containing protein	gilliam_01680	295553	296114	No
+traF	conjugal transfer protein TraF, complete TraF	gilliam_01685	296125	296842	No
+traH	conjugal transfer protein TraH, complete TraH	gilliam_01690	296838	298140	No
+traG	conjugal transfer protein TraG, complete TraG	gilliam_01695	298139	300791	No
+NA	Tetratricopeptide repeat family protein	gilliam_01700	300813	301959	No
+traD	conjugal transfer protein TraD, complete TraD	gilliam_01705	301962	303717	No
+NA	transposase	gilliam_01710	303726	304758	Yes
+NA	Putative conjugative transfer protein TraI	gilliam_01715	304809	305820	Yes
+NA	Ankyrin repeat-containing protein 09	gilliam_01720	306092	307490	No
+traA	conjugal transfer protein TraA	gilliam_01725	307572	310125	Yes
+NA	Conjugal transfer protein TraA	gilliam_01730	310152	310392	Yes
+traD	conjugal transfer protein TraD, complete TraD	gilliam_01735	310670	311126	No
+NA	transposase	gilliam_01740	311193	312240	Yes
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	gilliam_01745	312360	312936	Yes
+baeS	sensor histidine kinase	gilliam_01750	313036	313894	Yes
+NA	ATP-binding protein	gilliam_01755	313915	314644	Yes
+NA	D12 class N6 adenine-specific DNA methyltransferase family protein	gilliam_01760	315646	315844	No
+NA	hypothetical protein	gilliam_01765	315952	316474	Yes
+dam	DNA methyltransferase	gilliam_01770	317103	317916	No
+NA	Putative ompA-like autotransporter	gilliam_01775	318019	318427	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	gilliam_01780	318473	319118	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_01785	319155	319731	Yes
+tnp-IS630	IS630 family transposase	gilliam_01790	320147	320663	Yes
+tnp-IS630	IS630 family transposase	gilliam_01795	320640	321015	Yes
+dnaB	replicative DNA helicase	gilliam_01800	321086	322385	Yes
+NA	DnaA-N domain-containing protein	gilliam_01805	322393	323071	Yes
+NA	Integrase	gilliam_01810	323599	323842	No
+NA	Integrase	gilliam_01815	323850	324072	No
+NA	Conjugal transfer protein	gilliam_01820	324079	324238	No
+tnp-IS630	IS630 family transposase	gilliam_01825	324337	324712	No
+NA	IS630 family transposase	gilliam_01830	324698	324815	No
+tnp-IS630	IS630 family transposase	gilliam_01835	324868	325207	No
+NA	Type IV secretory system Conjugative DNA transfer family protein	gilliam_01840	325304	325943	No
+NA	IS630 family transposase	gilliam_01845	326317	326707	No
+NA	IS630 family transposase	gilliam_01850	326816	326909	No
+tnp-IS630	IS630 family transposase	gilliam_01855	327113	327620	No
+NA	DDE superendonuclease family protein	gilliam_01860	327830	328127	Yes
+NA	hypothetical protein	gilliam_01865	328250	328988	Yes
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	gilliam_01870	329849	330059	No
+NA	transposase	gilliam_01875	330068	330980	Yes
+traI	conjugal transfer protein TraI, complete TraI	gilliam_01880	331031	333701	Yes
+NA	Conjugal transfer protein TraA	gilliam_01885	334455	334617	Yes
+traA	conjugal transfer protein TraA, complete TraA	gilliam_01890	334585	337318	Yes
+traD	conjugal transfer protein TraD, complete TraD	gilliam_01895	337596	338040	No
+NA	TPR repeat-containing protein 08	gilliam_01900	338376	339144	No
+NA	Putative conjugative transfer protein TraD	gilliam_01905	339423	339636	No
+NA	transposase	gilliam_01910	339743	340730	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_01915	340850	341438	Yes
+baeS	Signal transduction histidine kinase	gilliam_01920	341479	341974	Yes
+NA	ATP-binding protein	gilliam_01925	341992	342928	Yes
+baeS	sensor histidine kinase	gilliam_01930	342935	343523	Yes
+baeS	histidine kinase	gilliam_01935	343652	344354	Yes
+NA	ATP-binding protein	gilliam_01940	344418	345228	Yes
+dam	DNA methyltransferase	gilliam_01945	345595	346405	No
+NA	Membrane protein	gilliam_01950	346408	346957	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	gilliam_01955	347003	347648	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_01960	347685	348261	Yes
+dnaB	replicative DNA helicase	gilliam_01965	348494	349931	Yes
+NA	DnaA-N domain-containing protein	gilliam_01970	349939	351499	Yes
+NA	reverse transcriptase	gilliam_01975	351607	351799	Yes
+NA	hypothetical protein	gilliam_01980	351965	353678	No
+NA	ankyrin	gilliam_01985	353908	354853	No
+NA	Putative ompA-like autotransporter	gilliam_01990	354899	355415	No
+NA	Site-specific DNA adenine methylase	gilliam_01995	355432	355567	Yes
+dam	DNA-adenine methylase	gilliam_02000	355580	356240	Yes
+NA	hypothetical protein	gilliam_02005	356788	357505	No
+NA	hypothetical protein	gilliam_02010	357636	357792	No
+NA	ATP-binding protein	gilliam_02015	357853	357988	No
+NA	ATP-binding protein	gilliam_02020	358181	358580	No
+baeS	sensor histidine kinase	gilliam_02025	358601	359459	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	gilliam_02030	359559	360135	No
+NA	transposase	gilliam_02035	360255	361254	No
+traD	conjugal transfer protein TraD	gilliam_02040	361321	361717	Yes
+NA	Conjugal transfer protein TraA	gilliam_02045	362054	362354	No
+NA	Conjugal transfer protein TraA	gilliam_02050	362331	362457	No
+NA	AAA domain protein	gilliam_02055	362592	364179	No
+NA	Conjugal transfer protein TraA	gilliam_02060	364235	364991	No
+NA	hypothetical protein	gilliam_02065	365297	366359	Yes
+NA	Putative conjugative transfer protein TraI	gilliam_02070	366538	367744	No
+rpnC	transposase	gilliam_02075	367728	368697	No
+NA	conjugal transfer protein	gilliam_02080	368706	369237	Yes
+NA	conjugal transfer protein	gilliam_02085	369529	370099	Yes
+NA	Conjugal transfer protein	gilliam_02090	370092	370608	Yes
+NA	Tetratricopeptide repeat family protein	gilliam_02095	370613	371756	Yes
+traG	conjugal transfer protein TraG	gilliam_02100	371763	372090	Yes
+traG	conjugal transfer protein TraG	gilliam_02105	372145	374428	Yes
+NA	Conjugal transfer protein TraH	gilliam_02110	374427	374883	Yes
+NA	Conjugal transfer protein TraH	gilliam_02115	374836	375697	Yes
+traF	conjugal transfer protein TraF, complete TraF	gilliam_02120	375737	376484	Yes
+gepA	DUF4065 domain-containing protein	gilliam_02125	376458	377025	Yes
+NA	SycD/LcrH family type III secretion system chaperone	gilliam_02130	377134	378118	Yes
+traN	conjugal transfer protein TraN, complete TraN	gilliam_02135	378488	380177	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	gilliam_02140	380173	380563	Yes
+NA	Conjugal transfer protein	gilliam_02145	380585	381263	Yes
+NA	Ankyrin repeat-containing protein	gilliam_02150	382163	382826	No
+NA	Conjugal transfer protein TraC	gilliam_02155	382724	383246	Yes
+NA	Conjugal transfer protein TraC	gilliam_02160	383249	383684	Yes
+NA	Conjugal transfer protein TraC	gilliam_02165	383655	384528	Yes
+traV	conjugal transfer protein TraV	gilliam_02170	384508	384808	Yes
+NA	Putative integrase	gilliam_02175	385245	386079	No
+NA	Integrase	gilliam_02180	386059	386530	No
+traL	conjugal transfer protein traL, complete TraL	gilliam_02185	386633	386957	No
+NA	Conjugal transfer protein TraE	gilliam_02190	386956	387376	No
+NA	hypothetical protein	gilliam_02195	387356	387509	No
+traK1	conjugal transfer protein traK1, complete TraK-1	gilliam_02200	387505	387997	No
+traK2	conjugal transfer protein traK2, complete TraK-2	gilliam_02205	388140	388467	No
+traB	conjugal transfer protein TraB, complete TraB	gilliam_02210	388509	389829	No
+traV	conjugal transfer protein TraV, complete TraV	gilliam_02215	389828	390158	No
+NA	Conjugal transfer protein TraC	gilliam_02220	390138	391416	No
+NA	Conjugal transfer protein TraC	gilliam_02225	391419	392619	No
+traU	conjugal transfer protein TraU	gilliam_02230	392648	393506	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	gilliam_02235	393528	393912	No
+NA	Conjugal transfer protein TraN	gilliam_02240	393908	394286	No
+traF	conjugal transfer protein TraF, complete TraF	gilliam_02245	394297	394981	No
+NA	Conjugal transfer protein TraH	gilliam_02250	394977	395607	No
+NA	Conjugal transfer protein TraH	gilliam_02255	395795	396182	No
+traG	conjugal transfer protein TraG	gilliam_02260	396168	398388	No
+NA	TPR repeat-containing protein 08	gilliam_02265	398414	399563	No
+traD	conjugal transfer protein TraD, complete TraD	gilliam_02270	399568	401290	No
+NA	transposase	gilliam_02275	401333	402317	Yes
+traI	conjugal transfer protein TraI, complete TraI	gilliam_02280	402368	405038	Yes
+NA	Conjugal transfer protein TraA	gilliam_02285	405303	405576	Yes
+NA	Repeat-containing protein D	gilliam_02290	406167	407607	Yes
+NA	Conjugal transfer protein TraA	gilliam_02295	408019	408502	Yes
+recD	ATPase/5’-3’ helicase helicase subunit RecD of the DNA repair enzyme RecBCD (exonuclease V)	gilliam_02300	408558	409269	Yes
+NA	AAA domain protein	gilliam_02305	409258	410581	Yes
+traD	conjugal transfer protein TraD, complete TraD	gilliam_02310	410858	411314	No
+secA	preprotein translocase SecA subunit-like protein	gilliam_02315	411733	411916	No
+NA	DEAD/DEAH box helicase family protein	gilliam_02320	411956	414539	No
+NA	Ankyrin repeat family protein	gilliam_02325	414890	416522	No
+NA	A nuclease of the HNH/ENDO VII superwith conserved AHH family protein	gilliam_02330	416862	417075	No
+NA	hypothetical protein	gilliam_02335	417092	417713	No
+NA	hypothetical protein	gilliam_02340	417865	418393	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_02345	418398	418974	Yes
+baeS	sensor histidine kinase	gilliam_02350	419074	419932	Yes
+NA	ATP-binding protein	gilliam_02355	419993	420683	Yes
+NA	Site-specific DNA-methyltransferase (adenine-specific)	gilliam_02360	421049	421571	No
+NA	Site-specific DNA-methyltransferase (adenine-specific)	gilliam_02365	421516	421858	No
+NA	Membrane protein	gilliam_02370	421861	422026	Yes
+NA	Ankyrin repeat family protein	gilliam_02375	422506	423343	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	gilliam_02380	423488	424133	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_02385	424170	424746	Yes
+NA	Replicative DNA helicase	gilliam_02390	424981	425113	Yes
+NA	DnaA-N domain-containing protein	gilliam_02395	425126	425645	Yes
+NA	hypothetical protein	gilliam_02400	426180	426306	Yes
+NA	Chromosome replication initiator DnaA	gilliam_02405	426360	426600	Yes
+def	peptide deformylase	gilliam_02410	426883	427429	No
+fmt	methionyl-tRNA formyltransferase	gilliam_02415	427425	428349	No
+NA	AsmA-like C-terminal region	gilliam_02420	428894	431426	Yes
+rimM	ribosome maturation factor RimM	gilliam_02425	431594	432089	No
+mdh	malate dehydrogenase	gilliam_02430	432307	433264	No
+topA	DNA topoisomerase I	gilliam_02435	433356	435723	No
+NA	Putative membrane protein	gilliam_02440	435722	437108	No
+folD	bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase	gilliam_02445	437042	437948	Yes
+fpr	ferredoxin--NADP(+) reductase	gilliam_02450	437944	438961	Yes
+gtaB	glycoside hydrolase TIM-barrel-like domain-containing protein	gilliam_02455	439159	441943	No
+ompA	peptidoglycan-associated lipoprotein	gilliam_02460	442206	442788	Yes
+tsa47	type surface antigen 47kDa	gilliam_02465	442981	444382	Yes
+hflC	protease modulator HflC	gilliam_02470	444399	445266	Yes
+hflK	FtsH protease activity modulator HflK	gilliam_02475	445289	446345	Yes
+mrp	ATP-binding protein	gilliam_02480	446527	447544	No
+NA	hypothetical protein	gilliam_02485	449417	449519	Yes
+NA	Repeat-containing protein D	gilliam_02490	449523	449808	No
+NA	IS630 family transposase	gilliam_02495	449792	450323	Yes
+tnp-IS630	IS630 family transposase	gilliam_02500	450637	451012	No
+tnp-IS630	IS630 family transposase	gilliam_02505	450989	451505	No
+hflC	paraslipin	gilliam_02510	452705	453665	Yes
+cyc7	cytochrome c family protein	gilliam_02515	453912	454461	No
+NA	IS630 family transposase	gilliam_02520	455417	455924	Yes
+tnp-IS630	IS630 family transposase	gilliam_02525	455910	456285	Yes
+NA	IS630 family transposase	gilliam_02530	456979	457084	No
+tnp-IS630	IS630 family transposase	gilliam_02535	457034	457355	No
+tnp-IS630	IS630 family transposase	gilliam_02540	457341	457638	No
+tnp-IS630	IS630 family transposase	gilliam_02545	457743	457950	No
+NA	Conjugal transfer protein TraA	gilliam_02550	458082	458412	No
+NA	Ankyrin repeat-containing protein 09	gilliam_02555	458490	459861	Yes
+NA	Toprim domain protein	gilliam_02560	459968	460595	No
+rpnC	transposase	gilliam_02565	460579	461560	No
+traD	conjugal transfer protein TraD	gilliam_02570	461569	463048	Yes
+traG	conjugal transfer protein TraG	gilliam_02575	463125	464691	Yes
+NA	Conjugal transfer protein TraH	gilliam_02580	464677	465058	Yes
+NA	Putative integrase	gilliam_02585	465614	466448	No
+NA	Integrase	gilliam_02590	466428	466899	No
+traL	conjugal transfer protein traL, complete TraL	gilliam_02595	467002	467326	No
+NA	Conjugal transfer protein TraE	gilliam_02600	467325	467745	No
+NA	hypothetical protein	gilliam_02605	467725	467878	No
+traK1	conjugal transfer protein traK1, complete TraK-1	gilliam_02610	467874	468366	No
+traK2	conjugal transfer protein traK2, complete TraK-2	gilliam_02615	468510	468837	No
+traB	conjugal transfer protein TraB, complete TraB	gilliam_02620	468879	470205	No
+traV	conjugal transfer protein TraV, complete TraV	gilliam_02625	470204	470534	No
+NA	Conjugal transfer protein TraC	gilliam_02630	470514	471387	No
+NA	Conjugal transfer protein TraC	gilliam_02635	471358	471793	No
+NA	Conjugal transfer protein TraC	gilliam_02640	471796	473005	No
+NA	hypothetical protein	gilliam_02645	473150	474251	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	gilliam_02650	474537	475182	No
+NA	hypothetical protein	gilliam_02655	475269	475443	No
+traU	conjugal transfer protein TraU, complete TraU	gilliam_02660	475443	476421	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	gilliam_02665	476443	476827	No
+traN	conjugal transfer protein TraN, complete TraN	gilliam_02670	476823	478518	No
+NA	Ankyrin repeat family protein	gilliam_02675	478818	480051	No
+traI	conjugal transfer protein TraI	gilliam_02680	480296	482510	Yes
+traA	conjugal transfer protein TraA, complete TraA	gilliam_02685	482774	485615	Yes
+traD	conjugal transfer protein TraD, complete TraD	gilliam_02690	485892	486348	No
+NA	transposase	gilliam_02695	486420	487419	Yes
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	gilliam_02700	487539	488115	Yes
+baeS	sensor histidine kinase	gilliam_02705	488215	489073	Yes
+NA	ATP-binding protein	gilliam_02710	489094	489493	Yes
+NA	ATP-binding protein	gilliam_02715	489686	489821	Yes
+dam	DNA methyltransferase	gilliam_02720	490173	490986	No
+NA	Membrane protein	gilliam_02725	490989	491538	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	gilliam_02730	491640	492285	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_02735	492322	492898	Yes
+dnaB	replicative DNA helicase	gilliam_02740	493133	494582	Yes
+NA	DnaA-N domain-containing protein	gilliam_02745	494590	495160	Yes
+NA	DnaA-N domain-containing protein	gilliam_02750	495160	496306	Yes
+NA	Conjugal transfer protein TraH	gilliam_02755	496397	497189	Yes
+infA	translation initiation factor IF-1	gilliam_02765	497862	498087	No
+maf	septum formation inhibitor Maf	gilliam_02770	498120	498726	No
+tACO1	YebC/PmpR family DNA-binding transcriptional regulator	gilliam_02775	498852	499602	No
+gyrA	DNA gyrase subunit A	gilliam_02780	499700	502418	No
+glyA	serine hydroxymethyltransferase	gilliam_02785	502451	503732	No
+NA	IS5 family transposase ISOt6	gilliam_02790	503936	504200	Yes
+NA	DDE superendonuclease family protein	gilliam_02795	504323	504593	Yes
+NA	DDE superendonuclease family protein	gilliam_02800	504605	504761	Yes
+NA	hypothetical protein	gilliam_02805	505025	505160	Yes
+NA	DDE superendonuclease family protein	gilliam_02810	505357	505795	No
+NA	Putative transposase	gilliam_02815	505806	505950	No
+NA	DUF3971 domain-containing protein	gilliam_02820	506055	508548	Yes
+rnpA	ribonuclease P	gilliam_02825	508786	509326	Yes
+rpmH	50S ribosomal protein L34	gilliam_02830	509326	509461	Yes
+cYT1	Cytochrome c1	gilliam_02835	510216	511011	No
+rph	ribonuclease PH	gilliam_02840	511499	512255	Yes
+grpE	nucleotide exchange factor GrpE	gilliam_02845	512384	512981	No
+NA	IS5 family transposase ISOt6	gilliam_02850	513679	513769	No
+rnd	ribonuclease D	gilliam_02855	514121	514754	Yes
+ftsB	Cell division protein FtsB	gilliam_02860	514760	515060	Yes
+cdsA	phosphatidate cytidylyltransferase	gilliam_02865	515067	515721	Yes
+uppS	polyprenyl diphosphate synthase	gilliam_02870	515723	516419	Yes
+abcT	ABC transporter ATP-binding protein	gilliam_02875	516594	518400	No
+dnaE	DNA polymerase III subunit alpha	gilliam_02880	519435	523140	Yes
+valS	valine--tRNA ligase	gilliam_02885	523129	525694	Yes
+ubiA	4-hydroxybenzoate octaprenyltransferase	gilliam_02890	525725	526601	No
+NA	hypothetical protein	gilliam_02895	526837	527611	Yes
+ldcA	LD-carboxypeptidase	gilliam_02900	527958	528957	No
+NA	Reverse transcriptase	gilliam_02905	529816	530056	No
+NA	Putative reverse transcriptase	gilliam_02910	530057	530204	No
+NA	IS630 family transposase	gilliam_02915	530464	530569	No
+NA	IS630 family transposase	gilliam_02920	530516	530750	No
+tnp-IS630	IS630 family transposase	gilliam_02925	530763	531102	Yes
+tnp-IS630	IS630 family transposase	gilliam_02930	531256	531631	Yes
+NA	DDE superendonuclease family protein	gilliam_02935	531969	532152	Yes
+NA	hypothetical protein	gilliam_02940	532209	532317	Yes
+NA	Lipase-3 domain-containing protein	gilliam_02945	532387	533587	Yes
+coxB	cytochrome c oxidase subunit II	gilliam_02950	534007	534703	Yes
+NA	RDD family protein	gilliam_02955	534914	535391	Yes
+virB6-5	conjugal transfer protein	gilliam_02960	536552	538769	No
+uvrA	excinuclease ABC subunit A	gilliam_02965	539821	542692	Yes
+traL	conjugal transfer protein traL, complete TraL	gilliam_02970	543348	543672	Yes
+NA	Integrase, complete integrase	gilliam_02975	543809	545048	Yes
+NA	hypothetical protein	gilliam_02980	545176	545377	Yes
+dnaB	Replicative DNA helicase	gilliam_02985	545437	545860	Yes
+NA	DnaA-N domain-containing protein	gilliam_02990	545868	546144	Yes
+NA	hypothetical protein	gilliam_02995	546198	546441	Yes
+NA	hypothetical protein	gilliam_03000	546459	546750	Yes
+NA	hypothetical protein	gilliam_03005	546725	547076	Yes
+tnp-IS630	IS630 family transposase	gilliam_03010	547234	547741	Yes
+tnp-IS630	IS630 family transposase	gilliam_03015	547727	548102	Yes
+NA	hypothetical protein	gilliam_03020	548158	548605	Yes
+NA	hypothetical protein	gilliam_03025	548997	549786	Yes
+NA	Membrane protein	gilliam_03030	550564	550963	No
+NA	DDE superendonuclease family protein	gilliam_03035	551276	551651	Yes
+NA	DDE superendonuclease family protein	gilliam_03040	551662	551779	Yes
+NA	DDE superendonuclease family protein	gilliam_03045	551809	552100	Yes
+NA	ATP-binding protein	gilliam_03050	552128	552284	Yes
+NA	ATP-binding protein	gilliam_03055	552372	552507	Yes
+pld	phospholipase D family protein	gilliam_03060	552602	553193	No
+NA	Transposase family protein	gilliam_03065	553681	553894	No
+NA	Transposase	gilliam_03070	554402	554603	No
+NA	IS5 family transposase ISOt6	gilliam_03075	554797	554926	Yes
+NA	DDE superendonuclease family protein	gilliam_03080	555182	555359	Yes
+NA	DDE superendonuclease family protein	gilliam_03085	555361	555619	Yes
+uvrD	ATP-dependent DNA helicase UvrD	gilliam_03090	555787	557929	No
+NA	Transposase	gilliam_03095	558157	558322	No
+cysS	cysteine--tRNA ligase	gilliam_03100	558734	560174	Yes
+gltX2	glutamate--tRNA ligase 2	gilliam_03105	560238	561585	Yes
+mutL	DNA mismatch repair protein MutL	gilliam_03110	561764	563807	Yes
+narK	MFS transporter	gilliam_03115	563834	565088	Yes
+virB6-4	type VI secretion protein	gilliam_03120	565124	567689	Yes
+virB6-3	type VI secretion protein	gilliam_03125	567681	570954	Yes
+virB6-2	type VI secretion protein	gilliam_03130	571007	574871	Yes
+virB6-1	type VI secretion protein	gilliam_03135	574892	577340	Yes
+virB4-1	VirB4 family type IV secretion/conjugal transfer ATPase	gilliam_03140	577339	579757	Yes
+virB3	type VI secretion protein	gilliam_03145	579767	580055	Yes
+priA	primosomal protein N'	gilliam_03150	580375	582316	Yes
+metG	methionine--tRNA ligase	gilliam_03155	582502	584038	No
+tatD	DNA-binding protein	gilliam_03160	584080	584839	No
+NA	IS5 family transposase ISOt6	gilliam_03165	585273	585444	No
+NA	DDE superendonuclease family protein	gilliam_03170	585443	585566	No
+NA	DDE superendonuclease family protein	gilliam_03175	585596	585713	No
+NA	IS5 family transposase ISOt6	gilliam_03180	585724	586099	No
+mscC	mechanosensitive ion channel protein MscS	gilliam_03185	586967	587834	Yes
+NA	Putative integrase	gilliam_03190	588087	588195	No
+rlpA	septal ring lytic transglycosylase RlpA family lipoprotein	gilliam_03195	588885	589551	No
+NA	Repeat-containing protein D	gilliam_03200	590098	590515	Yes
+NA	DnaA N-terminal domain protein	gilliam_03205	590653	591775	No
+NA	hypothetical protein	gilliam_03210	591788	591914	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_03215	592005	592581	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	gilliam_03220	592618	593263	No
+NA	Ankyrin repeat family protein	gilliam_03225	593359	594196	No
+NA	Membrane protein	gilliam_03230	594676	594841	No
+dam	DNA methyltransferase	gilliam_03235	594844	595654	Yes
+NA	ATP-binding protein	gilliam_03240	596028	596757	No
+baeS	sensor histidine kinase	gilliam_03245	596778	597636	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_03250	597736	598312	No
+NA	hypothetical protein	gilliam_03255	598398	598944	Yes
+traD	conjugal transfer protein TraD	gilliam_03260	599046	599442	Yes
+NA	Conjugal transfer protein TraA	gilliam_03265	599779	600079	No
+NA	Conjugal transfer protein TraA	gilliam_03270	600056	600182	No
+NA	AAA domain protein	gilliam_03275	600317	601724	No
+tnp-IS630	IS630 family transposase	gilliam_03280	601791	602166	No
+tnp-IS630	IS630 family transposase	gilliam_03285	602320	602659	No
+NA	Conjugal transfer protein TraA	gilliam_03290	602655	603711	No
+traI	conjugal transfer protein TraI, complete TraI	gilliam_03295	603976	606646	No
+NA	transposase	gilliam_03300	606697	607633	No
+traD	conjugal transfer protein TraD, complete TraD	gilliam_03305	607642	609397	Yes
+NA	TPR repeat-containing protein 08	gilliam_03310	609402	610551	Yes
+traG	conjugal transfer protein TraG	gilliam_03315	610577	612797	Yes
+NA	Conjugal transfer protein TraH	gilliam_03320	612783	613308	Yes
+NA	Conjugal transfer protein TraH	gilliam_03325	613357	613987	Yes
+traF	conjugal transfer protein TraF, complete TraF	gilliam_03330	613983	614667	Yes
+NA	conjugal transfer protein TraN	gilliam_03335	614678	616229	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	gilliam_03340	616225	616609	Yes
+NA	conjugal transfer protein	gilliam_03345	616631	616898	Yes
+NA	Conjugal transfer protein	gilliam_03350	616897	617506	Yes
+NA	Conjugal transfer protein TraC	gilliam_03355	617520	618720	Yes
+traV	conjugal transfer protein TraV, complete TraV	gilliam_03360	618729	619059	Yes
+NA	conjugal transfer protein	gilliam_03365	619058	619241	Yes
+NA	Conjugal transfer protein	gilliam_03370	619324	619534	Yes
+traK1	conjugal transfer protein traK1	gilliam_03375	619633	620035	Yes
+NA	Conjugal transfer protein TraE	gilliam_03380	620031	620184	Yes
+NA	Conjugative transfer protein	gilliam_03385	620192	620387	Yes
+NA	Integrase	gilliam_03390	620379	620796	Yes
+tnp-IS630	IS630 family transposase	gilliam_03395	620931	621306	No
+tnp-IS630	IS630 family transposase	gilliam_03400	621404	621911	Yes
+tnp-IS630	IS630 family transposase	gilliam_03405	621897	622272	Yes
+tnp-IS630	IS630 family transposase	gilliam_03410	622427	622766	No
+putP	sodium:proline symporter	gilliam_03415	623254	626692	Yes
+icd	isocitrate dehydrogenase	gilliam_03425	627329	628889	Yes
+hemC	hydroxymethylbilane synthase	gilliam_03430	629062	629959	No
+proP	proline/betaine transporter	gilliam_03435	630275	631496	No
+NA	Putative repeat protein	gilliam_03440	632566	633568	No
+tnp-IS630	IS630 family transposase	gilliam_03445	633633	633915	No
+NA	Transposase	gilliam_03450	633993	634128	No
+NA	IS630 family transposase	gilliam_03455	634141	634648	Yes
+tnp-IS630	IS630 family transposase	gilliam_03460	634634	635009	Yes
+tnp-IS630	IS630 family transposase	gilliam_03465	635134	635365	No
+NA	DDE superendonuclease family protein	gilliam_03470	635539	635878	No
+NA	RNA-binding protein	gilliam_03475	635967	636225	No
+NA	hypothetical protein	gilliam_03480	636779	638648	No
+NA	hypothetical protein	gilliam_03485	638916	639024	Yes
+tdcB	threonine dehydratase	gilliam_03490	639198	640212	Yes
+ycbZ	endopeptidase La	gilliam_03495	640328	642701	No
+dnaA	Chromosomal replication initiator protein DnaA	gilliam_03500	642765	643416	Yes
+purF	amidophosphoribosyltransferase	gilliam_03505	643545	644292	Yes
+miaA	tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA	gilliam_03510	644275	645313	Yes
+rnhB	ribonuclease HII	gilliam_03515	645382	646000	No
+NA	DUF2312 domain-containing protein	gilliam_03520	646565	646817	No
+NA	Integrase	gilliam_03525	647444	647735	No
+NA	IS630 family transposase	gilliam_03530	648219	648396	No
+tnp-IS630	IS630 family transposase	gilliam_03535	648403	648778	No
+tnp-IS630	IS630 family transposase	gilliam_03540	648764	649271	No
+NA	Conjugal transfer protein TraC	gilliam_03545	649324	649840	No
+NA	Ankyrin repeat-containing protein	gilliam_03550	649927	650530	Yes
+NA	DDE superendonuclease family protein	gilliam_03555	650789	651143	No
+NA	hypothetical protein	gilliam_03560	651514	651688	Yes
+rpmJ	50S ribosomal protein L36	gilliam_03565	652068	652194	Yes
+NA	DDE superendonuclease family protein	gilliam_03570	653099	653330	No
+NA	Thioredoxin	gilliam_03575	653526	653853	Yes
+bamA	outer membrane protein assembly factor BamA	gilliam_03580	653875	656194	Yes
+rseP	RIP metalloprotease RseP	gilliam_03585	656206	657268	Yes
+rmuC	DNA recombination protein RmuC	gilliam_03590	657377	658727	Yes
+rsmA	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase	gilliam_03595	658787	659609	Yes
+surA	Chaperone SurA	gilliam_03600	659727	660603	Yes
+himA	Bacterial nucleoid DNA-binding protein IHF-alpha	gilliam_03605	660787	661096	Yes
+znuA	zinc ABC transporter substrate-binding protein	gilliam_03615	661631	662528	Yes
+pcnB	poly(A) polymerase	gilliam_03620	662524	663733	Yes
+gltP	dicarboxylate/amino acid:cation symporter	gilliam_03625	663788	664985	Yes
+uvrD	ATP-dependent DNA helicase UvrD	gilliam_03630	665165	668633	Yes
+sixA	phosphohistidine phosphatase	gilliam_03635	668645	669119	Yes
+dapB	dihydrodipicolinate reductase	gilliam_03640	669201	670053	Yes
+hisJ	amino acid ABC transporter substrate-binding protein	gilliam_03645	670059	670863	Yes
+coxW	cytochrome c oxidase assembly protein	gilliam_03650	671288	671816	No
+tnp-IS630	IS630 family transposase	gilliam_03655	672068	672575	Yes
+tnp-IS630	IS630 family transposase	gilliam_03660	672561	672936	Yes
+rpmF	50S ribosomal protein L32	gilliam_03665	673639	673846	Yes
+bamE	SmpA / OmlA family	gilliam_03670	673942	674308	No
+NA	hypothetical protein	gilliam_03675	674345	674468	No
+era	GTPase Era	gilliam_03680	674685	675606	Yes
+NA	Peptidylprolyl isomerase	gilliam_03685	675602	676625	Yes
+prfA	peptide chain release factor 1	gilliam_03690	676830	677910	Yes
+NA	Transposase DDE domain protein	gilliam_03695	678285	678696	Yes
+NA	DnaA-N domain-containing protein	gilliam_03700	678904	680470	No
+NA	DnaB-like helicase N terminal domain protein	gilliam_03705	680478	680610	No
+dnaB	replicative DNA helicase	gilliam_03710	680560	681916	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_03715	682151	682727	No
+NA	IS630 family transposase	gilliam_03720	682895	683075	No
+tnp-IS630	IS630 family transposase	gilliam_03725	683078	683453	No
+NA	DDE superendonuclease family protein	gilliam_03730	683439	683838	No
+NA	OTT_1508-like deaminase	gilliam_03735	683960	684407	Yes
+NA	hypothetical protein	gilliam_03740	684399	684918	Yes
+NA	Ankyrin repeat family protein	gilliam_03745	684950	685982	Yes
+tnp-IS630	IS630 family transposase	gilliam_03750	686474	686981	Yes
+tnp-IS630	IS630 family transposase	gilliam_03755	686967	687342	Yes
+NA	IS630 family transposase	gilliam_03760	687461	687800	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	gilliam_03765	687913	688489	Yes
+baeS	sensor histidine kinase	gilliam_03770	688589	689447	Yes
+NA	ATP-binding protein	gilliam_03775	689451	689868	Yes
+NA	ATP-binding protein	gilliam_03780	690062	690197	Yes
+dam	DNA methyltransferase	gilliam_03785	690547	691357	No
+NA	Putative ompA-like autotransporter	gilliam_03790	691360	691642	Yes
+NA	hypothetical protein	gilliam_03795	691844	691997	No
+ykfC	Retron-type reverse transcriptase	gilliam_03800	692181	693201	No
+NA	IS5 family transposase ISOt6	gilliam_03805	693218	693347	Yes
+gst	glutathione S-transferase	gilliam_03815	693922	694591	No
+NA	DDE superendonuclease family protein	gilliam_03820	694728	695103	Yes
+NA	DDE superendonuclease family protein	gilliam_03825	695092	695383	Yes
+NA	IS5 family transposase ISOt6	gilliam_03830	695395	695554	Yes
+NA	IS630 family transposase	gilliam_03835	695969	696476	Yes
+NA	IS630 family transposase	gilliam_03840	696640	696838	Yes
+nusB	transcription antitermination factor NusB	gilliam_03845	697062	697539	Yes
+hisS	histidine--tRNA ligase	gilliam_03850	697562	698834	Yes
+mlaD	outer membrane lipid asymmetry maintenance protein MlaD	gilliam_03855	698836	699280	Yes
+nuo	NADH ubiquinone oxidoreductase	gilliam_03860	699326	699689	Yes
+rnhA	ribonuclease H	gilliam_03865	699660	700167	Yes
+sspB2	Stringent starvation protein B	gilliam_03870	700166	700694	Yes
+dsbA	thiol:disulfide interchange protein	gilliam_03875	700821	701646	Yes
+fdxA	ferredoxin	gilliam_03880	701777	702098	Yes
+ccmC	heme exporter protein C	gilliam_03885	702102	702813	Yes
+yfiH	Laccase domain protein YfiH	gilliam_03890	702805	703369	Yes
+glnA	glutamine synthetase	gilliam_03895	703514	704366	No
+NA	IS982 family transposase	gilliam_03900	704996	705578	Yes
+tnp-IS630	IS630 family transposase	gilliam_03905	705808	706183	No
+tnp-IS630	IS630 family transposase	gilliam_03910	706337	706676	No
+yjbI	Uncharacterized conserved protein YjbI, contains pentapeptide repeats	gilliam_03915	707718	711372	Yes
+scaE	ScaE autotransporter protein	gilliam_03920	711878	714152	Yes
+NA	IS5 family transposase ISOt6	gilliam_03925	714711	714954	Yes
+NA	DDE superendonuclease family protein	gilliam_03930	715356	715794	No
+pgsA	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	gilliam_03935	716356	716905	No
+NA	transposase	gilliam_03940	717473	718445	No
+NA	Conjugal transfer protein TraI	gilliam_03945	718454	719135	Yes
+NA	Conjugal transfer protein TraI	gilliam_03950	719148	719655	Yes
+NA	Putative conjugative transfer protein TraI	gilliam_03955	719762	721253	Yes
+NA	Conjugal transfer protein TraA	gilliam_03960	722009	722171	Yes
+traA	conjugal transfer protein TraA	gilliam_03965	722139	724434	Yes
+NA	Conjugal transfer protein TraA	gilliam_03970	724569	724998	Yes
+traD	conjugal transfer protein TraD, complete TraD	gilliam_03975	725275	725731	No
+NA	hypothetical protein	gilliam_03980	725781	726147	No
+NA	Putative permease	gilliam_03985	726105	726834	Yes
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	gilliam_03990	726954	727530	Yes
+baeS	sensor histidine kinase	gilliam_03995	727630	728488	Yes
+NA	ATP-binding protein	gilliam_04000	728509	729238	Yes
+NA	hypothetical protein	gilliam_04005	730010	731819	Yes
+NA	IS630 family transposase	gilliam_04010	732079	732367	No
+NA	IS630 family transposase	gilliam_04015	732557	733088	No
+NA	hypothetical protein	gilliam_04020	733079	733481	Yes
+NA	hypothetical protein	gilliam_04025	733558	734071	Yes
+NA	TPR repeat-containing protein 08	gilliam_04030	734547	735189	Yes
+NA	hypothetical protein	gilliam_04035	735866	736163	Yes
+xerD	integrase, complete integrase	gilliam_04040	736730	737930	No
+traL	conjugal transfer protein traL, complete TraL	gilliam_04045	738062	738386	No
+NA	Conjugal transfer protein TraE	gilliam_04050	738385	738805	No
+NA	hypothetical protein	gilliam_04055	738949	739258	No
+traK2	conjugal transfer protein traK2, complete TraK-2	gilliam_04060	739392	739722	No
+traB	conjugal transfer protein TraB, complete TraB	gilliam_04065	739764	741087	No
+traV	conjugal transfer protein TraV, complete TraV	gilliam_04070	741086	741416	No
+traC	conjugal transfer protein TraC, complete TraC	gilliam_04075	741396	743886	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	gilliam_04080	743882	744542	No
+NA	hypothetical protein	gilliam_04085	744625	744799	No
+traU	conjugal transfer protein TraU, complete TraU	gilliam_04090	744799	745777	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	gilliam_04095	745799	746183	No
+traN	conjugal transfer protein TraN, complete TraN	gilliam_04100	746179	747871	No
+traF	conjugal transfer protein TraF, complete TraF	gilliam_04105	747882	748572	No
+traH	conjugal transfer protein TraH, complete TraH	gilliam_04110	748568	749870	No
+traG	conjugal transfer protein TraG, complete TraG	gilliam_04115	749869	752521	No
+NA	TPR repeat-containing protein 08	gilliam_04120	752536	753682	No
+traD	conjugal transfer protein TraD, complete TraD	gilliam_04125	753687	755442	No
+rpnC	transposase	gilliam_04130	755451	756444	Yes
+traI	conjugal transfer protein TraI, complete TraI	gilliam_04135	756428	759098	Yes
+traA	conjugal transfer protein TraA, complete TraA	gilliam_04140	759364	762241	Yes
+traD	conjugal transfer protein TraD, complete TraD	gilliam_04145	762519	762975	No
+NA	hypothetical protein	gilliam_04150	763058	763202	No
+NA	SycD/LcrH family type III secretion system chaperone	gilliam_04155	763298	764372	No
+NA	Putative conjugative transfer protein TraD	gilliam_04160	764651	764864	No
+NA	transposase	gilliam_04165	764982	765957	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_04170	766077	766665	Yes
+baeS	ATP-binding protein	gilliam_04175	766706	767201	Yes
+NA	ATP-binding protein	gilliam_04180	767219	768155	Yes
+NA	Putative signal transduction histidine kinase	gilliam_04185	768171	768972	Yes
+baeS	histidine kinase	gilliam_04190	769101	769803	Yes
+NA	ATP-binding protein	gilliam_04195	769867	770146	Yes
+dam	DNA methyltransferase	gilliam_04200	770520	771330	No
+NA	IS982 family transposase	gilliam_04205	771345	772221	Yes
+NA	hypothetical protein	gilliam_04210	772569	779136	Yes
+NA	hypothetical protein	gilliam_04215	779113	779674	Yes
+NA	Putative ompA-like autotransporter	gilliam_04220	780492	780996	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	gilliam_04225	781042	781687	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_04230	781721	782297	Yes
+dnaB	replicative DNA helicase	gilliam_04235	782529	783966	Yes
+NA	DnaA-N domain-containing protein	gilliam_04240	783974	785690	Yes
+NA	hypothetical protein	gilliam_04245	786187	786313	Yes
+tnp-IS630	IS630 family transposase	gilliam_04255	787244	787619	No
+NA	IS630 family transposase	gilliam_04260	787605	787713	No
+NA	Putative transposase	gilliam_04265	787773	787899	No
+NA	IS630 family transposase	gilliam_04270	787904	788111	No
+NA	Transposase family protein	gilliam_04275	788124	788400	Yes
+ndk	nucleoside-diphosphate kinase	gilliam_04280	788990	789410	No
+NA	IS5 family transposase ISOt6	gilliam_04285	789817	790273	No
+NA	Ankyrin repeat with 1d ankyrin repeats domain protein	gilliam_04290	790612	790888	No
+NA	Tetratricopeptide repeat family protein	gilliam_04295	790917	791460	No
+traD	conjugal transfer protein TraD	gilliam_04300	791537	793016	No
+NA	transposase	gilliam_04305	793025	793997	Yes
+traI	conjugal transfer protein TraI	gilliam_04310	794048	796190	Yes
+NA	AAA domain protein	gilliam_04315	796269	797049	Yes
+NA	Conjugal transfer protein TraA	gilliam_04320	797184	797310	Yes
+NA	Conjugal transfer protein TraA	gilliam_04325	797287	797587	Yes
+traD	conjugal transfer protein TraD, complete TraD	gilliam_04330	797864	798308	No
+NA	TPR repeat family protein	gilliam_04335	798643	799234	No
+NA	transposase	gilliam_04340	799822	800701	Yes
+NA	(P)ppGpp synthetase	gilliam_04345	800822	801302	Yes
+NA	ATP-binding protein	gilliam_04355	803222	803951	No
+baeS	sensor histidine kinase	gilliam_04360	803972	804830	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	gilliam_04365	804930	805506	No
+NA	PD-(D/E)XK nuclease transposase family protein	gilliam_04370	805626	805875	No
+tnp-IS630	IS630 family transposase	gilliam_04375	805888	806404	Yes
+tnp-IS630	IS630 family transposase	gilliam_04380	806381	806702	Yes
+NA	IS630 family transposase	gilliam_04385	806652	806757	Yes
+NA	transposase	gilliam_04390	806846	807554	No
+NA	Conjugal transfer protein TraD	gilliam_04395	807621	807897	Yes
+NA	Putative dienelactone hydrolase	gilliam_04400	809224	809959	No
+NA	SycD/LcrH family type III secretion system chaperone	gilliam_04405	810415	811471	Yes
+traD	conjugal transfer protein TraD, complete TraD	gilliam_04410	811806	812250	Yes
+traA	conjugal transfer protein TraA, complete TraA	gilliam_04415	812528	815384	No
+traI	conjugal transfer protein TraI, complete TraI	gilliam_04420	815649	818319	No
+NA	transposase	gilliam_04425	818370	819354	No
+traD	conjugal transfer protein TraD, complete TraD	gilliam_04430	819363	821118	Yes
+NA	Tetratricopeptide repeat family protein	gilliam_04435	821121	822264	Yes
+traG	conjugal transfer protein TraG	gilliam_04440	822279	824520	Yes
+NA	Conjugal transfer protein TraH	gilliam_04445	824506	824893	Yes
+NA	Conjugal transfer protein TraH	gilliam_04450	825081	825711	Yes
+traF	conjugal transfer protein TraF, complete TraF	gilliam_04455	825707	826391	Yes
+NA	Conjugal transfer protein TraN	gilliam_04460	826402	826780	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	gilliam_04465	826776	827160	Yes
+traU	conjugal transfer protein TraU	gilliam_04470	827182	828055	Yes
+NA	Conjugal transfer protein TraC	gilliam_04475	828069	829269	Yes
+traV	conjugal transfer protein TraV, complete TraV	gilliam_04480	829278	829608	Yes
+NA	conjugal transfer protein	gilliam_04485	829607	829790	Yes
+traB	conjugal transfer protein TraB	gilliam_04490	829819	830929	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	gilliam_04495	830971	831298	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	gilliam_04500	831441	831933	Yes
+NA	hypothetical protein	gilliam_04505	831929	832082	Yes
+NA	Conjugal transfer protein TraE	gilliam_04510	832062	832482	Yes
+traL	conjugal transfer protein traL, complete TraL	gilliam_04515	832481	832805	Yes
+tnp-IS630	IS630 family transposase	gilliam_04520	833107	833482	No
+tnp-IS630	IS630 family transposase	gilliam_04525	833468	833975	No
+NA	Integrase	gilliam_04530	833999	834260	Yes
+NA	Integrase	gilliam_04535	834317	834653	Yes
+tnp-IS630	IS630 family transposase	gilliam_04540	834816	835323	Yes
+tnp-IS630	IS630 family transposase	gilliam_04545	835309	835684	Yes
+NA	IS630 family transposase	gilliam_04550	836022	836529	No
+NA	IS630 family transposase	gilliam_04555	836477	836831	Yes
+araJ	MFS transporter	gilliam_04560	837575	838775	No
+NA	hypothetical protein	gilliam_04565	839163	841299	No
+ruvA	Holliday junction branch migration protein RuvA	gilliam_04570	841542	842160	No
+ruvB	Holliday junction branch migration DNA helicase RuvB	gilliam_04575	842159	843146	No
+coxC	cytochrome c oxidase subunit III	gilliam_04580	843316	844141	No
+yraN	Uncharacterised protein family UPF0102	gilliam_04585	844531	844870	Yes
+NA	MFS transporter	gilliam_04590	844936	846238	Yes
+NA	hypothetical protein	gilliam_04595	846526	848005	Yes
+sucB	dihydrolipoamide succinyltransferase	gilliam_04600	848010	849294	Yes
+sucA	2-oxoglutarate dehydrogenase E1 component	gilliam_04605	849293	852185	Yes
+sodB	superoxide dismutase	gilliam_04610	852225	852867	Yes
+NA	hypothetical protein	gilliam_04615	852951	853137	Yes
+mgtE	magnesium transporter	gilliam_04620	854082	855351	No
+ccmF	cytochrome C biogenesis protein	gilliam_04625	855340	857203	No
+NA	IS630 family transposase	gilliam_04630	857975	858320	No
+NA	Transposase	gilliam_04635	858464	858797	No
+NA	IS630 family transposase	gilliam_04640	859019	859124	No
+tnp-IS630	IS630 family transposase	gilliam_04645	859074	859395	No
+NA	IS630 family transposase	gilliam_04650	859381	859888	No
+NA	IS630 family transposase	gilliam_04660	861357	861696	No
+NA	IS630 family transposase	gilliam_04665	861822	862329	No
+NA	IS5 family transposase ISOt6	gilliam_04670	862342	862501	Yes
+NA	DDE superendonuclease family protein	gilliam_04675	862512	862629	Yes
+NA	DDE superendonuclease family protein	gilliam_04680	862628	862739	Yes
+mdlB	ATP-binding protein	gilliam_04685	863150	864902	Yes
+cyaY	iron donor protein CyaY	gilliam_04690	864894	865227	Yes
+NA	Conjugal transfer protein TraA	gilliam_04695	865504	865654	No
+NA	C48 family peptidase	gilliam_04700	866139	870255	No
+NA	hypothetical protein	gilliam_04705	870464	871313	No
+NA	hypothetical protein	gilliam_04710	871288	871990	No
+sdhC	succinate dehydrogenase, cytochrome b556 subunit	gilliam_04715	873078	873396	No
+sdhD	succinate dehydrogenase, hydrophobic membrane anchor protein	gilliam_04720	873426	873816	No
+sdhA	succinate dehydrogenase flavoprotein subunit	gilliam_04725	874010	875798	No
+sdhB	succinate dehydrogenase iron-sulfur subunit	gilliam_04730	875832	876618	No
+NA	Conjugal transfer protein	gilliam_04735	877059	877437	No
+NA	Conjugal transfer protein TraB	gilliam_04740	877467	877755	No
+tnp-IS630	IS630 family transposase	gilliam_04745	877993	878368	No
+NA	IS630 family transposase	gilliam_04750	878354	878861	No
+NA	IS5 family transposase ISOt6	gilliam_04755	879270	879507	Yes
+NA	DDE superendonuclease family protein	gilliam_04760	879518	879956	Yes
+lepB	signal peptidase I	gilliam_04765	880485	881226	No
+rnc	ribonuclease III	gilliam_04770	881266	882022	No
+NA	Transposase	gilliam_04775	882211	882445	Yes
+NA	DDE superendonuclease family protein	gilliam_04780	882456	882636	Yes
+NA	IS5 family transposase ISOt6	gilliam_04785	882679	882898	Yes
+NA	Replicative DNA helicase	gilliam_04790	883066	883294	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_04795	883518	884094	No
+NA	hypothetical protein	gilliam_04800	884180	884747	Yes
+traD	conjugal transfer protein TraD, complete TraD	gilliam_04805	884844	885300	Yes
+NA	Conjugal transfer protein TraA	gilliam_04810	885578	885881	No
+NA	Conjugal transfer protein TraA	gilliam_04815	885935	886277	No
+tnp-IS630	IS630 family transposase	gilliam_04820	886344	886719	No
+NA	Transposase	gilliam_04825	886705	886840	No
+tnp-IS630	IS630 family transposase	gilliam_04830	886896	887271	No
+tnp-IS630	IS630 family transposase	gilliam_04835	887257	887764	No
+tnp-IS630	IS630 family transposase	gilliam_04840	887788	887887	Yes
+NA	IS630 family transposase	gilliam_04845	887890	888076	Yes
+NA	Hormone receptor domain-containing protein	gilliam_04850	889671	894195	Yes
+virB4-2	virB4 protein precursor	gilliam_04855	894194	896648	Yes
+gapA	type I glyceraldehyde-3-phosphate dehydrogenase	gilliam_04860	896922	897939	No
+pgk	phosphoglycerate kinase	gilliam_04865	898019	899240	No
+NA	hypothetical protein	gilliam_04870	899253	899547	No
+proS	proline--tRNA ligase	gilliam_04875	899560	900862	No
+clpX	ATP-dependent Clp protease ATP-binding subunit ClpX	gilliam_04880	901091	902345	Yes
+efp	elongation factor P	gilliam_04885	902550	903120	No
+suhB	extragenic suppressor protein SuhB	gilliam_04890	903116	903902	No
+tsaB	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB	gilliam_04895	904023	904725	No
+NA	Integrase	gilliam_04900	905600	906038	No
+tnp-IS630	IS630 family transposase	gilliam_04905	906111	906486	No
+NA	Transposase	gilliam_04910	906472	906607	No
+tnp-IS630	IS630 family transposase	gilliam_04915	906663	907038	No
+NA	IS630 family transposase	gilliam_04920	907024	907531	No
+NA	Integrase	gilliam_04925	907555	907678	Yes
+NA	MFS transporter	gilliam_04930	908338	909601	No
+panF	sodium:pantothenate symporter	gilliam_04935	909616	911020	No
+NA	hypothetical protein	gilliam_04940	912018	912144	No
+NA	DnaA-N domain-containing protein	gilliam_04945	912665	912974	No
+NA	Replicative DNA helicase	gilliam_04950	913162	913423	No
+tnp-IS630	IS630 family transposase	gilliam_04955	913508	913883	No
+tnp-IS630	IS630 family transposase	gilliam_04960	913869	914376	No
+traL	conjugal transfer protein traL	gilliam_04965	914644	914941	Yes
+NA	Phage integrase family protein	gilliam_04970	915027	915672	Yes
+tnp-IS5	IS5 family transposase	gilliam_04975	916053	916740	Yes
+NA	Integrase	gilliam_04980	916785	917025	Yes
+NA	Integrase	gilliam_04985	917112	917301	Yes
+NA	Integrase	gilliam_04990	917610	917913	Yes
+NA	hypothetical protein	gilliam_04995	918270	918627	Yes
+NA	hypothetical protein	gilliam_05000	918743	918875	Yes
+rpoD	RNA polymerase sigma factor RpoD	gilliam_05005	919144	920989	Yes
+dnaG	DNA primase	gilliam_05010	920972	922748	Yes
+dprA	DNA-processing protein DprA	gilliam_05015	923659	924820	Yes
+ahpC	alkyl hydroperoxide reductase	gilliam_05020	924860	925463	Yes
+NA	hypothetical protein	gilliam_05025	926665	927055	No
+tnp-IS630	IS630 family transposase	gilliam_05030	927493	927868	No
+NA	IS630 family transposase	gilliam_05035	927854	928361	No
+NA	hypothetical protein	gilliam_05040	928519	928642	No
+NA	hypothetical protein	gilliam_05045	928864	929002	No
+dnaB	replicative DNA helicase	gilliam_05050	928988	930311	Yes
+NA	DnaA-N domain-containing protein	gilliam_05055	930319	932035	Yes
+NA	hypothetical protein	gilliam_05060	933215	933740	No
+tatA	twin-arginine translocase TatA/TatE family subunit	gilliam_05065	934211	934370	Yes
+obgE	GTPase ObgE	gilliam_05070	934887	935877	Yes
+nrfF	Cytochrome C biogenesis protein	gilliam_05075	935896	936274	Yes
+NA	hypothetical protein	gilliam_05080	936296	936626	Yes
+yccA	modulator of FtsH protease YccA	gilliam_05085	936803	937544	Yes
+rpoZ	DNA-directed RNA polymerase subunit omega	gilliam_05090	937893	938283	No
+spoT	bifunctional (p)ppGpp synthase/hydrolase SpoT	gilliam_05095	938301	940437	No
+acpS	holo-ACP synthase	gilliam_05100	940447	940846	No
+groEL	molecular chaperone GroEL	gilliam_05105	942011	943679	Yes
+groES	Co-chaperonin GroES	gilliam_05110	943751	944036	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	gilliam_05115	944972	946142	No
+NA	DDE superendonuclease family protein	gilliam_05120	946381	946792	No
+NA	DDE superendonuclease family protein	gilliam_05125	946854	947292	No
+NA	DDE superendonuclease family protein	gilliam_05130	947303	947678	No
+NA	DDE superendonuclease family protein	gilliam_05135	947741	948116	No
+dnaB	replicative DNA helicase	gilliam_05140	948453	949908	Yes
+NA	hypothetical protein	gilliam_05145	950358	950526	Yes
+baeS	Signal transduction histidine kinase	gilliam_05150	950649	952212	Yes
+raiA	Ribosome-associated translation inhibitor RaiA	gilliam_05155	952495	952846	No
+NA	IS5 family transposase ISOt6	gilliam_05160	953442	953625	Yes
+NA	hypothetical protein	gilliam_05165	954423	954549	No
+NA	hypothetical protein	gilliam_05170	954941	955238	No
+NA	Integrase	gilliam_05175	955912	956536	No
+traB	conjugal transfer protein TraB	gilliam_05180	956578	957694	No
+NA	conjugal transfer protein	gilliam_05185	957723	957906	No
+traV	conjugal transfer protein TraV, complete TraV	gilliam_05190	957905	958235	No
+NA	Conjugal transfer protein TraC	gilliam_05195	958244	959444	No
+traU	conjugal transfer protein TraU	gilliam_05200	959473	960331	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	gilliam_05205	960353	960737	No
+NA	Conjugal transfer protein TraN	gilliam_05210	960733	960994	No
+traN	conjugal transfer protein TraN	gilliam_05215	961023	962421	No
+NA	Glycosyl transferase family 8	gilliam_05220	962673	963468	No
+gepA	DUF4065 domain-containing protein	gilliam_05225	963578	964145	No
+traF	conjugal transfer protein TraF, complete TraF	gilliam_05230	964119	964866	No
+NA	Conjugal transfer protein TraH	gilliam_05235	964862	965492	No
+NA	Conjugal transfer protein TraH	gilliam_05240	965541	966066	No
+traG	conjugal transfer protein TraG	gilliam_05245	966052	967618	No
+traD	conjugal transfer protein TraD	gilliam_05250	967695	969174	No
+NA	Transposase	gilliam_05255	969183	969864	Yes
+NA	IS630 family transposase	gilliam_05260	969937	970468	Yes
+NA	Transposase	gilliam_05265	970446	970800	Yes
+rpnC	Recombination-promoting DNA endonuclease RpnC/YadD	gilliam_05270	970828	971071	Yes
+tnp-IS110	IS110 family transposase	gilliam_05275	971450	972413	No
+NA	Ankyrin repeat family protein	gilliam_05280	973094	974147	Yes
+NA	IS110 family transposase	gilliam_05285	974638	974995	No
+tnp-IS630	IS630 family transposase	gilliam_05290	975181	975688	Yes
+tnp-IS630	IS630 family transposase	gilliam_05295	975674	976049	Yes
+NA	Conjugal transfer protein TraI	gilliam_05300	976220	976718	Yes
+traI	conjugal transfer protein TraI	gilliam_05305	976731	978837	Yes
+traA	conjugal transfer protein TraA	gilliam_05310	979591	982270	Yes
+traD	conjugal transfer protein TraD, complete TraD	gilliam_05315	982719	983175	No
+NA	hypothetical protein	gilliam_05320	983263	983839	No
+NA	hypothetical protein	gilliam_05325	984102	984636	Yes
+NA	transposase	gilliam_05330	984926	985913	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_05335	986033	986621	Yes
+baeS	ATP-binding protein	gilliam_05340	986662	987157	Yes
+NA	ATP-binding protein	gilliam_05345	987175	988114	Yes
+NA	Putative signal transduction histidine kinase	gilliam_05350	988130	988316	Yes
+NA	ATP-binding protein	gilliam_05355	988312	988708	Yes
+baeS	histidine kinase	gilliam_05360	988837	989539	Yes
+NA	ATP-binding protein	gilliam_05365	989603	989882	Yes
+dam	DNA methyltransferase	gilliam_05370	990249	991059	No
+NA	Putative ompA-like autotransporter	gilliam_05375	991062	991566	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	gilliam_05380	991668	992313	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_05385	992350	992926	Yes
+dnaB	replicative DNA helicase	gilliam_05390	993161	994610	Yes
+NA	DnaA-N domain-containing protein	gilliam_05395	994618	995629	Yes
+NA	hypothetical protein	gilliam_05400	995679	996333	Yes
+NA	hypothetical protein	gilliam_05405	996825	996951	Yes
+NA	hypothetical protein	gilliam_05410	997166	997292	Yes
+NA	Transposase	gilliam_05415	997500	997623	No
+gdhA	NAD-glutamate dehydrogenase	gilliam_05420	998685	1003611	Yes
+mnmE	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE	gilliam_05425	1003692	1005036	No
+xerC	recombinase XerC	gilliam_05430	1005061	1006000	No
+dksA	RNA polymerase-binding protein DksA	gilliam_05435	1006033	1006465	No
+ppa	inorganic pyrophosphatase	gilliam_05440	1006549	1007077	No
+holB	DNA polymerase III subunit delta'	gilliam_05445	1007100	1007973	No
+rluC	ribosomal large subunit pseudouridine synthase	gilliam_05450	1007956	1008898	No
+NA	Transposase DDE domain protein	gilliam_05455	1009740	1010094	No
+tnp-IS630	IS630 family transposase	gilliam_05460	1010042	1010381	Yes
+tnp-IS630	IS630 family transposase	gilliam_05465	1010500	1010875	No
+tnp-IS630	IS630 family transposase	gilliam_05470	1010852	1011368	No
+NA	Ankyrin repeat-containing protein	gilliam_05475	1012101	1012389	No
+NA	Integrase	gilliam_05480	1013295	1013592	No
+NA	Integrase	gilliam_05485	1013720	1014053	No
+NA	Integrase	gilliam_05490	1014077	1014236	No
+NA	Transposase	gilliam_05495	1014329	1014479	Yes
+NA	DDE superendonuclease family protein	gilliam_05500	1014505	1014814	Yes
+NA	Transposase	gilliam_05505	1014865	1015036	Yes
+NA	Transposase	gilliam_05510	1015014	1015368	Yes
+atpF	ATP synthase subunit b	gilliam_05515	1016262	1016727	Yes
+atpF	ATP synthase subunit B	gilliam_05520	1016739	1017237	Yes
+atpE	ATP synthase subunit C	gilliam_05525	1017244	1017469	Yes
+atpB	ATP synthase subunit A	gilliam_05530	1017524	1018253	Yes
+NA	Ankyrin	gilliam_05535	1019027	1019138	No
+NA	Transposase	gilliam_05540	1019294	1019486	Yes
+vut1	queuosine precursor transporter	gilliam_05545	1019603	1020278	No
+ppdK	pyruvate, phosphate dikinase	gilliam_05550	1021601	1024307	Yes
+NA	hypothetical protein	gilliam_05555	1025504	1026089	No
+tnp-IS630	IS630 family transposase	gilliam_05560	1026092	1026467	No
+tnp-IS630	IS630 family transposase	gilliam_05565	1026621	1026960	No
+NA	DnaA-N domain-containing protein	gilliam_05570	1027184	1028894	No
+dnaB	replicative DNA helicase	gilliam_05575	1028902	1030351	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_05580	1030594	1031170	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	gilliam_05585	1031207	1031852	No
+NA	Putative ompA-like autotransporter	gilliam_05590	1031898	1032402	No
+dam	DNA-adenine methylase	gilliam_05595	1032443	1033256	Yes
+NA	hypothetical protein	gilliam_05600	1033804	1034521	No
+NA	hypothetical protein	gilliam_05605	1034652	1034808	No
+NA	ATP-binding protein	gilliam_05610	1034869	1035598	No
+baeS	sensor histidine kinase	gilliam_05615	1035619	1036477	No
+NA	(P)pGpp hydrolase	gilliam_05620	1036577	1036892	No
+menE,fadK	acyl-[ACP]--phospholipid O-acyltransferase	gilliam_05625	1038019	1041493	Yes
+ypfH	esterase	gilliam_05630	1041810	1042443	Yes
+nth	endonuclease III	gilliam_05635	1042439	1043078	Yes
+grxD	Grx4 family monothiol glutaredoxin	gilliam_05640	1043153	1043507	No
+nifU	NifU family protein	gilliam_05645	1043562	1044111	No
+NA	hypothetical protein	gilliam_05650	1044476	1044680	No
+NA	IS5 family transposase ISOt6	gilliam_05655	1044950	1045076	No
+NA	DDE superendonuclease family protein	gilliam_05660	1045056	1045347	No
+NA	DDE superendonuclease family protein	gilliam_05665	1045336	1045711	No
+NA	hypothetical protein	gilliam_05670	1045736	1045946	Yes
+NA	Helix-turn-helix family protein	gilliam_05675	1046337	1047144	Yes
+fieF	Cation efflux family	gilliam_05680	1047414	1048332	No
+tadA	tRNA-specific adenosine deaminase	gilliam_05685	1048372	1048834	No
+ligA	DNA ligase (NAD(+)) LigA	gilliam_05690	1048902	1051002	No
+pepA	aminopeptidase	gilliam_05695	1050998	1052771	No
+NA	Transposase	gilliam_05700	1053159	1053465	Yes
+NA	Transposase	gilliam_05705	1053442	1053550	Yes
+NA	Site-specific DNA-methyltransferase (adenine-specific)	gilliam_05710	1053772	1054258	Yes
+tnp-IS630	IS630 family transposase	gilliam_05715	1054301	1054676	No
+NA	IS630 family transposase	gilliam_05720	1054662	1055169	No
+NA	Ankyrin repeat-containing protein 13	gilliam_05725	1056252	1057080	No
+NA	DDE superendonuclease family protein	gilliam_05730	1057453	1057672	No
+NA	Putative transposase	gilliam_05735	1058098	1058458	No
+NA	Integrase	gilliam_05740	1058874	1059309	No
+NA	Conjugal transfer protein TraI	gilliam_05745	1059354	1059759	No
+NA	Conjugal transfer protein TraI	gilliam_05750	1059700	1060285	No
+greA	transcription elongation factor GreA	gilliam_05755	1060909	1061389	No
+rpoH	RNA polymerase factor sigma-32	gilliam_05760	1061435	1062335	No
+NA	Putative transposase	gilliam_05765	1062584	1062701	Yes
+NA	DDE superendonuclease family protein	gilliam_05770	1062715	1062919	Yes
+NA	DDE superendonuclease family protein	gilliam_05775	1063050	1063452	Yes
+tnp-IS630	IS630 family transposase	gilliam_05780	1063543	1063918	Yes
+NA	Transposase	gilliam_05785	1064258	1064555	No
+NA	Copper(I)-binding protein	gilliam_05790	1064855	1065398	Yes
+NA	hypothetical protein	gilliam_05795	1065680	1065851	No
+NA	IS5 family transposase ISOt6	gilliam_05800	1067323	1067452	Yes
+NA	DDE superendonuclease family protein	gilliam_05805	1067463	1067901	Yes
+aNKYR	Ankyrin repeat protein with 8 ankyrin repeats	gilliam_05810	1068335	1069808	Yes
+NA	Conjugal transfer protein TraC	gilliam_05815	1070021	1070654	No
+NA	Conjugal transfer protein TraC	gilliam_05820	1070625	1070775	No
+NA	hypothetical protein	gilliam_05825	1070924	1071740	No
+NA	hypothetical protein	gilliam_05830	1071790	1072063	No
+NA	Integrase	gilliam_05835	1072078	1072333	No
+traA	conjugal transfer protein TraA	gilliam_05840	1072504	1075009	Yes
+NA	IS5 family transposase ISOt6	gilliam_05845	1075206	1075398	No
+NA	DDE superendonuclease family protein	gilliam_05850	1075471	1075705	No
+NA	IS5 family transposase ISOt6	gilliam_05855	1075658	1075790	No
+NA	hypothetical protein	gilliam_05860	1075810	1076014	Yes
+NA	DDE superendonuclease family protein	gilliam_05865	1076110	1076404	Yes
+NA	hypothetical protein	gilliam_05870	1076965	1077229	No
+NA	Phage integrase family protein, complete integrase	gilliam_05875	1077299	1078544	No
+traL	conjugal transfer protein traL, complete TraL	gilliam_05880	1078679	1079003	No
+traE	conjugal transfer protein TraE, complete TraE	gilliam_05885	1079002	1079554	No
+traK1	conjugal transfer protein traK1, complete TraK-1	gilliam_05890	1079550	1080027	No
+NA	hypothetical protein	gilliam_05895	1080143	1080236	No
+traK2	conjugal transfer protein traK2, complete TraK-2	gilliam_05900	1080528	1080864	No
+traB	conjugal transfer protein TraB, complete TraB	gilliam_05905	1080902	1082225	No
+traV	conjugal transfer protein TraV, complete TraV	gilliam_05910	1082224	1082554	No
+traC	conjugal transfer protein TraC, complete TraC	gilliam_05915	1082534	1085024	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	gilliam_05920	1085020	1085680	No
+NA	hypothetical protein	gilliam_05925	1085763	1085937	No
+traU	conjugal transfer protein TraU, complete TraU	gilliam_05930	1085970	1086915	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	gilliam_05935	1086937	1087321	No
+traN	conjugal transfer protein TraN, complete TraN	gilliam_05940	1087317	1089009	No
+traF	conjugal transfer protein TraF, complete TraF	gilliam_05945	1089020	1089704	No
+traH	conjugal transfer protein TraH, complete TraH	gilliam_05950	1089700	1091002	No
+traG	conjugal transfer protein TraG, complete TraG	gilliam_05955	1091001	1093641	No
+NA	TPR repeat-containing protein 08	gilliam_05960	1093656	1094802	No
+traD	conjugal transfer protein TraD, complete TraD	gilliam_05965	1094805	1096560	No
+rpnC	transposase	gilliam_05970	1096569	1097658	Yes
+traI	conjugal transfer protein TraI, complete TraI	gilliam_05975	1097642	1100312	Yes
+traA	conjugal transfer protein TraA	gilliam_05980	1100576	1103060	Yes
+NA	Conjugal transfer protein TraA	gilliam_05985	1103114	1103417	Yes
+traD	conjugal transfer protein TraD, complete TraD	gilliam_05990	1103695	1104151	No
+pilW	type IV pilus biogenesis/stability protein PilW	gilliam_05995	1104473	1106288	No
+NA	transposase	gilliam_06000	1106632	1107679	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_06005	1107799	1108387	Yes
+baeS	Signal transduction histidine kinase	gilliam_06010	1108428	1108923	Yes
+NA	ATP-binding protein	gilliam_06015	1108941	1109877	Yes
+NA	Putative signal transduction histidine kinase	gilliam_06020	1109893	1110694	Yes
+NA	ATP-binding protein	gilliam_06025	1110769	1110886	Yes
+kdpD	K+-sensing histidine kinase KdpD	gilliam_06030	1110908	1111577	Yes
+baeS	histidine kinase	gilliam_06035	1111591	1112293	Yes
+NA	ATP-binding protein	gilliam_06040	1112357	1113167	Yes
+dam	DNA methyltransferase	gilliam_06045	1113540	1114350	No
+NA	Putative ompA-like autotransporter	gilliam_06050	1114353	1114857	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	gilliam_06055	1114903	1115548	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_06060	1115585	1116161	Yes
+dnaB	replicative DNA helicase	gilliam_06065	1116395	1117832	Yes
+NA	DnaA-N domain-containing protein	gilliam_06070	1117840	1119406	Yes
+NA	reverse transcriptase	gilliam_06075	1119514	1119706	Yes
+NA	hypothetical protein	gilliam_06080	1120142	1120343	Yes
+NA	IS630 family transposase	gilliam_06085	1120442	1120595	No
+NA	IS630 family transposase	gilliam_06090	1120803	1121310	No
+NA	Integrase	gilliam_06095	1121334	1121430	Yes
+trm112	tetraacyldisaccharide 4'-kinase	gilliam_06100	1122234	1122402	Yes
+NA	hypothetical protein	gilliam_06105	1122531	1122753	Yes
+rpmE	50S ribosomal protein L31	gilliam_06115	1123028	1123253	Yes
+rpmB	50S ribosomal protein L28	gilliam_06120	1123269	1123551	Yes
+eamA	EamA family transporter	gilliam_06125	1123794	1124667	No
+NA	MFS transporter	gilliam_06130	1124684	1125941	No
+NA	hypothetical protein	gilliam_06135	1126535	1127273	No
+pBP4	penicillin-binding protein 4	gilliam_06140	1127632	1128844	Yes
+aspS	aspartate--tRNA(Asp/Asn) ligase	gilliam_06145	1128869	1130663	Yes
+rpoB	DNA-directed RNA polymerase subunit beta'	gilliam_06150	1130936	1135127	Yes
+rpoB	DNA-directed RNA polymerase subunit beta	gilliam_06155	1135242	1139367	Yes
+rplL	50S ribosomal protein L7/L12	gilliam_06160	1139682	1140072	Yes
+rplJ	50S ribosomal protein L10	gilliam_06165	1140093	1140603	Yes
+rplA	50S ribosomal protein L1	gilliam_06170	1140606	1141356	Yes
+rplK	50S ribosomal protein L11	gilliam_06175	1141359	1141806	Yes
+nusG	transcription termination/antitermination factor NusG	gilliam_06180	1141845	1142382	Yes
+secE	preprotein translocase subunit SecE	gilliam_06185	1142423	1142624	Yes
+tuf	elongation factor Tu	gilliam_06195	1142871	1144056	Yes
+plsC	1-acyl-sn-glycerol-3-phosphate acyltransferase	gilliam_06200	1144228	1144993	Yes
+recR	recombination protein RecR	gilliam_06205	1145109	1145721	Yes
+yciB	septation protein A	gilliam_06210	1145809	1146346	Yes
+fTR1	iron permease	gilliam_06215	1146349	1147189	Yes
+NA	cupredoxin domain-containing protein	gilliam_06220	1147217	1147583	Yes
+eAL	EAL domain-containing protein	gilliam_06230	1148048	1149278	Yes
+abcT	ABC transporter ATP-binding protein	gilliam_06235	1149467	1150199	Yes
+art	arginine ABC transporter permease	gilliam_06240	1150191	1150842	Yes
+NA	hypothetical protein	gilliam_06245	1150943	1151072	Yes
+lspA	Lipoprotein signal peptidase	gilliam_06250	1151768	1152275	Yes
+bamD	outer membrane protein assembly factor BamD	gilliam_06260	1152569	1153364	No
+NA	DnaA-N domain-containing protein	gilliam_06265	1154479	1154611	No
+NA	Transposase family protein	gilliam_06270	1155690	1156059	Yes
+NA	IS630 family transposase	gilliam_06275	1156092	1156410	No
+NA	IS630 family transposase	gilliam_06280	1156396	1156903	No
+ftsK	DNA translocase FtsK	gilliam_06285	1157068	1159357	Yes
+NA	DUF2672 domain-containing protein	gilliam_06290	1159447	1159819	Yes
+ettA	energy-dependent translational throttle protein EttA	gilliam_06295	1159851	1161519	Yes
+NA	hypothetical protein	gilliam_06300	1161652	1162486	Yes
+NA	Conjugal transfer protein TraI	gilliam_06305	1163243	1164785	Yes
+NA	Repeat-containing protein E_01	gilliam_06310	1165133	1165847	Yes
+NA	Conjugal transfer protein TraA	gilliam_06315	1166013	1166352	Yes
+tnp-IS630	IS630 family transposase	gilliam_06320	1166373	1166712	Yes
+tnp-IS630	IS630 family transposase	gilliam_06325	1166866	1167241	Yes
+NA	AAA domain protein	gilliam_06330	1167308	1168715	Yes
+NA	Conjugal transfer protein TraA	gilliam_06335	1168850	1168976	Yes
+NA	Conjugal transfer protein TraA	gilliam_06340	1168953	1169253	Yes
+traD	conjugal transfer protein TraD	gilliam_06345	1169590	1169986	No
+xthA2	exodeoxyribonuclease III	gilliam_06350	1170027	1170813	Yes
+NA	Repeat-containing protein D	gilliam_06355	1171531	1173400	Yes
+NA	hypothetical protein	gilliam_06360	1174108	1174261	No
+NA	Reverse transcriptase	gilliam_06365	1174445	1174580	No
+NA	hypothetical protein	gilliam_06370	1174921	1175398	No
+NA	DnaA-N domain-containing protein	gilliam_06375	1175448	1176459	No
+dnaB	replicative DNA helicase	gilliam_06380	1176467	1177202	No
+NA	IS630 family transposase	gilliam_06385	1177226	1177733	Yes
+tnp-IS630	IS630 family transposase	gilliam_06390	1177719	1178094	Yes
+tnp-IS630	IS630 family transposase	gilliam_06395	1178249	1178588	No
+putP	sodium:proline symporter	gilliam_06400	1179078	1182516	Yes
+NA	Transposase	gilliam_06405	1182925	1183045	No
+NA	hypothetical protein	gilliam_06410	1183287	1183692	No
+NA	hypothetical protein	gilliam_06415	1183997	1184300	No
+NA	hypothetical protein	gilliam_06420	1184350	1184512	No
+NA	hypothetical protein	gilliam_06425	1184516	1185146	No
+NA	TPR repeat-containing protein 08	gilliam_06430	1185708	1185990	Yes
+traD	conjugal transfer protein TraD, complete TraD	gilliam_06435	1186311	1186767	Yes
+NA	Conjugal transfer protein TraA	gilliam_06440	1187042	1187471	No
+traA	conjugal transfer protein TraA	gilliam_06445	1187483	1189760	No
+NA	Conjugal transfer protein TraA	gilliam_06450	1189728	1189890	No
+NA	Putative conjugative transfer protein TraI	gilliam_06455	1190644	1192135	No
+NA	Conjugal transfer protein TraI	gilliam_06460	1192242	1192749	No
+NA	Toprim domain protein	gilliam_06465	1192762	1193314	No
+NA	transposase	gilliam_06470	1193365	1194337	No
+NA	conjugal transfer protein	gilliam_06475	1194346	1194688	Yes
+NA	Conjugal transfer protein TraC	gilliam_06480	1194698	1195301	Yes
+NA	Conjugal transfer protein TraC	gilliam_06485	1195272	1196145	Yes
+traV	conjugal transfer protein TraV, complete TraV	gilliam_06490	1196125	1196455	Yes
+NA	Bacterial conjugation TrbI-like family protein	gilliam_06495	1196454	1196928	Yes
+NA	hypothetical protein	gilliam_06500	1197027	1197429	Yes
+NA	Conjugal transfer protein TraE	gilliam_06505	1197558	1197978	Yes
+NA	Putative rNA-directed DNA polymerase	gilliam_06510	1198278	1198479	Yes
+NA	hypothetical protein	gilliam_06515	1198915	1199143	Yes
+NA	Putative integrase	gilliam_06520	1199207	1199417	Yes
+NA	Integrase	gilliam_06525	1199717	1200101	Yes
+NA	DDE superendonuclease family protein	gilliam_06530	1201238	1201676	No
+NA	DDE superendonuclease family protein	gilliam_06535	1201687	1202062	No
+NA	DUF2610 domain-containing protein	gilliam_06540	1203032	1203374	Yes
+hemF	oxygen-dependent coproporphyrinogen oxidase	gilliam_06545	1203513	1204350	Yes
+miaB	tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB	gilliam_06550	1204513	1205863	Yes
+sppA	S49 family peptidase	gilliam_06555	1206153	1207071	No
+NA	IS5 family transposase ISOt6	gilliam_06560	1207196	1207613	Yes
+tnp-IS630	IS630 family transposase	gilliam_06565	1208361	1208700	Yes
+tnp-IS630	IS630 family transposase	gilliam_06570	1208854	1209229	Yes
+NA	Conjugative transfer protein	gilliam_06575	1209869	1210103	Yes
+NA	hypothetical protein	gilliam_06580	1210236	1210422	Yes
+NA	Replicative DNA helicase	gilliam_06585	1210736	1210916	Yes
+NA	Integrase	gilliam_06590	1211235	1211355	Yes
+tyrS	tyrosine--tRNA ligase	gilliam_06595	1211836	1213078	No
+NA	DnaA-N domain-containing protein	gilliam_06600	1214036	1215602	No
+dnaB	replicative DNA helicase	gilliam_06605	1215610	1217059	No
+NA	(P)pGpp hydrolase	gilliam_06610	1217292	1217481	No
+NA	(P)pGpp hydrolase	gilliam_06615	1217643	1217868	No
+NA	transposase	gilliam_06620	1217988	1219035	No
+pilW	type IV pilus biogenesis/stability protein PilW	gilliam_06625	1219379	1221194	Yes
+traD	conjugal transfer protein TraD, complete TraD	gilliam_06630	1221529	1221973	Yes
+NA	Conjugal transfer protein TraA	gilliam_06635	1222250	1222550	No
+NA	Conjugal transfer protein TraA	gilliam_06640	1222527	1222653	No
+traA	conjugal transfer protein TraA	gilliam_06645	1222788	1225215	No
+traI	conjugal transfer protein TraI, complete TraI	gilliam_06650	1225479	1228149	No
+NA	transposase	gilliam_06655	1228200	1229124	No
+traD	conjugal transfer protein TraD	gilliam_06660	1229133	1230612	Yes
+NA	Conjugal transfer protein TraG	gilliam_06665	1230689	1231232	Yes
+tnp-IS630	IS630 family transposase	gilliam_06670	1231312	1231651	Yes
+tnp-IS630	IS630 family transposase	gilliam_06675	1231805	1232180	Yes
+NA	Transposase	gilliam_06680	1232247	1232412	Yes
+mtaB	tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))- methylthiotransferase MtaB	gilliam_06685	1232620	1233892	No
+gpsA	glycerol-3-phosphate dehydrogenase (NAD(P)(+))	gilliam_06690	1233954	1234947	No
+NA	hypothetical protein	gilliam_06700	1235188	1235740	Yes
+NA	Integrase	gilliam_06705	1236898	1237345	No
+tnp-IS630	IS630 family transposase	gilliam_06710	1237451	1237826	No
+tnp-IS630	IS630 family transposase	gilliam_06715	1237980	1238319	No
+NA	Conjugal transfer protein TraG	gilliam_06720	1238399	1238942	No
+traD	conjugal transfer protein TraD	gilliam_06725	1239019	1240498	No
+NA	transposase	gilliam_06730	1240507	1241479	Yes
+NA	Conjugal transfer protein TraI	gilliam_06735	1241530	1242601	Yes
+NA	Ankyrin repeat-containing protein	gilliam_06740	1243254	1245078	No
+traA	conjugal transfer protein TraA	gilliam_06745	1245306	1247310	Yes
+NA	hypothetical protein	gilliam_06750	1248057	1248360	No
+NA	Anaerobic sulfatase-maturating enzyme	gilliam_06755	1248415	1249564	No
+NA	hypothetical protein	gilliam_06760	1249681	1251268	No
+traD	conjugal transfer protein TraD, complete TraD	gilliam_06765	1252224	1252668	No
+NA	hypothetical protein	gilliam_06770	1252751	1252895	No
+NA	TPR repeat family protein	gilliam_06775	1252991	1253174	No
+NA	ATP-binding protein	gilliam_06780	1253177	1253459	Yes
+NA	ATP-binding protein	gilliam_06785	1253488	1254043	Yes
+NA	ATP-binding protein	gilliam_06790	1254059	1254344	Yes
+tnp-IS630	IS630 family transposase	gilliam_06795	1254417	1254933	Yes
+tnp-IS630	IS630 family transposase	gilliam_06800	1254910	1255285	Yes
+NA	Integrase	gilliam_06805	1255729	1256254	No
+NA	hypothetical protein	gilliam_06810	1256339	1256546	No
+NA	Reverse transcriptase	gilliam_06815	1256982	1257117	No
+NA	hypothetical protein	gilliam_06820	1257370	1257487	Yes
+NA	DDE transposase family protein	gilliam_06825	1257974	1258145	No
+NA	DDE superendonuclease family protein	gilliam_06830	1258426	1258663	No
+NA	Conjugal transfer protein TraC	gilliam_06835	1259060	1259213	Yes
+NA	hypothetical protein	gilliam_06845	1261085	1261250	No
+NA	Conjugal transfer protein TraA	gilliam_06850	1261503	1262178	Yes
+NA	IS630 family transposase	gilliam_06855	1262237	1262744	Yes
+tnp-IS630	IS630 family transposase	gilliam_06860	1262730	1263105	Yes
+NA	hypothetical protein	gilliam_06865	1263924	1264056	No
+NA	Putative transposase	gilliam_06870	1264363	1264513	Yes
+rpmA	50S ribosomal protein L27	gilliam_06875	1266785	1267055	Yes
+rplU	50S ribosomal protein L21	gilliam_06880	1267098	1267425	Yes
+NA	phospholipid phosphatase	gilliam_06885	1267562	1268231	Yes
+phnP	MBL fold metallo-hydrolase	gilliam_06890	1268335	1269085	No
+xseA	exodeoxyribonuclease VII large subunit	gilliam_06895	1269305	1270676	No
+hisJ	PBPb domain-containing protein	gilliam_06900	1270734	1272210	No
+scaD	ScaD autotransporter protein	gilliam_06905	1272301	1274539	Yes
+dnaX	DNA polymerase III subunit gamma/tau	gilliam_06915	1275595	1277275	No
+ybaB	DNA-binding protein, YbaB/EbfC family	gilliam_06920	1277286	1277847	No
+znuC	zinc ABC transporter ATP-binding protein	gilliam_06925	1278110	1278824	No
+znuB	metal ABC transporter permease	gilliam_06930	1278804	1279593	No
+NA	Putative integrase	gilliam_06935	1281186	1281990	No
+NA	hypothetical protein	gilliam_06940	1282117	1282423	No
+NA	Conjugal transfer protein	gilliam_06945	1282479	1282671	No
+traV	conjugal transfer protein TraV, complete TraV	gilliam_06950	1282747	1283077	Yes
+traB	conjugal transfer protein TraB, complete TraB	gilliam_06955	1283076	1284402	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	gilliam_06960	1284444	1284771	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	gilliam_06965	1284915	1285407	Yes
+NA	hypothetical protein	gilliam_06970	1285403	1285556	Yes
+NA	Conjugal transfer protein TraE	gilliam_06975	1285536	1285956	Yes
+traL	conjugal transfer protein traL, complete TraL	gilliam_06980	1285955	1286279	Yes
+NA	Integrase	gilliam_06985	1286416	1287391	Yes
+NA	hypothetical protein	gilliam_06990	1287790	1287991	Yes
+NA	Conjugal transfer protein TraE	gilliam_06995	1288486	1288906	No
+NA	hypothetical protein	gilliam_07000	1289050	1289377	No
+NA	Putative permease	gilliam_07005	1289600	1290074	Yes
+NA	Putative permease	gilliam_07010	1290167	1290503	Yes
+NA	(P)ppGpp synthetase	gilliam_07015	1290624	1290828	Yes
+NA	DDE superendonuclease family protein	gilliam_07020	1290893	1291172	No
+NA	DDE superendonuclease family protein	gilliam_07025	1291341	1291716	No
+NA	Transposase family protein	gilliam_07030	1292017	1292386	No
+NA	DDE superendonuclease family protein	gilliam_07035	1292547	1292886	No
+NA	hypothetical protein	gilliam_07040	1293082	1294687	No
+grxC	glutaredoxin	gilliam_07045	1295477	1295861	Yes
+NA	hypothetical protein	gilliam_07050	1296068	1296497	Yes
+gtaA	DUF2163 domain-containing protein	gilliam_07055	1296595	1297399	Yes
+NA	TIGR02217 family protein	gilliam_07060	1297411	1298014	Yes
+NA	hypothetical protein	gilliam_07065	1298006	1298432	Yes
+NA	head-tail adaptor protein	gilliam_07070	1298431	1298773	Yes
+NA	hypothetical protein	gilliam_07075	1298774	1299320	Yes
+gtaC	phage major capsid protein	gilliam_07080	1299353	1300469	Yes
+gtaF	prohead protease	gilliam_07085	1300480	1301035	Yes
+NA	hypothetical protein	gilliam_07090	1301845	1302802	Yes
+ftsZ	cell division protein FtsZ	gilliam_07095	1302885	1304247	Yes
+murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	gilliam_07100	1304450	1305716	Yes
+NA	hypothetical protein	gilliam_07105	1306538	1307240	No
+NA	IS110 family transposase	gilliam_07115	1308501	1308654	Yes
+brkB	Virulence factor BrkB	gilliam_07120	1308936	1309782	Yes
+NA	DDE superendonuclease family protein	gilliam_07125	1310221	1310596	Yes
+NA	IS5 family transposase ISOt6	gilliam_07130	1310607	1310877	Yes
+NA	hypothetical protein	gilliam_07135	1312392	1312611	Yes
+nuoA	NADH-quinone oxidoreductase subunit A	gilliam_07140	1312827	1313199	No
+nuoB	NADH-quinone oxidoreductase subunit B	gilliam_07145	1313211	1313727	No
+nuoC	NADH-quinone oxidoreductase subunit C	gilliam_07150	1313737	1314325	No
+nuoD	NADH-quinone oxidoreductase subunit D	gilliam_07155	1314350	1315541	No
+nuoE	NADH-quinone oxidoreductase subunit E	gilliam_07160	1315537	1316092	No
+nuoF	NADH-quinone oxidoreductase subunit F	gilliam_07165	1316109	1317378	No
+NA	hypothetical protein	gilliam_07170	1317670	1318384	Yes
+tlc	ATP/ADP translocase	gilliam_07175	1319515	1321015	No
+NA	TrbC/VIRB2 family protein	gilliam_07180	1321261	1321612	No
+virB2-2	type IV secretion system protein VirB2-2	gilliam_07185	1321674	1322034	No
+virB2-3	type IV secretion system protein VirB2-3	gilliam_07190	1322090	1322441	No
+ruvC	crossover junction endodeoxyribonuclease RuvC	gilliam_07195	1322624	1323104	No
+dusB	tRNA dihydrouridine synthase DusB	gilliam_07200	1323160	1324129	No
+yggU	UPF0235 protein OTT_0925	gilliam_07205	1324157	1324496	Yes
+ubiG	bifunctional 3-demethylubiquinone 3-O-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase	gilliam_07210	1324636	1325377	No
+prmC	peptide chain release factor N(5)-glutamine methyltransferase	gilliam_07215	1325363	1326230	Yes
+truA	tRNA pseudouridine(38-40) synthase TruA	gilliam_07220	1326231	1327083	Yes
+rplM	50S ribosomal protein L13	gilliam_07225	1327224	1327707	No
+rpsI	30S ribosomal protein S9	gilliam_07230	1327710	1328202	No
+NA	hypothetical protein	gilliam_07240	1328540	1329287	No
+NA	hypothetical protein	gilliam_07245	1331451	1331580	No
+NA	IS630 family transposase	gilliam_07250	1332626	1332755	No
+NA	Transposase	gilliam_07255	1332889	1333156	No
+NA	IS630 family transposase	gilliam_07260	1333368	1333875	Yes
+tnp-IS630	IS630 family transposase	gilliam_07265	1333861	1334236	Yes
+NA	Integrase	gilliam_07270	1334567	1335425	No
+NA	DDE superendonuclease family protein	gilliam_07275	1335463	1335769	Yes
+NA	Putative transposase	gilliam_07280	1335780	1335897	Yes
+NA	DDE superendonuclease family protein	gilliam_07285	1335927	1336188	Yes
+NA	Carboxyl transferase domain protein	gilliam_07290	1336596	1337187	Yes
+NA	IS630 family transposase	gilliam_07295	1337349	1337856	Yes
+tnp-IS630	IS630 family transposase	gilliam_07300	1337842	1338217	Yes
+NA	Carboxyl transferase domain protein	gilliam_07305	1338313	1338664	Yes
+mnmA	tRNA 2-thiouridine(34) synthase MnmA	gilliam_07310	1338911	1340021	No
+NA	DUF2748 domain-containing protein	gilliam_07315	1340253	1341597	Yes
+NA	hypothetical protein	gilliam_07320	1342004	1342157	No
+NA	Integrase	gilliam_07325	1342788	1342911	No
+tnp-IS630	IS630 family transposase	gilliam_07330	1342978	1343353	No
+NA	DDE superendonuclease family protein	gilliam_07335	1343339	1343729	No
+NA	Integrase	gilliam_07340	1344032	1344173	No
+tnp-IS5	IS5 family transposase	gilliam_07345	1344201	1344888	No
+NA	Phage integrase family protein	gilliam_07350	1345269	1345914	No
+traL	conjugal transfer protein traL	gilliam_07355	1346000	1346297	No
+NA	Type-F conjugative transfer system protein TraW	gilliam_07360	1346296	1347136	No
+NA	hypothetical protein	gilliam_07365	1347221	1347398	No
+NA	Conjugal transfer protein	gilliam_07370	1347431	1348112	No
+NA	conjugal transfer protein	gilliam_07375	1348111	1348378	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	gilliam_07380	1348400	1348784	No
+NA	Conjugal transfer protein TraN	gilliam_07385	1348780	1349041	No
+NA	Conjugal transfer protein TraN	gilliam_07390	1349070	1349403	No
+tnp-IS630	IS630 family transposase	gilliam_07395	1349436	1349811	No
+NA	DDE superendonuclease family protein	gilliam_07400	1349797	1350196	No
+NA	Conjugal transfer protein TraN	gilliam_07405	1350309	1351428	No
+pilW	type IV pilus biogenesis/stability protein PilW	gilliam_07410	1351682	1352987	No
+gepA	DUF4065 domain-containing protein	gilliam_07415	1353097	1353664	No
+NA	Conjugal transfer protein	gilliam_07420	1353638	1354241	No
+traG	conjugal transfer protein TraG	gilliam_07425	1354408	1354873	No
+NA	IS630 family transposase	gilliam_07430	1354886	1355393	Yes
+tnp-IS630	IS630 family transposase	gilliam_07435	1355379	1355754	Yes
+NA	TPR repeat-containing protein 08	gilliam_07440	1355929	1357075	No
+NA	Conjugal transfer protein	gilliam_07445	1357080	1357329	No
+tnp-IS630	IS630 family transposase	gilliam_07450	1357277	1357784	Yes
+tnp-IS630	IS630 family transposase	gilliam_07455	1357770	1358145	Yes
+traI	conjugal transfer protein TraI, complete TraI	gilliam_07460	1358316	1360926	Yes
+NA	Conjugal transfer protein TraA	gilliam_07465	1361680	1361842	Yes
+traA	conjugal transfer protein TraA, complete TraA	gilliam_07470	1361810	1364543	Yes
+NA	hypothetical protein	gilliam_07475	1364853	1366176	No
+NA	Conjugal transfer TraD family protein	gilliam_07480	1366238	1366583	No
+aNKYR	Ankyrin repeat	gilliam_07485	1366730	1367459	Yes
+NA	hypothetical protein	gilliam_07490	1367901	1368870	No
+NA	transposase	gilliam_07495	1369078	1369981	Yes
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	gilliam_07500	1370102	1370510	Yes
+NA	hypothetical protein	gilliam_07505	1370844	1371045	No
+NA	Phage integrase family protein	gilliam_07510	1371444	1372419	No
+traL	conjugal transfer protein traL, complete TraL	gilliam_07515	1372556	1372880	No
+traE	conjugal transfer protein TraE, complete TraE	gilliam_07520	1372879	1373437	No
+NA	hypothetical protein	gilliam_07525	1373426	1373735	No
+traK2	conjugal transfer protein traK2, complete TraK-2	gilliam_07530	1373869	1374196	No
+traB	conjugal transfer protein TraB, complete TraB	gilliam_07535	1374238	1375558	No
+traV	conjugal transfer protein TraV, complete TraV	gilliam_07540	1375557	1375887	No
+NA	Conjugal transfer protein TraC	gilliam_07545	1375896	1377105	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	gilliam_07550	1377101	1377761	No
+NA	Conjugal transfer protein TraG	gilliam_07555	1377846	1378044	No
+NA	TPR repeat-containing protein 08	gilliam_07560	1378056	1379196	No
+traD	conjugal transfer protein TraD, complete TraD	gilliam_07565	1379199	1380954	No
+rpnC	transposase	gilliam_07570	1380963	1381956	Yes
+scaA	ScaA autotransporter protein	gilliam_07575	1383596	1388153	No
+NA	hypothetical protein	gilliam_07580	1389241	1389472	Yes
+NA	Integrase	gilliam_07585	1389667	1389835	Yes
+NA	Integrase	gilliam_07590	1389898	1390117	Yes
+NA	Integrase	gilliam_07595	1390092	1390233	Yes
+NA	Integrase	gilliam_07600	1390555	1390738	Yes
+NA	hypothetical protein	gilliam_07605	1391368	1391494	Yes
+NA	Replicative DNA helicase	gilliam_07610	1391576	1391825	No
+tnp-IS630	IS630 family transposase	gilliam_07615	1391838	1392045	Yes
+NA	DDE superendonuclease family protein	gilliam_07620	1392150	1392447	Yes
+tnp-IS630	IS630 family transposase	gilliam_07625	1392433	1392808	Yes
+NA	Conjugative transfer protein	gilliam_07630	1393240	1393462	Yes
+NA	DDE transposase family protein	gilliam_07635	1393619	1393808	No
+mdh	malate dehydrogenase	gilliam_07640	1394267	1395569	Yes
+yfdV	Permease	gilliam_07645	1395588	1396515	Yes
+NA	hypothetical protein	gilliam_07650	1396822	1397422	No
+gltA	citrate synthase	gilliam_07655	1397486	1397867	No
+tnp-IS630	IS630 family transposase	gilliam_07660	1398363	1398870	Yes
+tnp-IS630	IS630 family transposase	gilliam_07665	1398856	1399177	Yes
+NA	IS630 family transposase	gilliam_07670	1399127	1399232	Yes
+tnp-IS630	IS630 family transposase	gilliam_07675	1399406	1399913	No
+NA	Replicative DNA helicase	gilliam_07680	1399861	1400029	Yes
+NA	DnaA-N domain-containing protein	gilliam_07685	1400042	1400561	Yes
+NA	hypothetical protein	gilliam_07690	1401096	1401222	Yes
+NA	hypothetical protein	gilliam_07695	1401276	1401564	Yes
+NA	Transposase DDE domain protein	gilliam_07700	1401771	1402149	No
+NA	hypothetical protein	gilliam_07705	1402202	1402334	No
+NA	ankyrin repeat domain-containing protein	gilliam_07715	1403756	1404443	No
+NA	hypothetical protein	gilliam_07720	1404920	1405979	No
+NA	Putative reverse transcriptase	gilliam_07725	1406344	1406500	Yes
+NA	Transposase family protein	gilliam_07730	1407032	1407308	No
+NA	DDE superendonuclease family protein	gilliam_07735	1407321	1407552	Yes
+NA	IS630 family transposase	gilliam_07740	1407673	1407838	Yes
+tnp-IS630	IS630 family transposase	gilliam_07745	1407815	1408190	Yes
+NA	RNA-binding protein	gilliam_07750	1409871	1411755	No
+dnaB	replicative DNA helicase	gilliam_07755	1411932	1413264	Yes
+NA	DnaA-N domain-containing protein	gilliam_07760	1413272	1413806	Yes
+NA	hypothetical protein	gilliam_07765	1413931	1414351	Yes
+NA	hypothetical protein	gilliam_07770	1414989	1416777	No
+gtaD	phage portal protein	gilliam_07775	1416908	1418099	No
+NA	hypothetical protein	gilliam_07780	1418117	1418384	No
+hipB	XRE family transcriptional regulator	gilliam_07785	1418872	1419112	Yes
+scaC	ScaC autotransporter protein	gilliam_07790	1419290	1420844	No
+NA	DDE superendonuclease family protein	gilliam_07795	1421118	1421508	Yes
+NA	Transposase family protein	gilliam_07800	1421501	1421870	Yes
+NA	Integrase	gilliam_07805	1423804	1424242	No
+NA	IS630 family transposase	gilliam_07810	1424309	1424414	No
+tnp-IS630	IS630 family transposase	gilliam_07815	1424364	1424685	No
+tnp-IS630	IS630 family transposase	gilliam_07820	1424839	1425178	No
+NA	Putative transposase	gilliam_07825	1425346	1425496	No
+NA	IS5 family transposase ISOt6	gilliam_07830	1425455	1425830	Yes
+NA	DDE superendonuclease family protein	gilliam_07835	1425841	1426279	Yes
+NA	Conjugal transfer protein TraI	gilliam_07840	1426291	1426570	Yes
+rmd1	ribonuclease D	gilliam_07845	1427293	1428163	Yes
+NA	Conjugal transfer protein	gilliam_07850	1428758	1428914	Yes
+NA	Bacterial conjugation TrbI-like family protein	gilliam_07855	1429010	1429199	Yes
+NA	Conjugal transfer protein TraB	gilliam_07860	1429174	1429411	Yes
+NA	Conjugal transfer protein	gilliam_07865	1429528	1429654	Yes
+NA	Integrase	gilliam_07870	1429936	1430140	Yes
+ctaA	Heme A synthase	gilliam_07875	1430620	1431700	Yes
+NA	Conjugative transfer protein	gilliam_07880	1432993	1433626	No
+pilW	type IV pilus biogenesis/stability protein PilW	gilliam_07885	1433878	1435387	No
+gepA	DUF4065 domain-containing protein	gilliam_07890	1435496	1436063	No
+traF	conjugal transfer protein TraF, complete TraF	gilliam_07895	1436037	1436784	No
+NA	Conjugal transfer protein TraH	gilliam_07900	1436824	1437685	No
+NA	Conjugal transfer protein TraH	gilliam_07905	1437638	1438094	No
+traG	conjugal transfer protein TraG, complete TraG	gilliam_07910	1438093	1440739	No
+NA	TPR repeat-containing protein 08	gilliam_07915	1440754	1441900	No
+NA	Conjugal transfer protein	gilliam_07920	1441903	1442662	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	gilliam_07925	1442672	1443659	No
+rpnC	transposase	gilliam_07930	1443668	1444685	Yes
+traI	conjugal transfer protein TraI	gilliam_07935	1444669	1446955	Yes
+tnp-IS630	IS630 family transposase	gilliam_07940	1447025	1447532	Yes
+tnp-IS630	IS630 family transposase	gilliam_07945	1447518	1447893	Yes
+NA	Putative conjugative transfer protein TraA	gilliam_07950	1447955	1448312	Yes
+NA	Conjugal transfer protein TraA	gilliam_07955	1448576	1449332	Yes
+recD	ATPase/5’-3’ helicase helicase subunit RecD of the DNA repair enzyme RecBCD (exonuclease V)	gilliam_07960	1449388	1450099	Yes
+NA	AAA domain protein	gilliam_07965	1450088	1451411	Yes
+traD	conjugal transfer protein TraD, complete TraD	gilliam_07970	1451688	1452144	No
+NA	SycD/LcrH family type III secretion system chaperone	gilliam_07975	1452466	1453540	No
+NA	Putative conjugative transfer protein TraD	gilliam_07980	1453819	1454032	No
+NA	transposase	gilliam_07985	1454139	1455126	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_07990	1455246	1455834	Yes
+baeS	Signal transduction histidine kinase	gilliam_07995	1455875	1456370	Yes
+NA	ATP-binding protein	gilliam_08000	1456388	1457324	Yes
+baeS	sensor histidine kinase	gilliam_08005	1457340	1457919	Yes
+baeS	histidine kinase	gilliam_08010	1458048	1458750	Yes
+NA	ATP-binding protein	gilliam_08015	1458814	1459093	Yes
+dam	DNA methyltransferase	gilliam_08020	1459460	1460270	No
+NA	Membrane protein	gilliam_08025	1460373	1460781	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	gilliam_08030	1460827	1461472	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_08035	1461509	1462085	Yes
+tnp-IS630	IS630 family transposase	gilliam_08040	1462501	1463017	Yes
+tnp-IS630	IS630 family transposase	gilliam_08045	1462994	1463369	Yes
+dnaB	replicative DNA helicase	gilliam_08050	1463440	1464739	Yes
+NA	DnaA-N domain-containing protein	gilliam_08055	1464747	1466313	Yes
+NA	Transposase DDE domain protein	gilliam_08060	1466521	1466926	No
+NA	Transposase	gilliam_08065	1466996	1467113	No
+NA	IS5 family transposase ISOt6	gilliam_08070	1467124	1467421	No
+fdx	(2Fe-2S) ferredoxin	gilliam_08075	1467797	1468142	Yes
+hscA	molecular chaperone HscA	gilliam_08080	1468158	1470009	Yes
+hscB	co-chaperone HscB	gilliam_08085	1469995	1470499	Yes
+iscA	iron-sulfur cluster assembly accessory protein	gilliam_08090	1470511	1470886	Yes
+iscU	Fe-S cluster assembly scaffold IscU	gilliam_08095	1470895	1471321	Yes
+sufS	cysteine desulfurase	gilliam_08100	1471361	1472633	Yes
+nifS	aminotransferase class V-fold PLP-dependent enzyme	gilliam_08105	1472647	1473826	Yes
+iscR	[Fe-S]-binding protein	gilliam_08110	1473947	1474361	Yes
+NA	alpha/beta hydrolase	gilliam_08115	1474598	1475300	No
+ftsA	cell division protein FtsA	gilliam_08125	1475593	1476841	No
+NA	hypothetical protein	gilliam_08130	1476819	1478130	No
+bcsA	glycosyl transferase	gilliam_08135	1478114	1479866	No
+NA	hypothetical protein	gilliam_08140	1479908	1480073	No
+NA	DDE superendonuclease family protein	gilliam_08145	1481005	1481167	No
+bamB	outer membrane protein assembly factor BamB	gilliam_08150	1482060	1483413	Yes
+NA	DUF2659 domain-containing protein	gilliam_08155	1483472	1484150	Yes
+NA	IS630 family transposase	gilliam_08160	1484287	1484752	Yes
+tnp-IS630	IS630 family transposase	gilliam_08165	1485064	1485403	Yes
+tnp-IS630	IS630 family transposase	gilliam_08170	1485557	1485932	Yes
+ffh	signal recognition particle protein	gilliam_08175	1486250	1487603	No
+cutA	divalent-cation tolerance protein CutA	gilliam_08180	1487659	1488016	No
+tnp-IS630	IS630 family transposase	gilliam_08185	1488198	1488714	Yes
+tnp-IS630	IS630 family transposase	gilliam_08190	1488691	1489066	Yes
+NA	IS630 family transposase	gilliam_08195	1489169	1489430	Yes
+NA	hypothetical protein	gilliam_08200	1489743	1490613	No
+gmk	guanylate kinase	gilliam_08205	1490818	1491484	No
+NA	cell surface protein	gilliam_08210	1491617	1494674	No
+tnp-IS630	IS630 family transposase	gilliam_08215	1494857	1495232	No
+NA	IS5 family transposase ISOt6	gilliam_08220	1495648	1495981	No
+tnp-IS5	IS5 family transposase	gilliam_08225	1496049	1496736	No
+argB	acetylglutamate kinase	gilliam_08230	1496917	1497859	Yes
+yihA	YihA family ribosome biogenesis GTP-binding protein	gilliam_08235	1497806	1498433	Yes
+yidC	membrane protein insertase YidC	gilliam_08240	1498429	1500133	Yes
+NA	IS5 family transposase ISOt6	gilliam_08245	1501040	1501163	No
+tnp-IS630	IS630 family transposase	gilliam_08250	1501230	1501605	No
+tnp-IS630	IS630 family transposase	gilliam_08255	1501582	1502098	No
+NA	Putative transposase	gilliam_08260	1502266	1502416	No
+NA	IS5 family transposase ISOt6	gilliam_08265	1502375	1502750	Yes
+NA	DDE superendonuclease family protein	gilliam_08270	1502761	1502878	Yes
+NA	DDE superendonuclease family protein	gilliam_08275	1502956	1503199	Yes
+NA	DDE superendonuclease family protein	gilliam_08280	1503304	1503679	No
+potE	amino acid permease	gilliam_08290	1504745	1506161	Yes
+NA	hypothetical protein	gilliam_08295	1506464	1506989	No
+gyrB	DNA gyrase subunit B	gilliam_08300	1507026	1509450	Yes
+nagD	TIGR01459 family HAD-type hydrolase	gilliam_08305	1509564	1510425	No
+NA	sodium:proton antiporter	gilliam_08315	1510977	1511307	No
+mnhB	DUF4040 domain-containing protein	gilliam_08320	1511306	1511894	No
+NA	Na(+)/H(+) antiporter subunit B	gilliam_08325	1511914	1512349	No
+mnhC	cation:proton antiporter subunit C	gilliam_08330	1512332	1512728	No
+hyfB	cation:proton antiporter	gilliam_08335	1512720	1514211	No
+erhM	2-hydroxyacid dehydrogenase	gilliam_08340	1514220	1515693	No
+tnp-IS630	IS630 family transposase	gilliam_08345	1516972	1517311	Yes
+tnp-IS630	IS630 family transposase	gilliam_08350	1517465	1517840	Yes
+NA	Integrase	gilliam_08355	1518360	1518681	No
+NA	Phage integrase family protein	gilliam_08360	1519177	1519780	No
+traL	conjugal transfer protein traL	gilliam_08365	1519904	1520207	No
+NA	Conjugal transfer protein TraE	gilliam_08370	1520206	1520626	No
+NA	hypothetical protein	gilliam_08375	1520606	1520759	No
+traK1	conjugal transfer protein traK1, complete TraK-1	gilliam_08380	1520755	1521232	No
+traK2	conjugal transfer protein traK2, complete TraK-2	gilliam_08385	1521376	1521703	No
+traB	conjugal transfer protein TraB	gilliam_08390	1521745	1522867	No
+NA	conjugal transfer protein	gilliam_08395	1522881	1523064	No
+traV	conjugal transfer protein TraV, complete TraV	gilliam_08400	1523063	1523393	No
+NA	Conjugal transfer protein TraC	gilliam_08405	1523402	1524602	No
+NA	Conjugal transfer protein	gilliam_08410	1524631	1525225	No
+NA	conjugal transfer protein	gilliam_08415	1525224	1525491	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	gilliam_08420	1525513	1525897	No
+NA	Conjugal transfer protein TraN	gilliam_08425	1525893	1526118	No
+tnp-IS630	IS630 family transposase	gilliam_08430	1526121	1526496	No
+tnp-IS630	IS630 family transposase	gilliam_08435	1526473	1526590	No
+NA	IS630 family transposase	gilliam_08440	1526630	1527137	Yes
+tnp-IS630	IS630 family transposase	gilliam_08445	1527123	1527444	Yes
+NA	IS630 family transposase	gilliam_08450	1527394	1527499	Yes
+NA	conjugal transfer protein	gilliam_08455	1527791	1528322	No
+NA	Transposase	gilliam_08460	1528331	1528952	Yes
+NA	IS630 family transposase	gilliam_08465	1529025	1529556	Yes
+NA	Transposase	gilliam_08470	1529534	1529888	Yes
+rpnC	Recombination-promoting DNA endonuclease RpnC/YadD	gilliam_08475	1529916	1530159	Yes
+tnp-IS110	IS110 family transposase	gilliam_08480	1530538	1531501	No
+NA	Ankyrin repeat family protein	gilliam_08485	1532182	1533235	Yes
+NA	IS110 family transposase	gilliam_08490	1533726	1534083	No
+tnp-IS630	IS630 family transposase	gilliam_08495	1534269	1534776	Yes
+tnp-IS630	IS630 family transposase	gilliam_08500	1534762	1535137	Yes
+NA	Conjugal transfer protein TraI	gilliam_08505	1535308	1536820	Yes
+NA	Repeat-containing protein E_01	gilliam_08510	1537168	1537882	Yes
+NA	Conjugal transfer protein TraA	gilliam_08515	1538048	1538387	Yes
+tnp-IS630	IS630 family transposase	gilliam_08520	1538408	1538747	Yes
+tnp-IS630	IS630 family transposase	gilliam_08525	1538901	1539276	Yes
+NA	AAA domain protein	gilliam_08530	1539343	1540750	Yes
+NA	Conjugal transfer protein TraA	gilliam_08535	1540885	1541011	Yes
+NA	Conjugal transfer protein TraA	gilliam_08540	1540988	1541288	Yes
+traD	conjugal transfer protein TraD	gilliam_08545	1541625	1542021	No
+NA	hypothetical protein	gilliam_08550	1542617	1543412	Yes
+NA	SycD/LcrH family type III secretion system chaperone	gilliam_08555	1543849	1544746	No
+NA	Conjugal transfer protein TraD	gilliam_08560	1544893	1545157	No
+NA	transposase	gilliam_08565	1545235	1546198	Yes
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	gilliam_08570	1546319	1546538	Yes
+tnp-IS630	IS630 family transposase	gilliam_08575	1546642	1546981	Yes
+tnp-IS630	IS630 family transposase	gilliam_08580	1547135	1547510	Yes
+NA	AAA domain protein	gilliam_08585	1547577	1547784	Yes
+NA	hypothetical protein	gilliam_08590	1547817	1548201	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_08595	1548287	1548863	Yes
+baeS	sensor histidine kinase	gilliam_08600	1548963	1549821	Yes
+NA	ATP-binding protein	gilliam_08605	1549842	1550571	Yes
+dam	DNA methyltransferase	gilliam_08610	1550937	1551747	No
+NA	Membrane protein	gilliam_08615	1551850	1552258	Yes
+NA	hypothetical protein	gilliam_08620	1552828	1554565	No
+NA	(P)pGpp hydrolase	gilliam_08625	1554682	1554877	Yes
+dnaB	replicative DNA helicase	gilliam_08630	1555112	1556561	Yes
+NA	DnaA-N domain-containing protein	gilliam_08635	1556569	1558285	Yes
+NA	Transposase	gilliam_08640	1558638	1558833	No
+tnp-IS630	IS630 family transposase	gilliam_08645	1558900	1559275	No
+tnp-IS630	IS630 family transposase	gilliam_08650	1559428	1559767	No
+secF	protein translocase subunit SecF	gilliam_08655	1560413	1561340	Yes
+mutS	DNA mismatch repair protein MutS	gilliam_08660	1561423	1564093	Yes
+tlc	ATP/ADP translocase	gilliam_08665	1564145	1565678	Yes
+rsmI	16S rRNA (cytidine(1402)-2'-O)-methyltransferase	gilliam_08675	1566044	1566902	No
+serS	serine--tRNA ligase	gilliam_08680	1566903	1568193	Yes
+tatC	twin-arginine translocase subunit TatC	gilliam_08685	1568170	1568938	Yes
+NA	hypothetical protein	gilliam_08690	1568918	1569053	Yes
+rsmG	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG	gilliam_08695	1569083	1569680	No
+parA	chromosome partitioning protein ParA	gilliam_08700	1569686	1570484	No
+spo0J	chromosome partitioning protein	gilliam_08705	1570495	1571377	No
+NA	IS630 family transposase	gilliam_08710	1572277	1572382	No
+NA	IS630 family transposase	gilliam_08715	1572332	1572653	No
+tnp-IS630	IS630 family transposase	gilliam_08720	1572630	1573146	No
+traD	conjugal transfer protein TraD, complete TraD	gilliam_08725	1573193	1574885	No
+NA	Transposase	gilliam_08730	1574894	1575059	Yes
+dapD	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	gilliam_08735	1575119	1575971	Yes
+NA	Znf/thioredoxin-put domain-containing protein	gilliam_08740	1576070	1576715	No
+NA	hypothetical protein	gilliam_08745	1577173	1577293	Yes
+NA	hypothetical protein	gilliam_08755	1578506	1578713	No
+NA	hypothetical protein	gilliam_08760	1579006	1579474	No
+rpnC	transposase	gilliam_08765	1579588	1580581	No
+traD	conjugal transfer protein TraD, complete TraD	gilliam_08770	1580590	1582345	Yes
+NA	TPR repeat-containing protein 08	gilliam_08775	1582350	1583499	Yes
+traG	conjugal transfer protein TraG	gilliam_08780	1583525	1585745	Yes
+NA	Conjugal transfer protein TraH	gilliam_08785	1585731	1586118	Yes
+NA	Conjugal transfer protein TraH	gilliam_08790	1586306	1586936	Yes
+traF	conjugal transfer protein TraF, complete TraF	gilliam_08795	1586932	1587616	Yes
+NA	conjugal transfer protein TraN	gilliam_08800	1587627	1589178	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	gilliam_08805	1589174	1589558	Yes
+traU	conjugal transfer protein TraU	gilliam_08810	1589580	1590453	Yes
+NA	Conjugal transfer protein TraC	gilliam_08815	1590467	1591667	Yes
+traV	conjugal transfer protein TraV, complete TraV	gilliam_08820	1591676	1592006	Yes
+traB	conjugal transfer protein TraB, complete TraB	gilliam_08825	1592005	1593331	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	gilliam_08830	1593373	1593700	Yes
+NA	hypothetical protein	gilliam_08835	1593834	1594143	Yes
+NA	Conjugal transfer protein TraE	gilliam_08840	1594287	1594707	Yes
+traL	conjugal transfer protein traL	gilliam_08845	1594706	1595009	Yes
+NA	Phage integrase family protein	gilliam_08850	1595133	1595736	Yes
+NA	Integrase	gilliam_08855	1596232	1596553	Yes
+hemJ	Uncharacterised protein family (UPF0093)	gilliam_08860	1597060	1597495	Yes
+hemH	ferrochelatase	gilliam_08865	1597503	1598538	Yes
+hemE	uroporphyrinogen decarboxylase	gilliam_08870	1598530	1599559	Yes
+rho	transcription termination factor Rho	gilliam_08875	1601048	1602554	No
+NA	Integrase	gilliam_08880	1603336	1603486	No
+NA	hypothetical protein	gilliam_08885	1603611	1603920	Yes
+NA	IS5 family transposase ISOt6	gilliam_08890	1603936	1604065	Yes
+NA	IS5 family transposase	gilliam_08895	1604079	1604757	Yes
+NA	hypothetical protein	gilliam_08900	1605051	1606335	No
+NA	Replicative DNA helicase	gilliam_08905	1606468	1606651	No
+mnmG	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG	gilliam_08910	1607136	1609005	No
+tmk	thymidylate kinase	gilliam_08915	1609148	1609802	Yes
+zapE	cell division protein ZapE	gilliam_08920	1609794	1610868	Yes
+NA	hypothetical protein	gilliam_08925	1610938	1611622	Yes
+der	ribosome biogenesis GTPase Der	gilliam_08930	1611630	1612995	Yes
+polA	DNA polymerase I	gilliam_08935	1613060	1615793	Yes
+panF	sodium:pantothenate symporter	gilliam_08940	1616163	1617609	Yes
+dsbG	protein-disulfide isomerase	gilliam_08945	1618579	1619410	No
+csa3	transposase	gilliam_08950	1619565	1619919	No
+NA	hypothetical protein	gilliam_08955	1620869	1621007	No
+tnp-IS630	IS630 family transposase	gilliam_08960	1621107	1621482	No
+NA	DDE superendonuclease family protein	gilliam_08965	1621468	1621858	No
+NA	hypothetical protein	gilliam_08970	1622555	1623950	No
+tnp-IS630	IS630 family transposase	gilliam_08975	1624852	1625227	No
+NA	Transposase	gilliam_08980	1625204	1625348	No
+tnp-IS630	IS630 family transposase	gilliam_08985	1625361	1625868	Yes
+tnp-IS630	IS630 family transposase	gilliam_08990	1625854	1626229	Yes
+kdpD	hybrid sensor histidine kinase/response regulator	gilliam_08995	1626520	1629748	No
+NA	DDE transposase family protein	gilliam_09000	1629946	1630219	No
+NA	Putative transposase	gilliam_09005	1630509	1630638	No
+tnp-IS630	IS630 family transposase	gilliam_09010	1630954	1631329	No
+NA	DDE superendonuclease family protein	gilliam_09015	1631483	1631822	No
+NA	hypothetical protein	gilliam_09020	1631985	1632102	No
+NA	hypothetical protein	gilliam_09025	1632478	1632751	Yes
+NA	IS630 family transposase	gilliam_09030	1633037	1633277	Yes
+NA	Transposase	gilliam_09035	1633593	1633767	Yes
+trpS	tryptophan--tRNA ligase	gilliam_09040	1633794	1634802	No
+NA	(P)pGpp hydrolase	gilliam_09045	1635356	1635677	Yes
+baeS	sensor histidine kinase	gilliam_09050	1635777	1636635	Yes
+NA	ATP-binding protein	gilliam_09055	1636656	1637385	Yes
+dam	DNA methyltransferase	gilliam_09060	1637735	1638539	No
+NA	hypothetical protein	gilliam_09065	1638637	1639894	No
+NA	hypothetical protein	gilliam_09070	1639937	1640390	No
+NA	Ankyrin	gilliam_09075	1640443	1640725	Yes
+NA	DDE superendonuclease family protein	gilliam_09080	1641055	1641445	Yes
+tnp-IS630	IS630 family transposase	gilliam_09085	1641431	1641806	Yes
+NA	DDE superendonuclease family protein	gilliam_09090	1641925	1642264	No
+ftsB	Cell division protein FtsB	gilliam_09095	1642327	1642627	Yes
+cdsA	phosphatidate cytidylyltransferase	gilliam_09100	1642634	1643288	Yes
+uppS	polyprenyl diphosphate synthase	gilliam_09105	1643290	1643917	Yes
+NA	DDE superendonuclease family protein	gilliam_09110	1644019	1644124	Yes
+NA	DDE superendonuclease family protein	gilliam_09115	1644172	1644352	Yes
+NA	ABC transporter ATP-binding protein	gilliam_09120	1644761	1645178	No
+yifB	AAA family ATPase	gilliam_09125	1645169	1646681	Yes
+NA	IS110 family transposase	gilliam_09130	1647089	1647194	No
+NA	DDE superendonuclease family protein	gilliam_09135	1647452	1647815	No
+NA	IS5 family transposase ISOt6	gilliam_09140	1648075	1648204	No
+NA	Transposase	gilliam_09145	1648245	1648401	Yes
+NA	Ankyrin repeat family protein	gilliam_09150	1648609	1650094	No
+pepB	leucyl aminopeptidase	gilliam_09155	1650531	1652184	No
+mipZ	ATPase MipZ family protein	gilliam_09160	1652167	1653019	No
+rpsB	30S ribosomal protein S2	gilliam_09165	1653344	1654223	No
+tsf	elongation factor Ts	gilliam_09170	1654219	1655149	No
+pheT	phenylalanine--tRNA ligase subunit beta	gilliam_09175	1655235	1657677	Yes
+pheS	phenylalanine--tRNA ligase subunit alpha	gilliam_09180	1657673	1658708	Yes
+NA	IS5 family transposase ISOt6	gilliam_09185	1659499	1659622	No
+NA	IS630 family transposase	gilliam_09190	1659646	1660153	Yes
+tnp-IS630	IS630 family transposase	gilliam_09195	1660139	1660514	Yes
+NA	IS5 family transposase ISOt6	gilliam_09200	1660829	1661225	No
+NA	IS630 family transposase	gilliam_09205	1662105	1662495	No
+NA	DDE superendonuclease family protein	gilliam_09210	1662658	1662961	No
+NA	IS5 family transposase ISOt6	gilliam_09215	1663063	1663189	No
+NA	IS5 family transposase ISOt6	gilliam_09220	1663551	1663803	Yes
+NA	DDE superendonuclease family protein	gilliam_09225	1663814	1663919	Yes
+NA	DDE superendonuclease family protein	gilliam_09230	1664033	1664171	Yes
+fabD	ACP S-malonyltransferase	gilliam_09235	1665453	1666392	Yes
+mltE	murein transglycosylase	gilliam_09240	1666433	1668431	No
+menH	alpha/beta hydrolase	gilliam_09245	1668827	1669595	Yes
+capM	capsule biosynthesis protein CapM	gilliam_09250	1669630	1670770	No
+atpB	ATP synthase subunit beta	gilliam_09255	1671111	1672548	No
+atpC	ATP synthase subunit epsilon	gilliam_09260	1672544	1672949	No
+NA	Transposase	gilliam_09265	1673426	1673651	No
+NA	Transposase	gilliam_09270	1674300	1674576	No
+cinB	hypothetical protein (cinB)	gilliam_09275	1674981	1677483	Yes
+NA	hypothetical protein	gilliam_09280	1677530	1680110	Yes
+NA	DnaA-N domain-containing protein	gilliam_09285	1680562	1682281	No
+dnaB	replicative DNA helicase	gilliam_09290	1682289	1683726	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_09295	1683961	1684537	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	gilliam_09300	1684571	1685216	No
+NA	Membrane protein	gilliam_09305	1685263	1685812	No
+dam	DNA methyltransferase	gilliam_09310	1685815	1686628	Yes
+NA	hypothetical protein	gilliam_09315	1687112	1687634	No
+NA	D12 class N6 adenine-specific DNA methyltransferase family protein	gilliam_09320	1687744	1687942	Yes
+NA	ATP-binding protein	gilliam_09325	1688944	1689673	No
+baeS	sensor histidine kinase	gilliam_09330	1689694	1690552	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	gilliam_09335	1690652	1691228	No
+NA	transposase	gilliam_09340	1691348	1692335	No
+traD	conjugal transfer protein TraD, complete TraD	gilliam_09345	1692402	1692858	Yes
+traA	conjugal transfer protein TraA, complete TraA	gilliam_09350	1693134	1695954	No
+traI	conjugal transfer protein TraI, complete TraI	gilliam_09355	1696222	1698886	No
+NA	transposase	gilliam_09360	1698937	1700041	No
+traD	conjugal transfer protein TraD, complete TraD	gilliam_09365	1700050	1701805	Yes
+NA	TPR repeat-containing protein 08	gilliam_09370	1701810	1702950	Yes
+traG	conjugal transfer protein TraG, complete TraG	gilliam_09375	1703089	1705615	Yes
+traH	conjugal transfer protein TraH, complete TraH	gilliam_09380	1705614	1706916	Yes
+traF	conjugal transfer protein TraF, complete TraF	gilliam_09385	1706912	1707629	Yes
+gepA	DUF4065 domain-containing protein	gilliam_09390	1707640	1708201	Yes
+NA	SycD/LcrH family type III secretion system chaperone	gilliam_09395	1708311	1709715	Yes
+traN	conjugal transfer protein TraN, complete TraN	gilliam_09400	1709966	1711655	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	gilliam_09405	1711651	1712035	Yes
+traU	conjugal transfer protein TraU, complete TraU	gilliam_09410	1712057	1713002	Yes
+NA	hypothetical protein	gilliam_09415	1713035	1713209	Yes
+traW	type-F conjugative transfer system protein TraW, complete TraW	gilliam_09420	1713293	1713953	Yes
+traC	conjugal transfer protein TraC, complete TraC	gilliam_09425	1713949	1716439	Yes
+traV	conjugal transfer protein TraV, complete TraV	gilliam_09430	1716419	1716749	Yes
+traB	conjugal transfer protein TraB, complete TraB	gilliam_09435	1716748	1718077	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	gilliam_09440	1718115	1718451	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	gilliam_09445	1718857	1719346	Yes
+traE	conjugal transfer protein TraE, complete TraE	gilliam_09450	1719342	1719894	Yes
+traL	conjugal transfer protein traL, complete TraL	gilliam_09455	1719893	1720217	Yes
+NA	Phage integrase family protein, complete integrase	gilliam_09460	1720320	1721604	Yes
+NA	Conjugative transfer protein	gilliam_09465	1722040	1722331	No
+NA	Transposase	gilliam_09470	1722290	1722419	Yes
+NA	DDE superendonuclease family protein	gilliam_09475	1722679	1722901	Yes
+tnp-IS630	IS630 family transposase	gilliam_09480	1723020	1723395	No
+tnp-IS630	IS630 family transposase	gilliam_09485	1723548	1723887	No
+NA	Transposase	gilliam_09490	1723900	1724035	Yes
+tnp-IS630	IS630 family transposase	gilliam_09495	1724021	1724396	Yes
+NA	IS5 family transposase ISOt6	gilliam_09500	1724439	1724724	No
+NA	IS5 family transposase ISOt6	gilliam_09505	1724735	1724903	No
+tnp-IS630	IS630 family transposase	gilliam_09510	1724936	1725311	No
+NA	DDE superendonuclease family protein	gilliam_09515	1725464	1725803	No
+NA	Colicin V production protein	gilliam_09520	1726010	1726622	Yes
+ygfA	5-formyltetrahydrofolate cyclo-ligase	gilliam_09525	1726618	1727191	Yes
+kch	potassium transporter	gilliam_09530	1727363	1729106	No
+NA	hypothetical protein	gilliam_09535	1729089	1729584	No
+metL1	aspartate kinase	gilliam_09540	1729863	1731078	No
+tnp-IS630	IS630 family transposase	gilliam_09545	1731282	1731657	No
+NA	Transposase	gilliam_09550	1731643	1731778	No
+tnp-IS630	IS630 family transposase	gilliam_09555	1731834	1732209	No
+NA	IS630 family transposase	gilliam_09560	1732195	1732702	No
+NA	IS5 family transposase ISOt6	gilliam_09565	1732870	1733053	No
+NA	Transposase	gilliam_09570	1733194	1733311	No
+NA	IS5 family transposase ISOt6	gilliam_09575	1733322	1733457	No
+NA	reverse transcriptase	gilliam_09580	1734819	1735038	Yes
+tnp-IS630	IS630 family transposase	gilliam_09585	1735485	1735860	No
+tnp-IS630	IS630 family transposase	gilliam_09590	1735846	1736353	No
+murG	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase	gilliam_09595	1736549	1737629	Yes
+ftsW	cell division protein FtsW	gilliam_09600	1737632	1738760	Yes
+murD	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase	gilliam_09605	1738766	1740185	Yes
+lplB	lipoate-protein ligase B	gilliam_09610	1740267	1740894	No
+NA	IS5 family transposase ISOt6	gilliam_09615	1741041	1741398	No
+NA	DDE superendonuclease family protein	gilliam_09620	1741409	1741790	No
+NA	TPR repeat family protein	gilliam_09625	1741749	1742052	Yes
+traN	conjugal transfer protein TraN, complete TraN	gilliam_09630	1742707	1744396	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	gilliam_09635	1744392	1744782	Yes
+traU	conjugal transfer protein TraU, complete TraU	gilliam_09640	1744804	1745782	Yes
+NA	hypothetical protein	gilliam_09645	1745782	1745956	Yes
+traW	type-F conjugative transfer system protein TraW, complete TraW	gilliam_09650	1746039	1746699	Yes
+NA	Conjugal transfer protein TraC	gilliam_09655	1746695	1748345	Yes
+NA	Conjugal transfer protein TraC	gilliam_09660	1748316	1749189	Yes
+traV	conjugal transfer protein TraV, complete TraV	gilliam_09665	1749169	1749499	Yes
+traB	conjugal transfer protein TraB, complete TraB	gilliam_09670	1749498	1750818	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	gilliam_09675	1750860	1751187	Yes
+NA	hypothetical protein	gilliam_09680	1751321	1751630	Yes
+NA	Conjugal transfer protein TraE	gilliam_09685	1751774	1752194	Yes
+traL	conjugal transfer protein traL, complete TraL	gilliam_09690	1752193	1752517	Yes
+NA	Integrase	gilliam_09695	1752654	1753629	Yes
+NA	hypothetical protein	gilliam_09700	1754028	1754229	Yes
+NA	Transposase	gilliam_09705	1754313	1754775	Yes
+NA	DDE superendonuclease family protein	gilliam_09710	1754889	1755279	Yes
+tnp-IS630	IS630 family transposase	gilliam_09715	1755265	1755640	Yes
+clpP	ATP-dependent Clp protease proteolytic subunit	gilliam_09720	1756040	1756661	No
+NA	DDE superendonuclease family protein	gilliam_09725	1757234	1757447	No
+NA	DDE superendonuclease family protein	gilliam_09730	1757554	1757671	No
+NA	IS5 family transposase ISOt6	gilliam_09735	1757682	1757811	No
+NA	Integrase	gilliam_09740	1758145	1758352	Yes
+map	type I methionyl aminopeptidase	gilliam_09745	1758615	1759422	Yes
+NA	Conjugal transfer protein	gilliam_09750	1760267	1760399	Yes
+NA	hypothetical protein	gilliam_09755	1760460	1760736	Yes
+NA	hypothetical protein	gilliam_09760	1761218	1761383	No
+NA	hypothetical protein	gilliam_09765	1761379	1761574	No
+ctrA	DNA-binding response regulator	gilliam_09775	1764552	1765290	No
+rnjA	RNase J family beta-CASP ribonuclease	gilliam_09780	1765405	1767142	No
+gatC	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferasesubunit C	gilliam_09785	1767224	1767524	No
+gatA	glutamyl-tRNA(Gln) amidotransferase subunit A	gilliam_09790	1767523	1769002	No
+gatB	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferasesubunit B	gilliam_09795	1769004	1770465	No
+tnp-IS630	IS630 family transposase	gilliam_09800	1770719	1771064	No
+NA	IS630 family transposase	gilliam_09805	1771041	1771335	No
+NA	IS5 family transposase ISOt6	gilliam_09810	1771380	1771641	No
+tnp-IS630	IS630 family transposase	gilliam_09815	1771589	1772105	Yes
+tnp-IS630	IS630 family transposase	gilliam_09820	1772082	1772457	Yes
+NA	IS5 family transposase ISOt6	gilliam_09825	1772499	1772784	No
+NA	DDE superendonuclease family protein	gilliam_09830	1772795	1773170	No
+NA	DDE superendonuclease family protein	gilliam_09835	1773226	1773433	No
+NA	Conjugal transfer TraD family protein	gilliam_09840	1774803	1774932	Yes
+NA	Transposase	gilliam_09845	1774937	1775189	Yes
+NA	hypothetical protein	gilliam_09850	1775644	1775875	Yes
+NA	Ankyrin repeat-containing protein	gilliam_09855	1775892	1776276	Yes
+NA	Ankyrin repeat with 1d ankyrin repeats domain protein	gilliam_09860	1776317	1776629	Yes
+NA	Ankyrin repeat-containing protein	gilliam_09865	1776970	1778119	Yes
+NA	Reverse transcriptase	gilliam_09870	1778548	1778743	No
+NA	hypothetical protein	gilliam_09875	1779514	1780048	No
+NA	Transposase	gilliam_09880	1780799	1781192	Yes
+NA	hypothetical protein	gilliam_09885	1781400	1781973	No
+NA	Putative integrase	gilliam_09890	1782156	1782351	Yes
+NA	IS5 family transposase ISOt6	gilliam_09895	1782980	1783265	Yes
+tnp-IS630	IS630 family transposase	gilliam_09900	1783308	1783683	No
+NA	DDE superendonuclease family protein	gilliam_09905	1783669	1784059	No
+NA	DDE transposase family protein	gilliam_09910	1784125	1784305	Yes
+NA	Transposase	gilliam_09915	1784472	1784595	No
+NA	peptidase	gilliam_09920	1785105	1785966	Yes
+ssb	single-stranded DNA-binding protein	gilliam_09925	1786044	1786512	Yes
+NA	Putative transposase	gilliam_09930	1786871	1787141	No
+NA	Transposase	gilliam_09935	1787142	1787361	No
+NA	Transposase	gilliam_09940	1787354	1787624	No
+NA	DDE superendonuclease family protein	gilliam_09945	1788667	1789105	No
+NA	DDE superendonuclease family protein	gilliam_09950	1789116	1789491	No
+NA	hypothetical protein	gilliam_09955	1789590	1789686	No
+xseB	exodeoxyribonuclease VII small subunit	gilliam_09960	1789795	1790035	Yes
+NA	ETC complex I subunit conserved region family protein	gilliam_09965	1790088	1790370	No
+NA	Conjugal transfer protein TraE	gilliam_09970	1790944	1791169	Yes
+NA	hypothetical protein	gilliam_09975	1791168	1791396	Yes
+NA	Transposase	gilliam_09980	1791494	1791755	No
+NA	DDE superendonuclease family protein	gilliam_09985	1791821	1792220	Yes
+NA	Phage integrase family protein, complete integrase	gilliam_09990	1792705	1793989	No
+traL	conjugal transfer protein traL	gilliam_09995	1794113	1794416	No
+NA	Conjugal transfer protein TraE	gilliam_10000	1794415	1794835	No
+NA	hypothetical protein	gilliam_10005	1794979	1795288	No
+traK2	conjugal transfer protein traK2, complete TraK-2	gilliam_10010	1795422	1795749	No
+traB	conjugal transfer protein TraB, complete TraB	gilliam_10015	1795791	1797117	No
+traV	conjugal transfer protein TraV, complete TraV	gilliam_10020	1797116	1797446	No
+NA	Conjugal transfer protein TraC	gilliam_10025	1797455	1798655	No
+NA	Conjugal transfer protein	gilliam_10030	1798684	1799278	No
+NA	conjugal transfer protein	gilliam_10035	1799277	1799544	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	gilliam_10040	1799566	1799950	No
+NA	Conjugal transfer protein TraN	gilliam_10045	1799946	1800207	No
+traN	conjugal transfer protein TraN	gilliam_10050	1800236	1801634	No
+NA	Glycosyl transferase family 8	gilliam_10055	1801886	1802681	No
+gepA	DUF4065 domain-containing protein	gilliam_10060	1802791	1803358	No
+traF	conjugal transfer protein TraF, complete TraF	gilliam_10065	1803332	1804079	No
+NA	Conjugal transfer protein TraH	gilliam_10070	1804075	1804705	No
+NA	Conjugal transfer protein TraH	gilliam_10075	1804893	1805280	No
+traG	conjugal transfer protein TraG	gilliam_10080	1805266	1806148	No
+traG	conjugal transfer protein TraG	gilliam_10085	1806148	1807501	No
+NA	Tetratricopeptide repeat family protein	gilliam_10090	1807523	1808669	No
+traD	conjugal transfer protein TraD, complete TraD	gilliam_10095	1808672	1810427	No
+NA	transposase	gilliam_10100	1810436	1811468	Yes
+NA	Toprim domain protein	gilliam_10105	1811519	1812071	Yes
+NA	Conjugal transfer protein TraI	gilliam_10110	1812084	1813086	Yes
+NA	Repeat-containing protein E_01	gilliam_10115	1813434	1814148	Yes
+NA	Conjugal transfer protein TraA	gilliam_10120	1814314	1814653	Yes
+tnp-IS630	IS630 family transposase	gilliam_10125	1814674	1815181	Yes
+tnp-IS630	IS630 family transposase	gilliam_10130	1815167	1815542	Yes
+NA	AAA domain protein	gilliam_10135	1815609	1817016	Yes
+NA	Conjugal transfer protein TraA	gilliam_10140	1817151	1817277	Yes
+NA	Conjugal transfer protein TraA	gilliam_10145	1817254	1817554	Yes
+traD	conjugal transfer protein TraD	gilliam_10150	1817891	1818287	No
+NA	hypothetical protein	gilliam_10155	1818389	1818935	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_10160	1819021	1819597	Yes
+baeS	sensor histidine kinase	gilliam_10165	1819697	1820555	Yes
+NA	ATP-binding protein	gilliam_10170	1820576	1820975	Yes
+NA	ATP-binding protein	gilliam_10175	1821169	1821304	Yes
+NA	hypothetical protein	gilliam_10180	1821365	1821521	Yes
+NA	hypothetical protein	gilliam_10185	1822196	1823825	No
+NA	hypothetical protein	gilliam_10190	1824068	1824245	Yes
+dam	DNA methyltransferase	gilliam_10195	1824771	1825584	No
+NA	Membrane protein	gilliam_10200	1825587	1825869	Yes
+NA	Reverse transcriptase	gilliam_10205	1826409	1826544	No
+NA	hypothetical protein	gilliam_10210	1826709	1826835	No
+NA	hypothetical protein	gilliam_10215	1827050	1827176	No
+NA	DnaA-N domain-containing protein	gilliam_10220	1827668	1829384	No
+dnaB	replicative DNA helicase	gilliam_10225	1829392	1830841	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_10230	1831076	1831652	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	gilliam_10235	1831689	1832334	No
+NA	Putative ompA-like autotransporter	gilliam_10240	1832436	1832940	No
+dam	DNA methyltransferase	gilliam_10245	1832943	1833753	Yes
+NA	ATP-binding protein	gilliam_10250	1834119	1834254	No
+NA	ATP-binding protein	gilliam_10255	1834448	1834847	No
+baeS	sensor histidine kinase	gilliam_10260	1834868	1835726	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	gilliam_10265	1835826	1836402	No
+NA	transposase	gilliam_10270	1836522	1837521	No
+traD	conjugal transfer protein TraD, complete TraD	gilliam_10275	1837593	1838049	Yes
+traA	conjugal transfer protein TraA, complete TraA	gilliam_10280	1838326	1841167	No
+traI	conjugal transfer protein TraI, complete TraI	gilliam_10285	1841431	1844101	No
+NA	transposase	gilliam_10290	1844152	1845148	No
+traD	conjugal transfer protein TraD	gilliam_10295	1845157	1846636	Yes
+NA	Conjugal transfer protein TraG	gilliam_10300	1846713	1847079	Yes
+NA	IS630 family transposase	gilliam_10305	1847133	1847640	Yes
+tnp-IS630	IS630 family transposase	gilliam_10310	1847626	1848001	Yes
+traG	conjugal transfer protein TraG	gilliam_10315	1848004	1849246	Yes
+NA	Conjugal transfer protein TraH	gilliam_10320	1849232	1849619	Yes
+NA	Conjugal transfer protein TraH	gilliam_10325	1849807	1850437	Yes
+traF	conjugal transfer protein TraF, complete TraF	gilliam_10330	1850433	1851117	Yes
+traN	conjugal transfer protein TraN, complete TraN	gilliam_10335	1851128	1852820	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	gilliam_10340	1852816	1853206	Yes
+traU	conjugal transfer protein TraU, complete TraU	gilliam_10345	1853228	1854206	Yes
+NA	hypothetical protein	gilliam_10350	1854206	1854380	Yes
+traW	type-F conjugative transfer system protein TraW, complete TraW	gilliam_10355	1854463	1855123	Yes
+NA	Conjugal transfer protein TraC	gilliam_10360	1855119	1856328	Yes
+NA	Conjugal transfer protein TraC	gilliam_10365	1856331	1857609	Yes
+traV	conjugal transfer protein TraV, complete TraV	gilliam_10370	1857589	1857919	Yes
+traB	conjugal transfer protein TraB, complete TraB	gilliam_10375	1857918	1859238	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	gilliam_10380	1859280	1859607	Yes
+NA	hypothetical protein	gilliam_10385	1859741	1860050	Yes
+NA	Conjugal transfer protein TraE	gilliam_10390	1860194	1860614	Yes
+traL	conjugal transfer protein traL, complete TraL	gilliam_10395	1860613	1860937	Yes
+NA	Phage integrase family protein	gilliam_10400	1861074	1861347	Yes
+NA	D12 class N6 adenine-specific DNA methyltransferase family protein	gilliam_10405	1861950	1862184	No
+lacA	ribose-5-phosphate isomerase	gilliam_10410	1862703	1863153	Yes
+NA	hypothetical protein	gilliam_10415	1863446	1863644	Yes
+NA	hypothetical protein	gilliam_10420	1863619	1863991	Yes
+NA	Conjugal transfer TraD family protein	gilliam_10425	1864331	1864484	Yes
+tnp-IS630	IS630 family transposase	gilliam_10430	1865489	1865996	Yes
+tnp-IS630	IS630 family transposase	gilliam_10435	1866000	1866357	Yes
+NA	hypothetical protein	gilliam_10440	1866721	1866823	No
+NA	PRANC domain protein	gilliam_10445	1866942	1867341	Yes
+tnp-IS630	IS630 family transposase	gilliam_10450	1867423	1867930	Yes
+tnp-IS630	IS630 family transposase	gilliam_10455	1867916	1868291	Yes
+NA	IS630 family transposase	gilliam_10460	1868294	1868474	Yes
+hemB	porphobilinogen synthase	gilliam_10465	1868854	1869868	Yes
+tolQ	protein TolQ	gilliam_10470	1870038	1870728	No
+tolR	protein TolR	gilliam_10475	1870733	1871192	No
+NA	hypothetical protein	gilliam_10480	1871178	1872399	No
+nadK	NAD kinase	gilliam_10485	1872498	1873290	Yes
+tsaD	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD	gilliam_10490	1873302	1874337	Yes
+cdnL	CarD family transcriptional regulator	gilliam_10495	1874360	1874870	Yes
+dnaQ	DNA polymerase III subunit epsilon	gilliam_10500	1875089	1875758	Yes
+putP	sodium:proline symporter	gilliam_10505	1876501	1879939	No
+NA	Transposase DDE domain protein	gilliam_10510	1880402	1880477	Yes
+NA	IS5 family transposase ISOt6	gilliam_10515	1880458	1880605	Yes
+NA	transposase	gilliam_10520	1880987	1881878	Yes
+NA	Transposase	gilliam_10525	1881988	1882117	Yes
+NA	DDE superendonuclease family protein	gilliam_10530	1882319	1882814	Yes
+NA	ATP-binding protein	gilliam_10535	1883475	1883655	No
+tnp-IS630	IS630 family transposase	gilliam_10540	1883722	1884589	No
+NA	hypothetical protein	gilliam_10545	1885028	1887485	No
+prfA	peptide chain release factor 1	gilliam_10550	1887804	1888608	Yes
+lepA	elongation factor 4	gilliam_10555	1889056	1890862	No
+NA	DDE superendonuclease family protein	gilliam_10560	1891191	1891566	Yes
+NA	IS5 family transposase ISOt6	gilliam_10565	1891577	1891862	Yes
+tnp-IS630	IS630 family transposase	gilliam_10570	1891905	1892235	No
+tnp-IS630	IS630 family transposase	gilliam_10575	1892221	1892728	No
+NA	Ankyrin	gilliam_10580	1892741	1893116	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_10585	1893150	1893726	Yes
+dnaB	replicative DNA helicase	gilliam_10590	1893961	1894753	Yes
+NA	hypothetical protein	gilliam_10595	1895538	1897245	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_10600	1897474	1898050	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	gilliam_10605	1898084	1898729	No
+NA	Membrane protein	gilliam_10610	1898776	1898950	No
+NA	Reverse transcriptase family protein	gilliam_10615	1899243	1899618	Yes
+NA	Reverse transcriptase	gilliam_10620	1899713	1900262	Yes
+NA	hypothetical protein	gilliam_10625	1900376	1900577	No
+NA	Phage integrase family protein, complete integrase	gilliam_10630	1900705	1901944	No
+traL	conjugal transfer protein traL, complete TraL	gilliam_10635	1902081	1902405	No
+traE	conjugal transfer protein TraE, complete TraE	gilliam_10640	1902404	1902962	No
+traK1	conjugal transfer protein traK1, complete TraK-1	gilliam_10645	1902951	1903428	No
+NA	hypothetical protein	gilliam_10650	1903544	1903637	No
+traK2	conjugal transfer protein traK2, complete TraK-2	gilliam_10655	1903929	1904262	No
+traB	conjugal transfer protein TraB, complete TraB	gilliam_10660	1904300	1905617	No
+traV	conjugal transfer protein TraV, complete TraV	gilliam_10665	1905616	1905946	No
+traC	conjugal transfer protein TraC, complete TraC	gilliam_10670	1905926	1908416	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	gilliam_10675	1908412	1909072	No
+NA	hypothetical protein	gilliam_10680	1909155	1909329	No
+traU	conjugal transfer protein TraU, complete TraU	gilliam_10685	1909329	1910307	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	gilliam_10690	1910329	1910713	No
+traN	conjugal transfer protein TraN, complete TraN	gilliam_10695	1910709	1912401	No
+traF	conjugal transfer protein TraF, complete TraF	gilliam_10700	1912412	1913096	No
+traH	conjugal transfer protein TraH, complete TraH	gilliam_10705	1913092	1914394	No
+traG	conjugal transfer protein TraG, complete TraG	gilliam_10710	1914393	1917042	No
+NA	TPR repeat-containing protein 08	gilliam_10715	1917057	1918203	No
+traD	conjugal transfer protein TraD, complete TraD	gilliam_10720	1918206	1919961	No
+rpnC	transposase	gilliam_10725	1919970	1921035	Yes
+traI	conjugal transfer protein TraI, complete TraI	gilliam_10730	1921019	1923689	Yes
+traA	conjugal transfer protein TraA, complete TraA	gilliam_10735	1923954	1926825	Yes
+traD	conjugal transfer protein TraD, complete TraD	gilliam_10740	1927104	1927560	No
+NA	hypothetical protein	gilliam_10745	1927643	1927787	No
+pilW	type IV pilus biogenesis/stability protein PilW	gilliam_10750	1927883	1929800	No
+NA	Conjugal transfer protein TraD	gilliam_10755	1930142	1930313	No
+NA	transposase	gilliam_10760	1930391	1931402	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_10765	1931522	1932110	Yes
+baeS	ATP-binding protein	gilliam_10770	1932151	1932646	Yes
+NA	ATP-binding protein	gilliam_10775	1932664	1933603	Yes
+baeS	sensor histidine kinase	gilliam_10780	1933610	1934198	Yes
+baeS	histidine kinase	gilliam_10785	1934326	1935028	Yes
+NA	ATP-binding protein	gilliam_10790	1935092	1935902	Yes
+dam	DNA methyltransferase	gilliam_10795	1936269	1937079	No
+NA	Putative ompA-like autotransporter	gilliam_10800	1937082	1937586	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	gilliam_10805	1937632	1938277	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_10810	1938314	1938890	Yes
+dnaB	replicative DNA helicase	gilliam_10815	1939123	1940560	Yes
+NA	DnaA-N domain-containing protein	gilliam_10820	1940568	1942134	Yes
+NA	reverse transcriptase	gilliam_10825	1942243	1942435	Yes
+NA	hypothetical protein	gilliam_10830	1942799	1943078	Yes
+NA	Integrase, complete integrase	gilliam_10835	1943240	1944485	Yes
+NA	DDE superendonuclease family protein	gilliam_10840	1945459	1945858	Yes
+tnp-IS630	IS630 family transposase	gilliam_10845	1945844	1946219	Yes
+NA	DDE superendonuclease family protein	gilliam_10850	1946579	1947017	No
+NA	DDE superendonuclease family protein	gilliam_10855	1947028	1947403	No
+NA	hypothetical protein	gilliam_10860	1947652	1947787	Yes
+cafA	ribonuclease E	gilliam_10865	1947978	1950006	Yes
+NA	RelA-SpoT domain-containing protein	gilliam_10870	1950795	1955235	No
+NA	hypothetical protein	gilliam_10875	1955688	1957668	No
+NA	2-oxoacid-dh domain-containing protein	gilliam_10880	1957733	1958057	No
+aceF	dihydrolipoamide acetyltransferase	gilliam_10885	1958059	1958362	No
+mreB	rod shape-determining protein	gilliam_10890	1958462	1959530	No
+mreC	rod shape-determining protein MreC	gilliam_10895	1959536	1960388	No
+NA	Ankyrin repeat-containing protein 09	gilliam_10900	1961143	1962412	No
+NA	hypothetical protein	gilliam_10905	1962727	1962913	No
+NA	hypothetical protein	gilliam_10910	1963089	1964850	Yes
+atoC	sigma-54-dependent Fis family transcriptional regulator	gilliam_10915	1964957	1966430	Yes
+NA	two-component sensor histidine kinase	gilliam_10920	1966570	1968154	Yes
+comEC	competence protein ComEC	gilliam_10930	1968813	1970862	Yes
+NA	hypothetical protein	gilliam_10935	1971014	1971803	Yes
+tnp-IS630	IS630 family transposase	gilliam_10940	1972014	1972521	Yes
+NA	Transposase family protein	gilliam_10945	1972626	1972869	Yes
+NA	DnaA-N domain-containing protein	gilliam_10950	1973641	1974175	No
+dnaB	replicative DNA helicase	gilliam_10955	1974183	1975620	No
+NA	Integrase	gilliam_10960	1975829	1976279	Yes
+NA	Arm-DNA-bind-3 domain-containing protein	gilliam_10965	1976365	1976815	Yes
+tnp-IS630	IS630 family transposase	gilliam_10970	1977559	1977934	No
+tnp-IS630	IS630 family transposase	gilliam_10975	1978088	1978427	No
+rbfA	ribosome-binding factor A	gilliam_10980	1979797	1980160	Yes
+infB	translation initiation factor IF-2	gilliam_10985	1980190	1982734	Yes
+nusA	transcription termination/antitermination protein NusA	gilliam_10990	1982983	1984486	Yes
+rimP	Ribosome maturation factor RimP	gilliam_10995	1984504	1984987	Yes
+coq7	ubiquinone biosynthesis protein	gilliam_11000	1985576	1986350	No
+ubiB	ubiquinone biosynthesis protein UbiB	gilliam_11005	1986346	1987735	No
+NA	Transposase	gilliam_11010	1987876	1988311	No
+NA	DDE superendonuclease family protein	gilliam_11015	1988264	1988639	No
+NA	Transposase	gilliam_11020	1988932	1989043	No
+NA	DDE superendonuclease family protein	gilliam_11025	1989671	1989911	No
+NA	Tetratricopeptide and ankyrin rep with 1 trp repeats	gilliam_11030	1990643	1993454	No
+tnp-IS630	IS630 family transposase	gilliam_11035	1993952	1994327	No
+tnp-IS630	IS630 family transposase	gilliam_11040	1994504	1994879	No
+NA	DDE superendonuclease family protein	gilliam_11045	1994865	1995162	No
+tnp-IS630	IS630 family transposase	gilliam_11050	1995267	1995474	No
+NA	Transposase	gilliam_11055	1995937	1996066	Yes
+NA	IS5 family transposase ISOt6	gilliam_11060	1996183	1996312	Yes
+NA	DDE superendonuclease family protein	gilliam_11065	1996406	1996754	Yes
+NA	Phosphoribosylaminoimidazolesuccinocarboxamide synthase	gilliam_11070	1997001	1997352	Yes
+NA	Phosphoribosylaminoimidazolesuccinocarboxamide synthase	gilliam_11075	1997323	1997578	Yes
+yfjG	ubiquinone-binding protein	gilliam_11080	1997561	1998008	Yes
+lipA	lipoyl synthase	gilliam_11085	1998028	1998937	Yes
+sppA	signal peptide peptidase SppA	gilliam_11090	1998947	1999856	Yes
+smpB	SsrA-binding protein SmpB	gilliam_11095	1999876	2000338	Yes
+dapA	4-hydroxy-tetrahydrodipicolinate synthase	gilliam_11100	2000340	2001237	Yes
+ilvE	branched chain amino acid aminotransferase	gilliam_11105	2001217	2002120	Yes
+recD	ATP-dependent RecD-like DNA helicase	gilliam_11110	2002331	2004527	Yes
+rplS	50S ribosomal protein L19	gilliam_11115	2004553	2004928	Yes
+trmD	tRNA (guanine(37)-N(1))-methyltransferase	gilliam_11120	2004924	2005689	Yes
+NA	hypothetical protein	gilliam_11125	2005735	2007565	Yes
+popZ	Cell pole-organizing protein PopZ	gilliam_11130	2007566	2008133	Yes
+tolC	TolC family protein	gilliam_11135	2008183	2009557	Yes
+xerD	site-specific tyrosine recombinase XerD	gilliam_11145	2009839	2010829	No
+NA	conjugal transfer protein	gilliam_11150	2011537	2012011	No
+surf1	surfeit locus protein 1	gilliam_11155	2012005	2012728	Yes
+fabZ	beta-hydroxyacyl-ACP dehydratase	gilliam_11160	2012967	2013471	No
+rsmD	16S rRNA (guanine(966)-N(2))-methyltransferase RsmD	gilliam_11165	2013474	2014047	No
+radA	DNA repair protein RadA	gilliam_11170	2014046	2015402	No
+rhaT	membrane protein	gilliam_11175	2015441	2016362	Yes
+NA	DUF3857 domain-containing protein	gilliam_11180	2016511	2018410	No
+NA	DUF3857 domain-containing protein	gilliam_11185	2018455	2020384	No
+NA	Reverse transcriptase	gilliam_11190	2021427	2021667	Yes
+NA	Reverse transcriptase	gilliam_11195	2021638	2021893	Yes
+NA	Reverse transcriptase	gilliam_11200	2023080	2023218	Yes
+NA	Ankyrin	gilliam_11205	2023859	2024099	No
+NA	IS5 family transposase ISOt6	gilliam_11210	2024385	2024568	No
+NA	Putative ompA-like autotransporter	gilliam_11215	2024689	2025184	No
+dam	DNA methyltransferase	gilliam_11220	2025187	2025997	Yes
+NA	Integrase	gilliam_11225	2026609	2026900	No
+NA	Integrase	gilliam_11230	2026997	2027168	No
+NA	Integrase	gilliam_11235	2027212	2027401	No
+NA	Phage integrase family protein	gilliam_11240	2027533	2027824	No
+NA	Integrase	gilliam_11245	2028068	2028419	Yes
+NA	Integrase	gilliam_11250	2028506	2028695	Yes
+NA	Integrase	gilliam_11255	2028739	2028910	Yes
+NA	Integrase	gilliam_11260	2029007	2029298	Yes
+NA	IS110 family transposase	gilliam_11265	2029728	2029869	Yes
+tnp-IS630	IS630 family transposase	gilliam_11270	2030496	2030871	No
+tnp-IS630	IS630 family transposase	gilliam_11275	2030857	2031364	No
+NA	Putative transposase	gilliam_11280	2031870	2032026	Yes
+tsaC	threonylcarbamoyl-AMP synthase	gilliam_11285	2032132	2033089	Yes
+glyS	glycine--tRNA ligase subunit beta	gilliam_11290	2033078	2035130	Yes
+glyQ	glycine--tRNA ligase subunit alpha	gilliam_11295	2035122	2036001	Yes
+tsa56	type-specific antigen TSA56	gilliam_11300	2036544	2038119	No
+NA	Type specific antigen	gilliam_11305	2038349	2039090	No
+murC	UDP-N-acetylmuramate--L-alanine ligase	gilliam_11310	2039257	2040766	No
+murB	UDP-N-acetylenolpyruvoylglucosamine reductase	gilliam_11315	2040734	2041646	No
+ddl	D-alanine--D-alanine ligase	gilliam_11320	2041626	2042598	No
+ftsQ	cell division protein FtsQ	gilliam_11325	2042590	2043421	No
+recF	DNA replication/repair protein RecF	gilliam_11330	2043438	2044578	No
+NA	Conjugal transfer protein TraH	gilliam_11335	2045277	2045463	No
+tnp-IS630	IS630 family transposase	gilliam_11340	2045881	2046256	No
+tnp-IS630	IS630 family transposase	gilliam_11345	2046242	2046749	No
+tnp-IS630	IS630 family transposase	gilliam_11350	2046770	2047040	No
+tnp-IS630	IS630 family transposase	gilliam_11355	2047017	2047425	No
+NA	DDE superendonuclease family protein	gilliam_11360	2047759	2047897	No
+NA	DDE superendonuclease family protein	gilliam_11365	2048011	2048116	No
+NA	IS5 family transposase ISOt6	gilliam_11370	2048127	2048379	No
+NA	Ankyrin	gilliam_11375	2048861	2049038	Yes
+NA	hypothetical protein	gilliam_11380	2049272	2049425	No
+ykfC	Retron-type reverse transcriptase	gilliam_11385	2049609	2050629	No
+NA	Group II intron, maturase-specific domain protein	gilliam_11390	2050680	2050938	No
+NA	Ankyrin	gilliam_11395	2051527	2051659	Yes
+NA	IS5 family transposase ISOt6	gilliam_11400	2051863	2051989	No
+NA	Putative transposase	gilliam_11405	2052122	2052272	No
+NA	IS5 family transposase ISOt6	gilliam_11410	2052231	2052723	Yes
+NA	DDE superendonuclease family protein	gilliam_11415	2052837	2053056	Yes
+rppH	RNA pyrophosphohydrolase	gilliam_11420	2053689	2054175	No
+traA	conjugal transfer protein TraA	gilliam_11425	2056008	2058240	No
+NA	DDE superendonuclease family protein	gilliam_11430	2058917	2059055	No
+tnp-IS630	IS630 family transposase	gilliam_11435	2059088	2059955	No
+NA	IS5 family transposase ISOt6	gilliam_11440	2059976	2060297	No
+NA	DDE superendonuclease family protein	gilliam_11445	2060250	2060622	No
+NA	Transposase	gilliam_11450	2060895	2061069	Yes
+secA	preprotein translocase subunit SecA	gilliam_11455	2061447	2064090	Yes
+NA	peptidylprolyl isomerase	gilliam_11460	2064335	2065364	No
+folC	bifunctional folylpolyglutamate synthase/dihydrofolate synthase	gilliam_11465	2065454	2066786	Yes
+thrS	threonine--tRNA ligase	gilliam_11470	2067045	2068992	No
+infC	translation initiation factor IF-3	gilliam_11475	2069002	2069548	No
+dut	deoxyuridine 5'-triphosphate nucleotidohydrolase	gilliam_11480	2069868	2070315	No
+atpH	ATP synthase subunit delta	gilliam_11485	2070409	2070955	No
+atpA	ATP synthase subunit alpha	gilliam_11490	2070998	2072537	No
+atpG	ATPase	gilliam_11495	2072551	2073442	No
+NA	hypothetical protein	gilliam_11500	2073452	2074085	Yes
+NA	hypothetical protein	gilliam_11505	2074086	2075700	Yes
+alaS	alanine--tRNA ligase	gilliam_11510	2075832	2078499	No
+gltX	glutamate--tRNA ligase	gilliam_11515	2078673	2080131	No
+iscA	iron-sulfur cluster assembly accessory protein	gilliam_11520	2080131	2080476	Yes
+argS	arginine--tRNA ligase	gilliam_11525	2080641	2082414	No
+NA	SPOR domain-containing protein	gilliam_11530	2082425	2083178	No
+NA	hypothetical protein	gilliam_11535	2083317	2083449	Yes
+NA	Transposase DDE domain protein	gilliam_11540	2083502	2083880	Yes
+NA	hypothetical protein	gilliam_11545	2084087	2084882	No
+NA	Transposase, YhgA-like family protein	gilliam_11550	2085001	2085205	No
+NA	Integrase	gilliam_11555	2085632	2086466	No
+NA	Integrase	gilliam_11560	2086446	2086581	No
+NA	hypothetical protein	gilliam_11565	2086662	2086911	Yes
+xerD	Site-specific recombinase XerD	gilliam_11570	2087046	2087436	Yes
+NA	Integrase	gilliam_11575	2087553	2088387	Yes
+NA	IS630 family transposase	gilliam_11580	2088857	2089364	Yes
+tnp-IS630	IS630 family transposase	gilliam_11585	2089350	2089725	Yes
+NA	DDE superendonuclease family protein	gilliam_11600	2090469	2090868	Yes
+tnp-IS630	IS630 family transposase	gilliam_11605	2090854	2091229	Yes
+NA	IS630 family transposase	gilliam_11610	2091232	2091412	Yes
+NA	hypothetical protein	gilliam_11615	2091736	2091925	Yes
+NA	DDE superendonuclease family protein	gilliam_11620	2092104	2092479	Yes
+NA	IS5 family transposase ISOt6	gilliam_11625	2092490	2092874	Yes
+NA	Integrase	gilliam_11630	2093465	2093921	No
+bcp	peroxiredoxin	gilliam_11635	2093901	2094372	No
+tlcC	AAA family ATPase	gilliam_11640	2095781	2097257	Yes
+rplI	50S ribosomal protein L9	gilliam_11645	2097397	2097925	Yes
+rpsR	30S ribosomal protein S18	gilliam_11650	2097967	2098276	Yes
+rpsF	30S ribosomal protein S6	gilliam_11655	2098321	2098678	Yes
+ompR	two-component system response regulator	gilliam_11660	2098970	2099720	No
+mdlB	multidrug resistance protein	gilliam_11665	2099827	2101498	No
+NA	IS110 family transposase	gilliam_11670	2101595	2101913	No
+tnp-IS630	IS630 family transposase	gilliam_11675	2101937	2102144	Yes
+NA	Putative transposase	gilliam_11680	2102149	2102275	Yes
+NA	IS630 family transposase	gilliam_11685	2102335	2102443	Yes
+tnp-IS630	IS630 family transposase	gilliam_11690	2102429	2102804	Yes
+NA	Conjugal transfer protein TraI	gilliam_11695	2102869	2103037	Yes
+NA	Conjugal transfer protein TraI	gilliam_11700	2103300	2103624	Yes
+aNKYR	Ankyrin repeat	gilliam_11705	2103834	2105490	No
+NA	Conjugal transfer protein TraA	gilliam_11710	2105518	2105662	Yes
+tnp-IS630	IS630 family transposase	gilliam_11715	2105773	2106148	No
+tnp-IS630	IS630 family transposase	gilliam_11720	2106134	2106641	No
+rpmG	50S ribosomal protein L33	gilliam_11725	2107915	2108086	No
+rpsP	30S ribosomal protein S16	gilliam_11730	2108094	2108424	No
+NA	DDE superendonuclease family protein	gilliam_11740	2110858	2111092	No
+NA	hypothetical protein	gilliam_11745	2112522	2112618	No
+rplT	50S ribosomal protein L20	gilliam_11750	2113263	2113629	Yes
+rpmI	50S ribosomal protein L35	gilliam_11755	2113648	2113855	Yes
+htpG	molecular chaperone HtpG	gilliam_11760	2114294	2116187	No
+dapE	succinyl-diaminopimelate desuccinylase	gilliam_11765	2116351	2117518	No
+tig	trigger factor	gilliam_11775	2117671	2119138	No
+tnp-IS630	IS630 family transposase	gilliam_11780	2119299	2119806	Yes
+tnp-IS630	IS630 family transposase	gilliam_11785	2119792	2120167	Yes
+NA	AAA domain protein	gilliam_11790	2120234	2121641	Yes
+NA	Conjugal transfer protein TraA	gilliam_11795	2121776	2121902	Yes
+NA	Conjugal transfer protein TraA	gilliam_11800	2121879	2122179	Yes
+traD	conjugal transfer protein TraD	gilliam_11805	2122516	2122912	No
+NA	transposase	gilliam_11810	2122979	2123966	Yes
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	gilliam_11815	2124086	2124662	Yes
+baeS	sensor histidine kinase	gilliam_11820	2124762	2125620	Yes
+NA	ATP-binding protein	gilliam_11825	2125641	2126370	Yes
+NA	hypothetical protein	gilliam_11830	2126431	2126587	Yes
+NA	hypothetical protein	gilliam_11835	2126718	2127435	Yes
+dam	DNA-adenine methylase	gilliam_11840	2127983	2128796	No
+NA	Putative ompA-like autotransporter	gilliam_11845	2128837	2129341	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	gilliam_11850	2129387	2130032	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_11855	2130069	2130645	Yes
+dnaB	replicative DNA helicase	gilliam_11860	2130880	2132329	Yes
+NA	DnaA-N domain-containing protein	gilliam_11865	2132337	2134053	Yes
+NA	hypothetical protein	gilliam_11870	2134545	2134671	Yes
+NA	hypothetical protein	gilliam_11875	2134886	2135012	Yes
+fabF	beta-ketoacyl-[acyl-carrier-protein] synthase II	gilliam_11880	2135149	2136421	Yes
+acpP	acyl carrier protein	gilliam_11885	2136509	2136896	Yes
+fabG	3-oxoacyl-ACP reductase	gilliam_11890	2137018	2137744	Yes
+recA	DNA recombination/repair protein RecA	gilliam_11895	2137737	2138808	Yes
+rlmB	23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB	gilliam_11900	2138904	2139633	Yes
+tuf	elongation factor Tu	gilliam_11915	2140096	2141281	No
+rpsJ	30S ribosomal protein S10	gilliam_11920	2141326	2141632	No
+rplC	50S ribosomal protein L3	gilliam_11925	2141615	2142299	No
+rplD	50S ribosomal protein L4	gilliam_11930	2142313	2142946	No
+rplW	50S ribosomal protein L23	gilliam_11935	2142942	2143239	No
+rplB	50S ribosomal protein L2	gilliam_11940	2143239	2144061	No
+rpsS	30S ribosomal protein S19	gilliam_11945	2144084	2144363	No
+rplV	50S ribosomal protein L22	gilliam_11950	2144364	2144715	No
+rpsC	30S ribosomal protein S3	gilliam_11955	2144730	2145390	No
+rplP	50S ribosomal protein L16	gilliam_11960	2145418	2145829	No
+rpmC	50S ribosomal protein L29	gilliam_11965	2145821	2146043	No
+rpsQ	30S ribosomal protein S17	gilliam_11970	2146043	2146283	No
+rplN	50S ribosomal protein L14	gilliam_11975	2146371	2146740	No
+rplX	50S ribosomal protein L24	gilliam_11980	2146741	2147062	No
+rplE	50S ribosomal protein L5	gilliam_11985	2147083	2147653	No
+rpsN	30S ribosomal protein S14	gilliam_11990	2147671	2147977	No
+rpsH	30S ribosomal protein S8	gilliam_11995	2147999	2148401	No
+rplF	50S ribosomal protein L6	gilliam_12000	2148422	2148956	No
+rplR	50S ribosomal protein L18	gilliam_12005	2148969	2149344	No
+rpsE	30S ribosomal protein S5	gilliam_12010	2149364	2149886	No
+NA	hypothetical protein	gilliam_12015	2149885	2150020	No
+rplO	50S ribosomal protein L15	gilliam_12020	2150117	2150609	No
+secY	preprotein translocase subunit SecY	gilliam_12025	2150610	2151918	No
+adk	adenylate kinase	gilliam_12030	2151914	2152559	No
+rpsM	30S ribosomal protein S13	gilliam_12035	2152638	2153016	No
+rpsK	30S ribosomal protein S11	gilliam_12040	2153025	2153406	No
+rpoA	DNA-directed RNA polymerase subunit alpha	gilliam_12045	2153454	2154483	No
+rplQ	50S ribosomal protein L17	gilliam_12050	2154501	2154939	No
+rpsT	30S ribosomal protein S20	gilliam_12055	2155020	2155293	No
+ptrB	S9 family peptidase	gilliam_12060	2155358	2157419	No
+hemA	5-aminolevulinate synthase	gilliam_12065	2157443	2158655	No
+perM	AI-2E family transporter	gilliam_12070	2158664	2159717	Yes
+pgpA	phosphatidylglycerophosphatase A	gilliam_12075	2160011	2160608	No
+cinA	Competence-damaged protein cinA	gilliam_12080	2160673	2161174	No
+thyA	thymidylate synthase (FAD)	gilliam_12085	2161220	2162123	No
+virB8-1	type VI secretion protein	gilliam_12100	2165693	2166395	No
+virB9-1	P-type conjugative transfer protein VirB9	gilliam_12105	2166384	2167146	No
+NA	DUF2660 domain-containing protein	gilliam_12110	2167407	2167797	Yes
+ftsY	signal recognition particle-docking protein FtsY	gilliam_12115	2167909	2168851	No
+ybeY	rRNA maturation RNase YbeY	gilliam_12120	2171789	2172293	No
+mgtE	magnesium transporter	gilliam_12125	2172411	2173221	No
+ubiX	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	gilliam_12130	2173270	2173834	Yes
+pleD	PleD family two-component system response regulator	gilliam_12140	2174327	2175797	No
+apaG	Co2+/Mg2+ efflux protein ApaG	gilliam_12145	2176306	2176732	Yes
+NA	hypothetical protein	gilliam_12150	2177120	2177348	No
+NA	Conjugal transfer protein TraA	gilliam_12155	2177429	2177681	No
+NA	Conjugal transfer protein TraA	gilliam_12160	2177797	2177965	No
+NA	Conjugal transfer protein TraA	gilliam_12165	2177934	2178384	No
+NA	Viral (Super1) RNA helicase family protein	gilliam_12170	2178656	2178911	No
+NA	Conjugal transfer protein TraA	gilliam_12175	2179015	2179282	No
+tnp-IS630	IS630 family transposase	gilliam_12180	2179361	2179868	Yes
+NA	TPR repeat-containing protein 03	gilliam_12185	2180404	2180566	Yes
+NA	TPR repeat-containing protein 01_05	gilliam_12190	2180559	2180868	Yes
+NA	Conjugal transfer protein TraG	gilliam_12195	2181343	2181499	Yes
+NA	hypothetical protein	gilliam_12200	2181739	2181907	Yes
+NA	hypothetical protein	gilliam_12205	2181903	2181996	Yes
+NA	Putative conjugative transfer protein	gilliam_12210	2181992	2182157	Yes
+NA	Conjugative transfer domain protein	gilliam_12215	2182248	2182404	Yes
+ispB	octaprenyl-diphosphate synthase	gilliam_12220	2182563	2183580	Yes
+NA	hypothetical protein	gilliam_12225	2183599	2185414	Yes
+tlcC	AAA family ATPase	gilliam_12230	2185413	2186958	Yes
+tlc	ATP/ADP translocase	gilliam_12235	2187107	2188640	Yes
+NA	Transposase	gilliam_12240	2189158	2189473	Yes
+NA	Transposase	gilliam_12245	2189421	2189889	Yes
+hlyD	HlyD family type I secretion periplasmic adaptor subunit	gilliam_12250	2190136	2191675	Yes
+arpD	type I secretion system permease/ATPase	gilliam_12255	2191712	2193467	Yes
+NA	DDE-3 domain-containing protein	gilliam_12260	2194255	2194405	No
+murJ	lipid II flippase MurJ	gilliam_12265	2194784	2196299	No
+NA	hypothetical protein	gilliam_12270	2196335	2196716	Yes
+NA	Lipase-3 domain-containing protein	gilliam_12275	2197887	2199081	Yes
+NA	Ankyrin	gilliam_12280	2200097	2200319	Yes
+NA	reverse transcriptase	gilliam_12285	2200960	2201152	No
+NA	hypothetical protein	gilliam_12290	2201260	2202139	No
+NA	DnaA-N domain-containing protein	gilliam_12295	2202248	2203964	No
+dnaB	replicative DNA helicase	gilliam_12300	2203972	2205421	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_12305	2205654	2206230	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	gilliam_12310	2206267	2206912	No
+NA	Putative ompA-like autotransporter	gilliam_12315	2206958	2207366	No
+dam	DNA methyltransferase	gilliam_12320	2207469	2208279	Yes
+NA	ATP-binding protein	gilliam_12325	2208645	2209374	No
+baeS	sensor histidine kinase	gilliam_12330	2209395	2210253	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_12335	2210353	2210929	No
+NA	hypothetical protein	gilliam_12340	2211015	2211561	Yes
+traD	conjugal transfer protein TraD, complete TraD	gilliam_12345	2211663	2212119	Yes
+traA	conjugal transfer protein TraA, complete TraA	gilliam_12350	2212397	2215265	No
+NA	Putative conjugative transfer protein TraI	gilliam_12355	2215530	2217021	No
+NA	Conjugal transfer protein TraI	gilliam_12360	2217128	2217635	No
+NA	Toprim domain protein	gilliam_12365	2217648	2218200	No
+rpnC	transposase	gilliam_12370	2218184	2219201	No
+traD	conjugal transfer protein TraD, complete TraD	gilliam_12375	2219223	2220966	Yes
+NA	TPR repeat-containing protein 08	gilliam_12380	2220971	2222111	Yes
+traG	conjugal transfer protein TraG, complete TraG	gilliam_12385	2222123	2224793	Yes
+NA	Conjugal transfer protein TraH	gilliam_12390	2224792	2225248	Yes
+NA	Conjugal transfer protein TraH	gilliam_12395	2225201	2226062	Yes
+traF	conjugal transfer protein TraF, complete TraF	gilliam_12400	2226102	2226849	Yes
+gepA	DUF4065 domain-containing protein	gilliam_12405	2226823	2227390	Yes
+NA	SycD/LcrH family type III secretion system chaperone	gilliam_12410	2227499	2228483	Yes
+traN	conjugal transfer protein TraN, complete TraN	gilliam_12415	2228853	2230542	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	gilliam_12420	2230538	2230928	Yes
+traU	conjugal transfer protein TraU	gilliam_12425	2230950	2231823	Yes
+traW	type-F conjugative transfer system protein TraW, complete TraW	gilliam_12430	2231919	2232579	Yes
+NA	Conjugal transfer protein TraC	gilliam_12435	2232575	2234225	Yes
+NA	Conjugal transfer protein TraC	gilliam_12440	2234196	2235069	Yes
+traV	conjugal transfer protein TraV, complete TraV	gilliam_12445	2235049	2235379	Yes
+NA	Conjugal transfer protein	gilliam_12450	2235378	2235561	Yes
+traB	conjugal transfer protein TraB	gilliam_12455	2235575	2236697	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	gilliam_12460	2236739	2237066	Yes
+NA	hypothetical protein	gilliam_12465	2237200	2237509	Yes
+NA	Conjugal transfer protein TraE	gilliam_12470	2237653	2238073	Yes
+traL	conjugal transfer protein traL, complete TraL	gilliam_12475	2238072	2238396	Yes
+NA	Integrase	gilliam_12480	2238533	2239211	Yes
+NA	Integrase	gilliam_12485	2239319	2239748	Yes
+rpsD	30S ribosomal protein S4	gilliam_12490	2240415	2241039	Yes
+rsmE	Ribosomal RNA small subunit methyltransferase E	gilliam_12495	2241174	2241966	No
+mlaE	Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla	gilliam_12500	2242007	2242865	No
+mlaF	ABC transporter ATP-binding protein	gilliam_12505	2242891	2243647	No
+NA	DDE superendonuclease family protein	gilliam_12510	2243939	2244095	No
+NA	DDE superendonuclease family protein	gilliam_12515	2244260	2244377	No
+NA	DDE superendonuclease family protein	gilliam_12520	2244388	2244763	No
+tnp-IS630	IS630 family transposase	gilliam_12525	2244952	2245459	Yes
+tnp-IS630	IS630 family transposase	gilliam_12530	2245445	2245766	Yes
+NA	IS630 family transposase	gilliam_12535	2245716	2245821	Yes
+NA	IS630 family transposase	gilliam_12540	2246173	2246680	No
+NA	Histidine kinase	gilliam_12545	2246693	2249036	Yes
+NA	Transposase	gilliam_12550	2249392	2249554	No
+cflA	Bcr/CflA family drug resistance efflux transporter	gilliam_12555	2249789	2250971	Yes
+NA	hypothetical protein	gilliam_12560	2251827	2252076	No
+NA	DnaA-N domain-containing protein	gilliam_12565	2252756	2253032	No
+NA	DNA helicase	gilliam_12570	2253040	2253367	No
+NA	IS630 family transposase	gilliam_12575	2253446	2253626	No
+tnp-IS630	IS630 family transposase	gilliam_12580	2253629	2254004	No
+tnp-IS630	IS630 family transposase	gilliam_12585	2253990	2254497	No
+NA	IS630 family transposase	gilliam_12590	2254510	2254654	Yes
+tnp-IS630	IS630 family transposase	gilliam_12595	2254631	2255006	Yes
+NA	DDE superendonuclease family protein	gilliam_12600	2255062	2255377	Yes
+tnp-IS630	IS630 family transposase	gilliam_12605	2255530	2255905	Yes
+glpE	Thiosulfate sulfurtransferase GlpE	gilliam_12610	2256938	2257688	Yes
+tim44	transporter	gilliam_12615	2257800	2258436	Yes
+NA	DDE superendonuclease family protein	gilliam_12620	2258736	2259045	Yes
+NA	Transposase	gilliam_12625	2259096	2259267	Yes
+midA	SAM-dependent methyltransferase	gilliam_12630	2260557	2261712	Yes
+NA	hypothetical protein	gilliam_12635	2262151	2262274	No
+NA	hypothetical protein	gilliam_12640	2262299	2262422	No
+NA	hypothetical protein	gilliam_12645	2262698	2262851	No
+tnp-IS630	IS630 family transposase	gilliam_12650	2263024	2263531	Yes
+tnp-IS630	IS630 family transposase	gilliam_12655	2263517	2263892	Yes
+NA	Conjugative transfer protein	gilliam_12660	2264131	2264347	Yes
+NA	Transposase	gilliam_12665	2265214	2265436	Yes
+NA	hypothetical protein	gilliam_12670	2265986	2266286	Yes
+NA	Integrase	gilliam_12675	2267179	2267350	No
+NA	TraE family protein	gilliam_12680	2267500	2267812	No
+NA	DDE superendonuclease family protein	gilliam_12685	2267963	2268401	No
+NA	DDE superendonuclease family protein	gilliam_12690	2268412	2268787	No
+NA	Conjugal transfer protein TraE	gilliam_12695	2269245	2269398	No
+NA	hypothetical protein	gilliam_12700	2269489	2269735	No
+NA	SpoT ppGpp hydrolase, complete TraK-2	gilliam_12705	2270015	2270333	No
+NA	Conjugal transfer protein	gilliam_12710	2270622	2271105	No
+traV	conjugal transfer protein TraV, complete TraV	gilliam_12715	2271131	2271461	No
+NA	Conjugal transfer protein TraC	gilliam_12720	2271441	2271603	No
+tnp-IS630	IS630 family transposase	gilliam_12725	2271616	2272123	Yes
+tnp-IS630	IS630 family transposase	gilliam_12730	2272109	2272484	Yes
+traB	conjugal transfer protein TraB	gilliam_12735	2272735	2273851	No
+NA	Conjugal transfer protein	gilliam_12740	2273880	2274063	No
+NA	DnaA-N domain-containing protein	gilliam_12745	2274271	2275417	No
+NA	DnaA-N domain-containing protein	gilliam_12750	2275417	2275987	No
+dnaB	replicative DNA helicase	gilliam_12755	2275995	2277444	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_12760	2277679	2278255	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	gilliam_12765	2278292	2278937	No
+NA	Putative ompA-like autotransporter	gilliam_12770	2278983	2279391	No
+dam	DNA-adenine methylase	gilliam_12775	2279513	2280326	Yes
+NA	hypothetical protein	gilliam_12780	2280797	2282666	Yes
+baeS	Signal transduction histidine kinase	gilliam_12785	2283356	2284133	No
+baeS	sensor histidine kinase	gilliam_12790	2284107	2284965	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_12795	2285065	2285641	No
+NA	transposase	gilliam_12800	2285761	2286688	No
+NA	hypothetical protein	gilliam_12805	2286978	2287512	No
+NA	hypothetical protein	gilliam_12810	2287775	2288351	Yes
+traD	conjugal transfer protein TraD, complete TraD	gilliam_12815	2288439	2288895	Yes
+traA	conjugal transfer protein TraA, complete TraA	gilliam_12820	2289171	2292030	No
+traI	conjugal transfer protein TraI, complete TraI	gilliam_12825	2292295	2294965	No
+NA	transposase	gilliam_12830	2295016	2295952	No
+traD	conjugal transfer protein TraD, complete TraD	gilliam_12835	2295961	2297716	Yes
+NA	TPR repeat-containing protein 08	gilliam_12840	2297721	2298870	Yes
+traG	conjugal transfer protein TraG	gilliam_12845	2298896	2301116	Yes
+NA	Conjugal transfer protein TraH	gilliam_12850	2301102	2301489	Yes
+NA	Conjugal transfer protein TraH	gilliam_12855	2301677	2302307	Yes
+traF	conjugal transfer protein TraF, complete TraF	gilliam_12860	2302303	2302987	Yes
+NA	conjugal transfer protein TraN	gilliam_12865	2302998	2304549	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	gilliam_12870	2304545	2304929	Yes
+NA	conjugal transfer protein	gilliam_12875	2304951	2305218	Yes
+NA	Conjugal transfer protein	gilliam_12880	2305217	2305931	Yes
+NA	hypothetical protein	gilliam_12885	2305931	2306105	Yes
+traW	type-F conjugative transfer system protein TraW, complete TraW	gilliam_12890	2306188	2306848	Yes
+NA	Conjugal transfer protein TraC	gilliam_12895	2306844	2308053	Yes
+NA	Conjugal transfer protein TraC	gilliam_12900	2308056	2308491	Yes
+NA	Conjugal transfer protein TraC	gilliam_12905	2308462	2309335	Yes
+traV	conjugal transfer protein TraV, complete TraV	gilliam_12910	2309315	2309645	Yes
+traB	conjugal transfer protein TraB, complete TraB	gilliam_12915	2309644	2310973	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	gilliam_12920	2311015	2311342	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	gilliam_12925	2311476	2311965	Yes
+NA	hypothetical protein	gilliam_12930	2311961	2312114	Yes
+NA	Conjugal transfer protein TraE	gilliam_12935	2312094	2312514	Yes
+traL	conjugal transfer protein traL, complete TraL	gilliam_12940	2312513	2312816	Yes
+NA	Phage integrase family protein, complete integrase	gilliam_12945	2312940	2314224	Yes
+traV	conjugal transfer protein TraV	gilliam_12950	2314660	2314960	No
+NA	Conjugal transfer protein TraC	gilliam_12955	2314940	2315246	No
+tnp-IS630	IS630 family transposase	gilliam_12960	2315270	2315777	Yes
+tnp-IS630	IS630 family transposase	gilliam_12965	2315763	2316138	Yes
+NA	Reverse transcriptase	gilliam_12970	2316200	2316320	Yes
+NA	hypothetical protein	gilliam_12975	2316756	2316984	Yes
+NA	Phage integrase family protein	gilliam_12980	2317116	2317407	Yes
+NA	Integrase	gilliam_12985	2317539	2317728	Yes
+NA	Integrase	gilliam_12990	2317772	2317943	Yes
+NA	Integrase	gilliam_12995	2318040	2318331	Yes
+NA	Conjugal transfer protein TraN	gilliam_13000	2318758	2319055	No
+NA	Ankyrin repeat family protein	gilliam_13005	2319200	2320445	No
+traF	conjugal transfer protein TraF, complete TraF	gilliam_13010	2320639	2321356	No
+NA	Conjugal transfer protein TraH	gilliam_13015	2321352	2322246	No
+NA	Conjugal transfer protein TraH	gilliam_13020	2322199	2322556	No
+traG	conjugal transfer protein TraG	gilliam_13025	2322542	2324117	No
+NA	DDE superendonuclease family protein	gilliam_13030	2324205	2324562	No
+NA	DDE superendonuclease family protein	gilliam_13035	2324573	2324948	No
+traG	conjugal transfer protein TraG	gilliam_13040	2324934	2325675	No
+NA	TPR repeat-containing protein 03	gilliam_13045	2325687	2326077	No
+NA	IS630 family transposase	gilliam_13050	2326153	2326258	No
+tnp-IS630	IS630 family transposase	gilliam_13055	2326208	2326529	No
+tnp-IS630	IS630 family transposase	gilliam_13060	2326506	2327022	No
+NA	FAT domain protein	gilliam_13065	2327117	2327804	No
+NA	Conjugal transfer protein	gilliam_13070	2327809	2328325	No
+NA	Conjugal transfer protein TraD	gilliam_13075	2328318	2328495	No
+tnp-IS630	IS630 family transposase	gilliam_13080	2328519	2329035	Yes
+tnp-IS630	IS630 family transposase	gilliam_13085	2329012	2329387	Yes
+ppx	exopolyphosphatase	gilliam_13090	2330303	2331767	No
+pcaH	intradiol ring-cleavage dioxygenase	gilliam_13095	2332871	2333603	No
+leuS	leucine--tRNA ligase	gilliam_13100	2334223	2336743	No
+holB2	DNA polymerase III subunit delta	gilliam_13105	2336762	2337782	No
+mgtE	magnesium transporter	gilliam_13115	2337970	2339335	No
+ypwA	carboxypeptidase M32	gilliam_13120	2339431	2340922	Yes
+NA	Putative integrase	gilliam_13125	2342161	2342284	No
+tnp-IS630	IS630 family transposase	gilliam_13130	2342308	2342815	Yes
+NA	Transposase family protein	gilliam_13135	2343231	2343504	Yes
+NA	Phage integrase family protein	gilliam_13140	2343547	2344249	No
+traL	conjugal transfer protein traL	gilliam_13145	2344335	2344632	No
+tnp-IS630	IS630 family transposase	gilliam_13150	2344900	2345407	Yes
+tnp-IS630	IS630 family transposase	gilliam_13155	2345393	2345768	Yes
+recJ	single-stranded-DNA-specific exonuclease RecJ	gilliam_13160	2345998	2347762	Yes
+ruvX	Holliday junction resolvase RuvX	gilliam_13165	2347775	2348249	Yes
+NA	DUF1189 domain-containing protein	gilliam_13170	2348245	2349160	Yes
+ccmE	cytochrome c biogenesis protein CcmE	gilliam_13175	2349190	2349586	Yes
+curA	NADP-dependent oxidoreductase	gilliam_13180	2349893	2351039	No
+NA	Conjugal transfer protein TraE	gilliam_13185	2352159	2352279	No
+tnp-IS630	IS630 family transposase	gilliam_13190	2352336	2352843	Yes
+tnp-IS630	IS630 family transposase	gilliam_13195	2352829	2353150	Yes
+NA	IS630 family transposase	gilliam_13200	2353100	2353205	Yes
+NA	DnaA-N domain-containing protein	gilliam_13205	2353678	2355394	No
+dnaB	replicative DNA helicase	gilliam_13210	2355402	2356839	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_13215	2357076	2357652	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	gilliam_13220	2357689	2358334	No
+NA	Putative ompA-like autotransporter	gilliam_13225	2358380	2358884	No
+dam	DNA methyltransferase	gilliam_13230	2358887	2359697	Yes
+NA	ATP-binding protein	gilliam_13235	2360071	2360800	No
+baeS	sensor histidine kinase	gilliam_13240	2360821	2361679	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	gilliam_13245	2361779	2362355	No
+NA	transposase	gilliam_13250	2362475	2363570	No
+traD	conjugal transfer protein TraD, complete TraD	gilliam_13255	2363637	2364093	Yes
+traA	conjugal transfer protein TraA, complete TraA	gilliam_13260	2364371	2367218	No
+traI	conjugal transfer protein TraI, complete TraI	gilliam_13265	2367482	2370152	No
+rpnC	transposase	gilliam_13270	2370203	2370764	No
+NA	IS110-like element ISOt5 family transposase	gilliam_13275	2370779	2371742	Yes
+NA	Putative transposase	gilliam_13280	2371970	2372444	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	gilliam_13285	2372453	2373440	Yes
+NA	Conjugal transfer protein	gilliam_13290	2373450	2374209	Yes
+NA	TPR repeat-containing protein 08	gilliam_13295	2374212	2375358	Yes
+traG	conjugal transfer protein TraG, complete TraG	gilliam_13300	2375373	2378019	Yes
+traH	conjugal transfer protein TraH, complete TraH	gilliam_13305	2378018	2379320	Yes
+traF	conjugal transfer protein TraF, complete TraF	gilliam_13310	2379316	2380000	Yes
+traN	conjugal transfer protein TraN, complete TraN	gilliam_13315	2380011	2381703	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	gilliam_13320	2381699	2382083	Yes
+traU	conjugal transfer protein TraU, complete TraU	gilliam_13325	2382105	2383083	Yes
+NA	hypothetical protein	gilliam_13330	2383083	2383257	Yes
+traW	type-F conjugative transfer system protein TraW, complete TraW	gilliam_13335	2383340	2384000	Yes
+traC	conjugal transfer protein TraC, complete TraC	gilliam_13340	2383996	2386486	Yes
+traV	conjugal transfer protein TraV, complete TraV	gilliam_13345	2386466	2386796	Yes
+traB	conjugal transfer protein TraB, complete TraB	gilliam_13350	2386795	2388112	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	gilliam_13355	2388154	2388484	Yes
+NA	Conjugative transfer protein	gilliam_13360	2388617	2388845	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	gilliam_13365	2388989	2389466	Yes
+traE	conjugal transfer protein TraE, complete TraE	gilliam_13370	2389462	2390014	Yes
+traL	conjugal transfer protein traL, complete TraL	gilliam_13375	2390013	2390337	Yes
+NA	Phage integrase family protein, complete integrase	gilliam_13380	2390404	2391724	Yes
+NA	IS630 family transposase	gilliam_13385	2392218	2392725	No
+NA	Membrane protein	gilliam_13390	2392841	2393330	No
+dam	DNA methyltransferase	gilliam_13395	2393352	2394162	Yes
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	gilliam_13400	2394395	2394815	No
+NA	Putative permease	gilliam_13405	2394936	2395272	No
+NA	Putative permease	gilliam_13410	2395365	2395815	No
+NA	TPR repeat family protein	gilliam_13415	2396403	2396994	Yes
+traD	conjugal transfer protein TraD, complete TraD	gilliam_13420	2397329	2397773	Yes
+NA	Conjugal transfer protein TraA	gilliam_13425	2398050	2398350	No
+NA	Conjugal transfer protein TraA	gilliam_13430	2398327	2398453	No
+NA	AAA domain protein	gilliam_13435	2398588	2399368	No
+NA	Conjugal transfer protein TraI	gilliam_13440	2399447	2400677	No
+tnp-IS630	IS630 family transposase	gilliam_13445	2400690	2401197	Yes
+acnA	Aconitate hydratase A	gilliam_13450	2401245	2401473	Yes
+ccmA	cytochrome c biogenesis protein CcmA	gilliam_13455	2401845	2402451	No
+ccmB	heme exporter protein B	gilliam_13460	2402447	2403098	No
+NA	DUF2670 domain-containing protein	gilliam_13465	2403251	2404391	No
+petA	ubiquinol-cytochrome c reductase iron-sulfur subunit	gilliam_13470	2404502	2405168	No
+qcrB,petB	cytochrome b	gilliam_13475	2405317	2406514	No
+NA	IS630 family transposase	gilliam_13480	2407110	2407554	Yes
+NA	HTH cro/C1-type domain-containing protein	gilliam_13485	2408085	2411019	No
+potE	Serine transporter YbeC, amino acid:H+ symporter family	gilliam_13490	2411358	2412642	Yes
+NA	IS630 family transposase	gilliam_13495	2414164	2414671	Yes
+tnp-IS630	IS630 family transposase	gilliam_13500	2414657	2415032	Yes
+ung	uracil-DNA glycosylase	gilliam_13505	2415354	2416161	Yes
+NA	DDE superendonuclease family protein	gilliam_13510	2416390	2416885	No
+NA	IS5 family transposase ISOt6	gilliam_13515	2416838	2417075	No
+tPR	Tetratricopeptide (TPR) repeat	gilliam_13520	2417189	2417459	Yes
+tnp-IS630	IS630 family transposase	gilliam_13525	2417962	2418301	Yes
+tnp-IS630	IS630 family transposase	gilliam_13530	2418455	2418830	Yes
+NA	Transposase	gilliam_13535	2419155	2419575	No
+mdlB	multidrug ABC transporter ATP-binding protein	gilliam_13540	2419589	2421368	Yes
+pyrH	UMP kinase	gilliam_13545	2421417	2422170	Yes
+mraY	phospho-N-acetylmuramoyl-pentapeptide- transferase	gilliam_13550	2422398	2423490	Yes
+murF	UDP-N-acetylmuramoylalanyl-D-glutamyl-2, 6-diaminopimelate--D-alanyl-D-alanine ligase	gilliam_13555	2423479	2424889	Yes
+murE	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-di aminopimelate ligase	gilliam_13560	2424885	2426355	Yes
+pbpA2	penicillin-binding protein	gilliam_13565	2426341	2428093	Yes
+ftsL	Cell division protein FtsL	gilliam_13570	2428292	2428553	Yes
+rsmH	16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH	gilliam_13575	2428593	2429496	Yes
+dnaJ	molecular chaperone DnaJ	gilliam_13580	2429600	2430734	Yes
+dnaK	molecular chaperone DnaK	gilliam_13585	2430822	2432751	Yes
+bolA	BolA family transcriptional regulator	gilliam_13590	2433130	2433418	Yes
+fabI	enoyl-ACP reductase	gilliam_13595	2433626	2434424	No
+NA	IS630 family transposase	gilliam_13600	2434561	2434753	Yes
+ykfC	Retron-type reverse transcriptase	gilliam_13605	2434840	2435107	Yes
+NA	Putative transposase	gilliam_13610	2435520	2435658	No
+NA	Transposase	gilliam_13615	2435838	2436018	No
+NA	hypothetical protein	gilliam_13620	2437173	2437293	No
+secB	protein-export protein SecB	gilliam_13625	2437476	2437971	Yes
+dcd	deoxycytidine triphosphate deaminase	gilliam_13630	2438012	2438579	Yes
+NA	porin	gilliam_13635	2439181	2440462	No
+frr	ribosome-recycling factor	gilliam_13640	2440656	2441220	Yes
+nuoG	NADH-quinone oxidoreductase subunit G	gilliam_13645	2441499	2443539	No
+nuoH	NADH:ubiquinone oxidoreductase subunit H	gilliam_13650	2443595	2444639	No
+nuoI	NADH-quinone oxidoreductase subunit I	gilliam_13655	2444692	2445178	No
+nuoJ	NADH:ubiquinone oxidoreductase subunit J	gilliam_13660	2445181	2445790	No
+nuoK	NADH-quinone oxidoreductase subunit K	gilliam_13665	2445773	2446097	No
+erhM	2-hydroxyacid dehydrogenase	gilliam_13670	2446100	2448008	No
+nuoM	NADH-quinone oxidoreductase subunit M	gilliam_13675	2448008	2449508	No
+nuoN	NADH-quinone oxidoreductase subunit N	gilliam_13680	2449552	2450989	No
+tilS	tRNA lysidine(34) synthetase TilS	gilliam_13685	2451071	2452397	No
+ftsH	ATP-dependent metalloprotease	gilliam_13690	2452413	2454297	No
+alkA	3-methyladenine DNA glycosylase	gilliam_13695	2454331	2454868	No
+tsaE	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE	gilliam_13700	2454883	2455306	No
+rodA	rod shape-determining protein RodA	gilliam_13705	2455476	2456604	No
+mreD	Rod shape-determining protein MreD	gilliam_13710	2456615	2457101	No
+pBP2	penicillin-binding protein 2	gilliam_13715	2457090	2458833	No
+ubiD	3-polyprenyl-4-hydroxybenzoate decarboxylase	gilliam_13720	2458990	2460484	Yes
+ygaA	Uncharacterized membrane protein YqaA, VTT domain	gilliam_13725	2460814	2461237	No
+NA	hypothetical protein	gilliam_13730	2461316	2461418	No
+NA	Ankyrin repeat-containing protein	gilliam_13740	2462457	2463978	Yes
+sdhE	Succinate dehydrogenase flavin-adding protein, antitoxin component of the CptAB toxin-antitoxin module	gilliam_13745	2464406	2464670	Yes

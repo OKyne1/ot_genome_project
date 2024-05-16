@@ -1,9 +1,16 @@
 import sys
 import os
 
+# Blast commands: blastn -query genome.fna -db path/to/rage_complete_db/complete_rage -out genome_name.txt -outfmt 6 -num_alignments 1 -evalue 1e-30
+
 # Usage: python3 blast_processing.py blast_outputs.txt (any number)
 
+# Currently I've used a slightly dirty method to ensure their is no double counting. We want to know the amount of positions aligned. 
+# My method uses the alignment of sequences and then using the amount of these sequences aligned as a percentage of the query (excluding bits of the subject which are longer than the query and aligned).
+# Functionally this makes little difference and is deemed acceptable. But ideally, the number of positions alignmed would be calcated instead.
+
 def process_blast_output(blast_file):
+    # Extracting this info from a fasta: awk '/^>/ {header = "\"" substr($0, 2) "\""; getline; print header ": " length($0)","}' all_full_tra_proteins.fna # code used to make the dict
     # Define the gene lengths
     gene_lengths = {
         "Full-length_Boryong_01982_TraA": 829,
