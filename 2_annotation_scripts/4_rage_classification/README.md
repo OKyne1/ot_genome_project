@@ -19,7 +19,7 @@ These are currently defined by a list of different rage genes. These were determ
 This list of RAGE genes was generated from the Karp, Gilliam and Boryong genomes, then tested on other genomes to validate the success.
 
 ### Visualising success
-![kato rage derived regions](../diagrams/kato_rage_derived.png)
+![kato rage derived regions](./diagrams/kato_rage_derived.png)
 This IGV image of the different boundaries shows that my script closely resembles the manual annotations (note manual annotations have additional breaks for boundaries between RAGEs). The 2 lines below the manual annotated boundaries shows the effects of allowing one or 2 mis-matched genes within a RAGE region.
 
 The effect here is not that large and so the current script only allows 1 non-match. However it can easily be modified to permit 2. The code was developed to permit this, and also not to allow these non-matches to be adjacent to eachother. 
