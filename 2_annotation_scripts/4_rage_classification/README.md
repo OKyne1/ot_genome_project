@@ -62,5 +62,12 @@ Method:
 
 This was successful in identifying >95% of all cases (when testing 7 genomes using a db of the 8th), consequently the coverage will be increased when the all 8 are used in the db.
 
+## Handling Contigs
+I modified the script to handle contigs by spliting the input txt files and then joining the outputs. 
+![kato rage derived regions](./diagrams/contig_vs_complete_rage_derived2.png)
+Note: this diagram is illustrative, but as the bed files here aren't perfect (adapted contig values to the reference genome imperfectly and unfortunately the rage regions bed for comparison is from an earlier itteration of the script).
+
+
 ## Current limitations
-- Bed files are currently indexed wrong. Need to -1 from all start entries (not done yet as it makes comparisons easier)
+- Bed files are currently indexed wrong. Need to -1 from all start entries. In reality this makes very little difference, hence hasn't yet been resolved.
+- Contig naming in bakta is different from the naming in the fasta file (input), this difference is continued into the bed files.
