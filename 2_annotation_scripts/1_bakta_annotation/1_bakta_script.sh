@@ -33,7 +33,7 @@ genome="$3"
 # Path to bakta database
 database="/well/moru-batty/projects/ot/annotation/bakta_db/db"
 
-bakta --db "$database" --prefix "$prefix" --complete --proteins "$jeanne_proteins" --gram - --locus-tag "$prefix" --threads 8 --output "$prefix" "$genome"
+bakta --db "$database" --prefix "$prefix" --complete --proteins "$jeanne_proteins" --gram - --locus-tag "$prefix" --threads 8 --output "$prefix" "$genome" --keep-contig-headers
 
 echo "Script finished"
 exit 0
