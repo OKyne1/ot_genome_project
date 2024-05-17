@@ -80,7 +80,7 @@ mkdir rage_derived complete_rage
 
 mv *_rage_derived.bed rage_derived
 mv *_complete_RAGEs.bed complete_rage
-rm *.bed *.txt
+#rm *.bed *.txt
 
 # Script format
 ## 1. convert gbff to txt file
