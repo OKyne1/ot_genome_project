@@ -67,6 +67,7 @@ Note: this diagram is illustrative, but as the bed files here aren't perfect (th
 ## Current limitations
 - Bed files are currently indexed wrong. Need to -1 from all start entries. In reality this makes very little difference, hence hasn't yet been resolved.
 - TraD - currently requires 2 copies of complete traD, this is done instead of identifying traDti and the other traD.
+- Include trbc gene in rage requirements
 
 Untested:
 - Changed the bakta parameter to keep the contig names. This should work but is untested.
