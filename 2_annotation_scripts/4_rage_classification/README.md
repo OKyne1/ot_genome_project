@@ -22,6 +22,7 @@ This list of RAGE genes was generated from the Karp, Gilliam and Boryong genomes
 ![kato rage derived regions](./diagrams/kato_rage_derived.png)
 This IGV image of the different boundaries shows that my script closely resembles the manual annotations (note manual annotations have additional breaks for boundaries between RAGEs). The 2 lines below the manual annotated boundaries shows the effects of allowing one or 2 mis-matched genes within a RAGE region.
 
+
 The effect here is not that large and so the current script only allows 1 non-match. However it can easily be modified to permit 2. The code was developed to permit this, and also not to allow these non-matches to be adjacent to eachother. 
 
 ### Rules for the RAGE derived regions
@@ -60,7 +61,7 @@ This was successful in identifying >95% of all cases (when testing 7 genomes usi
 ## Handling Contigs
 I modified the script to handle contigs by spliting the input txt files and then joining the outputs. 
 ![kato rage derived regions](./diagrams/contig_vs_complete_rage_derived2.png)
-Note: this diagram is illustrative, but as the bed files here aren't perfect (adapted contig values to the reference genome imperfectly and unfortunately the rage regions bed for comparison is from an earlier itteration of the script).
+Note: this diagram is illustrative, but as the bed files here aren't perfect (the bed positions are slightly shifted due to wrong conversion from contig to genome positions).
 
 
 ## Current limitations
