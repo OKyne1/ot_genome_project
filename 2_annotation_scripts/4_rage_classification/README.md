@@ -70,4 +70,8 @@ Note: this diagram is illustrative, but as the bed files here aren't perfect (ad
 
 ## Current limitations
 - Bed files are currently indexed wrong. Need to -1 from all start entries. In reality this makes very little difference, hence hasn't yet been resolved.
-- Contig naming in bakta is different from the naming in the fasta file (input), this difference is continued into the bed files.
+- TraD - currently requires 2 copies of complete traD, this is done instead of identifying traDti and the other traD.
+
+Untested:
+- Changed the bakta parameter to keep the contig names. This should work but is untested.
+- 
