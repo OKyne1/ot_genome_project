@@ -45,9 +45,8 @@ Boundaries identified are validated against the RAGE derived regions. Only those
 To be a complete RAGE, it must have the boundries (already identified), all tra genes, at least 1 transposase and at least 1 cargo gene (currently using those defined in the paper). The presence of these genes is tested on the validated boundaries and the regions which meet these criteria are outputted in a new .bed file.
 
 
-## Initial results
-These scripts identify **100%** of complete RAGEs (3/3) but it also identifies **17/52** of the complete RAGEs with truncated genes. This is probably better than underclassification, however, we need to find a way to identify which of these are not truncated.
-
+## Current results
+Currently identifying 5 complete rages (2 new and potentially complete, Karp_73 and UT76_10), is mis-hitting with kato_02 (not recognising a truncated integrase) and misses kato_59 (integrase not recoginsed as complete).
 
 ## RAGE gene completeness
 Overclassification of RAGEs, is a result of truncated or degraded genes not being identified. Using a Blast+ script 
