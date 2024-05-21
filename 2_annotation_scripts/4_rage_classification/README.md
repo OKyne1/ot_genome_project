@@ -35,11 +35,7 @@ The effect here is not that large and so the current script only allows 1 non-ma
 <img src="https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/4_rage_classification/diagrams/rage_boundaries_conditions.png" width="500">
 The black lines mark the boundary, if a gene is not included in the boundary then the script will restart on this line to identify additional boundaries using this gene.
 
-### Edge case:
-<img src="https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/4_rage_classification/diagrams/edge_case.png" width="800">
-
-The script currently allows 2 RAGE regions to share a dnaA gene. This is unlikely to cause any issues as the chance of 2 complete RAGEs next to eachother is extremely unlikely and not problematic.
-
+Currently for the boundaries, genes can be shared from one RAGE to the next. In pactice this doesn't really happen, as the frequency of RAGEs is very low.
 
 ## Validating boundaries
 Boundaries identified are validated against the RAGE derived regions. Only those contained within this .bed file are kept for required gene testing. This step uses the package bed tools.
