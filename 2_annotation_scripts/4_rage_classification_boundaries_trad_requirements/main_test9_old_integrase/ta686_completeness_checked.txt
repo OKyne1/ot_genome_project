@@ -1,0 +1,2547 @@
+dnaA	chromosomal replication initiation protein DnaA	ta686_00005	0	1410	No
+dnaN	DNA polymerase III subunit beta	ta686_00010	1428	2727	No
+virB8-2	type VI secretion protein	ta686_00015	2976	3657	No
+virB9-2	P-type conjugative transfer protein VirB9	ta686_00020	3640	4078	No
+virB10	type VI secretion protein	ta686_00025	4077	5607	No
+virB11	type VI secretion protein	ta686_00030	5606	6596	No
+virD4	type IV secretion system protein VirD4	ta686_00035	6595	8368	No
+NA	Putative transposase	ta686_00040	8740	8995	No
+NA	hypothetical protein	ta686_00045	8981	9116	No
+NA	Putative transposase	ta686_00050	9210	9453	No
+NA	hypothetical protein	ta686_00055	9724	10924	Yes
+NA	hypothetical protein	ta686_00060	10913	11105	Yes
+NA	IS982 family transposase	ta686_00065	11229	12039	Yes
+NA	hypothetical protein	ta686_00070	12277	12691	Yes
+abcT	ABC transporter ATP-binding protein	ta686_00075	12650	14360	Yes
+NA	hypothetical protein	ta686_00080	14455	15028	Yes
+NA	hypothetical protein	ta686_00085	15239	15365	Yes
+NA	hypothetical protein	ta686_00090	15397	15577	Yes
+NA	hypothetical protein	ta686_00095	15705	16263	No
+NA	hypothetical protein	ta686_00100	16378	16558	No
+NA	hypothetical protein	ta686_00105	16692	16929	Yes
+NA	hypothetical protein	ta686_00110	17617	18637	Yes
+NA	hypothetical protein	ta686_00115	18602	18860	Yes
+NA	Conjugal transfer protein TraA	ta686_00120	18862	19393	Yes
+NA	hypothetical protein	ta686_00125	19423	19711	Yes
+NA	Transposase	ta686_00130	19839	20322	No
+NA	Putative integrase, complete integrase	ta686_00135	20739	21954	No
+traL	conjugal transfer protein traL	ta686_00140	22160	22409	No
+NA	Conjugative transfer protein	ta686_00145	22408	22738	No
+NA	hypothetical protein	ta686_00150	22718	22871	No
+traK1	conjugal transfer protein traK1, complete TraK-1	ta686_00155	22867	23356	No
+traK2	conjugal transfer protein traK2, complete TraK-2	ta686_00160	23489	23816	No
+NA	Conjugal transfer protein	ta686_00165	23858	23987	No
+NA	Conjugal transfer protein	ta686_00170	24026	24404	No
+NA	Conjugal transfer protein TraC	ta686_00175	24412	24904	No
+NA	Conjugal transfer protein TraC	ta686_00180	24881	25169	No
+NA	Conjugal transfer protein TraC	ta686_00185	25140	26778	No
+traU	conjugal transfer protein TraU	ta686_00190	26807	27665	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ta686_00195	27687	28071	No
+NA	Conjugal transfer protein TraN	ta686_00200	28067	28673	No
+NA	Type-1V conjugative transfer system mating pair stabilization family protein	ta686_00205	28981	29347	No
+NA	Conjugal transfer protein TraN	ta686_00210	29327	29615	No
+NA	hypothetical protein	ta686_00215	29865	31374	No
+NA	hypothetical protein	ta686_00220	31483	31600	No
+NA	DUF4065 domain-containing protein	ta686_00225	31599	32043	No
+traF	conjugal transfer protein TraF, complete TraF	ta686_00230	32054	32771	No
+NA	Conjugal transfer protein TraH	ta686_00235	32767	33397	No
+NA	Conjugal transfer protein TraH	ta686_00240	33591	34071	No
+traG	conjugal transfer protein TraG	ta686_00245	34070	35372	No
+NA	Tetratricopeptide repeat-containing protein	ta686_00250	35355	35577	No
+NA	hypothetical protein	ta686_00255	35789	36050	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	ta686_00260	36112	37123	No
+rpnC	Recombination-promoting DNA endonuclease RpnC/YadD	ta686_00265	37132	38104	Yes
+NA	Toprim domain protein	ta686_00270	38155	38707	Yes
+NA	DnaB-like helicase C terminal domain protein	ta686_00275	39234	39354	No
+NA	Putative RNA-binding protein	ta686_00280	39434	41666	Yes
+NA	hypothetical protein	ta686_00285	41916	42135	No
+NA	Putative integrase	ta686_00290	42299	42506	Yes
+NA	IS5 family transposase ISOt6	ta686_00295	43150	43288	No
+NA	Putative transposase	ta686_00300	43390	43528	No
+NA	IS5 family transposase ISOt6	ta686_00305	43517	43718	No
+NA	Type IV secretion-system coupling DNA-binding domain protein	ta686_00310	43714	43900	Yes
+xseB	exodeoxyribonuclease VII small subunit	ta686_00315	44405	44651	Yes
+NA	NADH dehydrogenase ubiquinone Fe-S protein 4	ta686_00320	44705	44987	No
+NA	N-terminal domain of reverse transcriptase family protein	ta686_00325	45629	45950	No
+NA	Reverse transcriptase family protein	ta686_00330	45971	46853	No
+NA	hypothetical protein	ta686_00335	46853	47000	No
+NA	HNH endonuclease	ta686_00340	47105	47345	No
+NA	Conjugal transfer TraD family protein	ta686_00345	47553	47910	No
+NA	hypothetical protein	ta686_00350	48097	48643	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ta686_00355	48729	49305	Yes
+cutA	divalent-cation tolerance protein CutA	ta686_00360	49525	49882	Yes
+ffh	signal recognition particle protein	ta686_00365	49938	51291	Yes
+NA	IS110 family transposase	ta686_00370	52510	52615	No
+NA	hypothetical protein	ta686_00375	52670	52874	No
+NA	Transposase	ta686_00380	53054	53315	No
+NA	hypothetical protein	ta686_00385	53385	53577	No
+lipB	lipase LipB	ta686_00390	53800	54697	No
+NA	IS5 family transposase ISOt6	ta686_00395	54983	55142	Yes
+NA	DDE superendonuclease family protein	ta686_00400	55153	55591	Yes
+putP	sodium:proline symporter	ta686_00405	56080	59518	Yes
+dnaQ	DNA polymerase III subunit epsilon	ta686_00410	60418	61087	No
+rpoD	RNA polymerase sigma factor RpoD	ta686_00415	61762	63607	Yes
+dnaG	DNA primase	ta686_00420	63590	65366	Yes
+dprA	DNA-processing protein DprA	ta686_00425	66176	67337	Yes
+ahpC	alkyl hydroperoxide reductase	ta686_00430	67377	67980	Yes
+NA	hypothetical protein	ta686_00435	69417	69822	No
+NA	hypothetical protein	ta686_00440	70038	70209	No
+NA	IS5 family transposase ISOt6	ta686_00445	70422	70548	No
+NA	DDE superendonuclease family protein	ta686_00450	70528	70798	No
+NA	IS5 family transposase ISOt6	ta686_00455	70809	71031	No
+NA	Transposase	ta686_00460	71498	71708	No
+NA	Reverse transcriptase family protein	ta686_00465	72045	72357	No
+NA	hypothetical protein	ta686_00470	72604	73663	Yes
+NA	ankyrin repeat domain-containing protein	ta686_00475	74140	74827	Yes
+NA	Putative rNA-directed DNA polymerase	ta686_00485	76696	76888	No
+NA	hypothetical protein	ta686_00490	76996	77497	No
+NA	hypothetical protein	ta686_00495	77793	78108	No
+NA	DnaA-N domain-containing protein	ta686_00500	78073	78436	No
+NA	DDE superendonuclease family protein	ta686_00505	78465	78663	Yes
+NA	Transposase	ta686_00510	78666	78792	Yes
+NA	IS5 family transposase ISOt6	ta686_00515	78861	79032	Yes
+NA	DDE superendonuclease family protein	ta686_00520	79339	79570	No
+NA	IS5 family transposase ISOt6	ta686_00525	79703	79832	No
+NA	hypothetical protein	ta686_00530	80091	80475	No
+midA	SAM-dependent methyltransferase, MidA family	ta686_00535	80409	81564	Yes
+NA	hypothetical protein	ta686_00540	81779	81908	Yes
+NA	Transposase family protein	ta686_00545	82592	82730	No
+NA	DDE superendonuclease family protein	ta686_00550	82951	83413	No
+NA	hypothetical protein	ta686_00555	83649	84477	Yes
+NA	Conjugal transfer protein	ta686_00560	85040	85202	No
+NA	hypothetical protein	ta686_00565	86246	86822	No
+NA	DnaA-N domain-containing protein	ta686_00570	86863	87391	No
+NA	DnaA-N domain-containing protein	ta686_00575	87391	87841	No
+NA	hypothetical protein	ta686_00580	87925	88126	No
+NA	Putative integrase, complete integrase	ta686_00585	88260	89505	No
+traL	conjugal transfer protein traL, complete TraL	ta686_00590	89640	89964	No
+NA	Conjugal transfer protein TraE	ta686_00595	89963	90383	No
+NA	Conjugal transfer protein TraE	ta686_00600	90363	90516	No
+traK1	conjugal transfer protein traK1	ta686_00605	90512	90929	No
+NA	Conjugative transfer protein	ta686_00610	91164	91359	No
+NA	hypothetical protein	ta686_00615	91492	91759	No
+NA	Conjugal transfer protein TraE	ta686_00620	91843	92263	Yes
+traL	conjugal transfer protein traL, complete TraL	ta686_00625	92262	92586	Yes
+NA	Phage integrase family protein	ta686_00630	92690	92885	Yes
+NA	Phage integrase family protein	ta686_00635	92958	93363	Yes
+NA	Arm-DNA-bind-3 domain-containing protein	ta686_00640	93317	93974	Yes
+tnp-IS630	IS630 family transposase	ta686_00645	94413	94980	No
+scaA	ScaA autotransporter protein	ta686_00650	96788	101129	No
+NA	hypothetical protein	ta686_00655	101338	101494	Yes
+NA	DDE superendonuclease family protein	ta686_00660	101608	102046	No
+tnp-IS630	IS630 family transposase	ta686_00665	102160	102970	No
+NA	Arm-DNA-bind-3 domain-containing protein	ta686_00670	103414	104071	No
+NA	Phage integrase family protein	ta686_00675	104025	104430	No
+NA	Phage integrase family protein	ta686_00680	104503	104698	No
+traL	conjugal transfer protein traL, complete TraL	ta686_00685	104802	105126	No
+NA	Conjugal transfer protein TraE	ta686_00690	105125	105545	No
+NA	hypothetical protein	ta686_00695	105842	106208	No
+NA	hypothetical protein	ta686_00700	106105	106315	Yes
+NA	DDE superendonuclease family protein	ta686_00705	106482	106920	No
+NA	DDE superendonuclease family protein	ta686_00710	107036	107294	No
+NA	Conjugal transfer protein	ta686_00715	107280	108012	No
+NA	hypothetical protein	ta686_00720	108114	109530	Yes
+traU	conjugal transfer protein TraU	ta686_00725	109662	110475	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ta686_00730	110497	110881	No
+traN	conjugal transfer protein TraN, complete TraN	ta686_00735	110877	112572	No
+traF	conjugal transfer protein TraF, complete TraF	ta686_00740	112583	113267	No
+NA	Conjugal transfer protein TraH	ta686_00745	113263	113479	No
+NA	Conjugal transfer protein TraH	ta686_00750	113496	113898	No
+NA	Conjugal transfer protein TraH	ta686_00755	114092	114572	No
+traG	conjugal transfer protein TraG, complete TraG	ta686_00760	114571	117208	No
+NA	Conjugal transfer protein	ta686_00765	117220	117727	No
+rpnC	Recombination-promoting DNA endonuclease RpnC/YadD	ta686_00770	117736	118684	Yes
+NA	Conjugal transfer protein TraI	ta686_00775	118735	119362	Yes
+NA	hypothetical protein	ta686_00780	119854	120187	No
+NA	hypothetical protein	ta686_00785	120216	121197	No
+NA	Conjugal transfer protein TraA	ta686_00790	121276	122476	Yes
+NA	Conjugal transfer TraD family protein	ta686_00795	122634	122928	No
+NA	hypothetical protein	ta686_00800	122997	123303	Yes
+NA	ankyrin repeat domain-containing protein	ta686_00805	123330	123699	Yes
+NA	ATP-binding protein	ta686_00810	124164	125328	Yes
+NA	hypothetical protein	ta686_00815	125350	125488	Yes
+NA	hypothetical protein	ta686_00820	125447	125906	Yes
+NA	DnaA-N domain-containing protein	ta686_00825	125906	126530	Yes
+NA	hypothetical protein	ta686_00830	126676	127198	Yes
+NA	ATP-binding protein	ta686_00835	127516	128008	No
+NA	ATP-binding protein	ta686_00840	128029	128356	No
+NA	ATP-binding protein	ta686_00845	128663	129122	No
+NA	hypothetical protein	ta686_00850	129131	129413	No
+NA	TAL effector protein PthXo1	ta686_00855	129332	131762	Yes
+NA	hypothetical protein	ta686_00860	132033	132270	Yes
+NA	Putative transposase	ta686_00865	133050	133176	Yes
+NA	helix-turn-helix domain-containing protein	ta686_00870	133198	133399	Yes
+ppx	exopolyphosphatase	ta686_00875	133540	134989	Yes
+NA	hypothetical protein	ta686_00880	136223	136412	No
+NA	hypothetical protein	ta686_00885	136323	136578	Yes
+NA	hypothetical protein	ta686_00890	136720	136897	Yes
+ung	uracil-DNA glycosylase	ta686_00895	137419	138226	No
+NA	hypothetical protein	ta686_00900	138714	138900	Yes
+NA	hypothetical protein	ta686_00905	138910	139174	Yes
+NA	hypothetical protein	ta686_00910	139160	139379	Yes
+NA	DnaA-N domain-containing protein	ta686_00915	140007	141717	No
+dnaB	replicative DNA helicase	ta686_00920	141725	143174	No
+NA	Ankyrin repeat family protein	ta686_00925	143533	143965	No
+NA	hypothetical protein	ta686_00930	143915	144296	No
+dam	DNA methyltransferase	ta686_00935	144299	145109	Yes
+NA	ATP-binding protein	ta686_00940	145476	145656	No
+baeS	Signal transduction histidine kinase	ta686_00945	145819	146383	No
+NA	ATP-binding protein	ta686_00950	146413	147271	No
+baeS	ATP-binding protein	ta686_00955	147369	147864	No
+NA	Hydrolase	ta686_00960	148083	148506	No
+NA	hypothetical protein	ta686_00965	148623	149598	No
+traD	conjugal transfer protein TraD, complete TraD	ta686_00970	149665	150121	Yes
+traA	conjugal transfer protein TraA, complete TraA	ta686_00975	150398	153218	No
+traI	conjugal transfer protein TraI	ta686_00980	153484	155764	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	ta686_00985	155747	156566	No
+rpnC	Recombination-promoting DNA endonuclease RpnC/YadD	ta686_00990	156617	157601	Yes
+NA	Conjugal transfer protein TraI	ta686_00995	157652	159005	Yes
+NA	Ankyrin repeat protein with 5 ankyrin repeats	ta686_01000	159815	160694	No
+NA	Conjugal transfer protein TraA	ta686_01005	160824	162582	Yes
+traD	conjugal transfer protein TraD, complete TraD	ta686_01010	162859	163315	No
+NA	transposase	ta686_01015	163382	164345	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ta686_01020	164465	165053	Yes
+baeS	Signal transduction histidine kinase	ta686_01025	165094	165589	Yes
+NA	ATP-binding protein	ta686_01030	165684	166542	Yes
+NA	ATP-binding protein	ta686_01035	166572	167142	Yes
+NA	hypothetical protein	ta686_01040	167135	167285	Yes
+NA	hypothetical protein	ta686_01045	167281	167530	Yes
+NA	hypothetical protein	ta686_01050	167651	167804	Yes
+tyrS	tyrosine--tRNA ligase	ta686_01055	168256	169498	No
+NA	hypothetical protein	ta686_01060	169437	169656	Yes
+NA	hypothetical protein	ta686_01065	170962	171157	No
+cyaY	iron donor protein CyaY	ta686_01070	171334	171667	No
+mdlB	ATP-binding protein	ta686_01075	171659	173390	No
+NA	hypothetical protein	ta686_01080	174492	174642	No
+NA	Transposase DDE domain protein	ta686_01085	174711	175029	No
+NA	Conjugal transfer protein TraI	ta686_01090	175075	175441	Yes
+NA	hypothetical protein	ta686_01095	175499	175634	Yes
+yifB	AAA family ATPase	ta686_01100	176367	177879	Yes
+NA	hypothetical protein	ta686_01105	178139	178520	No
+murJ	lipid II flippase MurJ	ta686_01110	178556	180071	Yes
+NA	DDE-3 domain-containing protein	ta686_01115	180449	180599	Yes
+arpD	type I secretion system permease/ATPase	ta686_01120	181387	183142	No
+hlyD	HlyD family type I secretion periplasmic adaptor subunit	ta686_01125	183179	184718	No
+NA	ATP-binding protein	ta686_01130	185293	185563	Yes
+NA	hypothetical protein	ta686_01135	185552	185726	Yes
+mtaB	tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))- methylthiotransferase MtaB	ta686_01140	186110	187382	No
+gpsA	glycerol-3-phosphate dehydrogenase (NAD(P)(+))	ta686_01145	187444	188437	No
+NA	hypothetical protein	ta686_01155	188689	189277	Yes
+NA	IS110 family transposase	ta686_01160	190091	190439	No
+NA	Transposase IS116/IS110/IS902 family protein	ta686_01165	190634	191225	No
+trpS	tryptophan--tRNA ligase	ta686_01170	192183	193191	No
+sdhB	succinate dehydrogenase iron-sulfur subunit	ta686_01175	193658	194444	Yes
+sdhA	succinate dehydrogenase flavoprotein subunit	ta686_01180	194478	196266	Yes
+sdhD	succinate dehydrogenase, hydrophobic membrane anchor protein	ta686_01185	196460	196850	Yes
+sdhC	succinate dehydrogenase, cytochrome b556 subunit	ta686_01190	196880	197264	Yes
+NA	Putative transposase	ta686_01195	197582	197711	No
+NA	IS110 family transposase	ta686_01200	198085	198208	No
+NA	Ankyrin repeat protein with 8 ankyrin repeats	ta686_01205	198587	200072	No
+pepB	leucyl aminopeptidase	ta686_01210	200876	202529	No
+mipZ	ATPase MipZ family protein	ta686_01215	202512	203364	No
+rpsB	30S ribosomal protein S2	ta686_01220	203638	204568	No
+tsf	elongation factor Ts	ta686_01225	204587	205517	No
+pheT	phenylalanine--tRNA ligase subunit beta	ta686_01230	205602	208044	Yes
+pheS	phenylalanine--tRNA ligase subunit alpha	ta686_01235	208040	209075	Yes
+greA	transcription elongation factor GreA	ta686_01240	209929	210409	No
+rpoH	RNA polymerase factor sigma-32	ta686_01245	210455	211355	No
+NA	IS5 family transposase ISOt6	ta686_01250	212013	212142	Yes
+NA	DDE superendonuclease family protein	ta686_01255	212339	212816	Yes
+NA	DDE Tnp4 domain-containing protein	ta686_01260	213281	213464	Yes
+trm112	tetraacyldisaccharide 4'-kinase	ta686_01265	213833	214001	Yes
+NA	hypothetical protein	ta686_01270	214130	214352	Yes
+rpmE	50S ribosomal protein L31	ta686_01280	214624	214849	Yes
+rpmB	50S ribosomal protein L28	ta686_01285	214858	215146	Yes
+eamA	EamA family transporter	ta686_01290	215389	216262	No
+NA	MFS transporter	ta686_01295	216279	217536	No
+NA	Transposase	ta686_01300	217659	218283	No
+traG	conjugal transfer protein TraG	ta686_01305	218716	218992	No
+NA	Putative RNA-binding protein	ta686_01310	219414	221760	No
+NA	DnaB-like helicase C terminal domain protein	ta686_01315	221840	221960	Yes
+NA	Replicative DNA helicase	ta686_01320	221989	222271	Yes
+NA	hypothetical protein	ta686_01325	223308	223794	No
+NA	hypothetical protein	ta686_01330	224036	224201	No
+NA	Putative conjugative transfer protein TraB	ta686_01335	224417	224726	No
+NA	Conjugal transfer protein	ta686_01340	224812	225187	No
+NA	hypothetical protein	ta686_01345	225678	225957	Yes
+NA	Transposase	ta686_01350	226051	226171	Yes
+NA	hypothetical protein	ta686_01355	226331	226472	Yes
+lepB	signal peptidase I	ta686_01360	226871	227612	No
+rnc	ribonuclease III	ta686_01365	227667	228414	No
+NA	Transposase and inactivated derivative	ta686_01370	228680	229595	Yes
+NA	hypothetical protein	ta686_01375	229866	230223	No
+NA	HTH-Tnp-4 domain-containing protein	ta686_01380	230268	230778	No
+NA	Transposase	ta686_01385	231063	231192	No
+NA	Reverse transcriptase family protein	ta686_01390	231242	231365	No
+rbfA	ribosome-binding factor A	ta686_01395	231705	232068	Yes
+infB	translation initiation factor IF-2	ta686_01400	232098	234639	Yes
+nusA	transcription termination/antitermination protein NusA	ta686_01405	234888	236391	Yes
+rimP	Ribosome maturation factor RimP	ta686_01410	236406	236889	Yes
+coq7	ubiquinone biosynthesis protein	ta686_01415	237426	238200	No
+ubiB	ubiquinone biosynthesis protein UbiB	ta686_01420	238196	239585	No
+NA	Transposase	ta686_01425	240827	240983	No
+NA	hypothetical protein	ta686_01430	241021	241225	No
+NA	hypothetical protein	ta686_01435	241341	241800	Yes
+gatB	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferasesubunit B	ta686_01440	242008	243469	Yes
+gatA	glutamyl-tRNA(Gln) amidotransferase subunit A	ta686_01445	243471	244950	Yes
+gatC	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferasesubunit C	ta686_01450	244949	245249	Yes
+rnjA	RNase J family beta-CASP ribonuclease	ta686_01455	245331	247068	Yes
+ctrA	DNA-binding response regulator	ta686_01460	247181	247919	Yes
+NA	DDE superendonuclease family protein	ta686_01465	248711	249026	Yes
+NA	hypothetical protein	ta686_01470	249359	251687	No
+NA	IS982 family transposase	ta686_01475	251776	252652	Yes
+NA	hypothetical protein	ta686_01480	252884	253451	No
+NA	Arm-DNA-bind-3 domain-containing protein	ta686_01485	253871	254147	No
+NA	Phage integrase family protein	ta686_01490	254206	255040	No
+bcp	peroxiredoxin	ta686_01495	255060	255531	No
+NA	Replicative DNA helicase	ta686_01500	255527	255695	Yes
+NA	Integrase	ta686_01505	255846	256761	Yes
+NA	hypothetical protein	ta686_01510	256916	257072	No
+NA	hypothetical protein	ta686_01515	257171	257312	Yes
+NA	hypothetical protein	ta686_01520	257519	257870	No
+NA	hypothetical protein	ta686_01530	259854	260070	Yes
+NA	Transposase IS116/IS110/IS902 family protein	ta686_01535	260309	260462	Yes
+NA	IS110 family transposase	ta686_01540	260491	260812	Yes
+NA	IS110 family transposase	ta686_01545	260845	261007	Yes
+hemJ	Uncharacterised protein family (UPF0093)	ta686_01550	261417	261852	Yes
+hemH	ferrochelatase	ta686_01555	261860	262895	Yes
+hemE	uroporphyrinogen decarboxylase	ta686_01560	262887	263916	Yes
+NA	HTH-Tnp-IS630 domain-containing protein	ta686_01565	264734	264890	Yes
+NA	hypothetical protein	ta686_01570	265007	265100	Yes
+NA	Transcription termination factor Rho	ta686_01575	265699	267055	No
+NA	IS982 family transposase	ta686_01580	268177	269047	No
+NA	Conjugal transfer protein	ta686_01585	269035	269530	Yes
+NA	Ankyrin repeat-containing protein	ta686_01590	270127	271003	No
+virB4	Type IV secretory pathway, VirB4 component	ta686_01595	270916	272119	Yes
+NA	TraC family protein	ta686_01600	272177	272705	Yes
+traV	conjugal transfer protein TraV, complete TraV	ta686_01605	272685	273015	Yes
+NA	Conjugal transfer protein	ta686_01610	273014	273416	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	ta686_01615	273441	273918	Yes
+NA	Conjugal transfer protein TraE	ta686_01620	274112	274469	Yes
+traL	conjugal transfer protein traL, complete TraL	ta686_01625	274468	274792	Yes
+NA	Phage integrase family protein	ta686_01630	274859	275090	Yes
+NA	Putative integrase	ta686_01635	275086	275662	Yes
+NA	Arm-DNA-bind-3 domain-containing protein	ta686_01640	275771	276182	Yes
+NA	Transposase	ta686_01645	276609	276960	Yes
+ccmF	cytochrome C biogenesis protein	ta686_01650	277392	279255	Yes
+mgtE	magnesium transporter	ta686_01655	279244	280513	Yes
+NA	hypothetical protein	ta686_01660	281405	281522	No
+NA	hypothetical protein	ta686_01665	281664	281937	No
+NA	Transposase and inactivated derivative	ta686_01670	281971	282934	Yes
+NA	Reverse transcriptase	ta686_01675	283184	283850	No
+NA	Putative reverse transcriptase	ta686_01680	283850	283976	No
+NA	Transposase DDE domain protein	ta686_01690	285283	285487	Yes
+NA	DDE superendonuclease family protein	ta686_01695	286028	286292	Yes
+NA	DDE superendonuclease family protein	ta686_01700	286357	286771	Yes
+NA	Ankyrin repeats family protein	ta686_01705	287877	290646	No
+NA	DDE superendonuclease family protein	ta686_01710	290901	291339	Yes
+NA	IS630 family transposase	ta686_01715	291280	291511	Yes
+NA	DDE superendonuclease family protein	ta686_01720	292539	292872	Yes
+metL1	aspartate kinase	ta686_01725	293204	294419	Yes
+NA	hypothetical protein	ta686_01730	294698	295190	Yes
+kch	potassium transporter	ta686_01735	295176	296919	Yes
+ygfA	5-formyltetrahydrofolate cyclo-ligase	ta686_01740	297091	297664	No
+NA	Colicin V production protein	ta686_01745	297660	298284	No
+NA	hypothetical protein	ta686_01750	298642	298792	No
+NA	hypothetical protein	ta686_01755	299954	300203	Yes
+NA	RelA-SpoT domain-containing protein	ta686_01760	300433	304873	Yes
+cafA	ribonuclease E	ta686_01765	305644	307675	No
+NA	Antigenic heat-stable protein	ta686_01770	308063	310913	Yes
+gmk	guanylate kinase	ta686_01775	311046	311712	Yes
+NA	hypothetical protein	ta686_01780	311900	312764	Yes
+NA	hypothetical protein	ta686_01785	313084	313258	Yes
+NA	DDE superendonuclease family protein	ta686_01790	313438	313744	Yes
+NA	Transposase family protein	ta686_01795	313879	314074	Yes
+NA	Transposase	ta686_01800	314146	314275	No
+NA	hypothetical protein	ta686_01805	314234	314588	Yes
+NA	IS982 family transposase	ta686_01810	314740	315616	Yes
+NA	Transposase	ta686_01815	315727	316303	No
+cyc7	cytochrome c family protein	ta686_01820	316703	317252	Yes
+hflC	paraslipin	ta686_01825	317500	318460	No
+hinT	Purine nucleoside phosphoramidase	ta686_01830	318912	319284	No
+asd	aspartate-semialdehyde dehydrogenase	ta686_01835	319343	320381	No
+cyoB	protoheme IX farnesyltransferase	ta686_01840	320519	321458	Yes
+ctaD	cytochrome c oxidase subunit I	ta686_01845	321468	323055	Yes
+gtaE	phage terminase large subunit	ta686_01850	323247	324669	Yes
+ctc	50S ribosomal protein L25/general stress proteinCtc	ta686_01855	325000	325621	No
+arfB	aminoacyl-tRNA hydrolase	ta686_01860	325620	326178	No
+ychF	GTP-binding protein YchF	ta686_01865	326187	327288	No
+NA	hypothetical protein	ta686_01870	328172	328310	No
+NA	DDE-3 domain-containing protein	ta686_01875	328323	328521	Yes
+NA	hypothetical protein	ta686_01880	328530	328770	Yes
+NA	DDE Tnp4 domain-containing protein	ta686_01885	328756	328960	Yes
+NA	IS5 family transposase ISOt6	ta686_01890	329078	329276	Yes
+NA	DDE superendonuclease family protein	ta686_01895	329287	329725	Yes
+NA	Transposase	ta686_01900	329797	330235	Yes
+NA	Putative transposase	ta686_01905	330414	330567	No
+panF	sodium:pantothenate symporter	ta686_01910	330707	332096	Yes
+NA	MFS transporter	ta686_01915	332111	333374	Yes
+NA	Putative transposase	ta686_01920	334244	334499	No
+NA	Putative transposase	ta686_01925	334770	334881	No
+atpB	ATP synthase subunit A	ta686_01930	336535	337264	No
+atpE	ATP synthase subunit C	ta686_01935	337320	337545	No
+atpF	ATP synthase subunit B	ta686_01940	337552	338050	No
+atpF	ATP synthase subunit b	ta686_01945	338062	338530	No
+NA	hypothetical protein	ta686_01950	338873	339059	Yes
+NA	Reverse transcriptase domain-containing protein	ta686_01955	339069	339540	Yes
+NA	hypothetical protein	ta686_01960	339496	339610	Yes
+NA	hypothetical protein	ta686_01965	340181	340349	Yes
+NA	hypothetical protein	ta686_01970	342281	342959	No
+bamB	outer membrane protein assembly factor BamB	ta686_01975	343018	344371	No
+lspA	Lipoprotein signal peptidase	ta686_01980	344887	345415	Yes
+bamD	outer membrane protein assembly factor BamD	ta686_01990	345689	346484	No
+NA	hypothetical protein	ta686_01995	346597	346810	No
+NA	TraE protein	ta686_02000	346806	347238	No
+NA	hypothetical protein	ta686_02005	347246	347399	No
+traK1	conjugal transfer protein traK1	ta686_02010	347395	347785	No
+NA	hypothetical protein	ta686_02015	347929	348100	No
+NA	Putative conjugative transfer protein TraN	ta686_02020	348661	349417	No
+NA	DDE superendonuclease family protein	ta686_02025	349376	349751	Yes
+NA	DDE superendonuclease family protein	ta686_02030	349762	350200	Yes
+NA	Conjugative transfer protein	ta686_02035	350627	351260	No
+NA	hypothetical protein	ta686_02040	351512	352916	No
+NA	DUF4065 domain-containing protein	ta686_02045	353126	353552	No
+traF	conjugal transfer protein TraF, complete TraF	ta686_02050	353563	354280	No
+NA	Conjugal transfer protein TraH	ta686_02055	354276	354492	No
+NA	Conjugal transfer protein TraH	ta686_02060	354509	354911	No
+NA	Conjugal transfer protein TraH	ta686_02065	355105	355585	No
+traG	conjugal transfer protein TraG, complete TraG	ta686_02070	355584	358221	No
+NA	Conjugal transfer protein	ta686_02075	358233	358740	No
+rpnC	Recombination-promoting DNA endonuclease RpnC/YadD	ta686_02080	358749	359709	Yes
+NA	Conjugal transfer protein TraI	ta686_02085	359760	361029	Yes
+NA	hypothetical protein	ta686_02090	361136	362201	No
+NA	Conjugal transfer protein TraA	ta686_02095	362758	363337	Yes
+NA	Conjugal transfer protein TraA	ta686_02100	363308	364061	Yes
+NA	Conjugal transfer protein TraA	ta686_02105	364084	364438	Yes
+NA	Conjugal transfer protein TraA	ta686_02110	364422	365310	Yes
+NA	MobA/MobL family protein	ta686_02115	365278	365740	Yes
+traD	conjugal transfer protein TraD, complete TraD	ta686_02120	366019	366475	No
+NA	hypothetical protein	ta686_02125	366558	366702	No
+NA	hypothetical protein	ta686_02130	366797	367796	No
+NA	transposase	ta686_02135	367988	368915	Yes
+NA	Hydrolase	ta686_02140	369032	369455	Yes
+baeS	ATP-binding protein	ta686_02145	369674	370169	Yes
+NA	ATP-binding protein	ta686_02150	370267	371125	Yes
+baeS	Signal transduction histidine kinase	ta686_02155	371155	371719	Yes
+NA	ATP-binding protein	ta686_02160	371882	372062	Yes
+dam	DNA methyltransferase	ta686_02165	372429	373239	No
+NA	Putative ompA-like autotransporter	ta686_02170	373244	373748	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ta686_02175	373850	374495	Yes
+NA	(P)pGpp hydrolase	ta686_02180	374532	374928	Yes
+dnaB	replicative DNA helicase	ta686_02185	375314	376751	Yes
+NA	Transposase IS116/IS110/IS902 family protein	ta686_02190	377322	377562	Yes
+NA	DDE superendonuclease family protein	ta686_02195	377728	378166	No
+NA	DDE superendonuclease family protein	ta686_02200	378177	378552	No
+NA	Transposase	ta686_02205	378649	378883	Yes
+NA	Transposase	ta686_02210	379083	379239	No
+NA	Transposase DDE domain protein	ta686_02215	379784	380102	No
+NA	DDE superendonuclease family protein	ta686_02220	380365	380626	Yes
+pgsA	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	ta686_02225	381432	381981	No
+NA	hypothetical protein	ta686_02230	383503	383689	No
+NA	Transposase family protein	ta686_02235	384513	384750	No
+NA	hypothetical protein	ta686_02240	384744	384909	Yes
+tnp-IS630	IS630 family transposase	ta686_02245	385019	385469	No
+NA	DDE superendonuclease family protein	ta686_02250	385564	385939	Yes
+NA	DDE superendonuclease family protein	ta686_02255	385950	386388	Yes
+rpmA	50S ribosomal protein L27	ta686_02260	387414	387684	Yes
+rplU	50S ribosomal protein L21	ta686_02265	387724	388051	Yes
+NA	phospholipid phosphatase	ta686_02270	388188	388857	Yes
+phnP	MBL fold metallo-hydrolase	ta686_02275	388960	389710	No
+xseA	exodeoxyribonuclease VII large subunit	ta686_02280	389928	391299	No
+hisJ	PBPb domain-containing protein	ta686_02285	391357	392833	No
+scaD	ScaD autotransporter protein	ta686_02290	392924	395258	Yes
+tnp-IS110	IS110 family transposase	ta686_02295	395831	396794	No
+NA	hypothetical protein	ta686_02300	396843	397062	No
+NA	hypothetical protein	ta686_02305	397006	397243	No
+NA	hypothetical protein	ta686_02310	397419	397611	No
+NA	hypothetical protein	ta686_02315	397776	397911	No
+NA	DnaA-N domain-containing protein	ta686_02320	398123	399833	No
+dnaB	replicative DNA helicase	ta686_02325	399841	401290	No
+aNKYR	Ankyrin repeat	ta686_02330	401640	402147	No
+NA	Putative ompA-like autotransporter	ta686_02335	402243	402747	No
+dam	DNA methyltransferase	ta686_02340	402769	402910	Yes
+NA	ATP-binding protein	ta686_02345	403119	403722	No
+baeS	ATP-binding protein	ta686_02350	403820	404315	No
+NA	HD domain protein	ta686_02355	404534	404954	No
+NA	transposase	ta686_02360	405074	406037	No
+NA	Conjugal transfer protein TraD	ta686_02365	406113	406389	Yes
+NA	hypothetical protein	ta686_02370	406687	407653	No
+traD	conjugal transfer protein TraD, complete TraD	ta686_02375	407722	408178	Yes
+traA	conjugal transfer protein TraA, complete TraA	ta686_02380	408456	411303	No
+NA	Conjugal transfer protein TraI	ta686_02385	411569	413615	No
+NA	Conjugal transfer protein TraI	ta686_02390	413611	414238	No
+rpnC	Recombination-promoting DNA endonuclease RpnC/YadD	ta686_02395	414289	415261	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	ta686_02400	415270	416257	Yes
+NA	Conjugal transfer protein	ta686_02405	416267	417026	Yes
+NA	hypothetical protein	ta686_02410	417031	418171	Yes
+traG	conjugal transfer protein TraG, complete TraG	ta686_02415	418183	420820	Yes
+NA	Conjugal transfer protein TraH	ta686_02420	420819	421299	Yes
+NA	Conjugal transfer protein TraH	ta686_02425	421493	422123	Yes
+traF	conjugal transfer protein TraF, complete TraF	ta686_02430	422119	422836	Yes
+NA	Ankyrin repeat-containing protein 16	ta686_02435	422964	423732	Yes
+NA	Conjugative transfer protein	ta686_02440	423795	424431	Yes
+NA	DnaA-N domain-containing protein	ta686_02445	424991	426707	No
+dnaB	replicative DNA helicase	ta686_02450	426715	428164	No
+NA	hypothetical protein	ta686_02455	428225	428384	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ta686_02460	428397	428973	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ta686_02465	429007	429652	No
+NA	Membrane protein	ta686_02470	429754	430258	No
+dam	DNA-adenine methylase	ta686_02475	430261	431074	Yes
+NA	hypothetical protein	ta686_02480	431624	431828	No
+putP	sodium:proline symporter	ta686_02485	432532	435967	No
+NA	Replicative DNA helicase	ta686_02490	436220	436562	No
+baeS	sensor histidine kinase	ta686_02495	436914	437691	No
+baeS	sensor histidine kinase	ta686_02500	437665	438523	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ta686_02505	438623	439199	No
+NA	hypothetical protein	ta686_02510	439204	439732	Yes
+NA	hypothetical protein	ta686_02515	439884	440508	Yes
+NA	AHH domain-containing protein	ta686_02520	440512	442438	Yes
+NA	hypothetical protein	ta686_02525	443297	444428	Yes
+NA	Preprotein translocase SecA subunit-like protein	ta686_02530	444569	446291	Yes
+secA	preprotein translocase SecA subunit-like protein	ta686_02535	446315	446507	Yes
+traD	conjugal transfer protein TraD, complete TraD	ta686_02540	446926	447382	Yes
+traA	conjugal transfer protein TraA, complete TraA	ta686_02545	447660	450480	No
+traI	conjugal transfer protein TraI, complete TraI	ta686_02550	450751	453430	No
+NA	Transposase, YhgA-like family protein	ta686_02555	453481	453820	No
+NA	Putative permease	ta686_02560	453819	454488	No
+traD	conjugal transfer protein TraD, complete TraD	ta686_02565	454497	456252	Yes
+NA	hypothetical protein	ta686_02570	456257	457403	Yes
+traG	conjugal transfer protein TraG, complete TraG	ta686_02575	457425	460065	Yes
+NA	Conjugal transfer protein TraH	ta686_02580	460064	460520	Yes
+NA	Conjugal transfer protein TraH	ta686_02585	460473	461367	Yes
+traF	conjugal transfer protein TraF, complete TraF	ta686_02590	461363	462047	Yes
+traN	conjugal transfer protein TraN, complete TraN	ta686_02595	462058	463753	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ta686_02600	463749	464133	Yes
+traU	conjugal transfer protein TraU, complete TraU	ta686_02605	464155	465100	Yes
+NA	hypothetical protein	ta686_02610	465133	465307	Yes
+traW	type-F conjugative transfer system protein TraW, complete TraW	ta686_02615	465390	466050	Yes
+traC	conjugal transfer protein TraC, complete TraC	ta686_02620	466046	468536	Yes
+traV	conjugal transfer protein TraV, complete TraV	ta686_02625	468516	468846	Yes
+traB	conjugal transfer protein TraB, complete TraB	ta686_02630	468845	470177	Yes
+NA	hypothetical protein	ta686_02635	470318	470546	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	ta686_02640	470891	471380	Yes
+NA	Conjugal transfer protein TraE	ta686_02645	471345	471738	Yes
+traL	conjugal transfer protein traL, complete TraL	ta686_02650	471737	472061	Yes
+ykfC	reverse transcriptase	ta686_02655	472379	473519	Yes
+NA	Putative integrase	ta686_02660	474122	474464	Yes
+NA	Phage integrase family protein	ta686_02665	474630	475506	Yes
+NA	Transposase DDE domain protein	ta686_02670	475871	476126	Yes
+NA	Transposase	ta686_02675	476184	476397	Yes
+NA	Transposase family protein	ta686_02680	476635	476944	No
+NA	hypothetical protein	ta686_02685	477162	477330	No
+NA	Transposase	ta686_02690	477418	477796	No
+NA	IS5 family transposase ISOt6	ta686_02695	477831	478182	No
+NA	hypothetical protein	ta686_02700	478650	478779	Yes
+secF	protein translocase subunit SecF	ta686_02705	478890	479817	Yes
+mutS	DNA mismatch repair protein MutS	ta686_02710	479900	482570	Yes
+tlc	ATP/ADP translocase	ta686_02715	482622	484155	Yes
+rsmI	16S rRNA (cytidine(1402)-2'-O)-methyltransferase	ta686_02725	484520	485378	No
+serS	serine--tRNA ligase	ta686_02730	485379	486669	Yes
+tatC	twin-arginine translocase subunit TatC	ta686_02735	486646	487405	Yes
+NA	hypothetical protein	ta686_02740	487394	487529	Yes
+rsmG	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG	ta686_02745	487559	488156	No
+parA	chromosome partitioning protein ParA	ta686_02750	488162	488960	No
+spo0J	chromosome partitioning protein	ta686_02755	488971	489853	No
+NA	Transposase DDE domain protein	ta686_02760	490238	490577	Yes
+NA	Transposase	ta686_02765	490749	490878	Yes
+NA	HTH-Tnp-4 domain-containing protein	ta686_02770	491253	491490	Yes
+gtaF	prohead protease	ta686_02775	491725	492280	No
+gtaC	phage major capsid protein	ta686_02780	492291	493407	No
+NA	hypothetical protein	ta686_02785	493440	493986	No
+NA	Head-tail adaptor protein	ta686_02790	493987	494329	No
+NA	hypothetical protein	ta686_02795	494328	494754	No
+NA	TIGR02217 family protein	ta686_02800	494746	495349	No
+gtaA	DUF2163 domain-containing protein	ta686_02805	495361	496165	No
+NA	hypothetical protein	ta686_02810	496263	496692	No
+grxC	glutaredoxin	ta686_02815	496899	497283	No
+NA	hypothetical protein	ta686_02820	497720	499319	Yes
+NA	hypothetical protein	ta686_02825	499980	501621	No
+NA	Transposase	ta686_02830	501661	501964	Yes
+NA	hypothetical protein	ta686_02835	502592	503519	No
+dnaB	replicative DNA helicase	ta686_02840	503685	505134	No
+NA	Ankyrin repeat protein with 5 ankyrin repeats	ta686_02845	505493	505994	No
+NA	Membrane protein	ta686_02850	506095	506518	No
+dam	DNA methyltransferase	ta686_02855	506602	507412	Yes
+NA	hypothetical protein	ta686_02860	507943	508660	No
+NA	Histidine kinase domain-containing protein	ta686_02865	509008	509737	No
+baeS	sensor histidine kinase	ta686_02870	509758	510616	No
+NA	SpoT-like ppGpp hydrolase	ta686_02875	510716	511292	No
+NA	hypothetical protein	ta686_02880	511367	512168	No
+NA	DDE superendonuclease family protein	ta686_02885	512316	512754	No
+NA	DDE superendonuclease family protein	ta686_02890	512765	513140	No
+NA	50S ribosomal protein L33	ta686_02895	513816	514047	No
+rpsP	30S ribosomal protein S16	ta686_02900	514055	514388	No
+NA	IS5 family transposase ISOt6	ta686_02910	515987	516344	Yes
+ftsK	DNA translocase FtsK	ta686_02915	516660	518949	Yes
+NA	DUF2672 domain-containing protein	ta686_02920	519039	519411	Yes
+ettA	energy-dependent translational throttle protein EttA	ta686_02925	519443	521111	Yes
+NA	hypothetical protein	ta686_02930	521251	522085	Yes
+NA	Transposase	ta686_02935	522742	523138	Yes
+NA	hypothetical protein	ta686_02940	523345	523765	No
+NA	DnaA-N domain-containing protein	ta686_02945	524164	524905	No
+dnaB	replicative DNA helicase	ta686_02950	524913	526362	No
+NA	Putative ompA-like autotransporter	ta686_02955	526667	526949	No
+ppdK	pyruvate, phosphate dikinase	ta686_02960	528075	530781	No
+nrdA	ribonucleotide-diphosphate reductase subunit alpha	ta686_02965	531659	533477	No
+nrdB	ribonucleotide-diphosphate reductase subunit beta	ta686_02970	533499	534489	No
+NA	IS5 family transposase ISOt6	ta686_02975	534772	534952	No
+NA	DDE Tnp4 domain-containing protein	ta686_02980	535252	535489	No
+ykfC	reverse transcriptase	ta686_02985	535599	536448	No
+vut1	queuosine precursor transporter	ta686_02990	537388	538057	Yes
+NA	Transposase family protein	ta686_02995	538289	538691	No
+NA	DDE superendonuclease family protein	ta686_03000	538804	538999	No
+NA	Transposase	ta686_03005	539044	539482	No
+NA	IS5 family transposase ISOt6	ta686_03010	539740	539869	No
+NA	Conjugal transfer protein TraI	ta686_03015	539944	540442	Yes
+aNKYR	Ankyrin repeat	ta686_03020	540652	542293	No
+traA	conjugal transfer protein TraA	ta686_03025	542321	544058	Yes
+NA	Putative conjugative transfer protein TraA	ta686_03030	544252	544369	Yes
+NA	N-terminal domain of reverse transcriptase family protein	ta686_03035	545041	545362	No
+NA	Reverse transcriptase family protein	ta686_03040	545383	546265	No
+NA	hypothetical protein	ta686_03045	546265	546412	No
+NA	HNH endonuclease	ta686_03050	546517	546757	No
+traD	conjugal transfer protein TraD, complete TraD	ta686_03055	546965	547421	No
+NA	hypothetical protein	ta686_03060	547504	547648	No
+NA	hypothetical protein	ta686_03065	547743	547908	No
+NA	hypothetical protein	ta686_03070	548363	549491	Yes
+NA	hypothetical protein	ta686_03075	549873	550332	Yes
+NA	hypothetical protein	ta686_03080	550546	550786	Yes
+NA	Putative membrane protein	ta686_03085	550885	551008	Yes
+NA	TPR repeat-containing protein 02_02	ta686_03090	551011	551209	No
+NA	Conjugal transfer protein TraD	ta686_03095	551538	551802	No
+NA	hypothetical protein	ta686_03100	551880	552831	Yes
+NA	Hydrolase	ta686_03105	552951	553251	Yes
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	ta686_03110	553240	553432	Yes
+NA	hypothetical protein	ta686_03115	553610	554030	No
+NA	DnaA-N domain-containing protein	ta686_03120	554429	555170	No
+dnaB	replicative DNA helicase	ta686_03125	555178	556609	No
+NA	Ankyrin repeat protein with 5 ankyrin repeats	ta686_03130	557016	557517	No
+NA	Putative ompA-like autotransporter	ta686_03135	557614	558118	No
+NA	Putative site-specific DNA adenine methylase	ta686_03140	558121	558262	Yes
+NA	ATP-binding protein	ta686_03145	558609	558873	No
+NA	hypothetical protein	ta686_03150	558992	559394	No
+NA	Histidine kinase	ta686_03155	559514	559784	No
+NA	ATP-binding protein	ta686_03160	559798	559936	No
+kdpD	K+-sensing histidine kinase KdpD	ta686_03165	560122	560410	No
+NA	ATP-binding protein	ta686_03170	560488	560605	No
+NA	Putative signal transduction histidine kinase	ta686_03175	560680	561466	No
+NA	ATP-binding protein	ta686_03180	561496	562354	No
+baeS	ATP-binding protein	ta686_03185	562452	562947	No
+NA	SpoT-like ppGpp hydrolase domain protein	ta686_03190	562988	563126	No
+NA	hypothetical protein	ta686_03195	563213	563324	No
+NA	Integrase	ta686_03200	563542	563719	No
+NA	DUF4102 domain-containing protein	ta686_03205	563721	563946	No
+NA	hypothetical protein	ta686_03210	564203	564368	No
+NA	SpoT-like ppGpp hydrolase	ta686_03215	564546	565128	No
+NA	hypothetical protein	ta686_03220	565305	566871	No
+traD	conjugal transfer protein TraD, complete TraD	ta686_03225	566874	567339	Yes
+NA	IS982 family transposase	ta686_03230	567452	567974	No
+NA	Transposase DDE domain protein	ta686_03235	568006	568237	No
+NA	Transposase family protein	ta686_03240	568293	568548	No
+NA	DDE superendonuclease family protein	ta686_03245	568817	569114	No
+NA	Transposase	ta686_03255	571618	572014	Yes
+NA	Transposase	ta686_03260	572017	572263	Yes
+NA	Transposase DDE domain protein	ta686_03265	572685	573003	Yes
+NA	Transposase	ta686_03270	574108	574255	No
+NA	hypothetical protein	ta686_03275	574684	575968	No
+mnmG	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG	ta686_03280	576608	578477	No
+tmk	thymidylate kinase	ta686_03285	578618	579272	Yes
+zapE	cell division protein ZapE	ta686_03290	579264	580338	Yes
+NA	hypothetical protein	ta686_03295	580408	581092	Yes
+der	ribosome biogenesis GTPase Der	ta686_03300	581100	582465	Yes
+polA	DNA polymerase I	ta686_03305	582530	585263	Yes
+panF	sodium:pantothenate symporter	ta686_03310	585635	587087	Yes
+dsbG	protein-disulfide isomerase	ta686_03315	587861	588692	No
+NA	DDE superendonuclease family protein	ta686_03320	589231	589621	No
+NA	Arm-DNA-bind-3 domain-containing protein	ta686_03325	590277	590685	No
+NA	Integrase	ta686_03330	590638	591094	No
+NA	Transposase DDE domain protein	ta686_03335	591129	591486	Yes
+NA	hypothetical protein	ta686_03340	591693	592113	No
+NA	DnaA-N domain-containing protein	ta686_03345	592512	593253	No
+dnaB	replicative DNA helicase	ta686_03350	593261	594692	No
+NA	Ankyrin repeat protein with 5 ankyrin repeats	ta686_03355	595051	595552	No
+NA	Putative ompA-like autotransporter	ta686_03360	595649	596153	No
+NA	Putative site-specific DNA adenine methylase	ta686_03365	596156	596297	Yes
+NA	ATP-binding protein	ta686_03370	596644	596908	No
+NA	hypothetical protein	ta686_03375	597027	597429	No
+NA	Histidine kinase	ta686_03380	597549	597819	No
+NA	ATP-binding protein	ta686_03385	597833	597971	No
+kdpD	K+-sensing histidine kinase KdpD	ta686_03390	598157	598445	No
+NA	ATP-binding protein	ta686_03395	598523	598640	No
+NA	Putative signal transduction histidine kinase	ta686_03400	598715	599501	No
+NA	ATP-binding protein	ta686_03405	599531	600389	No
+baeS	ATP-binding protein	ta686_03410	600487	600982	No
+NA	HD domain protein	ta686_03415	601201	601621	No
+NA	hypothetical protein	ta686_03420	601741	602764	No
+NA	Conjugal transfer protein TraD	ta686_03425	602871	603093	Yes
+NA	hypothetical protein	ta686_03430	603366	604089	Yes
+NA	TPR repeat-containing protein 08	ta686_03435	604154	604295	Yes
+NA	Conjugal transfer protein TraD	ta686_03440	604620	604884	Yes
+NA	hypothetical protein	ta686_03445	605052	605472	No
+NA	hypothetical protein	ta686_03450	605494	606745	No
+traD	conjugal transfer protein TraD, complete TraD	ta686_03455	606817	607276	Yes
+NA	HNH endonuclease	ta686_03460	607484	607724	Yes
+NA	hypothetical protein	ta686_03465	607829	607976	Yes
+NA	Reverse transcriptase family protein	ta686_03470	607976	608858	Yes
+NA	N-terminal domain of reverse transcriptase family protein	ta686_03475	608879	609200	Yes
+NA	Conjugal transfer protein TraA	ta686_03480	609871	610141	No
+NA	Conjugal transfer protein TraA	ta686_03485	610144	611890	No
+NA	toprim domain-containing protein	ta686_03490	611946	612603	No
+NA	Conjugal transfer protein TraA	ta686_03495	612624	612729	No
+traI	conjugal transfer protein TraI, complete TraI	ta686_03500	613000	615673	No
+NA	Putative permease	ta686_03505	615724	616648	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	ta686_03510	616657	617533	Yes
+NA	hypothetical protein	ta686_03515	617729	618926	Yes
+NA	Conjugal transfer protein TraC	ta686_03520	618897	619185	Yes
+NA	TraC family protein	ta686_03525	619162	619771	Yes
+infA	translation initiation factor IF-1	ta686_03535	621006	621231	No
+maf	septum formation inhibitor Maf	ta686_03540	621264	621870	No
+tACO1	YebC/PmpR family DNA-binding transcriptional regulator	ta686_03545	621996	622743	No
+gyrA	DNA gyrase subunit A	ta686_03550	622841	625559	No
+glyA	serine hydroxymethyltransferase	ta686_03555	625592	626873	No
+NA	IS5 family transposase ISOt6	ta686_03560	627261	627390	Yes
+NA	DDE superendonuclease family protein	ta686_03565	627379	627838	Yes
+NA	Transposase	ta686_03570	627889	628105	No
+NA	DDE superendonuclease family protein	ta686_03575	628094	628325	No
+gcvT	aminomethyltransferase	ta686_03580	629344	630208	Yes
+NA	transposase	ta686_03585	630794	631685	No
+NA	Conjugal transfer TraD family protein	ta686_03590	631914	632208	Yes
+NA	Conjugal transfer protein TraA	ta686_03595	632366	633488	No
+NA	hypothetical protein	ta686_03600	633520	633835	Yes
+NA	Toprim domain protein	ta686_03605	633846	634689	No
+NA	Reverse transcriptase	ta686_03610	635154	635280	No
+traL	conjugal transfer protein traL	ta686_03615	635628	635925	Yes
+NA	Putative membrane protein	ta686_03620	636885	637095	Yes
+erhM	2-hydroxyacid dehydrogenase	ta686_03625	637163	638636	Yes
+hyfB	cation:proton antiporter	ta686_03630	638645	640136	Yes
+mnhC	cation:proton antiporter subunit C	ta686_03635	640128	640524	Yes
+NA	Na(+)/H(+) antiporter subunit B	ta686_03640	640507	640942	Yes
+mnhB	DUF4040 domain-containing protein	ta686_03645	640962	641553	Yes
+NA	sodium:proton antiporter	ta686_03650	641549	641879	Yes
+nagD	TIGR01459 family HAD-type hydrolase	ta686_03660	642431	643292	Yes
+gyrB	DNA gyrase subunit B	ta686_03665	643406	645830	No
+NA	hypothetical protein	ta686_03670	645868	646393	Yes
+potE	amino acid permease	ta686_03675	646688	648107	No
+NA	hypothetical protein	ta686_03685	648833	649172	No
+NA	hypothetical protein	ta686_03690	649110	649320	No
+NA	hypothetical protein	ta686_03695	649464	649566	No
+argB	acetylglutamate kinase	ta686_03700	650572	651514	Yes
+yihA	YihA family ribosome biogenesis GTP-binding protein	ta686_03705	651461	652088	Yes
+yidC	membrane protein insertase YidC	ta686_03710	652084	653788	Yes
+prfA	peptide chain release factor 1	ta686_03715	654630	655710	No
+NA	Peptidylprolyl isomerase	ta686_03720	655913	656936	No
+era	GTPase Era	ta686_03725	656932	657853	No
+bamE	SmpA / OmlA family	ta686_03730	658231	658597	Yes
+rpmF	50S ribosomal protein L32	ta686_03735	658693	658900	No
+coxW	cytochrome c oxidase assembly protein	ta686_03740	659183	659711	Yes
+hisJ	amino acid ABC transporter substrate-binding protein	ta686_03745	660109	660916	No
+dapB	dihydrodipicolinate reductase	ta686_03750	660922	661768	No
+sixA	phosphohistidine phosphatase	ta686_03755	661849	662323	No
+uvrD	ATP-dependent DNA helicase UvrD	ta686_03760	662334	665802	No
+gltP	dicarboxylate/amino acid:cation symporter	ta686_03765	665979	667179	No
+pcnB	poly(A) polymerase	ta686_03770	667231	668440	No
+znuA	zinc ABC transporter substrate-binding protein	ta686_03775	668436	669333	No
+himA	Bacterial nucleoid DNA-binding protein IHF-alpha	ta686_03785	669868	670177	No
+surA	Chaperone SurA	ta686_03790	670359	671235	No
+rsmA	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase	ta686_03795	671353	672175	No
+rmuC	DNA recombination protein RmuC	ta686_03800	672235	673585	No
+rseP	RIP metalloprotease RseP	ta686_03805	673694	674756	No
+bamA	outer membrane protein assembly factor BamA	ta686_03810	674768	677087	No
+NA	Thioredoxin	ta686_03815	677109	677436	No
+NA	Putative transposase	ta686_03820	677531	677783	No
+map	type I methionyl aminopeptidase	ta686_03825	678620	679415	Yes
+NA	DDE superendonuclease family protein	ta686_03830	680163	680601	Yes
+NA	IS630 family transposase	ta686_03835	680916	681264	Yes
+NA	Transposase family protein	ta686_03840	681382	681502	Yes
+NA	hypothetical protein	ta686_03845	681757	682015	No
+NA	Putative transposase	ta686_03850	682080	682344	Yes
+NA	Lipase-3 domain-containing protein	ta686_03855	682899	684108	Yes
+NA	HTH-Tnp-4 domain-containing protein	ta686_03860	684595	684949	No
+NA	IS5 family transposase ISOt6	ta686_03865	685206	685335	No
+traU	conjugal transfer protein TraU, complete TraU	ta686_03870	685555	686533	Yes
+NA	IS982 family transposase	ta686_03875	686781	687657	No
+NA	DDE superendonuclease family protein	ta686_03880	687945	688137	Yes
+NA	Putative transposase	ta686_03885	688439	688667	Yes
+priA	primosomal protein N'	ta686_03890	689525	691466	Yes
+metG	methionine--tRNA ligase	ta686_03895	691652	693188	No
+tatD	DNA-binding protein	ta686_03900	693200	693989	No
+mscC	mechanosensitive ion channel protein MscS	ta686_03905	694937	695804	Yes
+NA	hypothetical protein	ta686_03910	695883	696036	Yes
+NA	Putative integrase	ta686_03915	696202	696310	No
+NA	Putative transposase	ta686_03920	696698	696977	No
+NA	Transposase	ta686_03925	696985	697567	No
+NA	reverse transcriptase domain-containing protein	ta686_03930	697628	697874	No
+NA	Transposase family protein	ta686_03935	697922	698063	Yes
+NA	hypothetical protein	ta686_03940	698078	698249	Yes
+ccmA	cytochrome c biogenesis protein CcmA	ta686_03945	698340	698946	No
+ccmB	heme exporter protein B	ta686_03950	698942	699593	No
+NA	DUF2670 domain-containing protein	ta686_03955	699738	700878	No
+petA	ubiquinol-cytochrome c reductase iron-sulfur subunit	ta686_03960	700989	701655	No
+qcrB,petB	cytochrome b	ta686_03965	701795	702992	No
+NA	Transposase family protein	ta686_03970	703182	703356	No
+NA	DDE superendonuclease family protein	ta686_03975	703627	703813	No
+NA	Arm DNA-binding domain-containing protein	ta686_03980	704760	705015	No
+NA	hypothetical protein	ta686_03985	705507	705660	Yes
+NA	DDE superendonuclease family protein	ta686_03990	705671	706109	Yes
+NA	hypothetical protein	ta686_03995	706116	706230	Yes
+NA	hypothetical protein	ta686_04000	706274	706787	Yes
+NA	DDE superendonuclease family protein	ta686_04005	707137	707512	Yes
+NA	DDE superendonuclease family protein	ta686_04010	707523	707961	Yes
+NA	Conjugal transfer protein TraA	ta686_04015	707968	708196	Yes
+NA	hypothetical protein	ta686_04020	708374	708503	Yes
+NA	DDE superendonuclease family protein	ta686_04025	708743	709238	No
+NA	DDE superendonuclease family protein	ta686_04030	709303	709567	No
+bcsA	glycosyl transferase	ta686_04035	710229	711981	Yes
+NA	hypothetical protein	ta686_04040	711965	713276	Yes
+ftsA	cell division protein FtsA	ta686_04045	713254	714502	Yes
+NA	alpha/beta hydrolase	ta686_04055	714795	715497	Yes
+iscR	[Fe-S]-binding protein	ta686_04060	715700	716147	No
+nifS	aminotransferase class V-fold PLP-dependent enzyme	ta686_04065	716158	717445	No
+sufS	cysteine desulfurase	ta686_04070	717459	718731	No
+iscU	Fe-S cluster assembly scaffold IscU	ta686_04075	718774	719200	No
+iscA	iron-sulfur cluster assembly accessory protein	ta686_04080	719209	719584	No
+hscB	co-chaperone HscB	ta686_04085	719596	720100	No
+hscA	molecular chaperone HscA	ta686_04090	720086	721940	No
+fdx	(2Fe-2S) ferredoxin	ta686_04095	721956	722301	No
+NA	Transposase DDE domain protein	ta686_04100	722684	723002	Yes
+NA	Transposase	ta686_04105	723121	723562	Yes
+NA	hypothetical protein	ta686_04110	723836	724004	No
+NA	hypothetical protein	ta686_04115	724005	724371	No
+NA	DDE superendonuclease family protein	ta686_04120	724378	724816	No
+NA	DDE superendonuclease family protein	ta686_04125	724827	725202	No
+NA	hypothetical protein	ta686_04130	725188	725803	No
+NA	hypothetical protein	ta686_04135	725962	726196	No
+NA	RNA-binding protein	ta686_04140	726185	726872	No
+NA	hypothetical protein	ta686_04145	726912	727164	No
+NA	Pyrroloquinoline-quinone synthase	ta686_04150	728133	728811	No
+NA	Transposase	ta686_04155	729011	729302	Yes
+NA	DDE superendonuclease family protein	ta686_04160	729389	729587	No
+rplT	50S ribosomal protein L20	ta686_04165	730093	730459	Yes
+rpmI	50S ribosomal protein L35	ta686_04170	730478	730685	Yes
+htpG	molecular chaperone HtpG	ta686_04175	731126	733019	No
+dapE	succinyl-diaminopimelate desuccinylase	ta686_04180	733191	734358	No
+tig	trigger factor	ta686_04190	734509	736000	No
+mdlB	multidrug resistance protein	ta686_04195	736488	738159	Yes
+ompR	two-component system response regulator	ta686_04200	738267	739017	Yes
+rpsF	30S ribosomal protein S6	ta686_04205	739298	739655	No
+rpsR	30S ribosomal protein S18	ta686_04210	739700	740009	No
+rplI	50S ribosomal protein L9	ta686_04215	740051	740579	No
+tlcC	AAA family ATPase	ta686_04220	740730	742206	No
+NA	DDE superendonuclease family protein	ta686_04225	742405	742759	No
+NA	IS5 family transposase ISOt6	ta686_04230	742770	742899	No
+NA	Transposase	ta686_04235	743016	743145	No
+NA	IS630 family transposase	ta686_04240	745041	745161	No
+NA	DDE superendonuclease family protein	ta686_04245	745168	745606	No
+NA	DDE superendonuclease family protein	ta686_04250	745617	745752	No
+tnp-IS630	IS630 family transposase	ta686_04255	745838	746345	Yes
+NA	Transposase family protein	ta686_04260	746583	746703	Yes
+nifU	NifU family protein	ta686_04265	746976	747525	Yes
+grxD	Grx4 family monothiol glutaredoxin	ta686_04270	747583	747937	Yes
+nth	endonuclease III	ta686_04275	748012	748651	No
+ypfH	esterase	ta686_04280	748647	749280	No
+menE,fadK	acyl-[ACP]--phospholipid O-acyltransferase	ta686_04285	749599	753073	No
+cinA	competence-damaged protein CinA	ta686_04290	753908	756512	No
+cinB	hypothetical protein (cinB)	ta686_04295	756550	759046	No
+NA	hypothetical protein	ta686_04300	759575	759905	Yes
+tlc	ATP/ADP translocase	ta686_04305	760157	761690	No
+tlcC	AAA family ATPase	ta686_04310	761842	763387	No
+NA	hypothetical protein	ta686_04315	763386	765192	No
+ispB	octaprenyl-diphosphate synthase	ta686_04320	765211	766231	No
+pipB2	Secreted effector protein PipB2	ta686_04325	766450	770077	Yes
+scaE	ScaE autotransporter protein	ta686_04330	770592	772863	Yes
+NA	hypothetical protein	ta686_04335	773075	773219	No
+NA	Transposase	ta686_04340	773310	773439	Yes
+NA	Transposase	ta686_04345	773435	774086	Yes
+NA	Conjugal transfer protein TraI	ta686_04350	774235	774640	No
+NA	DNA helicase	ta686_04355	774820	775165	Yes
+NA	DnaA N-terminal domain protein	ta686_04360	775289	775604	Yes
+NA	DnaA-N domain-containing protein	ta686_04365	775622	776273	Yes
+NA	hypothetical protein	ta686_04370	776443	776737	Yes
+NA	Transposase	ta686_04375	776944	777340	No
+NA	hypothetical protein	ta686_04380	777336	777555	Yes
+NA	hypothetical protein	ta686_04390	778004	778694	Yes
+murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	ta686_04395	779500	780766	No
+ftsZ	cell division protein FtsZ	ta686_04400	780947	782309	No
+NA	hypothetical protein	ta686_04405	782392	783364	No
+NA	DnaA-N domain-containing protein	ta686_04410	784094	785774	No
+dnaB	replicative DNA helicase	ta686_04415	785782	787231	No
+NA	Ankyrin repeat protein with 5 ankyrin repeats	ta686_04420	787590	788091	No
+NA	Membrane protein	ta686_04425	788192	788615	No
+dam	DNA methyltransferase	ta686_04430	788699	789509	Yes
+NA	hypothetical protein	ta686_04435	790040	790757	No
+NA	Histidine kinase domain-containing protein	ta686_04440	791105	791834	No
+baeS	sensor histidine kinase	ta686_04445	791855	792713	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ta686_04450	792813	793392	No
+NA	hypothetical protein	ta686_04455	793513	794512	No
+secA	preprotein translocase SecA subunit-like protein	ta686_04460	795437	795896	No
+NA	Preprotein translocase SecA subunit-like protein	ta686_04465	795914	796364	No
+NA	hypothetical protein	ta686_04470	796480	796831	No
+NA	hypothetical protein	ta686_04475	796880	797183	No
+NA	hypothetical protein	ta686_04480	797249	797594	No
+NA	Ankyrin repeat-containing protein 14	ta686_04485	798177	799434	No
+NA	hypothetical protein	ta686_04490	799707	799974	No
+NA	hypothetical protein	ta686_04495	800000	800624	No
+NA	hypothetical protein	ta686_04500	800779	801292	No
+NA	(P)ppGpp synthetase	ta686_04505	801315	801567	Yes
+NA	Putative replicative DNA helicase	ta686_04510	801610	801724	No
+NA	Putative replicative DNA helicase	ta686_04515	801813	801978	No
+NA	hypothetical protein	ta686_04520	801935	802082	Yes
+NA	Replicative DNA helicase	ta686_04525	802180	802504	No
+NA	Replicative DNA helicase	ta686_04530	802543	802936	No
+NA	Membrane protein	ta686_04535	803239	803419	No
+NA	Histidine kinase	ta686_04540	804041	804311	No
+NA	ATP-binding protein	ta686_04545	804325	804463	No
+kdpD	K+-sensing histidine kinase KdpD	ta686_04550	804649	804994	No
+NA	ATP-binding protein	ta686_04555	805016	806180	No
+NA	ankyrin repeat domain-containing protein	ta686_04560	806645	807014	No
+NA	hypothetical protein	ta686_04565	807041	807347	No
+NA	Conjugal transfer TraD family protein	ta686_04570	807416	807710	Yes
+NA	Conjugal transfer protein TraA	ta686_04575	807868	808990	No
+NA	hypothetical protein	ta686_04580	809022	809337	Yes
+NA	Conjugal transfer protein TraI	ta686_04585	809348	810797	No
+rpnC	Recombination-promoting DNA endonuclease RpnC/YadD	ta686_04590	810848	811688	No
+NA	Toprim domain protein	ta686_04595	811647	812601	Yes
+NA	hypothetical protein	ta686_04600	812549	812702	Yes
+NA	hypothetical protein	ta686_04605	812893	813499	Yes
+NA	Conjugal transfer protein TraA	ta686_04610	813665	814244	Yes
+NA	Conjugal transfer protein TraA	ta686_04615	814215	815346	Yes
+NA	Conjugal transfer protein TraA	ta686_04620	815330	816218	Yes
+NA	MobA/MobL family protein	ta686_04625	816186	816648	Yes
+ltrA	group II intron reverse transcriptase/maturase	ta686_04630	817320	818544	No
+NA	hypothetical protein	ta686_04635	818544	818691	No
+NA	HNH endonuclease	ta686_04640	818796	819036	No
+traD	conjugal transfer protein TraD, complete TraD	ta686_04645	819244	819700	No
+NA	hypothetical protein	ta686_04650	819767	820742	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ta686_04655	820863	821442	Yes
+baeS	sensor histidine kinase	ta686_04660	821542	822400	Yes
+baeS	Signal transduction histidine kinase	ta686_04665	822374	823049	Yes
+NA	ATP-binding protein	ta686_04670	823061	823151	Yes
+dam	DNA methyltransferase	ta686_04675	823503	824313	No
+NA	Putative ompA-like autotransporter	ta686_04680	824316	824820	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ta686_04685	824917	825562	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ta686_04690	825596	826172	Yes
+NA	Replicative DNA helicase	ta686_04695	826406	826538	Yes
+NA	DnaA-N domain-containing protein	ta686_04700	826551	827070	Yes
+NA	DnaA-N domain-containing protein	ta686_04705	827172	827637	Yes
+NA	Transposase	ta686_04710	828076	828472	No
+NA	DDE superendonuclease family protein	ta686_04715	828789	829047	Yes
+NA	DDE superendonuclease family protein	ta686_04720	829081	829213	Yes
+NA	Transposase	ta686_04725	829326	829611	Yes
+NA	Transposase family protein	ta686_04730	829654	829885	Yes
+NA	DDE superendonuclease family protein	ta686_04735	830176	830608	No
+NA	DDE superendonuclease family protein	ta686_04740	830619	830994	No
+NA	hypothetical protein	ta686_04745	831623	832376	No
+comEC	competence protein ComEC	ta686_04750	832532	834581	No
+NA	two-component sensor histidine kinase	ta686_04760	835241	836828	No
+atoC	sigma-54-dependent Fis family transcriptional regulator	ta686_04765	836968	838438	No
+NA	hypothetical protein	ta686_04770	838474	840307	No
+NA	DDE superendonuclease family protein	ta686_04775	840744	841083	No
+NA	IS5 family transposase ISOt6	ta686_04780	841219	841348	No
+NA	IS982 family transposase	ta686_04785	841799	842297	Yes
+NA	Putative transposase	ta686_04790	842303	842567	Yes
+fabF	beta-ketoacyl-[acyl-carrier-protein] synthase II	ta686_04795	843087	844359	Yes
+acpP	acyl carrier protein	ta686_04800	844445	844832	Yes
+fabG	3-oxoacyl-ACP reductase	ta686_04805	844954	845680	Yes
+recA	DNA recombination/repair protein RecA	ta686_04810	845673	846744	Yes
+rlmB	23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB	ta686_04815	846840	847569	Yes
+tuf	elongation factor Tu	ta686_04830	848032	849217	No
+rpsJ	30S ribosomal protein S10	ta686_04835	849259	849565	No
+rplC	50S ribosomal protein L3	ta686_04840	849548	850232	No
+rplD	50S ribosomal protein L4	ta686_04845	850248	850872	No
+rplW	50S ribosomal protein L23	ta686_04850	850868	851165	No
+rplB	50S ribosomal protein L2	ta686_04855	851164	851986	No
+rpsS	30S ribosomal protein S19	ta686_04860	852009	852288	No
+rplV	50S ribosomal protein L22	ta686_04865	852289	852640	No
+rpsC	30S ribosomal protein S3	ta686_04870	852655	853312	No
+rplP	50S ribosomal protein L16	ta686_04875	853341	853752	No
+NA	50S ribosomal protein L29	ta686_04880	853744	854008	No
+rpsQ	30S ribosomal protein S17	ta686_04885	853967	854204	No
+rplN	50S ribosomal protein L14	ta686_04890	854278	854647	No
+rplX	50S ribosomal protein L24	ta686_04895	854648	854969	No
+rplE	50S ribosomal protein L5	ta686_04900	854990	855560	No
+rpsN	30S ribosomal protein S14	ta686_04905	855579	855885	No
+rpsH	30S ribosomal protein S8	ta686_04910	855907	856309	No
+rplF	50S ribosomal protein L6	ta686_04915	856330	856864	No
+rplR	50S ribosomal protein L18	ta686_04920	856877	857252	No
+rpsE	30S ribosomal protein S5	ta686_04925	857272	857791	No
+rplO	50S ribosomal protein L15	ta686_04930	858024	858516	No
+secY	preprotein translocase subunit SecY	ta686_04935	858517	859825	No
+adk	adenylate kinase	ta686_04940	859833	860466	No
+rpsM	30S ribosomal protein S13	ta686_04945	860545	860923	No
+rpsK	30S ribosomal protein S11	ta686_04950	860932	861313	No
+rpoA	DNA-directed RNA polymerase subunit alpha	ta686_04955	861361	862390	No
+rplQ	50S ribosomal protein L17	ta686_04960	862408	862846	No
+rpsT	30S ribosomal protein S20	ta686_04965	862927	863200	No
+ptrB	S9 family peptidase	ta686_04970	863265	865326	No
+hemA	5-aminolevulinate synthase	ta686_04975	865350	866562	No
+perM	AI-2E family transporter	ta686_04980	866571	867624	Yes
+pgpA	phosphatidylglycerophosphatase A	ta686_04985	867920	868523	No
+cinA	Competence-damaged protein cinA	ta686_04990	868582	869086	No
+thyA	thymidylate synthase (FAD)	ta686_04995	869129	870032	No
+NA	N-terminal domain of reverse transcriptase family protein	ta686_05000	870697	870940	No
+NA	IS110 family transposase	ta686_05005	871701	872244	No
+NA	Transposase IS116/IS110/IS902 family protein	ta686_05010	872216	872441	No
+NA	Transposase	ta686_05015	873375	873924	No
+NA	hypothetical protein	ta686_05020	873915	874116	Yes
+NA	Conjugal transfer protein TraA	ta686_05025	874170	874674	Yes
+traD	conjugal transfer protein TraD, complete TraD	ta686_05030	874950	875406	No
+dnaB	replicative DNA helicase	ta686_05035	875707	877156	Yes
+NA	DnaA-N domain-containing protein	ta686_05040	877164	877905	Yes
+NA	hypothetical protein	ta686_05045	878304	878724	Yes
+NA	DDE superendonuclease family protein	ta686_05050	878998	879328	Yes
+tnp-IS630	IS630 family transposase	ta686_05055	879317	879689	Yes
+NA	Putative traG protein	ta686_05060	879839	880046	No
+NA	hypothetical protein	ta686_05065	880109	880280	No
+sppA	S49 family peptidase	ta686_05070	880838	881756	Yes
+miaB	tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB	ta686_05075	882047	883397	No
+hemF	oxygen-dependent coproporphyrinogen oxidase	ta686_05080	883565	884402	No
+NA	DUF2610 domain-containing protein	ta686_05085	884542	884884	No
+NA	hypothetical protein	ta686_05090	884858	885314	Yes
+NA	Putative integrase	ta686_05095	885734	885944	Yes
+NA	Integrase	ta686_05100	886011	886173	Yes
+NA	hypothetical protein	ta686_05105	886165	886297	Yes
+NA	Integrase, complete integrase	ta686_05110	886934	888173	No
+traL	conjugal transfer protein traL	ta686_05115	888352	888634	No
+NA	Conjugal transfer protein TraE	ta686_05120	888633	889053	No
+NA	Conjugal transfer protein TraE	ta686_05125	889033	889186	No
+NA	hypothetical protein	ta686_05130	889182	889593	No
+NA	hypothetical protein	ta686_05135	889728	889956	No
+NA	Putative conjugative transfer TraB domain protein	ta686_05140	890097	890205	No
+traB	conjugal transfer protein TraB	ta686_05145	890261	891431	No
+traV	conjugal transfer protein TraV, complete TraV	ta686_05150	891430	891760	No
+virB4	Type IV secretory pathway, VirB4 component	ta686_05155	891740	893432	No
+NA	Ankyrin repeat-containing protein 01_02	ta686_05160	893440	894682	Yes
+traU	conjugal transfer protein TraU	ta686_05165	894900	895695	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ta686_05170	895717	896101	No
+NA	Conjugal transfer protein TraN	ta686_05175	896097	896703	No
+NA	Type-1V conjugative transfer system mating pair stabilization family protein	ta686_05180	897011	897377	No
+NA	Conjugal transfer protein TraN	ta686_05185	897357	897645	No
+NA	hypothetical protein	ta686_05190	897895	899404	No
+NA	hypothetical protein	ta686_05195	899513	899630	No
+NA	DUF4065 domain-containing protein	ta686_05200	899629	900073	No
+NA	Conjugal transfer protein	ta686_05205	900084	900615	No
+NA	Conjugal transfer protein TraH	ta686_05210	900829	901426	No
+NA	Conjugal transfer protein TraH	ta686_05215	901620	902100	No
+traG	conjugal transfer protein TraG	ta686_05220	902099	904235	No
+NA	Conjugal transfer protein	ta686_05225	904240	904726	No
+NA	Conjugal transfer protein TraD	ta686_05230	904767	904974	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	ta686_05235	904984	905971	No
+rpnC	Recombination-promoting DNA endonuclease RpnC/YadD	ta686_05240	905980	906928	Yes
+NA	Conjugal transfer protein TraI	ta686_05245	906979	908248	Yes
+NA	hypothetical protein	ta686_05250	908355	909420	No
+NA	Conjugal transfer protein TraA	ta686_05255	909977	910556	Yes
+NA	Conjugal transfer protein TraA	ta686_05260	910527	911658	Yes
+NA	Conjugal transfer protein TraA	ta686_05265	911642	912530	Yes
+NA	MobA/MobL family protein	ta686_05270	912498	912960	Yes
+NA	N-terminal domain of reverse transcriptase family protein	ta686_05275	913632	913953	No
+NA	Reverse transcriptase family protein	ta686_05280	913974	914856	No
+NA	hypothetical protein	ta686_05285	914856	915003	No
+NA	HNH endonuclease	ta686_05290	915108	915348	No
+traD	conjugal transfer protein TraD, complete TraD	ta686_05295	915556	916012	No
+NA	hypothetical protein	ta686_05300	916095	916239	No
+NA	hypothetical protein	ta686_05305	916334	917231	No
+NA	Conjugal transfer protein TraD	ta686_05310	917477	917741	No
+NA	transposase	ta686_05315	917821	918760	Yes
+NA	ATP-binding protein	ta686_05320	918881	919631	Yes
+NA	ATP-binding protein	ta686_05325	919729	920587	Yes
+NA	Putative signal transduction histidine kinase	ta686_05330	920617	921403	Yes
+NA	ATP-binding protein	ta686_05335	921478	921595	Yes
+kdpD	K+-sensing histidine kinase KdpD	ta686_05340	921673	921961	Yes
+NA	ATP-binding protein	ta686_05345	922147	922285	Yes
+NA	Histidine kinase	ta686_05350	922299	922569	Yes
+NA	hypothetical protein	ta686_05355	922689	923091	Yes
+NA	ATP-binding protein	ta686_05360	923210	923474	Yes
+NA	Putative site-specific DNA adenine methylase	ta686_05365	923821	923962	No
+NA	Putative ompA-like autotransporter	ta686_05370	923965	924469	Yes
+NA	Ankyrin repeat protein with 5 ankyrin repeats	ta686_05375	924566	925067	Yes
+dnaB	replicative DNA helicase	ta686_05380	925425	926856	Yes
+NA	DnaA-N domain-containing protein	ta686_05385	926864	927605	Yes
+NA	hypothetical protein	ta686_05390	928003	928423	Yes
+NA	Transposase DDE domain protein	ta686_05395	928630	928987	No
+NA	hypothetical protein	ta686_05400	929027	929831	Yes
+ndk	nucleoside-diphosphate kinase	ta686_05405	930566	930992	Yes
+NA	DDE superendonuclease family protein	ta686_05410	931281	931476	No
+NA	hypothetical protein	ta686_05415	931602	931719	No
+NA	DDE superendonuclease family protein	ta686_05420	931730	931928	No
+NA	transposase	ta686_05425	932191	933106	No
+traD	conjugal transfer protein TraD, complete TraD	ta686_05430	933173	933629	Yes
+NA	HNH endonuclease family protein	ta686_05435	933837	934329	Yes
+NA	Reverse transcriptase family protein	ta686_05440	934329	935211	Yes
+NA	N-terminal domain of reverse transcriptase family protein	ta686_05445	935232	935553	Yes
+NA	NADH dehydrogenase ubiquinone Fe-S protein 4	ta686_05450	936195	936477	Yes
+xseB	exodeoxyribonuclease VII small subunit	ta686_05455	936531	936777	No
+NA	Type IV secretion-system coupling DNA-binding domain protein	ta686_05460	937282	937468	No
+NA	IS5 family transposase ISOt6	ta686_05465	937464	937665	Yes
+NA	Putative transposase	ta686_05470	937654	937792	Yes
+NA	IS5 family transposase ISOt6	ta686_05475	937894	938032	Yes
+NA	Putative integrase	ta686_05480	938676	938883	No
+NA	Conjugal transfer protein TraI	ta686_05485	939448	939688	No
+NA	IS630 family transposase	ta686_05495	941089	941437	Yes
+NA	Transposase	ta686_05500	941808	942021	No
+NA	Transposase DDE domain protein	ta686_05505	942079	942334	No
+NA	Phage integrase family protein	ta686_05510	942699	943575	No
+NA	Putative integrase	ta686_05515	943741	944083	No
+ykfC	reverse transcriptase	ta686_05520	944686	945826	No
+traL	conjugal transfer protein traL, complete TraL	ta686_05525	946144	946468	No
+NA	Conjugal transfer protein TraE	ta686_05530	946467	946860	No
+traK1	conjugal transfer protein traK1, complete TraK-1	ta686_05535	946825	947314	No
+NA	hypothetical protein	ta686_05540	947659	947887	No
+NA	Conjugal transfer protein	ta686_05545	948028	949174	No
+traK1	conjugal transfer protein traK1, complete TraK-1	ta686_05550	949257	949734	Yes
+NA	Conjugal transfer protein TraE	ta686_05555	949730	949883	Yes
+NA	Conjugal transfer protein TraE	ta686_05560	949863	950283	Yes
+NA	hypothetical protein	ta686_05565	950282	950471	Yes
+NA	Integrase	ta686_05570	950636	951140	Yes
+NA	Arm-DNA-bind-3 domain-containing protein	ta686_05575	951248	951716	Yes
+NA	hypothetical protein	ta686_05580	951849	952050	Yes
+NA	Putative peroxiredoxin bcp	ta686_05585	952134	952533	Yes
+NA	Phage integrase family protein	ta686_05590	952553	952880	Yes
+NA	hypothetical protein	ta686_05595	952916	953372	Yes
+NA	Integrase	ta686_05600	953476	953644	Yes
+NA	Helix-turn-helix family protein	ta686_05605	954675	955476	Yes
+fieF	Cation efflux family	ta686_05610	955755	956673	No
+tadA	tRNA-specific adenosine deaminase	ta686_05615	956734	957190	No
+ligA	DNA ligase (NAD(+)) LigA	ta686_05620	957265	959365	No
+pepA	aminopeptidase	ta686_05625	959361	961134	No
+NA	hypothetical protein	ta686_05630	961773	964245	Yes
+NA	hypothetical protein	ta686_05635	964744	965269	No
+NA	hypothetical protein	ta686_05640	965492	965678	Yes
+NA	DDE superendonuclease family protein	ta686_05645	965882	966341	No
+NA	DDE superendonuclease family protein	ta686_05650	966306	966465	No
+NA	hypothetical protein	ta686_05655	966479	966683	Yes
+NA	Homeo-like domain protein	ta686_05660	966736	966871	No
+NA	DDE superendonuclease family protein	ta686_05665	966893	967133	No
+NA	DDE superendonuclease family protein	ta686_05670	967132	967225	No
+NA	IS5 family transposase ISOt6	ta686_05675	967260	967389	No
+NA	hypothetical protein	ta686_05680	967505	967604	No
+NA	hypothetical protein	ta686_05685	968246	968546	No
+lacA	ribose-5-phosphate isomerase	ta686_05690	968742	969195	Yes
+NA	hypothetical protein	ta686_05695	969583	969772	Yes
+NA	Conjugal transfer TraD family protein	ta686_05700	969968	970325	Yes
+NA	HNH endonuclease family protein	ta686_05705	970532	971024	Yes
+NA	Reverse transcriptase family protein	ta686_05710	971024	971906	Yes
+NA	N-terminal domain of reverse transcriptase family protein	ta686_05715	971927	972248	Yes
+NA	Conjugal transfer protein TraA	ta686_05720	972671	973001	No
+NA	Conjugal transfer protein TraA	ta686_05725	973136	973613	No
+NA	hypothetical protein	ta686_05730	973644	974136	No
+NA	Putative conjugative transfer protein TraI	ta686_05735	974149	974815	No
+NA	Transposase IS116/IS110/IS902 family protein	ta686_05740	975022	975223	Yes
+NA	Transposase and inactivated derivative	ta686_05745	975414	975939	Yes
+fabI	enoyl-ACP reductase	ta686_05750	976969	977767	Yes
+bolA	BolA family transcriptional regulator	ta686_05755	977974	978262	No
+dnaK	molecular chaperone DnaK	ta686_05760	978642	980571	No
+dnaJ	molecular chaperone DnaJ	ta686_05765	980659	981793	No
+rsmH	16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH	ta686_05770	981861	982800	No
+ftsL	Cell division protein FtsL	ta686_05775	982840	983101	No
+pbpA2	penicillin-binding protein	ta686_05780	983300	985052	No
+murE	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-di aminopimelate ligase	ta686_05785	985038	986508	No
+murF	UDP-N-acetylmuramoylalanyl-D-glutamyl-2, 6-diaminopimelate--D-alanyl-D-alanine ligase	ta686_05790	986504	987914	No
+mraY	phospho-N-acetylmuramoyl-pentapeptide- transferase	ta686_05795	987903	988995	No
+pyrH	UMP kinase	ta686_05800	989223	989976	No
+mdlB	multidrug ABC transporter ATP-binding protein	ta686_05805	990025	991804	No
+NA	Transposase	ta686_05810	992375	992771	Yes
+NA	Putative transposase	ta686_05815	992987	993245	Yes
+NA	Transposase DDE domain protein	ta686_05820	994024	994222	Yes
+NA	DDE superendonuclease family protein	ta686_05825	994233	994410	Yes
+NA	hypothetical protein	ta686_05830	994763	994955	No
+aceF	dihydrolipoamide acetyltransferase	ta686_05835	994957	995260	No
+mreB	rod shape-determining protein	ta686_05840	995360	996428	No
+mreC	rod shape-determining protein MreC	ta686_05845	996434	997286	No
+NA	hypothetical protein	ta686_05850	997937	998165	No
+NA	hypothetical protein	ta686_05855	998127	998217	Yes
+NA	hypothetical protein	ta686_05860	998213	998315	Yes
+NA	DDE superendonuclease family protein	ta686_05865	998454	998892	No
+NA	IS5 family transposase ISOt6	ta686_05870	998903	999101	No
+NA	hypothetical protein	ta686_05875	999051	999255	Yes
+NA	Arm-DNA-bind-3 domain-containing protein	ta686_05880	999419	999752	Yes
+NA	hypothetical protein	ta686_05885	1000623	1000866	Yes
+NA	hypothetical protein	ta686_05890	1000946	1001060	Yes
+NA	Putative ompA-like autotransporter	ta686_05895	1001491	1001986	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ta686_05900	1002032	1002677	Yes
+NA	(P)pGpp hydrolase	ta686_05905	1002711	1003107	Yes
+dnaB	replicative DNA helicase	ta686_05910	1003493	1004942	Yes
+NA	DnaA-N domain-containing protein	ta686_05915	1004950	1005691	Yes
+NA	hypothetical protein	ta686_05920	1006090	1006510	Yes
+mnmA	tRNA 2-thiouridine(34) synthase MnmA	ta686_05925	1007215	1008325	No
+NA	DUF2748 domain-containing protein	ta686_05930	1008526	1009870	Yes
+lplB	lipoate-protein ligase B	ta686_05935	1010170	1010797	Yes
+murD	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase	ta686_05940	1010879	1012298	No
+ftsW	cell division protein FtsW	ta686_05945	1012304	1013432	No
+murG	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase	ta686_05950	1013435	1014515	No
+NA	Transposase DDE domain protein	ta686_05955	1015252	1015456	Yes
+NA	ATP-binding protein	ta686_05960	1015690	1015954	No
+NA	hypothetical protein	ta686_05965	1016073	1016475	No
+NA	Histidine kinase	ta686_05970	1016595	1016865	No
+NA	ATP-binding protein	ta686_05975	1016879	1017017	No
+kdpD	K+-sensing histidine kinase KdpD	ta686_05980	1017203	1017548	No
+NA	hypothetical protein	ta686_05985	1017570	1017741	No
+NA	hypothetical protein	ta686_05990	1018287	1020087	No
+NA	DDE superendonuclease family protein	ta686_05995	1020222	1020618	Yes
+NA	DDE superendonuclease family protein	ta686_06000	1020629	1021067	Yes
+NA	IS982 family transposase	ta686_06005	1021220	1022096	Yes
+NA	hypothetical protein	ta686_06010	1022370	1023573	No
+NA	RAP domain-containing protein	ta686_06015	1023515	1023914	No
+NA	DUF721 domain-containing protein	ta686_06020	1024566	1024890	Yes
+radC	DNA repair protein RadC	ta686_06025	1024927	1025608	Yes
+rpsL	30S ribosomal protein S12	ta686_06030	1025854	1026226	No
+rpsG	30S ribosomal protein S7	ta686_06035	1026249	1026771	No
+fusA	elongation factor G	ta686_06040	1026774	1028895	No
+rpsA	30S ribosomal protein S1	ta686_06045	1029101	1030625	No
+NA	DDE Tnp4 domain-containing protein	ta686_06050	1031151	1031430	Yes
+NA	Transposase	ta686_06055	1031702	1031897	Yes
+NA	Replicative DNA helicase	ta686_06060	1031993	1032317	Yes
+ctaA	Heme A synthase	ta686_06065	1032586	1033666	Yes
+NA	Transposase family protein	ta686_06070	1034052	1034289	No
+NA	DDE superendonuclease family protein	ta686_06075	1034365	1034629	Yes
+NA	DDE superendonuclease family protein	ta686_06080	1034751	1034928	Yes
+NA	hypothetical protein	ta686_06085	1035332	1035485	No
+sodB	superoxide dismutase	ta686_06090	1035597	1036239	No
+sucA	2-oxoglutarate dehydrogenase E1 component	ta686_06095	1036279	1039171	No
+sucB	dihydrolipoamide succinyltransferase	ta686_06100	1039170	1040448	No
+NA	hypothetical protein	ta686_06105	1040453	1041932	No
+NA	IS5 family transposase ISOt6	ta686_06110	1042300	1042564	Yes
+tnp-IS630	IS630 family transposase	ta686_06115	1042847	1043222	No
+tnp-IS630	IS630 family transposase	ta686_06120	1043208	1043715	No
+NA	hypothetical protein	ta686_06125	1044011	1044155	Yes
+NA	DnaA N-terminal domain protein	ta686_06130	1044732	1045788	No
+NA	DNA helicase	ta686_06135	1045796	1046090	No
+NA	Replicative DNA helicase	ta686_06140	1046185	1046863	No
+NA	Ankyrin repeat protein with 5 ankyrin repeats	ta686_06145	1047222	1047723	No
+NA	Putative ompA-like autotransporter	ta686_06150	1047824	1048328	No
+NA	Putative site-specific DNA adenine methylase	ta686_06155	1048331	1048472	Yes
+NA	ATP-binding protein	ta686_06160	1048819	1049083	No
+NA	hypothetical protein	ta686_06165	1049202	1049604	No
+NA	Histidine kinase	ta686_06170	1049724	1049994	No
+NA	ATP-binding protein	ta686_06175	1050008	1050146	No
+kdpD	K+-sensing histidine kinase KdpD	ta686_06180	1050332	1050620	No
+NA	ATP-binding protein	ta686_06185	1050698	1050815	No
+NA	Putative signal transduction histidine kinase	ta686_06190	1050889	1051687	No
+NA	ATP-binding protein	ta686_06195	1051709	1052642	No
+NA	ATP-binding protein	ta686_06200	1052660	1053410	No
+NA	transposase	ta686_06205	1053531	1054458	No
+NA	Conjugal transfer protein TraD	ta686_06210	1054538	1054802	Yes
+NA	hypothetical protein	ta686_06215	1055048	1055945	Yes
+NA	hypothetical protein	ta686_06220	1056040	1056184	Yes
+traD	conjugal transfer protein TraD, complete TraD	ta686_06225	1056267	1056723	Yes
+NA	HNH endonuclease	ta686_06230	1056931	1057171	Yes
+NA	hypothetical protein	ta686_06235	1057276	1057423	Yes
+NA	Reverse transcriptase family protein	ta686_06240	1057423	1058305	Yes
+NA	N-terminal domain of reverse transcriptase family protein	ta686_06245	1058326	1058647	Yes
+NA	MobA/MobL family protein	ta686_06250	1059319	1059781	No
+NA	Conjugal transfer protein TraA	ta686_06255	1059749	1060637	No
+NA	Conjugal transfer protein TraA	ta686_06260	1060621	1061752	No
+NA	Conjugal transfer protein TraA	ta686_06265	1061723	1062302	No
+traI	conjugal transfer protein TraI, complete TraI	ta686_06270	1062820	1065490	No
+NA	Rpn family recombination-promoting nuclease/putative transposase	ta686_06275	1065474	1065936	No
+NA	Putative transposase	ta686_06280	1065966	1066467	No
+NA	conjugal transfer protein	ta686_06285	1066476	1066686	Yes
+NA	Transposase, YhgA-like family protein	ta686_06290	1066660	1066957	Yes
+NA	Rpn family recombination-promoting nuclease/putative transposase	ta686_06295	1066987	1067449	Yes
+NA	Toprim domain protein	ta686_06300	1067433	1068060	Yes
+NA	Toprim domain protein	ta686_06305	1068056	1068758	Yes
+traA	conjugal transfer protein TraA	ta686_06310	1068729	1071030	Yes
+NA	Conjugative transfer protein	ta686_06315	1071309	1071666	No
+secA	preprotein translocase SecA subunit-like protein	ta686_06320	1072183	1072642	No
+NA	Preprotein translocase SecA subunit-like protein	ta686_06325	1072660	1073110	No
+NA	hypothetical protein	ta686_06330	1073226	1073577	No
+NA	hypothetical protein	ta686_06335	1073626	1073929	No
+NA	AHH domain-containing protein	ta686_06340	1073995	1078762	No
+NA	hypothetical protein	ta686_06345	1078788	1079412	No
+NA	transposase	ta686_06350	1079979	1080978	Yes
+NA	Hydrolase	ta686_06355	1081478	1081898	Yes
+baeS	ATP-binding protein	ta686_06360	1082117	1082612	Yes
+NA	ATP-binding protein	ta686_06365	1082710	1083568	Yes
+baeS	sensor histidine kinase	ta686_06370	1083590	1084163	Yes
+baeS	Signal transduction histidine kinase	ta686_06375	1084292	1084994	Yes
+NA	ATP-binding protein	ta686_06380	1085058	1085337	Yes
+dam	DNA methyltransferase	ta686_06385	1085704	1086514	No
+NA	Putative ompA-like autotransporter	ta686_06390	1086519	1087023	Yes
+NA	Ankyrin repeat protein with 5 ankyrin repeats	ta686_06395	1087120	1087780	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ta686_06400	1087814	1088210	Yes
+dnaB	replicative DNA helicase	ta686_06405	1088596	1090045	Yes
+NA	DnaA N-terminal domain protein	ta686_06410	1090053	1090272	Yes
+NA	DnaA-N domain-containing protein	ta686_06415	1090290	1091763	Yes
+NA	Phage integrase family protein	ta686_06420	1091922	1092105	No
+traL	conjugal transfer protein traL, complete TraL	ta686_06425	1092208	1092532	No
+NA	Conjugal transfer protein TraE	ta686_06430	1092531	1092924	No
+NA	Conjugal transfer protein TraE	ta686_06435	1092932	1093091	No
+traK1	conjugal transfer protein traK1, complete TraK-1	ta686_06440	1093080	1093569	No
+NA	Conjugative transfer protein	ta686_06445	1093675	1093954	No
+NA	SpoT ppGpp hydrolase	ta686_06450	1094055	1094283	No
+traB	conjugal transfer protein TraB, complete TraB	ta686_06455	1094424	1095753	No
+traV	conjugal transfer protein TraV, complete TraV	ta686_06460	1095752	1096082	No
+traC	conjugal transfer protein TraC, complete TraC	ta686_06465	1096062	1098552	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	ta686_06470	1098548	1099208	No
+NA	hypothetical protein	ta686_06475	1099294	1099498	No
+traU	conjugal transfer protein TraU, complete TraU	ta686_06480	1099498	1100476	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ta686_06485	1100498	1100882	No
+traN	conjugal transfer protein TraN, complete TraN	ta686_06490	1100878	1102567	No
+NA	hypothetical protein	ta686_06495	1102818	1104324	No
+gepA	DUF4065 domain-containing protein	ta686_06500	1104434	1104995	No
+traF	conjugal transfer protein TraF, complete TraF	ta686_06505	1105006	1105723	No
+traH	conjugal transfer protein TraH, complete TraH	ta686_06510	1105719	1107021	No
+traG	conjugal transfer protein TraG, complete TraG	ta686_06515	1107020	1109663	No
+NA	hypothetical protein	ta686_06520	1109678	1110824	No
+traD	conjugal transfer protein TraD, complete TraD	ta686_06525	1110829	1112584	No
+rpnC	Recombination-promoting DNA endonuclease RpnC/YadD	ta686_06530	1112593	1113625	Yes
+NA	Uncharacterized domain associated with phage/plasmid primase	ta686_06535	1113676	1114228	Yes
+NA	Conjugal transfer protein TraI	ta686_06540	1114236	1116345	Yes
+NA	Conjugal transfer protein TraA	ta686_06545	1116611	1117367	Yes
+traA	conjugal transfer protein TraA	ta686_06550	1117423	1119433	Yes
+NA	Conjugal transfer TraD family protein	ta686_06555	1119710	1120028	No
+fliH	Flagellar biosynthesis/type III secretory pathway protein FliH	ta686_06560	1120613	1121600	Yes
+NA	HD domain-containing protein	ta686_06565	1121720	1122239	Yes
+NA	ATP-binding protein	ta686_06570	1122487	1123423	Yes
+NA	ATP-binding protein	ta686_06575	1123453	1123669	Yes
+dam	DNA methyltransferase	ta686_06580	1123806	1124616	No
+NA	Putative ompA-like autotransporter	ta686_06585	1124619	1125123	Yes
+aNKYR	Ankyrin repeat	ta686_06590	1125170	1125677	Yes
+dnaB	replicative DNA helicase	ta686_06595	1126027	1127476	Yes
+NA	DnaA-N domain-containing protein	ta686_06600	1127484	1129194	Yes
+NA	IS982 family transposase	ta686_06605	1130176	1130935	Yes
+NA	Transposase-31 domain-containing protein	ta686_06610	1131376	1131592	Yes
+NA	Prenyltransferase	ta686_06615	1131907	1132027	Yes
+NA	Conjugal transfer protein TraI	ta686_06620	1132247	1132493	Yes
+fabD	ACP S-malonyltransferase	ta686_06625	1133489	1134428	Yes
+mltE	murein transglycosylase	ta686_06630	1134469	1136467	No
+menH	alpha/beta hydrolase	ta686_06635	1136863	1137631	Yes
+capM	capsule biosynthesis protein CapM	ta686_06640	1137666	1138806	No
+atpB	ATP synthase subunit beta	ta686_06645	1139148	1140585	No
+atpC	ATP synthase subunit epsilon	ta686_06650	1140581	1140986	No
+NA	DDE superendonuclease family protein	ta686_06655	1142626	1143064	No
+NA	DDE superendonuclease family protein	ta686_06660	1143075	1143450	No
+NA	DDE superendonuclease family protein	ta686_06665	1143665	1144040	Yes
+NA	DDE superendonuclease family protein	ta686_06670	1144051	1144489	Yes
+NA	hypothetical protein	ta686_06675	1144615	1144726	Yes
+traE	conjugal transfer protein TraE, complete TraE	ta686_06680	1144722	1145274	Yes
+traL	conjugal transfer protein traL	ta686_06685	1145273	1145555	Yes
+NA	Integrase	ta686_06690	1146038	1146239	Yes
+NA	Replicative DNA helicase	ta686_06695	1146848	1147025	Yes
+NA	hypothetical protein	ta686_06700	1147128	1147236	Yes
+NA	hypothetical protein	ta686_06705	1147201	1147318	Yes
+NA	hypothetical protein	ta686_06710	1147321	1147444	Yes
+fmt	methionyl-tRNA formyltransferase	ta686_06715	1148173	1149097	Yes
+def	peptide deformylase	ta686_06720	1149093	1149705	Yes
+rpsD	30S ribosomal protein S4	ta686_06725	1149973	1150597	Yes
+rsmE	Ribosomal RNA small subunit methyltransferase E	ta686_06730	1150723	1151515	No
+mlaE	Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla	ta686_06735	1151556	1152414	No
+mlaF	ABC transporter ATP-binding protein	ta686_06740	1152440	1153196	No
+NA	Transposase DDE domain protein	ta686_06745	1153338	1153527	No
+dnaB	replicative DNA helicase	ta686_06750	1154076	1155531	No
+NA	DDE superendonuclease family protein	ta686_06755	1155987	1156425	No
+NA	DDE superendonuclease family protein	ta686_06760	1156436	1156811	No
+NA	hypothetical protein	ta686_06765	1157436	1157541	No
+NA	hypothetical protein	ta686_06770	1157640	1157871	No
+gst	glutathione S-transferase	ta686_06775	1158555	1159224	Yes
+NA	Putative transposase	ta686_06785	1160533	1160737	No
+NA	IS982 family transposase	ta686_06790	1160804	1161293	No
+cdnL	CarD family transcriptional regulator	ta686_06795	1161777	1162287	No
+tsaD	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD	ta686_06800	1162310	1163345	No
+nadK	NAD kinase	ta686_06805	1163361	1164153	No
+NA	hypothetical protein	ta686_06810	1164251	1165280	Yes
+tolR	protein TolR	ta686_06815	1165266	1165725	Yes
+tolQ	protein TolQ	ta686_06820	1165730	1166420	Yes
+hemB	porphobilinogen synthase	ta686_06825	1166591	1167611	No
+NA	hypothetical protein	ta686_06830	1167825	1168131	Yes
+NA	hypothetical protein	ta686_06835	1168318	1170775	No
+prfA	peptide chain release factor 1	ta686_06840	1171094	1171958	Yes
+lepA	elongation factor 4	ta686_06845	1172349	1174155	No
+NA	hypothetical protein	ta686_06850	1174335	1174665	No
+NA	Transposase DDE domain protein	ta686_06855	1175086	1175365	Yes
+NA	Transposase	ta686_06860	1175657	1175990	Yes
+NA	DDE Tnp4 domain-containing protein	ta686_06865	1176146	1176332	No
+NA	Repeat-containing protein D	ta686_06870	1176323	1178078	Yes
+NA	hypothetical protein	ta686_06875	1178338	1178431	No
+amiR	N-acetylmuramoyl-L-alanine amidase	ta686_06880	1179323	1180415	No
+NA	Arm-DNA-bind-3 domain-containing protein	ta686_06885	1180956	1181340	No
+NA	Integrase	ta686_06890	1181391	1181793	No
+NA	Integrase	ta686_06895	1181773	1181929	No
+xerD	Site-specific recombinase XerD	ta686_06900	1181956	1182133	No
+NA	DDE superendonuclease family protein	ta686_06905	1182447	1182603	Yes
+NA	IS630 transposase-related protein	ta686_06910	1183259	1183526	No
+NA	IS630 family transposase	ta686_06915	1183504	1183621	No
+NA	hypothetical protein	ta686_06920	1183938	1184154	No
+NA	hypothetical protein	ta686_06925	1184466	1184772	No
+NA	Transposase IS116/IS110/IS902 family protein	ta686_06930	1185246	1185813	Yes
+NA	hypothetical protein	ta686_06935	1185817	1185949	Yes
+virB3	type VI secretion protein	ta686_06940	1186569	1186857	No
+virB4-1	VirB4 family type IV secretion/conjugal transfer ATPase	ta686_06945	1186867	1189285	No
+virB6-1	type VI secretion protein	ta686_06950	1189284	1191720	No
+virB6	type VI secretion protein	ta686_06955	1191741	1195626	No
+virB6-3	type VI secretion protein	ta686_06960	1195679	1198952	No
+virB6-4	type VI secretion protein	ta686_06965	1198944	1201509	No
+narK	MFS transporter	ta686_06970	1201545	1202799	No
+mutL	DNA mismatch repair protein MutL	ta686_06975	1202826	1204869	No
+gltX2	glutamate--tRNA ligase 2	ta686_06980	1205048	1206395	No
+cysS	cysteine--tRNA ligase	ta686_06985	1206459	1207890	No
+NA	Transposase	ta686_06990	1208926	1209352	No
+NA	DDE superendonuclease family protein	ta686_06995	1209615	1209801	Yes
+NA	DDE superendonuclease family protein	ta686_07000	1210198	1210384	Yes
+NA	Transposase family protein	ta686_07005	1210655	1210910	Yes
+NA	hypothetical protein	ta686_07010	1211708	1213496	No
+gtaD	phage portal protein	ta686_07015	1213626	1214817	No
+NA	hypothetical protein	ta686_07020	1214835	1215102	No
+hipB	XRE family transcriptional regulator	ta686_07025	1215738	1215978	Yes
+scaC	ScaC autotransporter protein	ta686_07030	1216156	1217710	No
+cflA	Bcr/CflA family drug resistance efflux transporter	ta686_07035	1218696	1219878	No
+NA	Transposase	ta686_07040	1219874	1220246	Yes
+NA	hypothetical protein	ta686_07045	1220432	1220534	Yes
+NA	Transposase	ta686_07050	1220541	1221006	Yes
+tsaB	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB	ta686_07055	1221118	1221820	Yes
+suhB	extragenic suppressor protein SuhB	ta686_07060	1221839	1222625	Yes
+efp	elongation factor P	ta686_07065	1222621	1223191	Yes
+clpX	ATP-dependent Clp protease ATP-binding subunit ClpX	ta686_07070	1223396	1224650	No
+proS	proline--tRNA ligase	ta686_07075	1224874	1226176	Yes
+NA	hypothetical protein	ta686_07080	1226189	1226483	Yes
+pgk	phosphoglycerate kinase	ta686_07085	1226496	1227717	Yes
+gapA	type I glyceraldehyde-3-phosphate dehydrogenase	ta686_07090	1227797	1228814	Yes
+virB4-2	virB4 protein precursor	ta686_07095	1229088	1231545	No
+NA	Hormone receptor domain-containing protein	ta686_07100	1231544	1236062	No
+NA	Transposase	ta686_07105	1236605	1236818	No
+NA	Transposase DDE domain protein	ta686_07110	1236876	1237131	No
+NA	Phage integrase family protein	ta686_07115	1237492	1238101	No
+NA	Putative integrase	ta686_07120	1238217	1238727	No
+NA	hypothetical protein	ta686_07125	1238906	1239152	No
+NA	Conjugative transfer protein	ta686_07130	1239148	1239517	No
+NA	hypothetical protein	ta686_07135	1239497	1239650	No
+traK1	conjugal transfer protein traK1, complete TraK-1	ta686_07140	1239646	1240135	No
+NA	hypothetical protein	ta686_07145	1240480	1240708	No
+traB	conjugal transfer protein TraB, complete TraB	ta686_07150	1240849	1242178	No
+traV	conjugal transfer protein TraV, complete TraV	ta686_07155	1242177	1242507	No
+NA	Conjugal transfer protein TraC	ta686_07160	1242606	1243098	No
+NA	Conjugal transfer protein TraC	ta686_07165	1243075	1243363	No
+NA	Conjugal transfer protein TraC	ta686_07170	1243334	1244183	No
+NA	Ankyrin repeat-containing protein 01_02	ta686_07175	1244191	1245433	Yes
+traU	conjugal transfer protein TraU	ta686_07180	1245651	1246446	No
+NA	Putative membrane protein	ta686_07185	1246468	1246579	No
+NA	Type-F conjugative transfer system pilin assembly protein TrbC	ta686_07190	1246575	1246857	No
+traN	conjugal transfer protein TraN, complete TraN	ta686_07195	1246853	1248542	No
+NA	hypothetical protein	ta686_07200	1248792	1249686	No
+NA	DUF4065 domain-containing protein	ta686_07205	1249896	1250322	No
+traF	conjugal transfer protein TraF, complete TraF	ta686_07210	1250333	1251050	No
+NA	Conjugal transfer protein TraH	ta686_07215	1251046	1251676	No
+NA	Conjugal transfer protein TraH	ta686_07220	1251870	1252350	No
+traG	conjugal transfer protein TraG	ta686_07225	1252349	1253852	No
+NA	transposase	ta686_07230	1253938	1254877	Yes
+NA	(P)ppGpp synthetase	ta686_07235	1255126	1255564	Yes
+dnaB	replicative DNA helicase	ta686_07240	1255798	1257247	Yes
+NA	hypothetical protein	ta686_07245	1257520	1258033	No
+NA	hypothetical protein	ta686_07250	1258338	1258629	No
+NA	DnaA-N domain-containing protein	ta686_07255	1258647	1259040	No
+NA	DnaA-N domain-containing protein	ta686_07260	1259417	1260920	No
+dnaB	replicative DNA helicase	ta686_07265	1260928	1262377	No
+dam	DNA-adenine methylase	ta686_07270	1262438	1263209	Yes
+NA	hypothetical protein	ta686_07275	1263740	1263944	No
+NA	hypothetical protein	ta686_07280	1264014	1264116	Yes
+NA	Transposase	ta686_07285	1264102	1264222	Yes
+putP	sodium:proline symporter	ta686_07290	1264644	1268082	No
+NA	IS5 family transposase ISOt6	ta686_07295	1268905	1269232	Yes
+NA	IS5 family transposase ISOt6	ta686_07300	1269301	1269472	Yes
+NA	hypothetical protein	ta686_07305	1269786	1270101	No
+NA	Histidine kinase domain-containing protein	ta686_07310	1270449	1271178	No
+NA	hypothetical protein	ta686_07315	1271174	1271402	No
+traD	conjugal transfer protein TraD	ta686_07320	1271411	1272890	Yes
+NA	Tetratricopeptide repeat family protein	ta686_07325	1272967	1273252	Yes
+traG	conjugal transfer protein TraG	ta686_07330	1273321	1274959	Yes
+NA	Conjugal transfer protein TraH	ta686_07335	1274958	1275438	Yes
+NA	Conjugal transfer protein TraH	ta686_07340	1275632	1276034	Yes
+NA	Conjugal transfer protein TraH	ta686_07345	1276051	1276267	Yes
+traF	conjugal transfer protein TraF, complete TraF	ta686_07350	1276263	1276980	Yes
+NA	Ankyrin repeat-containing protein 16	ta686_07355	1277108	1277876	Yes
+traN	conjugal transfer protein TraN	ta686_07360	1277939	1279688	Yes
+NA	Conjugal transfer protein	ta686_07365	1279710	1280394	Yes
+NA	Ankyrin repeat-containing protein 09	ta686_07370	1280671	1282039	No
+NA	Conjugal transfer protein TraC	ta686_07375	1281943	1282459	Yes
+NA	Conjugal transfer protein TraC	ta686_07380	1282468	1282897	Yes
+NA	Conjugal transfer protein TraC	ta686_07385	1282868	1283741	Yes
+traV	conjugal transfer protein TraV, complete TraV	ta686_07390	1283721	1284051	Yes
+traB	conjugal transfer protein TraB, complete TraB	ta686_07395	1284050	1285382	Yes
+NA	hypothetical protein	ta686_07400	1285523	1285751	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	ta686_07405	1286096	1286585	Yes
+NA	hypothetical protein	ta686_07410	1286581	1286734	Yes
+NA	Conjugative transfer protein	ta686_07415	1286714	1287083	Yes
+traL	conjugal transfer protein traL	ta686_07420	1287079	1287367	Yes
+NA	Integrase	ta686_07425	1287431	1287641	Yes
+NA	Integrase	ta686_07430	1287673	1287955	Yes
+NA	Phage integrase family protein	ta686_07435	1287935	1288100	Yes
+NA	Integrase	ta686_07440	1288491	1288809	Yes
+NA	hypothetical protein	ta686_07445	1289629	1290010	No
+rlpA	septal ring lytic transglycosylase RlpA family lipoprotein	ta686_07450	1290210	1290888	Yes
+NA	Transposase	ta686_07455	1291057	1291186	Yes
+NA	Integrase	ta686_07460	1291564	1291882	No
+NA	Phage integrase family protein	ta686_07465	1292273	1292438	No
+NA	Integrase	ta686_07470	1292418	1292943	No
+traL	conjugal transfer protein traL, complete TraL	ta686_07475	1293007	1293331	No
+NA	Conjugal transfer protein TraE	ta686_07480	1293330	1293750	No
+brkB	Virulence factor BrkB	ta686_07485	1294710	1295556	Yes
+NA	Transposase DDE domain protein	ta686_07490	1295680	1295998	Yes
+NA	Transposase	ta686_07495	1296117	1296558	Yes
+tnp-IS630	IS630 family transposase	ta686_07500	1296663	1297443	Yes
+NA	DDE superendonuclease family protein	ta686_07505	1297792	1298125	Yes
+NA	hypothetical protein	ta686_07510	1298442	1298961	Yes
+ybeY	rRNA maturation RNase YbeY	ta686_07515	1299447	1299951	No
+mgtE	magnesium transporter	ta686_07520	1299963	1300878	No
+ubiX	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	ta686_07525	1300927	1301491	Yes
+pleD	PleD family two-component system response regulator	ta686_07535	1301957	1303427	No
+NA	IS5 family transposase ISOt6	ta686_07540	1303533	1303662	Yes
+NA	DDE superendonuclease family protein	ta686_07545	1303671	1303908	Yes
+NA	DDE superendonuclease family protein	ta686_07550	1303919	1304357	Yes
+NA	Transposase DDE domain protein	ta686_07555	1304549	1304906	Yes
+NA	hypothetical protein	ta686_07560	1305113	1305533	No
+NA	DnaA-N domain-containing protein	ta686_07565	1305932	1306673	No
+dnaB	replicative DNA helicase	ta686_07570	1306681	1308112	No
+NA	Ankyrin repeat protein with 5 ankyrin repeats	ta686_07575	1308471	1308987	No
+NA	Membrane protein	ta686_07580	1309084	1309507	No
+dam	DNA methyltransferase	ta686_07585	1309591	1310401	Yes
+NA	hypothetical protein	ta686_07590	1310932	1311649	No
+NA	ATP-binding protein	ta686_07595	1311996	1312494	No
+NA	ATP-binding protein	ta686_07600	1312596	1312725	No
+baeS	Signal transduction histidine kinase	ta686_07605	1312746	1313499	No
+NA	SpoT-like ppGpp hydrolase	ta686_07610	1313704	1314295	No
+NA	hypothetical protein	ta686_07615	1314416	1315403	No
+NA	hypothetical protein	ta686_07620	1315595	1316798	Yes
+NA	hypothetical protein	ta686_07625	1316894	1317038	Yes
+traD	conjugal transfer protein TraD, complete TraD	ta686_07630	1317121	1317577	Yes
+traA	conjugal transfer protein TraA	ta686_07635	1317853	1321339	No
+NA	Putative conjugative transfer protein TraI	ta686_07640	1321335	1321842	No
+NA	Putative integrase domain protein	ta686_07645	1321750	1321945	Yes
+NA	Transposase	ta686_07650	1322394	1322790	No
+NA	Transposase family protein	ta686_07655	1322947	1323250	Yes
+NA	hypothetical protein	ta686_07660	1323504	1323666	No
+yraN	Archaeal holliday junction resolvase family protein	ta686_07665	1323852	1324191	Yes
+NA	MFS transporter	ta686_07670	1324255	1325557	Yes
+NA	hypothetical protein	ta686_07675	1325762	1325909	No
+grpE	nucleotide exchange factor GrpE	ta686_07680	1327153	1327750	Yes
+rph	ribonuclease PH	ta686_07685	1327880	1328636	No
+cYT1	Cytochrome c1	ta686_07690	1329070	1329865	Yes
+rpmH	50S ribosomal protein L34	ta686_07695	1330595	1330778	No
+rnpA	ribonuclease P	ta686_07700	1330778	1331318	No
+NA	DUF3971 domain-containing protein	ta686_07705	1331556	1334049	No
+NA	hypothetical protein	ta686_07710	1335385	1335721	Yes
+NA	hypothetical protein	ta686_07715	1336559	1336694	Yes
+NA	Transposase	ta686_07720	1337610	1337823	No
+NA	Transposase	ta686_07725	1337812	1338136	No
+NA	Arm-DNA-bind-3 domain-containing protein	ta686_07730	1338501	1338939	No
+NA	Putative integrase	ta686_07735	1338901	1339738	No
+traL	conjugal transfer protein traL	ta686_07740	1339875	1340163	No
+NA	Conjugative transfer protein	ta686_07745	1340159	1340528	No
+NA	hypothetical protein	ta686_07750	1340508	1340661	No
+traK1	conjugal transfer protein traK1, complete TraK-1	ta686_07755	1340657	1341146	No
+NA	hypothetical protein	ta686_07760	1341491	1341719	No
+traB	conjugal transfer protein TraB, complete TraB	ta686_07765	1341860	1343198	No
+traV	conjugal transfer protein TraV, complete TraV	ta686_07770	1343197	1343527	No
+NA	Conjugal transfer protein TraC	ta686_07775	1343626	1344118	No
+virB4	Type IV secretory pathway, VirB4 component	ta686_07780	1344095	1346000	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	ta686_07785	1345996	1346656	No
+NA	hypothetical protein	ta686_07790	1346739	1346943	No
+traU	conjugal transfer protein TraU, complete TraU	ta686_07795	1346943	1347921	No
+NA	Putative membrane protein	ta686_07800	1347943	1348054	No
+NA	Type-F conjugative transfer system pilin assembly protein TrbC	ta686_07805	1348050	1348332	No
+traN	conjugal transfer protein TraN, complete TraN	ta686_07810	1348328	1350020	No
+NA	Ankyrin repeat-containing protein 16	ta686_07815	1350083	1351385	No
+NA	F plasmid transfer operon family protein	ta686_07820	1351579	1352158	No
+NA	Conjugal transfer protein	ta686_07825	1352539	1352674	No
+NA	Conjugal transfer protein TraH	ta686_07830	1352670	1353300	No
+NA	Conjugal transfer protein TraH	ta686_07835	1353494	1353974	No
+traG	conjugal transfer protein TraG, complete TraG	ta686_07840	1353973	1356625	No
+NA	hypothetical protein	ta686_07845	1356640	1357807	No
+NA	Conjugal transfer protein	ta686_07850	1357812	1358352	No
+NA	Conjugal transfer protein	ta686_07855	1358306	1358549	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	ta686_07860	1358559	1359546	No
+rpnC	Recombination-promoting DNA endonuclease RpnC/YadD	ta686_07865	1359555	1360539	Yes
+traI	conjugal transfer protein TraI, complete TraI	ta686_07870	1360590	1363263	Yes
+traA	conjugal transfer protein TraA	ta686_07875	1363534	1365943	Yes
+NA	MobA/MobL family protein	ta686_07880	1365911	1366373	Yes
+NA	N-terminal domain of reverse transcriptase family protein	ta686_07885	1367045	1367366	No
+NA	Reverse transcriptase family protein	ta686_07890	1367387	1368269	No
+NA	hypothetical protein	ta686_07895	1368269	1368416	No
+NA	HNH endonuclease	ta686_07900	1368521	1368761	No
+traD	conjugal transfer protein TraD, complete TraD	ta686_07905	1368969	1369425	No
+NA	transposase	ta686_07910	1369492	1370407	Yes
+NA	HD domain protein	ta686_07915	1370780	1371083	Yes
+NA	Putative reverse transcriptase	ta686_07920	1371491	1371617	Yes
+NA	Reverse transcriptase family protein	ta686_07925	1371617	1371965	Yes
+NA	Integrase, complete integrase	ta686_07930	1372461	1373802	No
+traL	conjugal transfer protein traL, complete TraL	ta686_07935	1373866	1374190	No
+NA	Conjugal transfer protein TraE	ta686_07940	1374189	1374609	No
+NA	Conjugal transfer protein TraE	ta686_07945	1374589	1374742	No
+traK1	conjugal transfer protein traK1	ta686_07950	1374738	1375125	No
+NA	Conjugative transfer protein	ta686_07955	1375386	1375584	No
+traK2	conjugal transfer protein traK2, complete TraK-2	ta686_07960	1375717	1376053	No
+traB	conjugal transfer protein TraB, complete TraB	ta686_07965	1376091	1377408	No
+traV	conjugal transfer protein TraV, complete TraV	ta686_07970	1377407	1377737	No
+traC	conjugal transfer protein TraC, complete TraC	ta686_07975	1377717	1380210	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	ta686_07980	1380206	1380866	No
+NA	hypothetical protein	ta686_07985	1380949	1381123	No
+traU	conjugal transfer protein TraU, complete TraU	ta686_07990	1381156	1382101	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ta686_07995	1382123	1382507	No
+traN	conjugal transfer protein TraN, complete TraN	ta686_08000	1382503	1384192	No
+NA	SycD/LcrH family type III secretion system chaperone	ta686_08005	1384446	1385670	No
+NA	DUF4065 domain-containing protein	ta686_08010	1385779	1386340	No
+traF	conjugal transfer protein TraF, complete TraF	ta686_08015	1386351	1387068	No
+NA	Conjugal transfer protein TraH	ta686_08020	1387064	1387694	No
+NA	Conjugal transfer protein TraH	ta686_08025	1387888	1388368	No
+traG	conjugal transfer protein TraG, complete TraG	ta686_08030	1388367	1391016	No
+NA	TPR repeat-containing protein 08	ta686_08035	1391031	1392177	No
+traD	conjugal transfer protein TraD, complete TraD	ta686_08040	1392180	1393935	No
+NA	Transposase	ta686_08045	1393944	1394973	Yes
+traI	conjugal transfer protein TraI, complete TraI	ta686_08050	1394957	1397636	Yes
+traA	conjugal transfer protein TraA, complete TraA	ta686_08055	1397909	1400756	Yes
+traD	conjugal transfer protein TraD, complete TraD	ta686_08060	1401034	1401490	No
+NA	hypothetical protein	ta686_08065	1401604	1402636	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ta686_08070	1402814	1403441	Yes
+tnp-IS110	IS110 family transposase	ta686_08075	1403552	1404515	No
+NA	hypothetical protein	ta686_08080	1404530	1405229	Yes
+kdpD	K+-sensing histidine kinase KdpD	ta686_08085	1405251	1405920	Yes
+baeS	Signal transduction histidine kinase	ta686_08090	1405934	1406726	Yes
+NA	ATP-binding protein	ta686_08095	1406845	1407109	Yes
+dam	DNA methyltransferase	ta686_08100	1407475	1408279	No
+NA	hypothetical protein	ta686_08105	1408377	1409634	No
+NA	hypothetical protein	ta686_08110	1409707	1410130	No
+NA	Ankyrin	ta686_08115	1410183	1410465	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ta686_08120	1410499	1410895	Yes
+NA	Replicative DNA helicase	ta686_08125	1411281	1412049	Yes
+NA	hypothetical protein	ta686_08130	1411988	1412423	Yes
+NA	Transposase DDE domain protein	ta686_08135	1412630	1412879	No
+NA	Ankyrin repeat-containing protein 09	ta686_08140	1413485	1414754	No
+pld	phospholipase D family protein	ta686_08145	1415157	1415748	Yes
+NA	ATP-binding protein	ta686_08150	1415972	1416287	No
+NA	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase family protein	ta686_08155	1416314	1416527	No
+NA	hypothetical protein	ta686_08160	1416544	1416829	No
+NA	hypothetical protein	ta686_08165	1416836	1416944	No
+NA	Transposase	ta686_08170	1416918	1417227	No
+NA	Transposase	ta686_08175	1417533	1417662	No
+NA	hypothetical protein	ta686_08180	1417810	1418317	Yes
+tnp-IS110	IS110 family transposase	ta686_08185	1418508	1419351	Yes
+NA	hypothetical protein	ta686_08190	1419676	1419817	Yes
+NA	Putative RNA-binding protein	ta686_08195	1420468	1422817	No
+NA	Transposase	ta686_08200	1422969	1423098	Yes
+NA	hypothetical protein	ta686_08205	1423469	1423814	Yes
+NA	hypothetical protein	ta686_08210	1424642	1425461	No
+glpE	Thiosulfate sulfurtransferase GlpE	ta686_08215	1425720	1426470	Yes
+tim44	transporter	ta686_08220	1426582	1427218	Yes
+NA	DDE superendonuclease family protein	ta686_08225	1428333	1428708	Yes
+NA	DDE superendonuclease family protein	ta686_08230	1428719	1429157	Yes
+NA	hypothetical protein	ta686_08235	1429459	1430026	No
+NA	Arm-DNA-bind-3 domain-containing protein	ta686_08240	1430446	1430722	No
+NA	Phage integrase family protein	ta686_08245	1430781	1431615	No
+bcp	peroxiredoxin	ta686_08250	1431635	1432106	No
+NA	hypothetical protein	ta686_08255	1432229	1432475	No
+NA	Conjugative transfer protein	ta686_08260	1432471	1432840	No
+NA	hypothetical protein	ta686_08265	1432820	1432973	No
+traK1	conjugal transfer protein traK1, complete TraK-1	ta686_08270	1432969	1433458	No
+NA	hypothetical protein	ta686_08275	1433803	1434031	No
+traB	conjugal transfer protein TraB, complete TraB	ta686_08280	1434172	1435510	No
+traV	conjugal transfer protein TraV, complete TraV	ta686_08285	1435509	1435839	No
+NA	TraC family protein	ta686_08290	1435819	1436428	No
+virB4	Type IV secretory pathway, VirB4 component	ta686_08295	1436405	1438310	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	ta686_08300	1438306	1438966	No
+NA	hypothetical protein	ta686_08305	1439049	1439253	No
+traU	conjugal transfer protein TraU, complete TraU	ta686_08310	1439253	1440231	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ta686_08315	1440306	1440639	No
+traN	conjugal transfer protein TraN, complete TraN	ta686_08320	1440635	1442324	No
+NA	hypothetical protein	ta686_08325	1442577	1443882	No
+gepA	DUF4065 domain-containing protein	ta686_08330	1443991	1444552	No
+traF	conjugal transfer protein TraF, complete TraF	ta686_08335	1444563	1445280	No
+NA	Conjugal transfer protein TraH	ta686_08340	1445276	1446170	No
+NA	Conjugal transfer protein TraH	ta686_08345	1446123	1446579	No
+traG	conjugal transfer protein TraG	ta686_08350	1446578	1447685	No
+traG	conjugal transfer protein TraG	ta686_08355	1447766	1449131	No
+NA	Tetratricopeptide repeat protein	ta686_08360	1449248	1450397	No
+traD	conjugal transfer protein TraD, complete TraD	ta686_08365	1450402	1452157	No
+NA	Putative permease	ta686_08370	1452166	1453114	Yes
+NA	Conjugal transfer protein TraI	ta686_08375	1453165	1454608	Yes
+NA	Putative conjugative transfer protein TraI	ta686_08380	1454866	1455829	Yes
+NA	Conjugal transfer protein TraA	ta686_08385	1456091	1456847	Yes
+traA	conjugal transfer protein TraA	ta686_08390	1456903	1458910	Yes
+NA	Conjugative transfer protein	ta686_08395	1459187	1459412	No
+scaF	ScaF autotransporter protein	ta686_08400	1459630	1461568	Yes
+NA	hypothetical protein	ta686_08405	1461615	1461723	No
+traD	conjugal transfer protein TraD, complete TraD	ta686_08410	1462255	1462708	No
+NA	hypothetical protein	ta686_08415	1463161	1464160	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ta686_08420	1464278	1464857	Yes
+baeS	sensor histidine kinase	ta686_08425	1464957	1465815	Yes
+NA	ATP-binding protein	ta686_08430	1465836	1466328	Yes
+NA	ATP-binding protein	ta686_08435	1466400	1466565	Yes
+NA	hypothetical protein	ta686_08440	1466919	1467510	Yes
+NA	Site-specific DNA-methyltransferase (adenine-specific)	ta686_08445	1468005	1468365	No
+NA	IS982 family transposase	ta686_08450	1468486	1469362	Yes
+NA	DUF2312 domain-containing protein	ta686_08455	1470359	1470605	Yes
+rnhB	ribonuclease HII	ta686_08460	1471310	1471928	Yes
+miaA	tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA	ta686_08465	1471997	1473035	No
+purF	amidophosphoribosyltransferase	ta686_08470	1473018	1473765	No
+dnaA	Chromosomal replication initiator protein DnaA	ta686_08475	1473895	1474546	No
+ycbZ	endopeptidase La	ta686_08480	1474609	1476982	Yes
+tdcB	threonine dehydratase	ta686_08485	1477098	1478112	No
+NA	IS982 family transposase	ta686_08490	1478285	1479161	Yes
+NA	hypothetical protein	ta686_08495	1479628	1479976	No
+NA	hypothetical protein	ta686_08500	1479963	1480485	Yes
+NA	hypothetical protein	ta686_08505	1480693	1480945	No
+NA	hypothetical protein	ta686_08510	1480913	1481189	Yes
+NA	hypothetical protein	ta686_08515	1481511	1482537	No
+NA	DDE superendonuclease family protein	ta686_08520	1482702	1482966	No
+NA	hypothetical protein	ta686_08525	1483149	1483731	No
+NA	peptidylprolyl isomerase	ta686_08530	1483767	1485225	Yes
+NA	hypothetical protein	ta686_08535	1485232	1485397	No
+tpiA	triose-phosphate isomerase	ta686_08540	1485400	1486150	No
+secG	preprotein translocase subunit SecG	ta686_08545	1486155	1486449	No
+lysS	lysine--tRNA ligase	ta686_08555	1487199	1488780	Yes
+dsbB	disulfide bond formation protein B	ta686_08560	1488904	1489468	No
+ubiB	ubiquinone biosynthesis protein UbiB	ta686_08565	1489430	1489976	No
+psd	phosphatidylserine decarboxylase	ta686_08570	1490052	1490745	No
+pssA	CDP-diacylglycerol--serine O-phosphatidyltransferase	ta686_08575	1490796	1491570	No
+mnhE	sodium:proton antiporter	ta686_08580	1491615	1492101	No
+NA	Multiple resistance and pH regulation F family protein	ta686_08585	1492097	1492346	No
+NA	PDDEXK-1 domain-containing protein	ta686_08590	1492381	1495210	No
+NA	hypothetical protein	ta686_08595	1495118	1495316	Yes
+ndh	NADH dehydrogenase	ta686_08600	1495401	1497072	Yes
+sucD	succinyl-CoA synthetase subunit alpha	ta686_08605	1497152	1498031	Yes
+sucC	succinyl-CoA ligase subunit beta	ta686_08610	1498045	1499206	Yes
+ubiH	2-polyprenyl-6-methoxyphenol 4-hydroxylase	ta686_08615	1499262	1500525	Yes
+trcR	cell cycle transcriptional regulator TrcR	ta686_08625	1500880	1501465	Yes
+ileS	isoleucine--tRNA ligase	ta686_08630	1501605	1504809	Yes
+NA	Ubiquinone biosynthesis protein COQ9	ta686_08635	1504845	1505451	Yes
+rpsU	30S ribosomal protein S21	ta686_08640	1505597	1505804	No
+holC	DNA polymerase III subunit chi	ta686_08645	1505832	1506342	Yes
+NA	Proline/betaine transporter	ta686_08650	1506436	1507690	No
+NA	hypothetical protein	ta686_08655	1507778	1507868	Yes
+NA	DUF5394 domain-containing protein	ta686_08660	1508034	1508763	No
+NA	Ankyrin repeat protein with 1d ankyrin repeats	ta686_08665	1508871	1510128	No
+NA	Ankyrin repeat protein with 1d ankyrin repeats	ta686_08670	1510216	1511401	No
+pnp	polyribonucleotide nucleotidyltransferase	ta686_08675	1511446	1513657	Yes
+rpsO	30S ribosomal protein S15	ta686_08680	1513989	1514259	Yes
+tru	tRNA pseudouridine(55) synthase	ta686_08685	1514282	1515191	Yes
+hipB	XRE family transcriptional regulator	ta686_08690	1515578	1516028	Yes
+curA	NADP-dependent oxidoreductase	ta686_08695	1516529	1517675	Yes
+ccmE	cytochrome c biogenesis protein CcmE	ta686_08700	1517985	1518393	No
+NA	DUF1189 domain-containing protein	ta686_08705	1518411	1519326	No
+ruvX	Holliday junction resolvase RuvX	ta686_08710	1519322	1519796	No
+recJ	single-stranded-DNA-specific exonuclease RecJ	ta686_08715	1519809	1521573	No
+NA	IS5 family transposase ISOt6	ta686_08720	1521679	1521778	Yes
+virB6-5	conjugal transfer protein	ta686_08725	1522560	1524777	Yes
+NA	RDD family protein	ta686_08730	1525936	1526413	No
+coxB	cytochrome c oxidase subunit II	ta686_08735	1526624	1527320	No
+NA	Putative reverse transcriptase	ta686_08740	1527886	1528012	Yes
+ykfC	Retron-type reverse transcriptase	ta686_08745	1528012	1528501	Yes
+NA	Transposase	ta686_08750	1529437	1529794	No
+NA	hypothetical protein	ta686_08755	1529873	1529966	No
+NA	Transposase	ta686_08760	1530009	1530138	No
+rnd	ribonuclease D	ta686_08765	1530354	1530987	Yes
+ftsB	Cell division protein FtsB	ta686_08770	1530993	1531293	Yes
+cdsA	phosphatidate cytidylyltransferase	ta686_08775	1531300	1531951	Yes
+uppS	polyprenyl diphosphate synthase	ta686_08780	1531953	1532649	Yes
+abcT	ABC transporter ATP-binding protein	ta686_08785	1532824	1534630	No
+dnaE	DNA polymerase III subunit alpha	ta686_08790	1534948	1538653	Yes
+valS	valine--tRNA ligase	ta686_08795	1538642	1541207	Yes
+ubiA	4-hydroxybenzoate octaprenyltransferase	ta686_08800	1541238	1542114	No
+NA	hypothetical protein	ta686_08805	1542371	1543142	Yes
+ldcA	LD-carboxypeptidase	ta686_08810	1543495	1544494	No
+NA	Toprim domain protein	ta686_08815	1544557	1544773	Yes
+NA	IS5 family transposase ISOt6	ta686_08820	1545302	1545419	No
+NA	DDE superendonuclease family protein	ta686_08825	1545433	1545634	No
+gdhA	NAD-glutamate dehydrogenase	ta686_08830	1545902	1550828	Yes
+mnmE	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE	ta686_08835	1550907	1552251	No
+xerC	recombinase XerC	ta686_08840	1552276	1553215	No
+dksA	RNA polymerase-binding protein DksA	ta686_08845	1553248	1553680	No
+ppa	inorganic pyrophosphatase	ta686_08850	1553765	1554293	No
+holB	DNA polymerase III subunit delta'	ta686_08855	1554316	1555189	No
+rluC	ribosomal large subunit pseudouridine synthase	ta686_08860	1555172	1556111	No
+NA	Dihydroneopterin aldolase	ta686_08865	1556762	1557185	No
+NA	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase	ta686_08870	1557181	1558498	No
+NA	hypothetical protein	ta686_08875	1558623	1559031	No
+NA	DDE superendonuclease family protein	ta686_08880	1559454	1559733	Yes
+NA	IS630 family transposase	ta686_08885	1559931	1560150	Yes
+NA	Integrase	ta686_08890	1560307	1560535	Yes
+NA	hypothetical protein	ta686_08895	1560736	1560883	Yes
+NA	Transposase	ta686_08900	1561171	1561474	No
+NA	Transposase	ta686_08905	1561795	1562191	No
+NA	hypothetical protein	ta686_08910	1562533	1562788	No
+NA	hypothetical protein	ta686_08915	1562876	1564271	Yes
+NA	DDE superendonuclease family protein	ta686_08920	1565062	1565401	Yes
+csa3	transposase	ta686_08925	1566115	1566421	Yes
+NA	peptidase	ta686_08930	1567187	1568048	Yes
+ssb	single-stranded DNA-binding protein	ta686_08935	1568126	1568594	Yes
+NA	Conjugal transfer protein	ta686_08940	1568749	1568986	Yes
+NA	Conjugal transfer protein	ta686_08945	1568966	1569362	Yes
+NA	SpoT ppGpp hydrolase	ta686_08950	1569403	1569682	Yes
+NA	hypothetical protein	ta686_08955	1569858	1570077	Yes
+NA	hypothetical protein	ta686_08960	1570130	1570334	No
+NA	IS5 family transposase ISOt6	ta686_08965	1570284	1570482	Yes
+NA	DDE superendonuclease family protein	ta686_08970	1570471	1570930	Yes
+NA	hypothetical protein	ta686_08975	1570975	1571077	Yes
+NA	Conjugal transfer protein TraE	ta686_08980	1571073	1571226	Yes
+NA	Conjugal transfer protein TraE	ta686_08985	1571364	1571616	Yes
+NA	hypothetical protein	ta686_08990	1571615	1571804	Yes
+NA	hypothetical protein	ta686_09000	1572927	1573131	No
+NA	IS5 family transposase ISOt6	ta686_09005	1573081	1573279	Yes
+NA	DDE superendonuclease family protein	ta686_09010	1573268	1573727	Yes
+NA	Znf/thioredoxin-put domain-containing protein	ta686_09015	1574126	1574771	Yes
+dapD	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	ta686_09020	1574870	1575722	No
+NA	hypothetical protein	ta686_09025	1576295	1576943	Yes
+NA	transposase	ta686_09030	1577169	1578072	Yes
+NA	DDE superendonuclease family protein	ta686_09035	1579049	1579388	Yes
+NA	N-terminal domain of reverse transcriptase family protein	ta686_09040	1580065	1580260	Yes
+tatA	twin-arginine translocase TatA/TatE family subunit	ta686_09045	1580960	1581119	Yes
+NA	hypothetical protein	ta686_09050	1581844	1582132	Yes
+NA	hypothetical protein	ta686_09055	1582428	1583142	No
+nuoF	NADH-quinone oxidoreductase subunit F	ta686_09060	1583438	1584707	Yes
+nuoE	NADH-quinone oxidoreductase subunit E	ta686_09065	1584724	1585279	Yes
+nuoD	NADH-quinone oxidoreductase subunit D	ta686_09070	1585275	1586466	Yes
+nuoC	NADH-quinone oxidoreductase subunit C	ta686_09075	1586477	1587068	Yes
+nuoB	NADH-quinone oxidoreductase subunit B	ta686_09080	1587078	1587594	Yes
+nuoA	NADH-quinone oxidoreductase subunit A	ta686_09085	1587606	1587978	Yes
+NA	hypothetical protein	ta686_09090	1588190	1588409	No
+NA	IS630 family transposase	ta686_09095	1589291	1589477	No
+NA	hypothetical protein	ta686_09100	1589498	1589804	No
+NA	IS982 family transposase	ta686_09105	1589821	1590493	Yes
+NA	hypothetical protein	ta686_09110	1590783	1591194	Yes
+tnp-IS110	IS110 family transposase	ta686_09115	1591385	1592228	Yes
+NA	hypothetical protein	ta686_09120	1592553	1592694	Yes
+NA	Tnp-DDE-dom domain-containing protein	ta686_09125	1593436	1593832	No
+NA	Transposase	ta686_09130	1593873	1594269	No
+NA	hypothetical protein	ta686_09135	1594409	1594715	Yes
+NA	hypothetical protein	ta686_09140	1594867	1595020	Yes
+NA	Conjugal transfer protein TraE	ta686_09145	1595028	1595460	Yes
+traL	conjugal transfer protein traL	ta686_09150	1595456	1595744	Yes
+NA	Integrase	ta686_09155	1595808	1596018	Yes
+NA	Integrase	ta686_09160	1596050	1596332	Yes
+NA	Phage integrase family protein	ta686_09165	1596312	1596477	Yes
+NA	Integrase	ta686_09170	1596868	1597063	Yes
+NA	hypothetical protein	ta686_09175	1597318	1597474	Yes
+putP	sodium:proline symporter	ta686_09180	1598627	1602062	Yes
+NA	transposase	ta686_09185	1602469	1602760	Yes
+araJ	MFS transporter	ta686_09190	1603535	1604735	No
+NA	hypothetical protein	ta686_09195	1605123	1607265	No
+ruvA	Holliday junction branch migration protein RuvA	ta686_09200	1607509	1608127	No
+ruvB	Holliday junction branch migration DNA helicase RuvB	ta686_09205	1608126	1609104	No
+coxC	cytochrome c oxidase subunit III	ta686_09210	1609285	1610110	No
+NA	F plasmid transfer operon family protein	ta686_09215	1610222	1610624	Yes
+NA	Conjugal transfer protein	ta686_09220	1610690	1610879	Yes
+NA	Conjugal transfer protein TraN	ta686_09225	1610884	1611160	Yes
+NA	Putative integrase, complete integrase	ta686_09230	1611587	1612814	No
+traL	conjugal transfer protein traL, complete TraL	ta686_09235	1612949	1613273	No
+NA	Conjugal transfer protein TraE	ta686_09240	1613272	1613692	No
+NA	Conjugal transfer protein TraE	ta686_09245	1613672	1613825	No
+NA	hypothetical protein	ta686_09250	1613821	1614148	No
+NA	DDE superendonuclease family protein	ta686_09255	1614139	1614409	Yes
+NA	DDE superendonuclease family protein	ta686_09260	1614557	1614995	Yes
+NA	Conjugal transfer protein TraC	ta686_09265	1615172	1615766	No
+NA	Conjugative transfer TraC domain protein	ta686_09270	1615735	1615927	No
+NA	Conjugal transfer protein TraC	ta686_09275	1615898	1616747	No
+NA	Ankyrin repeat family protein	ta686_09280	1616755	1617760	Yes
+NA	hypothetical protein	ta686_09285	1618032	1618665	No
+NA	Ankyrin repeat domain-containing protein	ta686_09290	1618895	1620125	No
+traF	conjugal transfer protein TraF, complete TraF	ta686_09295	1620475	1621192	No
+NA	Conjugal transfer protein TraH	ta686_09300	1621188	1621818	No
+NA	Conjugal transfer protein TraH	ta686_09305	1622012	1622492	No
+traG	conjugal transfer protein TraG	ta686_09310	1622491	1623007	No
+traG	conjugal transfer protein TraG	ta686_09315	1623003	1624626	No
+NA	Conjugal transfer protein	ta686_09320	1624631	1625117	No
+NA	Conjugal transfer protein TraD	ta686_09325	1625158	1625365	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	ta686_09330	1625375	1626362	No
+rpnC	Recombination-promoting DNA endonuclease RpnC/YadD	ta686_09335	1626371	1627313	Yes
+NA	Conjugal transfer protein TraD	ta686_09340	1627327	1627588	No
+NA	hypothetical protein	ta686_09345	1627671	1627815	No
+NA	hypothetical protein	ta686_09350	1627911	1628772	No
+NA	TPR repeat-containing protein 08	ta686_09355	1628808	1629219	No
+NA	transposase	ta686_09360	1629411	1630350	Yes
+NA	HD domain protein	ta686_09365	1630470	1630890	Yes
+baeS	ATP-binding protein	ta686_09370	1631109	1631604	Yes
+NA	ATP-binding protein	ta686_09375	1631702	1632305	Yes
+NA	Putative site-specific DNA adenine methylase	ta686_09380	1632514	1632655	No
+NA	Membrane protein	ta686_09385	1632739	1633162	Yes
+NA	Ankyrin repeat protein with 5 ankyrin repeats	ta686_09390	1633263	1633764	Yes
+dnaB	replicative DNA helicase	ta686_09395	1634123	1635572	Yes
+NA	DnaA-N domain-containing protein	ta686_09400	1635580	1636771	Yes
+NA	hypothetical protein	ta686_09405	1636721	1637258	Yes
+ykfC	reverse transcriptase	ta686_09410	1637417	1638569	No
+NA	Toprim domain protein	ta686_09415	1638945	1639497	No
+NA	Putative permease	ta686_09420	1639548	1640472	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	ta686_09425	1640481	1641357	Yes
+NA	Type II/IV secretion system family protein	ta686_09430	1641553	1641958	Yes
+NA	hypothetical protein	ta686_09435	1642164	1642281	Yes
+NA	AsmA-like C-terminal region	ta686_09440	1642565	1645097	Yes
+rimM	ribosome maturation factor RimM	ta686_09445	1645265	1645760	No
+mdh	malate dehydrogenase	ta686_09450	1645979	1646936	No
+topA	DNA topoisomerase I	ta686_09455	1647028	1649395	No
+NA	hypothetical protein	ta686_09460	1649394	1650780	No
+folD	bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase	ta686_09465	1650714	1651620	Yes
+gtaB	glycoside hydrolase TIM-barrel-like domain-containing protein	ta686_09470	1651616	1652633	Yes
+gtaB	glycoside hydrolase TIM-barrel-like domain-containing protein	ta686_09475	1652831	1655615	No
+ompA	peptidoglycan-associated lipoprotein	ta686_09480	1655881	1656490	Yes
+tsa47	type surface antigen 47kDa	ta686_09485	1656693	1658094	Yes
+hflC	protease modulator HflC	ta686_09490	1658111	1658978	Yes
+hflK	FtsH protease activity modulator HflK	ta686_09495	1659001	1660057	Yes
+mrp	ATP-binding protein	ta686_09500	1660238	1661270	No
+NA	hypothetical protein	ta686_09505	1661292	1661457	No
+NA	IS630 family transposase	ta686_09510	1661534	1661888	No
+NA	IS630 family transposase	ta686_09515	1661829	1661985	No
+NA	hypothetical protein	ta686_09520	1662260	1662665	Yes
+NA	hypothetical protein	ta686_09525	1662757	1663951	Yes
+NA	Conjugal transfer protein TraN	ta686_09530	1664057	1665131	Yes
+traU	conjugal transfer protein TraU, complete TraU	ta686_09535	1665177	1666155	Yes
+NA	IS982 family transposase	ta686_09540	1666403	1667279	No
+NA	Shikimate kinase family protein	ta686_09545	1667644	1668079	Yes
+NA	AbiEi-1 domain-containing protein	ta686_09550	1668499	1669306	No
+NA	Nucleotidyl transferase AbiEii/AbiGii toxin family protein	ta686_09555	1669302	1670088	No
+NA	hypothetical protein	ta686_09560	1670087	1670444	No
+NA	Protein kinase domain-containing protein	ta686_09565	1670595	1671120	No
+NA	Acetyltransferase domain protein	ta686_09570	1671116	1671683	No
+NA	hypothetical protein	ta686_09575	1671675	1671855	No
+NA	Methyltransf-11 domain-containing protein	ta686_09580	1671933	1672176	No
+NA	hypothetical protein	ta686_09585	1672370	1672487	No
+strB	streptomycin phosphotransferase	ta686_09590	1672908	1673532	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ta686_09595	1674621	1675791	No
+NA	DDE superendonuclease family protein	ta686_09600	1675906	1676281	Yes
+NA	DDE superendonuclease family protein	ta686_09605	1676292	1676730	Yes
+dLH	dienelactone hydrolase	ta686_09610	1677002	1677374	Yes
+NA	putative ester cyclase	ta686_09615	1677452	1677983	Yes
+NA	hypothetical protein	ta686_09620	1678160	1678412	No
+NA	hypothetical protein	ta686_09625	1678709	1678916	Yes
+NA	class I SAM-dependent methyltransferase	ta686_09630	1678982	1679168	Yes
+NA	Tetratricopeptide repeat family protein	ta686_09635	1679203	1679422	No
+NA	Putative conjugative transfer protein TraD	ta686_09640	1679636	1679849	No
+NA	transposase	ta686_09645	1679963	1680854	Yes
+NA	(P)ppGpp synthetase	ta686_09650	1680974	1681199	Yes
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	ta686_09655	1681263	1681455	Yes
+NA	hypothetical protein	ta686_09660	1681665	1681965	No
+NA	Conjugal transfer protein TraI	ta686_09665	1682142	1682625	Yes
+NA	Conjugal transfer protein TraA	ta686_09670	1683166	1684387	Yes
+rppH	RNA pyrophosphohydrolase	ta686_09675	1684761	1685247	No
+traA	conjugal transfer protein TraA	ta686_09680	1685829	1688172	No
+NA	Transposase	ta686_09685	1688420	1688600	Yes
+NA	IS5 family transposase ISOt6	ta686_09690	1688925	1689063	Yes
+glnA	glutamine synthetase	ta686_09695	1689196	1689964	Yes
+yfiH	Laccase domain protein YfiH	ta686_09700	1690028	1690760	No
+ccmC	heme exporter protein C	ta686_09705	1690752	1691463	No
+fdxA	ferredoxin	ta686_09710	1691467	1691788	No
+dsbA	thiol:disulfide interchange protein	ta686_09715	1691917	1692742	No
+sspB2	Stringent starvation protein B	ta686_09720	1692870	1693398	No
+rnhA	ribonuclease H	ta686_09725	1693397	1693904	No
+nuo	NADH ubiquinone oxidoreductase	ta686_09730	1693875	1694238	No
+mlaD	outer membrane lipid asymmetry maintenance protein MlaD	ta686_09735	1694242	1694728	No
+hisS	histidine--tRNA ligase	ta686_09740	1694730	1696002	No
+nusB	transcription antitermination factor NusB	ta686_09745	1696025	1696502	No
+NA	hypothetical protein	ta686_09750	1696809	1696944	No
+NA	DDE superendonuclease family protein	ta686_09755	1696912	1697350	No
+NA	DDE superendonuclease family protein	ta686_09760	1697361	1697736	No
+NA	Integrase	ta686_09765	1698709	1699042	No
+NA	Putative integrase	ta686_09770	1699057	1699792	No
+rpnC	Recombination-promoting DNA endonuclease RpnC/YadD	ta686_09775	1699867	1700071	Yes
+NA	Conjugal transfer protein TraI	ta686_09780	1700122	1700764	Yes
+NA	Toprim domain protein	ta686_09785	1701218	1702118	Yes
+NA	hypothetical protein	ta686_09790	1702066	1702219	Yes
+NA	hypothetical protein	ta686_09795	1702410	1703103	Yes
+NA	Conjugal transfer protein TraA	ta686_09800	1703269	1703848	Yes
+NA	Conjugal transfer protein TraA	ta686_09805	1703819	1704950	Yes
+NA	Conjugal transfer protein TraA	ta686_09810	1704934	1706266	Yes
+traD	conjugal transfer protein TraD, complete TraD	ta686_09815	1706545	1707001	No
+NA	transposase	ta686_09820	1707068	1708031	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ta686_09825	1708152	1708731	Yes
+baeS	sensor histidine kinase	ta686_09830	1708831	1709689	Yes
+NA	Histidine kinase domain-containing protein	ta686_09835	1709710	1710439	Yes
+NA	Replicative DNA helicase	ta686_09840	1710787	1711153	Yes
+NA	hypothetical protein	ta686_09845	1711802	1712054	No
+NA	hypothetical protein	ta686_09850	1712034	1712157	No
+NA	Retron-type reverse transcriptase	ta686_09855	1712236	1712419	No
+NA	Transposase and inactivated derivative	ta686_09860	1712727	1713507	Yes
+NA	Transposase family protein	ta686_09865	1713506	1713701	Yes
+pBP2	penicillin-binding protein 2	ta686_09870	1713909	1715661	Yes
+mreD	Rod shape-determining protein MreD	ta686_09875	1715650	1716136	Yes
+rodA	rod shape-determining protein RodA	ta686_09880	1716147	1717275	Yes
+tsaE	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE	ta686_09885	1717445	1717868	Yes
+alkA	3-methyladenine DNA glycosylase	ta686_09890	1717883	1718420	Yes
+ftsH	ATP-dependent metalloprotease	ta686_09895	1718454	1720338	Yes
+tilS	tRNA lysidine(34) synthetase TilS	ta686_09900	1720354	1721680	Yes
+nuoN	NADH-quinone oxidoreductase subunit N	ta686_09905	1721764	1723204	Yes
+nuoM	NADH-quinone oxidoreductase subunit M	ta686_09910	1723248	1724748	Yes
+erhM	2-hydroxyacid dehydrogenase	ta686_09915	1724748	1726656	Yes
+nuoK	NADH-quinone oxidoreductase subunit K	ta686_09920	1726659	1726983	Yes
+nuoJ	NADH:ubiquinone oxidoreductase subunit J	ta686_09925	1726966	1727575	Yes
+nuoI	NADH-quinone oxidoreductase subunit I	ta686_09930	1727578	1728064	Yes
+nuoH	NADH:ubiquinone oxidoreductase subunit H	ta686_09935	1728117	1729161	Yes
+nuoG	NADH-quinone oxidoreductase subunit G	ta686_09940	1729217	1731257	Yes
+frr	ribosome-recycling factor	ta686_09945	1731536	1732100	No
+NA	porin	ta686_09950	1732300	1733581	Yes
+dcd	deoxycytidine triphosphate deaminase	ta686_09955	1734174	1734741	No
+secB	protein-export protein SecB	ta686_09960	1734782	1735265	No
+NA	hypothetical protein	ta686_09965	1735667	1735967	Yes
+NA	DDE superendonuclease family protein	ta686_09970	1736805	1737000	No
+NA	Putative transposase	ta686_09975	1737126	1737243	No
+NA	hypothetical protein	ta686_09980	1737364	1737634	No
+NA	hypothetical protein	ta686_09985	1738091	1739582	No
+uvrD	ATP-dependent DNA helicase UvrD	ta686_09990	1740101	1742243	Yes
+NA	hypothetical protein	ta686_09995	1742456	1742678	No
+NA	hypothetical protein	ta686_10000	1742966	1743806	Yes
+NA	Putative integrase, complete integrase	ta686_10005	1745617	1746844	No
+traL	conjugal transfer protein traL, complete TraL	ta686_10010	1746981	1747305	No
+NA	Conjugal transfer protein TraE	ta686_10015	1747304	1747511	No
+NA	Conjugal transfer protein TraE	ta686_10020	1747531	1747852	No
+NA	Transposase	ta686_10025	1748191	1748506	No
+NA	hypothetical protein	ta686_10030	1748676	1749795	No
+NA	hypothetical protein	ta686_10035	1749841	1750018	Yes
+NA	hypothetical protein	ta686_10040	1750438	1750690	No
+NA	Conjugal transfer protein	ta686_10045	1750952	1751132	No
+NA	Conjugal transfer protein	ta686_10050	1751243	1751426	No
+NA	hypothetical protein	ta686_10055	1751624	1751825	No
+NA	Integrase	ta686_10060	1751957	1752713	No
+NA	Toprim domain protein	ta686_10065	1753047	1753626	Yes
+traA	conjugal transfer protein TraA	ta686_10070	1753597	1756021	Yes
+traD	conjugal transfer protein TraD, complete TraD	ta686_10075	1756299	1756755	No
+NA	hypothetical protein	ta686_10080	1757024	1757900	No
+NA	(P)ppGpp synthetase	ta686_10085	1758073	1758298	Yes
+NA	hypothetical protein	ta686_10090	1759402	1759600	No
+NA	hypothetical protein	ta686_10095	1759797	1760103	No
+NA	IS5 family transposase ISOt6	ta686_10100	1760536	1760755	No
+tnp-IS630	IS630 family transposase	ta686_10105	1761151	1761658	No
+NA	Reverse transcriptase domain-containing protein	ta686_10110	1761679	1762219	No
+NA	IS982 family transposase	ta686_10115	1762220	1762826	Yes
+NA	Phosphoribosylaminoimidazolesuccinocarboxamide synthase	ta686_10120	1763432	1763594	Yes
+NA	hypothetical protein	ta686_10125	1763603	1763987	Yes
+yfjG	ubiquinone-binding protein	ta686_10130	1763946	1764393	Yes
+lipA	lipoyl synthase	ta686_10135	1764413	1765322	Yes
+sppA	signal peptide peptidase SppA	ta686_10140	1765332	1766241	Yes
+smpB	SsrA-binding protein SmpB	ta686_10145	1766261	1766723	Yes
+dapA	4-hydroxy-tetrahydrodipicolinate synthase	ta686_10150	1766725	1767622	Yes
+ilvE	branched chain amino acid aminotransferase	ta686_10155	1767602	1768505	Yes
+recD	ATP-dependent RecD-like DNA helicase	ta686_10160	1768793	1770989	Yes
+rplS	50S ribosomal protein L19	ta686_10165	1771015	1771390	Yes
+trmD	tRNA (guanine(37)-N(1))-methyltransferase	ta686_10170	1771386	1772151	Yes
+NA	hypothetical protein	ta686_10175	1772198	1774049	Yes
+popZ	Cell pole-organizing protein PopZ	ta686_10180	1774050	1774617	Yes
+tolC	TolC family protein	ta686_10185	1774667	1776041	Yes
+xerD	site-specific tyrosine recombinase XerD	ta686_10195	1776384	1777314	No
+NA	Transposase	ta686_10200	1777559	1777910	No
+NA	Transposase	ta686_10205	1777872	1778421	No
+NA	Arm-DNA-bind-3 domain-containing protein	ta686_10210	1778482	1778731	Yes
+NA	Putative integrase	ta686_10215	1778714	1778894	Yes
+groES	Co-chaperonin GroES	ta686_10220	1779443	1779728	No
+groEL	molecular chaperone GroEL	ta686_10225	1779800	1781465	No
+acpS	holo-ACP synthase	ta686_10230	1782185	1782581	Yes
+spoT	bifunctional (p)ppGpp synthase/hydrolase SpoT	ta686_10235	1782591	1784727	Yes
+rpoZ	DNA-directed RNA polymerase subunit omega	ta686_10240	1784745	1785129	Yes
+yccA	modulator of FtsH protease YccA	ta686_10245	1785426	1786167	No
+NA	hypothetical protein	ta686_10250	1786284	1786617	No
+nrfF	Cytochrome C biogenesis protein	ta686_10255	1786639	1787017	No
+obgE	GTPase ObgE	ta686_10260	1787033	1788026	No
+NA	DDE superendonuclease family protein	ta686_10265	1788337	1788670	Yes
+NA	Putative transposase	ta686_10270	1788712	1788898	Yes
+NA	Sporulation related domain protein	ta686_10275	1789733	1790489	Yes
+argS	arginine--tRNA ligase	ta686_10280	1790500	1792273	Yes
+iscA	iron-sulfur cluster assembly accessory protein	ta686_10285	1792438	1792783	No
+gltX	glutamate--tRNA ligase	ta686_10290	1792791	1794240	Yes
+alaS	alanine--tRNA ligase	ta686_10295	1794404	1797071	Yes
+NA	hypothetical protein	ta686_10300	1797203	1798817	No
+NA	hypothetical protein	ta686_10305	1798818	1799451	No
+atpG	ATPase	ta686_10310	1799461	1800352	Yes
+atpA	ATP synthase subunit alpha	ta686_10315	1800366	1801905	Yes
+atpH	ATP synthase subunit delta	ta686_10320	1801948	1802494	Yes
+dut	deoxyuridine 5'-triphosphate nucleotidohydrolase	ta686_10325	1802588	1803035	Yes
+infC	translation initiation factor IF-3	ta686_10330	1803201	1803747	Yes
+thrS	threonine--tRNA ligase	ta686_10335	1803757	1805704	Yes
+folC	bifunctional folylpolyglutamate synthase/dihydrofolate synthase	ta686_10340	1805963	1807295	No
+NA	peptidylprolyl isomerase	ta686_10345	1807394	1808429	Yes
+secA	preprotein translocase subunit SecA	ta686_10350	1808674	1811317	No
+NA	hypothetical protein	ta686_10355	1811341	1811476	No
+NA	hypothetical protein	ta686_10360	1811513	1811603	No
+NA	IS982 family transposase	ta686_10365	1811926	1812511	No
+NA	HTH-Tnp-4 domain-containing protein	ta686_10370	1813154	1813448	No
+NA	IS5 family transposase ISOt6	ta686_10375	1813619	1813853	No
+NA	hypothetical protein	ta686_10380	1814067	1814199	Yes
+NA	hypothetical protein	ta686_10385	1815100	1815214	Yes
+NA	OmpA-like, putative autotransporter	ta686_10390	1815228	1817199	No
+NA	Reverse transcriptase family protein	ta686_10395	1818871	1819348	Yes
+clpP	ATP-dependent Clp protease proteolytic subunit	ta686_10400	1819459	1820080	Yes
+NA	DDE superendonuclease family protein	ta686_10405	1820589	1820784	No
+NA	IS5 family transposase ISOt6	ta686_10410	1820910	1821027	No
+NA	DDE superendonuclease family protein	ta686_10415	1821143	1821413	No
+NA	hypothetical protein	ta686_10420	1823548	1824295	Yes
+rpsI	30S ribosomal protein S9	ta686_10430	1824633	1825125	Yes
+rplM	50S ribosomal protein L13	ta686_10435	1825128	1825611	Yes
+truA	tRNA pseudouridine(38-40) synthase TruA	ta686_10440	1825752	1826604	No
+prmC	peptide chain release factor N(5)-glutamine methyltransferase	ta686_10445	1826605	1827472	No
+ubiG	bifunctional 3-demethylubiquinone 3-O-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase	ta686_10450	1827458	1828199	Yes
+yggU	UPF0235 protein OTT_0925	ta686_10455	1828362	1828701	No
+dusB	tRNA dihydrouridine synthase DusB	ta686_10460	1828729	1829698	Yes
+ruvC	crossover junction endodeoxyribonuclease RuvC	ta686_10465	1829753	1830233	Yes
+NA	TrbC/VIRB2 pilin	ta686_10470	1830414	1830768	Yes
+NA	TrbC/VIRB2 family protein	ta686_10475	1830825	1831188	Yes
+NA	TrbC/VIRB2 family protein	ta686_10480	1831250	1831607	Yes
+tlc	ATP/ADP translocase	ta686_10485	1831851	1833351	Yes
+NA	hypothetical protein	ta686_10490	1834421	1836287	Yes
+proP	proline/betaine transporter	ta686_10495	1836851	1838072	Yes
+hemC	hydroxymethylbilane synthase	ta686_10500	1838383	1839280	Yes
+icd	isocitrate dehydrogenase	ta686_10505	1839453	1841010	No
+putP	sodium:proline symporter	ta686_10515	1842538	1845976	No
+NA	Transposase	ta686_10520	1845914	1846583	No
+NA	hypothetical protein	ta686_10525	1846579	1846741	Yes
+NA	hypothetical protein	ta686_10530	1846749	1847238	No
+NA	hypothetical protein	ta686_10535	1847367	1848453	No
+NA	hypothetical protein	ta686_10540	1848914	1849433	Yes
+NA	hypothetical protein	ta686_10545	1849717	1850074	No
+NA	IS630 family transposase	ta686_10550	1850272	1850620	No
+recO	DNA repair protein RecO	ta686_10555	1850885	1851611	Yes
+NA	hypothetical protein	ta686_10560	1851671	1852184	Yes
+hemW	radical SAM family heme chaperone HemW	ta686_10565	1852227	1853427	Yes
+mlaC	MlaC protein	ta686_10570	1853454	1854039	Yes
+mlaA	ABC transporter	ta686_10575	1854041	1854875	Yes
+ubiG	Ubiquinone biosynthesis O-methyltransferase	ta686_10580	1854934	1855972	Yes
+aatA	aspartate aminotransferase	ta686_10585	1856078	1857281	No
+NA	hypothetical protein	ta686_10590	1857570	1859157	No
+NA	DDE superendonuclease family protein	ta686_10595	1859591	1859777	Yes
+tnp-IS630	IS630 family transposase	ta686_10600	1859931	1860306	Yes
+NA	DDE superendonuclease family protein	ta686_10605	1860476	1860803	Yes
+NA	HTH-Tnp-4 domain-containing protein	ta686_10610	1860812	1860971	Yes
+NA	Ulp1 family isopeptidase	ta686_10615	1861214	1865273	No
+NA	hypothetical protein	ta686_10620	1865698	1866265	No
+NA	Arm-DNA-bind-3 domain-containing protein	ta686_10625	1866685	1866961	No
+NA	Phage integrase family protein	ta686_10630	1867020	1867854	No
+bcp	peroxiredoxin	ta686_10635	1867874	1868345	No
+NA	hypothetical protein	ta686_10640	1868468	1868714	No
+NA	Conjugal transfer protein TraE	ta686_10645	1868710	1869142	No
+NA	hypothetical protein	ta686_10650	1869150	1869303	No
+NA	hypothetical protein	ta686_10655	1869455	1869761	No
+NA	Transposase	ta686_10660	1869864	1870461	Yes
+NA	hypothetical protein	ta686_10665	1870615	1871191	No
+NA	DnaA-N domain-containing protein	ta686_10670	1871232	1872294	No
+dnaB	Replicative DNA helicase	ta686_10675	1872302	1873454	No
+NA	Replicative DNA helicase	ta686_10680	1873531	1873732	No
+NA	hypothetical protein	ta686_10685	1873967	1874087	No
+NA	Putative conjugative transfer protein	ta686_10690	1875007	1875226	Yes
+NA	TraE family protein	ta686_10695	1875222	1875552	Yes
+traL	conjugal transfer protein traL, complete TraL	ta686_10700	1875551	1875875	Yes
+NA	IS630 family transposase	ta686_10705	1876085	1876220	No
+NA	hypothetical protein	ta686_10710	1876275	1876881	No
+NA	Putative transposase	ta686_10720	1877749	1878010	No
+NA	Transposase	ta686_10725	1878027	1878399	No
+NA	hypothetical protein	ta686_10730	1878618	1878750	Yes
+NA	hypothetical protein	ta686_10735	1878816	1879023	No
+kdpD	hybrid sensor histidine kinase/response regulator	ta686_10740	1879235	1882463	Yes
+NA	Transposase	ta686_10745	1883556	1883676	Yes
+NA	DDE superendonuclease family protein	ta686_10750	1883681	1883975	Yes
+NA	Transposase family protein	ta686_10755	1884121	1884334	Yes
+potE	Serine transporter YbeC, amino acid:H+ symporter family	ta686_10760	1884532	1885831	Yes
+NA	hypothetical protein	ta686_10765	1886140	1886230	Yes
+NA	IS5 family transposase ISOt6	ta686_10770	1886346	1886445	Yes
+NA	HTH-Tnp-4 domain-containing protein	ta686_10775	1886751	1887045	Yes
+NA	hypothetical protein	ta686_10780	1887199	1887958	No
+NA	Ankyrin repeat-containing protein	ta686_10785	1887938	1888715	Yes
+NA	hypothetical protein	ta686_10790	1889082	1890258	No
+NA	Transposase, YhgA-like family protein	ta686_10795	1890265	1890562	Yes
+NA	Conjugal transfer protein TraI	ta686_10800	1890613	1892230	Yes
+NA	hypothetical protein	ta686_10805	1892178	1892331	Yes
+NA	hypothetical protein	ta686_10810	1892522	1893215	Yes
+NA	Conjugal transfer protein TraA	ta686_10815	1893381	1893960	Yes
+NA	Conjugal transfer protein TraA	ta686_10820	1893931	1895062	Yes
+NA	Conjugal transfer protein TraA	ta686_10825	1895046	1896378	Yes
+NA	Conjugal transfer TraD family protein	ta686_10830	1896654	1896813	No
+NA	Conjugal transfer protein TraD	ta686_10835	1896938	1897109	No
+NA	transposase	ta686_10840	1897177	1898140	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ta686_10845	1898261	1898840	Yes
+baeS	sensor histidine kinase	ta686_10850	1898940	1899798	Yes
+NA	ATP-binding protein	ta686_10855	1899819	1900218	Yes
+NA	IS5 family transposase ISOt6	ta686_10860	1900420	1900600	No
+NA	Putative transposase	ta686_10865	1900662	1900779	No
+NA	DDE superendonuclease family protein	ta686_10870	1900790	1900988	No
+NA	ATP-binding protein	ta686_10875	1901261	1901384	Yes
+dam	DNA methyltransferase	ta686_10880	1901750	1902554	No
+NA	hypothetical protein	ta686_10885	1902652	1903882	No
+NA	hypothetical protein	ta686_10890	1903940	1904036	No
+NA	hypothetical protein	ta686_10895	1904050	1904377	No
+NA	Ankyrin	ta686_10900	1904430	1904712	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ta686_10905	1904746	1905322	Yes
+NA	Transposase DDE domain protein	ta686_10910	1905646	1906006	No
+ftsY	signal recognition particle-docking protein FtsY	ta686_10915	1906194	1907136	Yes
+NA	DUF2660 domain-containing protein	ta686_10920	1907247	1907637	No
+virB9-1	P-type conjugative transfer protein VirB9	ta686_10925	1907936	1908698	Yes
+virB8-1	type VI secretion protein	ta686_10930	1908687	1909389	Yes
+NA	hypothetical protein	ta686_10945	1913086	1913227	Yes
+NA	Transposase family protein	ta686_10950	1913672	1914050	No
+NA	IS110 family transposase	ta686_10955	1914074	1914491	No
+NA	hypothetical protein	ta686_10960	1914462	1914657	No
+NA	IS982 family transposase	ta686_10965	1914995	1915475	No
+NA	TraE family protein	ta686_10970	1915474	1915789	No
+NA	hypothetical protein	ta686_10975	1916022	1916259	No
+NA	hypothetical protein	ta686_10980	1916319	1916499	No
+NA	Conjugal transfer protein TraC	ta686_10985	1916607	1917552	No
+NA	Ankyrin repeat-containing protein	ta686_10990	1917609	1918134	Yes
+NA	hypothetical protein	ta686_10995	1918250	1918388	Yes
+NA	Putative ompA-like autotransporter	ta686_11000	1918928	1919210	No
+NA	Putative site-specific DNA adenine methylase	ta686_11005	1919213	1919354	Yes
+NA	ATP-binding protein	ta686_11010	1919701	1919965	No
+NA	hypothetical protein	ta686_11015	1920084	1920486	No
+NA	Histidine kinase	ta686_11020	1920606	1920876	No
+NA	ATP-binding protein	ta686_11025	1920890	1921028	No
+kdpD	K+-sensing histidine kinase KdpD	ta686_11030	1921214	1921502	No
+NA	ATP-binding protein	ta686_11035	1921580	1921697	No
+NA	Putative signal transduction histidine kinase	ta686_11040	1921771	1922047	No
+baeS	sensor histidine kinase	ta686_11045	1922095	1922575	No
+NA	ATP-binding protein	ta686_11050	1922591	1923449	No
+baeS	ATP-binding protein	ta686_11055	1923544	1924039	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ta686_11060	1924080	1924668	No
+NA	hypothetical protein	ta686_11065	1924788	1925823	No
+NA	Conjugal transfer protein TraD	ta686_11070	1925899	1926175	Yes
+NA	hypothetical protein	ta686_11075	1926473	1927439	No
+traD	conjugal transfer protein TraD, complete TraD	ta686_11080	1927508	1927964	Yes
+NA	Conjugal transfer protein TraA	ta686_11085	1928240	1929572	No
+NA	Conjugal transfer protein TraA	ta686_11090	1929556	1930687	No
+NA	Conjugal transfer protein TraA	ta686_11095	1930658	1931237	No
+NA	Conjugal transfer protein TraI	ta686_11100	1931854	1933318	No
+NA	Toprim domain protein	ta686_11105	1933326	1933878	No
+NA	Putative permease	ta686_11110	1933929	1934877	No
+traD	conjugal transfer protein TraD, complete TraD	ta686_11115	1934886	1936641	Yes
+NA	hypothetical protein	ta686_11120	1936644	1937790	Yes
+traG	conjugal transfer protein TraG, complete TraG	ta686_11125	1937805	1940589	Yes
+traG	conjugal transfer protein TraG	ta686_11130	1940733	1941825	No
+NA	Conjugal transfer protein	ta686_11135	1941830	1942316	No
+NA	Conjugal transfer protein TraD	ta686_11140	1942357	1942564	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	ta686_11145	1942574	1943561	No
+NA	Putative permease	ta686_11150	1943570	1944476	Yes
+NA	Conjugal transfer protein TraI	ta686_11155	1944527	1945169	Yes
+NA	Toprim domain protein	ta686_11160	1945623	1946523	Yes
+NA	hypothetical protein	ta686_11165	1946471	1946624	Yes
+NA	hypothetical protein	ta686_11170	1946815	1947592	Yes
+NA	Conjugal transfer protein TraA	ta686_11175	1947758	1948337	Yes
+NA	Conjugal transfer protein TraA	ta686_11180	1948308	1949439	Yes
+NA	Conjugal transfer protein TraA	ta686_11185	1949423	1950755	Yes
+NA	Conjugal transfer TraD family protein	ta686_11190	1951087	1951189	No
+NA	Conjugal transfer protein TraD	ta686_11195	1951314	1951485	No
+NA	transposase	ta686_11200	1951553	1952528	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ta686_11205	1952649	1953228	Yes
+baeS	sensor histidine kinase	ta686_11210	1953328	1954186	Yes
+NA	Histidine kinase domain-containing protein	ta686_11215	1954207	1954936	Yes
+NA	hypothetical protein	ta686_11220	1955284	1956001	Yes
+dam	DNA methyltransferase	ta686_11225	1956532	1957342	No
+NA	Putative ompA-like autotransporter	ta686_11230	1957345	1957849	Yes
+NA	Ankyrin repeat protein with 5 ankyrin repeats	ta686_11235	1957946	1958462	Yes
+dnaB	replicative DNA helicase	ta686_11240	1958821	1960252	Yes
+NA	DnaA-N domain-containing protein	ta686_11245	1960260	1961001	Yes
+NA	hypothetical protein	ta686_11250	1961400	1961820	Yes
+xthA2	exodeoxyribonuclease III	ta686_11255	1962258	1963053	Yes
+NA	Integrase	ta686_11260	1963620	1963785	Yes
+sco1	SCO family protein	ta686_11265	1964352	1965003	Yes
+csa3	IS630 family transposase	ta686_11270	1966071	1966548	Yes
+NA	Type-F conjugative transfer system pilin assembly protein TrbC	ta686_11275	1966770	1966989	No
+NA	hypothetical protein	ta686_11280	1966985	1967156	No
+NA	Transposase	ta686_11285	1967130	1967487	No
+NA	DDE superendonuclease family protein	ta686_11290	1967498	1967873	No
+NA	hypothetical protein	ta686_11295	1967864	1968020	Yes
+NA	hypothetical protein	ta686_11300	1968172	1968325	Yes
+NA	Conjugal transfer protein TraE	ta686_11305	1968333	1968765	Yes
+NA	hypothetical protein	ta686_11310	1968761	1969007	Yes
+bcp	peroxiredoxin	ta686_11315	1969130	1969601	Yes
+NA	Phage integrase family protein	ta686_11320	1969621	1970455	Yes
+NA	Arm-DNA-bind-3 domain-containing protein	ta686_11325	1970514	1970790	Yes
+NA	hypothetical protein	ta686_11330	1972107	1972818	No
+NA	Transposase	ta686_11335	1973121	1973277	No
+NA	DDE-3 domain-containing protein	ta686_11340	1973957	1974308	No
+ubiD	3-polyprenyl-4-hydroxybenzoate decarboxylase	ta686_11345	1974473	1975967	Yes
+ygaA	Uncharacterized membrane protein YqaA, VTT domain	ta686_11350	1976297	1976732	No
+NA	Transposase family protein	ta686_11355	1977077	1977446	No
+NA	DDE superendonuclease family protein	ta686_11360	1977439	1977901	No
+NA	IS5 family transposase ISOt6	ta686_11370	1978841	1979111	Yes
+NA	HTH-Tnp-4 domain-containing protein	ta686_11375	1979233	1979719	Yes
+NA	hypothetical protein	ta686_11380	1979894	1980161	No
+NA	Putative integrase	ta686_11385	1980199	1980346	No
+NA	hypothetical protein	ta686_11390	1980619	1980865	No
+NA	TraE protein	ta686_11395	1980861	1981293	No
+NA	hypothetical protein	ta686_11400	1981301	1981454	No
+traK1	conjugal transfer protein traK1	ta686_11405	1981450	1981840	No
+NA	hypothetical protein	ta686_11410	1981984	1982155	No
+traN	conjugal transfer protein TraN, complete TraN	ta686_11415	1982716	1984411	No
+NA	Ankyrin repeat domain-containing protein	ta686_11420	1984569	1985334	No
+NA	hypothetical protein	ta686_11425	1985687	1985897	No
+traF	conjugal transfer protein TraF	ta686_11430	1985940	1986618	No
+NA	Putative conjugative transfer protein TraH	ta686_11435	1986614	1987244	No
+NA	Conjugal transfer protein TraH	ta686_11440	1987438	1987918	No
+traG	conjugal transfer protein TraG	ta686_11445	1987917	1988367	No
+traG	conjugal transfer protein TraG	ta686_11450	1988370	1989219	No
+NA	Tetratricopeptide repeat family protein	ta686_11455	1989202	1989424	No
+NA	Conjugal transfer protein	ta686_11460	1989636	1989975	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	ta686_11465	1989985	1990972	No
+rpnC	Recombination-promoting DNA endonuclease RpnC/YadD	ta686_11470	1990981	1991941	Yes
+NA	Conjugal transfer protein TraI	ta686_11475	1991992	1993261	Yes
+NA	hypothetical protein	ta686_11480	1993368	1994433	No
+NA	Conjugal transfer protein TraA	ta686_11485	1994679	1995408	Yes
+NA	AAA family ATPase	ta686_11490	1995367	1995895	Yes
+NA	hypothetical protein	ta686_11495	1996313	1996442	No
+uvrA	excinuclease ABC subunit A	ta686_11500	1996781	1999655	No
+NA	Transposase family protein	ta686_11505	1999905	2000100	No
+NA	DDE-3 domain-containing protein	ta686_11510	2000478	2000706	No
+NA	DDE superendonuclease family protein	ta686_11515	2000820	2001015	No
+NA	DDE superendonuclease family protein	ta686_11520	2001141	2001258	No
+NA	DDE superendonuclease family protein	ta686_11525	2001269	2001644	No
+raiA	Ribosome-associated translation inhibitor RaiA	ta686_11530	2001798	2002125	Yes
+baeS	Signal transduction histidine kinase	ta686_11535	2002405	2003968	No
+NA	hypothetical protein	ta686_11540	2004087	2004225	No
+NA	N-terminal domain of reverse transcriptase family protein	ta686_11545	2005175	2005418	No
+NA	hypothetical protein	ta686_11550	2005743	2006028	No
+NA	Conjugative transfer protein TraC	ta686_11555	2006120	2006531	Yes
+secD	protein translocase subunit SecD	ta686_11570	2007961	2009524	Yes
+yajC	preprotein translocase subunit YajC	ta686_11575	2009520	2009901	Yes
+dnaQ	DNA polymerase III subunit epsilon	ta686_11580	2010819	2011488	Yes
+NA	hypothetical protein	ta686_11585	2011992	2012460	No
+NA	hypothetical protein	ta686_11590	2012460	2013684	No
+NA	DnaB-like helicase C terminal domain protein	ta686_11595	2013764	2013884	Yes
+NA	hypothetical protein	ta686_11600	2013998	2014127	No
+NA	hypothetical protein	ta686_11605	2014179	2014350	No
+NA	GIIM domain-containing protein	ta686_11610	2014521	2014731	No
+NA	hypothetical protein	ta686_11615	2014872	2015037	No
+NA	hypothetical protein	ta686_11620	2015036	2015246	No
+NA	hypothetical protein	ta686_11625	2015488	2015653	No
+NA	Putative conjugative transfer protein TraB	ta686_11630	2015869	2016178	No
+NA	Conjugal transfer protein	ta686_11635	2016264	2016639	No
+NA	hypothetical protein	ta686_11640	2017130	2017409	Yes
+NA	Transposase	ta686_11645	2017503	2017623	Yes
+rmd1	ribonuclease D	ta686_11650	2017842	2018712	No
+NA	HTH-Tnp-4 domain-containing protein	ta686_11655	2019732	2020026	No
+NA	DDE superendonuclease family protein	ta686_11660	2020197	2020461	No
+NA	DDE superendonuclease family protein	ta686_11665	2020659	2021004	No
+NA	IS5 family transposase ISOt6	ta686_11670	2021032	2021158	No
+NA	IS982 family transposase	ta686_11675	2021327	2022203	No
+NA	DDE superendonuclease family protein	ta686_11680	2022535	2022829	Yes
+NA	Transposase family protein	ta686_11685	2022994	2023189	Yes
+recF	DNA replication/repair protein RecF	ta686_11690	2023443	2024583	Yes
+ftsQ	cell division protein FtsQ	ta686_11695	2024600	2025431	Yes
+ddl	D-alanine--D-alanine ligase	ta686_11700	2025423	2026398	Yes
+murB	UDP-N-acetylenolpyruvoylglucosamine reductase	ta686_11705	2026348	2027287	Yes
+murC	UDP-N-acetylmuramate--L-alanine ligase	ta686_11710	2027255	2028764	Yes
+NA	Type specific antigen	ta686_11715	2028931	2029669	Yes
+tsa56	type-specific antigen TSA56	ta686_11720	2029896	2031495	Yes
+glyQ	glycine--tRNA ligase subunit alpha	ta686_11725	2032041	2032920	No
+glyS	glycine--tRNA ligase subunit beta	ta686_11730	2032912	2034964	No
+tsaC	threonylcarbamoyl-AMP synthase	ta686_11735	2034941	2035910	No
+NA	IS982 family transposase	ta686_11740	2036016	2036853	No
+NA	Copper(I)-binding protein	ta686_11745	2037015	2037558	Yes
+NA	hypothetical protein	ta686_11750	2037914	2038319	No
+NA	hypothetical protein	ta686_11755	2038914	2041602	Yes
+NA	Integrase	ta686_11760	2042490	2042616	No
+NA	Integrase	ta686_11765	2042661	2043327	No
+NA	Putative integrase	ta686_11770	2043365	2043590	No
+NA	Phage integrase family protein	ta686_11775	2043729	2043924	No
+traL	conjugal transfer protein traL	ta686_11780	2044071	2044353	No
+NA	Putative integrase, complete integrase	ta686_11785	2044774	2045953	No
+NA	DDE superendonuclease family protein	ta686_11790	2046094	2046352	Yes
+NA	DDE superendonuclease family protein	ta686_11795	2046468	2046906	Yes
+traL	conjugal transfer protein traL, complete TraL	ta686_11800	2046996	2047320	No
+NA	Conjugal transfer protein TraE	ta686_11805	2047319	2047739	No
+NA	Conjugal transfer protein TraE	ta686_11810	2047719	2047872	No
+traK1	conjugal transfer protein traK1, complete TraK-1	ta686_11815	2047868	2048357	No
+NA	hypothetical protein	ta686_11820	2048501	2049086	Yes
+NA	Conjugal transfer protein	ta686_11825	2049125	2049254	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	ta686_11830	2049296	2049623	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	ta686_11835	2049756	2050245	Yes
+NA	Conjugal transfer protein TraE	ta686_11840	2050241	2050394	Yes
+NA	Conjugal transfer protein TraE	ta686_11845	2050374	2050794	Yes
+traL	conjugal transfer protein traL, complete TraL	ta686_11850	2050793	2051117	Yes
+NA	DDE superendonuclease family protein	ta686_11855	2051207	2051645	No
+NA	DDE superendonuclease family protein	ta686_11860	2051761	2052019	No
+NA	Phage integrase family protein	ta686_11865	2052160	2052853	Yes
+NA	Integrase	ta686_11870	2052864	2053338	Yes
+NA	Putative integrase	ta686_11875	2053665	2054037	Yes
+NA	Putative integrase domain protein	ta686_11880	2054159	2054327	Yes
+trxB	thioredoxin-disulfide reductase	ta686_11885	2054809	2055766	Yes
+yfdV	AEC family transporter	ta686_11890	2055895	2056819	Yes
+tolB	translocation protein TolB	ta686_11895	2056995	2058360	Yes
+lpd	dihydrolipoyl dehydrogenase	ta686_11900	2058693	2060121	Yes
+ubiE	SAM-dependent methyltransferase	ta686_11905	2060212	2061016	Yes
+tsa22	major outer membrane protein TSA22	ta686_11910	2061191	2061803	No
+NA	HNH endonuclease family protein	ta686_11915	2062511	2062889	Yes
+NA	Reverse transcriptase family protein	ta686_11920	2063003	2063885	Yes
+NA	N-terminal domain of reverse transcriptase family protein	ta686_11925	2063906	2064227	Yes
+NA	hypothetical protein	ta686_11930	2065114	2065285	No
+NA	hypothetical protein	ta686_11935	2065603	2065789	No
+NA	RNA-binding protein	ta686_11940	2066072	2066321	No
+NA	hypothetical protein	ta686_11945	2066408	2066555	No
+NA	hypothetical protein	ta686_11950	2066672	2066816	No
+NA	Transposase	ta686_11955	2066874	2067012	No
+NA	Transposase and inactivated derivative	ta686_11960	2067824	2068787	No
+cspC	cold-shock protein	ta686_11965	2069204	2069426	Yes
+NA	DDE superendonuclease family protein	ta686_11970	2070164	2070587	No
+NA	hypothetical protein	ta686_11975	2070552	2070792	No
+NA	hypothetical protein	ta686_11980	2070840	2071593	No
+pBP4	penicillin-binding protein 4	ta686_11985	2071963	2073175	Yes
+aspS	aspartate--tRNA(Asp/Asn) ligase	ta686_11990	2073200	2074994	Yes
+rpoB	DNA-directed RNA polymerase subunit beta'	ta686_11995	2075255	2079446	Yes
+rpoB	DNA-directed RNA polymerase subunit beta	ta686_12000	2079560	2083685	Yes
+rplL	50S ribosomal protein L7/L12	ta686_12005	2084034	2084424	Yes
+rplJ	50S ribosomal protein L10	ta686_12010	2084445	2084955	Yes
+rplA	50S ribosomal protein L1	ta686_12015	2084958	2085708	Yes
+rplK	50S ribosomal protein L11	ta686_12020	2085711	2086158	Yes
+nusG	transcription termination/antitermination factor NusG	ta686_12025	2086195	2086732	Yes
+NA	Protein translocase subunit SecE	ta686_12030	2086773	2086974	Yes
+tuf	elongation factor Tu	ta686_12040	2087223	2088408	Yes
+plsC	1-acyl-sn-glycerol-3-phosphate acyltransferase	ta686_12045	2088576	2089341	Yes
+recR	recombination protein RecR	ta686_12050	2089457	2090069	Yes
+yciB	septation protein A	ta686_12055	2090156	2090693	Yes
+fTR1	iron permease	ta686_12060	2090686	2091535	Yes
+NA	cupredoxin domain-containing protein	ta686_12065	2091563	2091926	Yes
+eAL	EAL domain-containing protein	ta686_12075	2092391	2093624	Yes
+abcT	ABC transporter ATP-binding protein	ta686_12080	2093811	2094543	Yes
+art	arginine ABC transporter permease	ta686_12085	2094535	2095153	Yes
+ypwA	carboxypeptidase M32	ta686_12090	2096677	2098168	No
+mgtE	magnesium transporter	ta686_12095	2098267	2099632	Yes
+holB2	DNA polymerase III subunit delta	ta686_12105	2099820	2100840	Yes
+leuS	leucine--tRNA ligase	ta686_12110	2100859	2103379	Yes
+pcaH	intradiol ring-cleavage dioxygenase	ta686_12115	2103994	2104726	Yes
+NA	hypothetical protein	ta686_12120	2106157	2106433	No
+NA	DDE superendonuclease family protein	ta686_12125	2106432	2106759	No
+NA	IS5 family transposase ISOt6	ta686_12130	2106956	2107085	No
+NA	hypothetical protein	ta686_12135	2107044	2107230	Yes
+NA	DDE superendonuclease family protein	ta686_12140	2107261	2107399	Yes
+NA	Phage integrase family protein, complete integrase	ta686_12145	2107836	2109156	No
+traL	conjugal transfer protein traL, complete TraL	ta686_12150	2109223	2109547	No
+NA	Conjugal transfer protein TraE	ta686_12155	2109546	2109966	No
+NA	Conjugal transfer protein TraE	ta686_12160	2109946	2110099	No
+traK1	conjugal transfer protein traK1, complete TraK-1	ta686_12165	2110095	2110572	No
+traK2	conjugal transfer protein traK2, complete TraK-2	ta686_12170	2110718	2111051	No
+traB	conjugal transfer protein TraB, complete TraB	ta686_12175	2111089	2112424	No
+traV	conjugal transfer protein TraV, complete TraV	ta686_12180	2112423	2112753	No
+traC	conjugal transfer protein TraC, complete TraC	ta686_12185	2112733	2115226	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	ta686_12190	2115222	2115882	No
+NA	hypothetical protein	ta686_12195	2115967	2116144	No
+traU	conjugal transfer protein TraU, complete TraU	ta686_12200	2116177	2117122	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ta686_12205	2117144	2117528	No
+traN	conjugal transfer protein TraN, complete TraN	ta686_12210	2117524	2119219	No
+traF	conjugal transfer protein TraF, complete TraF	ta686_12215	2119230	2119914	No
+traH	conjugal transfer protein TraH, complete TraH	ta686_12220	2119910	2121212	No
+traG	conjugal transfer protein TraG, complete TraG	ta686_12225	2121211	2123737	No
+NA	hypothetical protein	ta686_12230	2123876	2125016	No
+traD	conjugal transfer protein TraD, complete TraD	ta686_12235	2125021	2126776	No
+rpnC	Recombination-promoting DNA endonuclease RpnC/YadD	ta686_12240	2126785	2127805	Yes
+tnp-IS110	IS110 family transposase	ta686_12245	2128183	2129146	No
+traI	conjugal transfer protein TraI, complete TraI	ta686_12250	2129161	2131780	Yes
+traA	conjugal transfer protein TraA, complete TraA	ta686_12255	2132046	2134866	Yes
+traD	conjugal transfer protein TraD, complete TraD	ta686_12260	2135144	2135600	No
+NA	hypothetical protein	ta686_12265	2135667	2136690	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ta686_12270	2136811	2137399	Yes
+baeS	ATP-binding protein	ta686_12275	2137440	2137935	Yes
+NA	ATP-binding protein	ta686_12280	2137953	2138889	Yes
+NA	Putative signal transduction histidine kinase	ta686_12285	2138905	2139706	Yes
+baeS	Signal transduction histidine kinase	ta686_12290	2139835	2140537	Yes
+NA	ATP-binding protein	ta686_12295	2140601	2140880	Yes
+dam	DNA methyltransferase	ta686_12300	2141246	2142056	No
+NA	Putative ompA-like autotransporter	ta686_12305	2142059	2142392	Yes
+NA	Ankyrin repeat family protein	ta686_12310	2142701	2143520	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ta686_12315	2143671	2144316	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ta686_12320	2144353	2144929	Yes
+dnaB	replicative DNA helicase	ta686_12325	2145161	2146598	Yes
+NA	DnaA-N domain-containing protein	ta686_12330	2146606	2148322	Yes
+NA	hypothetical protein	ta686_12335	2148477	2148903	Yes
+NA	DDE superendonuclease family protein	ta686_12340	2148967	2149237	Yes
+NA	IS630 transposase-related protein	ta686_12350	2150720	2150858	Yes
+pTR2	MFS transporter	ta686_12355	2151837	2153316	No
+fumC	class II fumarate hydratase	ta686_12360	2153481	2154882	Yes
+hPt	histidine phosphotransferase	ta686_12365	2154945	2155623	Yes
+NA	DDE superendonuclease family protein	ta686_12370	2155744	2155963	No
+NA	Putative transposase	ta686_12375	2155996	2156224	No
+NA	Phage integrase family protein	ta686_12380	2156848	2157724	No
+NA	Putative integrase	ta686_12385	2157890	2158232	No
+ykfC	reverse transcriptase	ta686_12390	2158835	2159975	No
+traL	conjugal transfer protein traL, complete TraL	ta686_12395	2160293	2160617	No
+NA	Conjugal transfer protein TraE	ta686_12400	2160616	2161009	No
+traK1	conjugal transfer protein traK1, complete TraK-1	ta686_12405	2160974	2161463	No
+NA	hypothetical protein	ta686_12410	2161808	2162036	No
+traB	conjugal transfer protein TraB, complete TraB	ta686_12415	2162177	2163509	No
+traV	conjugal transfer protein TraV, complete TraV	ta686_12420	2163508	2163838	No
+NA	Conjugal transfer protein TraC	ta686_12425	2163818	2164691	No
+NA	Conjugal transfer protein TraC	ta686_12430	2164662	2165511	No
+NA	Ankyrin repeat-containing protein 01_02	ta686_12435	2165519	2166761	Yes
+traU	conjugal transfer protein TraU	ta686_12440	2166979	2167774	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ta686_12445	2167796	2168180	No
+traN	conjugal transfer protein TraN	ta686_12450	2168176	2169475	No
+NA	Conjugal transfer protein TraN	ta686_12455	2169593	2169869	No
+NA	hypothetical protein	ta686_12460	2170119	2171418	No
+gepA	DUF4065 domain-containing protein	ta686_12465	2171527	2172094	No
+traF	conjugal transfer protein TraF, complete TraF	ta686_12470	2172068	2172821	No
+NA	Conjugal transfer protein TraH	ta686_12475	2172817	2173447	No
+NA	Conjugal transfer protein TraH	ta686_12480	2173641	2173839	No
+traG	conjugal transfer protein TraG	ta686_12485	2173819	2174959	No
+NA	hypothetical protein	ta686_12490	2174974	2176120	No
+traD	conjugal transfer protein TraD, complete TraD	ta686_12495	2176123	2177878	No
+NA	Putative permease	ta686_12500	2177887	2178835	Yes
+NA	Conjugal transfer protein TraI	ta686_12505	2178886	2180329	Yes
+NA	Putative conjugative transfer protein TraI	ta686_12510	2180587	2181550	Yes
+NA	Putative conjugative transfer protein TraA	ta686_12515	2181908	2182100	Yes
+traD	conjugal transfer protein TraD, complete TraD	ta686_12520	2182375	2182831	No
+xthA2	exodeoxyribonuclease III	ta686_12525	2182872	2183658	Yes
+NA	(P)ppGpp synthetase	ta686_12530	2183819	2184026	Yes
+NA	Repeat-containing protein F	ta686_12535	2184296	2186744	Yes
+NA	hypothetical protein	ta686_12540	2187085	2187301	Yes
+NA	Repeat-containing protein D	ta686_12545	2187400	2188936	Yes
+NA	IS630 family transposase	ta686_12550	2189739	2189985	No
+apaG	Co2+/Mg2+ efflux protein ApaG	ta686_12555	2190883	2191309	No
+NA	Transposase	ta686_12560	2192075	2192234	No
+NA	Transposase	ta686_12565	2192233	2192629	No
+NA	Putative signal transduction histidine kinase	ta686_12570	2193453	2193768	No
+NA	hypothetical protein	ta686_12575	2194039	2194228	No
+NA	ATP-binding protein	ta686_12580	2194202	2194322	No
+NA	DUF3857 domain-containing protein	ta686_12585	2195434	2197363	Yes
+NA	DUF3857 domain-containing protein	ta686_12590	2197408	2199307	Yes
+rhaT	membrane protein	ta686_12595	2199455	2200376	No
+radA	DNA repair protein RadA	ta686_12600	2200410	2201766	Yes
+rsmD	16S rRNA (guanine(966)-N(2))-methyltransferase RsmD	ta686_12605	2201765	2202338	Yes
+fabZ	beta-hydroxyacyl-ACP dehydratase	ta686_12610	2202351	2202843	Yes
+surf1	surfeit locus protein 1	ta686_12615	2203083	2203806	No
+NA	conjugal transfer protein	ta686_12620	2203800	2204277	Yes
+NA	IS5 family transposase ISOt6	ta686_12625	2204597	2204972	Yes
+NA	IS5 family transposase ISOt6	ta686_12630	2204983	2205100	Yes
+NA	DDE superendonuclease family protein	ta686_12635	2205099	2205252	Yes
+ykfC	reverse transcriptase	ta686_12640	2206167	2207307	No
+NA	Toprim domain protein	ta686_12645	2207683	2208235	No
+NA	Transposase	ta686_12650	2208219	2209302	No
+dnaX	DNA polymerase III subunit gamma/tau	ta686_12660	2210512	2212192	No
+ybaB	YbaB/EbfC family nucleoid-associated protein	ta686_12665	2212203	2212764	No
+znuC	zinc ABC transporter ATP-binding protein	ta686_12670	2213034	2213748	No
+znuB	metal ABC transporter permease	ta686_12675	2213728	2214517	No
+NA	hypothetical protein	ta686_12680	2215258	2215468	No
+NA	Transposase	ta686_12685	2215567	2215696	Yes
+NA	Transposase	ta686_12690	2215894	2216068	Yes
+NA	IS5 family transposase ISOt6	ta686_12695	2216137	2216305	Yes
+NA	hypothetical protein	ta686_12700	2216844	2216964	Yes
+gltA	Citrate synthase	ta686_12705	2217151	2217355	Yes
+NA	hypothetical protein	ta686_12710	2217417	2218020	Yes
+yfdV	permease	ta686_12715	2218330	2219257	No
+mdh	malate dehydrogenase	ta686_12720	2219276	2220578	No
+NA	HTH-Tnp-4 domain-containing protein	ta686_12725	2220901	2221165	No
+NA	IS982 family transposase	ta686_12730	2221301	2222138	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ta686_12735	2222251	2222830	No
+NA	Histidine kinase domain-containing protein	ta686_12740	2223254	2223983	No
+baeS	sensor histidine kinase	ta686_12745	2224004	2224862	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ta686_12750	2224962	2225541	No
+NA	hypothetical protein	ta686_12755	2225662	2226685	No
+traD	conjugal transfer protein TraD, complete TraD	ta686_12760	2226752	2227208	Yes
+traA	conjugal transfer protein TraA	ta686_12765	2227487	2229923	No
+NA	Conjugal transfer protein TraA	ta686_12770	2229894	2230473	No
+NA	hypothetical protein	ta686_12775	2231030	2232095	Yes
+NA	Conjugal transfer protein TraI	ta686_12780	2232202	2233471	No
+rpnC	Recombination-promoting DNA endonuclease RpnC/YadD	ta686_12785	2233522	2234482	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	ta686_12790	2234533	2235478	Yes
+NA	Conjugal transfer protein TraD	ta686_12795	2235488	2235695	Yes
+NA	Conjugal transfer protein	ta686_12800	2235736	2236222	Yes
+traG	conjugal transfer protein TraG	ta686_12805	2236227	2237739	Yes
+NA	Conjugal transfer protein TraH	ta686_12810	2237738	2238218	Yes
+NA	Conjugal transfer protein TraH	ta686_12815	2238412	2239042	Yes
+traF	conjugal transfer protein TraF, complete TraF	ta686_12820	2239038	2239722	Yes
+traN	conjugal transfer protein TraN, complete TraN	ta686_12825	2239733	2241278	Yes
+NA	Conjugal transfer protein TraN	ta686_12830	2241258	2241426	Yes
+NA	Type-F conjugative transfer system pilin assembly family protein	ta686_12835	2241422	2241704	Yes
+NA	Putative membrane protein	ta686_12840	2241700	2241805	Yes
+traU	conjugal transfer protein TraU	ta686_12845	2241827	2242640	Yes
+NA	Conjugal transfer protein TraC	ta686_12850	2242714	2244349	Yes
+NA	Conjugal transfer protein TraC	ta686_12855	2244320	2245193	Yes
+traV	conjugal transfer protein TraV, complete TraV	ta686_12860	2245173	2245494	Yes
+traB	conjugal transfer protein TraB, complete TraB	ta686_12865	2245493	2246810	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	ta686_12870	2246848	2247184	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	ta686_12875	2247543	2248035	Yes
+traE	conjugal transfer protein TraE, complete TraE	ta686_12880	2248031	2248583	Yes
+traL	conjugal transfer protein traL, complete TraL	ta686_12885	2248582	2248906	Yes
+NA	Phage integrase family protein	ta686_12890	2249010	2249205	Yes
+NA	Phage integrase family protein	ta686_12895	2249278	2249683	Yes
+NA	Arm-DNA-bind-3 domain-containing protein	ta686_12900	2249637	2250294	Yes
+NA	Transposase	ta686_12905	2251121	2251313	No
+NA	Putative transposase	ta686_12910	2251451	2251574	No
+NA	Transposase	ta686_12915	2251567	2251756	No
+NA	Ankyrin repeat protein with 8 ankyrin repeats	ta686_12920	2252099	2253629	Yes
+sdhE	Succinate dehydrogenase flavin-adding protein, antitoxin component of the CptAB toxin-antitoxin module	ta686_12925	2253950	2254214	Yes
+NA	hypothetical protein	ta686_12930	2254458	2254551	Yes

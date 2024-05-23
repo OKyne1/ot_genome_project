@@ -1,0 +1,2580 @@
+dnaA	chromosomal replication initiation protein DnaA	karp_00005	0	1410	No
+dnaN	DNA polymerase III subunit beta	karp_00010	1428	2727	No
+virB8-2	type VI secretion protein	karp_00015	2976	3657	No
+virB9-2	P-type conjugative transfer protein VirB9	karp_00020	3640	4078	No
+virB10	type VI secretion protein	karp_00025	4077	5607	No
+virB11	type VI secretion protein	karp_00030	5606	6596	No
+virD4	type IV secretion system protein VirD4	karp_00035	6595	8368	No
+NA	IS5 family transposase ISOt6	karp_00040	8527	8830	No
+NA	hypothetical protein	karp_00045	9344	11144	No
+phrB	deoxyribodipyrimidine photo-lyase	karp_00050	11914	13204	No
+trxB	thioredoxin-disulfide reductase	karp_00055	13224	14187	Yes
+yfdV	AEC family transporter	karp_00060	14316	15240	Yes
+tolB	translocation protein TolB	karp_00065	15416	16754	Yes
+lpd	dihydrolipoyl dehydrogenase	karp_00070	17093	18521	Yes
+ubiE	SAM-dependent methyltransferase	karp_00075	18612	19416	Yes
+tsa22	major outer membrane protein TSA22	karp_00080	19590	20199	No
+NA	Conjugal transfer protein TraA	karp_00085	20312	20516	Yes
+NA	Conjugal transfer protein TraA	karp_00090	20466	20937	Yes
+NA	Conjugal transfer protein TraA	karp_00095	21015	21492	Yes
+NA	Reverse transcriptase	karp_00100	22172	22823	No
+NA	ATP-binding protein	karp_00105	22825	23047	Yes
+baeS	histidine kinase	karp_00110	23061	23763	Yes
+NA	ATP-binding protein	karp_00115	23827	24106	Yes
+dam	DNA methyltransferase	karp_00120	24472	24787	No
+NA	hypothetical protein	karp_00125	24773	25025	Yes
+NA	DDE superendonuclease family protein	karp_00130	25060	25435	No
+NA	Conjugal transfer protein TraD	karp_00135	25480	25651	No
+NA	transposase	karp_00140	25718	26633	Yes
+NA	(P)pGpp hydrolase	karp_00145	26754	27180	Yes
+dnaB	Replicative DNA helicase	karp_00150	27495	27828	Yes
+NA	DnaA-N domain-containing protein	karp_00155	28177	29749	No
+dnaB	replicative DNA helicase	karp_00160	29757	31194	No
+aNKYR	Ankyrin repeat	karp_00165	31433	32063	No
+NA	Putative ompA-like autotransporter	karp_00170	32109	32616	No
+dam	DNA methyltransferase	karp_00175	32619	32760	Yes
+NA	Membrane protein	karp_00180	32997	33201	Yes
+NA	IS982 family transposase	karp_00185	33564	34440	No
+NA	hypothetical protein	karp_00190	34972	35764	No
+NA	Putative transposase	karp_00195	36591	36876	No
+NA	Transposase	karp_00200	37070	37466	No
+mdlB	multidrug ABC transporter ATP-binding protein	karp_00205	37480	39259	Yes
+pyrH	UMP kinase	karp_00210	39308	40061	Yes
+mraY	phospho-N-acetylmuramoyl-pentapeptide- transferase	karp_00215	40289	41381	Yes
+murF	UDP-N-acetylmuramoylalanyl-D-glutamyl-2, 6-diaminopimelate--D-alanyl-D-alanine ligase	karp_00220	41370	42780	Yes
+murE	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-di aminopimelate ligase	karp_00225	42776	44246	Yes
+pbpA2	penicillin-binding protein	karp_00230	44232	45984	Yes
+ftsL	Cell division protein FtsL	karp_00235	46183	46444	Yes
+rsmH	16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH	karp_00240	46484	47423	Yes
+dnaJ	molecular chaperone DnaJ	karp_00245	47491	48625	Yes
+dnaK	molecular chaperone DnaK	karp_00250	48710	50639	Yes
+bolA	BolA family transcriptional regulator	karp_00255	51020	51308	Yes
+fabI	enoyl-ACP reductase	karp_00260	51515	52313	No
+NA	IS630 family transposase	karp_00265	52512	52641	Yes
+NA	DnaA-N domain-containing protein	karp_00270	52864	54481	No
+NA	Ankyrin repeat protein with 5 ankyrin repeats	karp_00275	54960	55830	No
+NA	Conjugal transfer protein TraA	karp_00280	56101	56500	Yes
+NA	Conjugal transfer protein TraA	karp_00285	56484	57153	Yes
+NA	Reverse transcriptase	karp_00290	57834	58812	No
+NA	18 kDa heat shock protein	karp_00295	58943	59402	No
+NA	HNH endonuclease	karp_00300	59655	59940	No
+NA	Conjugal transfer TraD family protein	karp_00305	60149	60506	No
+aNKYR	Ankyrin repeat	karp_00310	60658	61387	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_00315	61856	62471	Yes
+NA	Transposase	karp_00325	63687	63831	No
+tnp-IS5	IS5 family transposase	karp_00330	63837	64197	Yes
+NA	DDE superendonuclease family protein	karp_00335	64223	64661	Yes
+NA	Transposase	karp_00340	64881	65088	No
+NA	Integrase	karp_00345	65474	65759	No
+NA	Integrase	karp_00350	66004	66292	No
+NA	Integrase	karp_00355	66377	66599	No
+traL	conjugal transfer protein traL, complete TraL	karp_00360	66799	67123	No
+NA	Conjugal transfer protein TraE	karp_00365	67122	67542	No
+NA	hypothetical protein	karp_00370	67522	67675	No
+NA	hypothetical protein	karp_00375	67671	67878	No
+NA	Conjugative transfer protein TraC	karp_00380	67874	68600	No
+NA	Conjugal transfer protein TraC	karp_00385	68691	69228	No
+NA	Ankyrin repeat-containing protein	karp_00390	69141	70131	Yes
+NA	TraU family protein	karp_00395	70344	70872	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	karp_00400	70894	71278	No
+traN	conjugal transfer protein TraN, complete TraN	karp_00405	71274	72969	No
+NA	Conjugal transfer protein	karp_00410	72980	73280	No
+NA	Conjugal transfer protein	karp_00415	73246	73663	No
+NA	Conjugal transfer protein TraH	karp_00420	73659	74553	No
+NA	Conjugal transfer protein TraH	karp_00425	74506	74962	No
+traG	conjugal transfer protein TraG	karp_00430	74961	76710	No
+NA	Conjugal transfer protein TraG	karp_00435	76681	76858	No
+NA	hypothetical protein	karp_00440	76844	76979	No
+traD	conjugal transfer protein TraD, complete TraD	karp_00445	76984	78739	No
+NA	transposase	karp_00450	78748	79768	Yes
+NA	Conjugal transfer protein TraI	karp_00455	79767	81774	Yes
+NA	Conjugal transfer protein TraA	karp_00460	82040	83603	Yes
+NA	Conjugal transfer protein TraA	karp_00465	83648	84899	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_00470	85581	86817	No
+ltrA	group II intron reverse transcriptase/maturase	karp_00475	86919	87297	No
+traD	conjugal transfer protein TraD, complete TraD	karp_00480	87507	87963	No
+NA	TPR repeat-containing protein 08	karp_00485	88264	89290	No
+NA	Transposase	karp_00490	89792	89912	Yes
+putP	sodium:proline symporter	karp_00495	90325	93763	No
+NA	Transposase DDE domain protein	karp_00500	94228	94303	Yes
+NA	Conjugative transfer protein	karp_00505	95182	95476	No
+midA	SAM-dependent methyltransferase	karp_00510	96933	98082	No
+NA	IS630 family transposase	karp_00515	99053	99443	No
+NA	IS630 family transposase	karp_00520	99384	99948	No
+tim44	transporter	karp_00525	100198	100834	No
+trhO	tRNA U34 5'-hydroxylase TrhO, rhodanese family	karp_00530	100949	101696	No
+NA	DnaA-N domain-containing protein	karp_00535	102715	103516	No
+NA	DnaA-N domain-containing protein	karp_00540	103475	104276	No
+dnaB	replicative DNA helicase	karp_00545	104284	105721	No
+aNKYR	Ankyrin repeat	karp_00550	105960	106590	No
+NA	Putative ompA-like autotransporter	karp_00555	106636	107140	No
+NA	ATP-binding protein	karp_00560	107820	108603	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	karp_00565	108703	109282	No
+NA	transposase	karp_00570	109400	110291	No
+NA	Conjugal transfer protein TraD	karp_00575	110369	110540	Yes
+NA	Conjugal transfer protein TraA	karp_00580	110700	111327	No
+NA	Conjugal transfer protein TraA	karp_00585	111281	111644	No
+NA	hypothetical protein	karp_00590	111940	113014	Yes
+NA	Conjugal transfer protein TraI	karp_00595	113175	113817	No
+NA	Uncharacterized domain associated with phage/plasmid primase	karp_00600	113830	114079	No
+traL	conjugal transfer protein traL, complete TraL	karp_00605	114645	114969	No
+NA	Conjugal transfer protein TraE	karp_00610	114968	115388	No
+NA	Conjugal transfer protein TraE	karp_00615	115368	115521	No
+NA	hypothetical protein	karp_00620	115517	115736	No
+NA	DDE superendonuclease family protein	karp_00625	115743	116202	No
+NA	IS5 family transposase ISOt6	karp_00630	116301	116565	No
+pilW	type IV pilus biogenesis/stability protein PilW	karp_00635	117280	118975	Yes
+NA	hypothetical protein	karp_00640	119071	119215	Yes
+traD	conjugal transfer protein TraD, complete TraD	karp_00645	119298	119754	Yes
+NA	Conjugal transfer protein TraA	karp_00650	120033	121017	No
+NA	Conjugal transfer protein TraD	karp_00655	121264	121528	No
+NA	transposase	karp_00660	121595	122570	Yes
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	karp_00665	122691	122910	Yes
+NA	(P)pGpp hydrolase	karp_00670	122914	123268	Yes
+baeS	sensor histidine kinase	karp_00675	123368	124226	Yes
+baeS	Signal transduction histidine kinase	karp_00680	124200	124977	Yes
+NA	hypothetical protein	karp_00685	125668	127537	No
+NA	Site-specific DNA-methyltransferase (adenine-specific)	karp_00690	128185	128815	No
+NA	Membrane protein	karp_00695	128818	129367	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	karp_00700	129469	130114	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_00705	130125	130701	Yes
+dnaB	replicative DNA helicase	karp_00710	130936	131728	Yes
+dnaB	replicative DNA helicase	karp_00715	131908	132373	Yes
+NA	DnaA-N domain-containing protein	karp_00720	132381	134094	Yes
+NA	conjugal transfer protein TraN	karp_00725	134654	134909	No
+NA	conjugal transfer protein TraN	karp_00730	135176	135287	No
+NA	IS110-like element ISOt5 family transposase	karp_00735	135517	136480	No
+NA	TPR repeat-containing protein 03	karp_00740	136784	137681	No
+gepA	DUF4065 domain-containing protein	karp_00745	137790	138351	No
+NA	Conjugal transfer protein	karp_00750	138362	138605	No
+rpnC	Recombination-promoting DNA endonuclease RpnC/YadD	karp_00755	138562	139096	Yes
+NA	Conjugal transfer protein TraI	karp_00760	139147	139843	Yes
+NA	DDE superendonuclease family protein	karp_00765	140018	140456	No
+NA	DDE superendonuclease family protein	karp_00770	140467	140842	No
+NA	hypothetical protein	karp_00775	140862	141069	No
+NA	Conjugal transfer protein TraI	karp_00780	141044	141272	Yes
+NA	hypothetical protein	karp_00785	141405	141603	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_00790	141833	142406	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	karp_00795	142443	143088	No
+NA	Membrane protein	karp_00800	143135	143684	No
+NA	Site-specific DNA-methyltransferase (adenine-specific)	karp_00805	143687	144089	Yes
+NA	hypothetical protein	karp_00810	144945	145662	No
+NA	ATP-binding protein	karp_00815	146012	146741	No
+baeS	Signal transduction histidine kinase	karp_00820	146762	147059	No
+NA	ATP-binding protein	karp_00825	147251	147620	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	karp_00830	147720	148296	No
+NA	transposase	karp_00835	148417	149368	No
+traD	conjugal transfer protein TraD, complete TraD	karp_00840	149435	149882	Yes
+traA	conjugal transfer protein TraA	karp_00845	150168	152613	No
+NA	Conjugal transfer protein TraI	karp_00850	152731	154243	No
+NA	Conjugal transfer protein TraI	karp_00855	154256	154808	No
+NA	transposase	karp_00860	154859	155867	No
+NA	conjugal transfer protein	karp_00865	155876	156086	Yes
+NA	Putative transposase	karp_00870	156790	156928	Yes
+ykfC	Retron-type reverse transcriptase	karp_00875	157339	157606	No
+xerD	integrase, complete integrase	karp_00880	158094	159294	No
+traL	conjugal transfer protein traL, complete TraL	karp_00885	159426	159750	No
+NA	Conjugal transfer protein TraE	karp_00890	159749	160142	No
+NA	Conjugal transfer protein TraE	karp_00895	160150	160303	No
+traK1	conjugal transfer protein traK1, complete TraK-1	karp_00900	160299	160776	No
+traK2	conjugal transfer protein traK2, complete TraK-2	karp_00905	160920	161250	No
+NA	Conjugal transfer protein	karp_00910	161292	161877	No
+NA	Conjugal transfer protein	karp_00915	162067	162619	No
+traV	conjugal transfer protein TraV, complete TraV	karp_00920	162618	162948	No
+virB4	conjugal transfer protein	karp_00925	162928	163216	No
+NA	Conjugal transfer protein TraC	karp_00930	163252	163801	No
+NA	Conjugal transfer protein TraC	karp_00935	163772	165422	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	karp_00940	165418	166078	No
+NA	hypothetical protein	karp_00945	166168	166342	No
+traU	conjugal transfer protein TraU, complete TraU	karp_00950	166375	167320	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	karp_00955	167342	167726	No
+traN	conjugal transfer protein TraN, complete TraN	karp_00960	167722	169417	No
+NA	Ankyrin repeat-containing protein 09	karp_00965	169575	170106	No
+NA	IS110-like element ISOt5 family transposase	karp_00970	170143	171106	Yes
+NA	Ankyrin repeat-containing protein 16	karp_00975	171261	172152	No
+traF	conjugal transfer protein TraF, complete TraF	karp_00980	172346	173063	No
+NA	Conjugal transfer protein TraH	karp_00985	173059	173689	No
+NA	conjugal transfer protein TraH	karp_00990	173738	173915	No
+NA	Conjugal transfer protein TraH	karp_00995	173927	174362	No
+traG	conjugal transfer protein TraG, complete TraG	karp_01000	174361	176944	No
+NA	TPR repeat-containing protein 08	karp_01005	177040	178186	No
+traD	conjugal transfer protein TraD, complete TraD	karp_01010	178191	179949	No
+rpnC	transposase	karp_01015	179958	180927	Yes
+NA	Toprim domain protein	karp_01020	180911	181463	Yes
+traI	conjugal transfer protein TraI	karp_01025	181476	183585	Yes
+traA	conjugal transfer protein TraA, complete TraA	karp_01030	183848	186686	Yes
+traD	conjugal transfer protein TraD, complete TraD	karp_01035	186965	187421	No
+pilW	type IV pilus biogenesis/stability protein PilW	karp_01040	187745	189155	No
+NA	Conjugal transfer TraD family protein	karp_01045	189302	189566	No
+NA	transposase	karp_01050	189633	190668	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_01055	190792	191398	Yes
+baeS	ATP-binding protein	karp_01060	191439	191934	Yes
+NA	ATP-binding protein	karp_01065	191952	192885	Yes
+baeS	sensor histidine kinase	karp_01070	192901	193228	Yes
+NA	ATP-binding protein	karp_01075	193308	193479	Yes
+baeS	histidine kinase	karp_01080	193608	194310	Yes
+NA	ATP-binding protein	karp_01085	194374	194653	Yes
+NA	Site-specific DNA-methyltransferase (adenine-specific)	karp_01090	195019	195715	No
+NA	RNA-binding protein	karp_01095	196084	196621	No
+NA	RNA-binding protein	karp_01100	196598	196769	No
+dnaB	replicative DNA helicase	karp_01105	196758	198090	Yes
+NA	DnaA-N domain-containing protein	karp_01110	198098	199814	Yes
+NA	hypothetical protein	karp_01115	199946	200087	Yes
+yajC	preprotein translocase subunit YajC	karp_01120	200704	201085	No
+secD	protein translocase subunit SecD	karp_01125	201081	202644	No
+NA	IS5 family transposase ISOt6	karp_01130	203850	204039	No
+NA	DDE superendonuclease family protein	karp_01135	204102	204207	No
+NA	IS5 family transposase ISOt6	karp_01140	204218	204422	No
+NA	IS5 family transposase ISOt6	karp_01145	204529	204631	Yes
+aatA	aspartate aminotransferase	karp_01150	205010	206213	Yes
+ubiG	Ubiquinone biosynthesis O-methyltransferase	karp_01155	206320	207358	No
+mlaA	ABC transporter	karp_01160	207417	208251	No
+mlaC	MlaC protein	karp_01165	208253	208838	No
+hemW	radical SAM family heme chaperone HemW	karp_01170	208865	210086	No
+NA	hypothetical protein	karp_01175	210107	210620	No
+recO	DNA repair protein RecO	karp_01180	210679	211405	No
+NA	Transposase	karp_01185	211780	211909	Yes
+NA	IS5 family transposase ISOt6	karp_01190	211962	212598	No
+NA	Putative integrase	karp_01195	213108	213297	Yes
+NA	DUF721 domain-containing protein	karp_01200	214358	214682	Yes
+radC	DNA repair protein RadC	karp_01205	214720	215401	Yes
+rpsL	30S ribosomal protein S12	karp_01210	215646	216018	No
+rpsG	30S ribosomal protein S7	karp_01215	216042	216564	No
+fusA	elongation factor G	karp_01220	216567	218688	No
+rpsA	30S ribosomal protein S1	karp_01225	218894	220418	No
+NA	Transposase	karp_01230	221702	221864	No
+NA	IS5 family transposase ISOt6	karp_01235	221817	221946	No
+NA	Transposase	karp_01240	222063	222192	No
+NA	hypothetical protein	karp_01245	222324	222447	No
+NA	hypothetical protein	karp_01250	222448	222541	No
+cspC	cold-shock protein	karp_01255	223018	223240	Yes
+NA	IS982 family transposase	karp_01260	223562	224438	Yes
+NA	Conjugal transfer protein	karp_01265	224696	224954	Yes
+NA	TPR repeat-containing protein 03	karp_01270	225024	225669	Yes
+NA	Conjugative transfer protein	karp_01275	225920	226553	Yes
+NA	Conjugal transfer protein TraN	karp_01280	226575	226884	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	karp_01285	226883	227264	Yes
+NA	conjugal transfer protein	karp_01290	227286	227814	Yes
+NA	Ankyrin repeat-containing protein	karp_01295	228462	229452	No
+NA	Conjugal transfer protein TraC	karp_01300	229365	230316	Yes
+gcvT	aminomethyltransferase	karp_01305	232366	233233	No
+NA	IS630 family transposase	karp_01310	233410	233626	Yes
+NA	hypothetical protein	karp_01315	233934	235785	No
+hinT	Purine nucleoside phosphoramidase	karp_01320	236021	236393	No
+asd	aspartate-semialdehyde dehydrogenase	karp_01325	236452	237490	No
+cyoB	protoheme IX farnesyltransferase	karp_01330	237629	238568	Yes
+ctaD	cytochrome c oxidase subunit I	karp_01335	238578	240165	Yes
+gtaE	phage terminase large subunit	karp_01340	240357	241779	Yes
+ctc	50S ribosomal protein L25/general stress protein Ctc	karp_01345	242110	242734	No
+arfB	aminoacyl-tRNA hydrolase	karp_01350	242733	243294	No
+ychF	GTP-binding protein YchF	karp_01355	243303	244404	No
+NA	hypothetical protein	karp_01360	244451	244613	Yes
+xthA2	exodeoxyribonuclease III	karp_01365	245394	246189	No
+NA	hypothetical protein	karp_01370	246681	246804	No
+NA	DDE superendonuclease family protein	karp_01375	247179	247617	No
+NA	DDE superendonuclease family protein	karp_01380	247628	248003	No
+NA	IS5 family transposase ISOt6	karp_01385	249266	249659	Yes
+NA	Conjugal transfer protein TraA	karp_01390	249863	250682	No
+NA	hypothetical protein	karp_01395	251134	252205	Yes
+NA	hypothetical protein	karp_01400	252680	252857	Yes
+cyc7	cytochrome c family protein	karp_01405	253110	253659	Yes
+hflC	paraslipin	karp_01410	253914	254874	No
+mrp	ATP-binding protein	karp_01415	256472	257489	Yes
+hflK	FtsH protease activity modulator HflK	karp_01420	257670	258726	No
+hflC	protease modulator HflC	karp_01425	258749	259616	No
+tsa47	type surface antigen 47kDa	karp_01430	259633	261034	No
+ompA	peptidoglycan-associated lipoprotein	karp_01435	261245	261860	No
+gtaB	glycoside hydrolase TIM-barrel-like domain-containing protein	karp_01440	262126	264910	Yes
+fpr	ferredoxin--NADP(+) reductase	karp_01445	265108	266125	No
+folD	bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase	karp_01450	266121	267027	No
+NA	hypothetical protein	karp_01455	266961	268347	Yes
+topA	DNA topoisomerase I	karp_01460	268346	270713	Yes
+mdh	malate dehydrogenase	karp_01465	270805	271762	Yes
+rimM	ribosome maturation factor RimM	karp_01470	271981	272476	Yes
+NA	AsmA-like C-terminal region	karp_01475	272644	275176	No
+fmt	methionyl-tRNA formyltransferase	karp_01480	275473	276397	Yes
+def	peptide deformylase	karp_01485	276393	276939	Yes
+traI	conjugal transfer protein TraI, complete TraI	karp_01490	277186	279610	No
+NA	transposase	karp_01495	279661	280681	No
+NA	conjugal transfer protein	karp_01500	280690	280900	Yes
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	karp_01505	280984	281221	Yes
+NA	hypothetical protein	karp_01510	281902	282928	No
+NA	IS630 family transposase	karp_01515	283096	283363	No
+NA	hypothetical protein	karp_01520	283454	284036	No
+NA	peptidylprolyl isomerase	karp_01525	284072	285530	Yes
+tpiA	triose-phosphate isomerase	karp_01530	285706	286456	No
+secG	preprotein translocase subunit SecG	karp_01535	286461	286755	No
+lysS	lysine--tRNA ligase	karp_01545	287474	289055	Yes
+dsbB	disulfide bond formation protein B	karp_01550	289193	289742	No
+ubiB	ubiquinone biosynthesis protein UbiB	karp_01555	289704	290250	No
+psd	phosphatidylserine decarboxylase	karp_01560	290326	291019	No
+pssA	CDP-diacylglycerol--serine O-phosphatidyltransferase	karp_01565	291070	291844	No
+mnhE	sodium:proton antiporter	karp_01570	291893	292379	No
+NA	Multiple resistance and pH regulation F family protein	karp_01575	292375	292630	No
+NA	PDDEXK-1 domain-containing protein	karp_01580	292658	295493	No
+NA	hypothetical protein	karp_01585	295401	295599	Yes
+ndh	NADH dehydrogenase	karp_01590	295684	297349	Yes
+sucD	succinyl-CoA synthetase subunit alpha	karp_01595	297429	298308	Yes
+sucC	succinyl-CoA ligase subunit beta	karp_01600	298322	299483	Yes
+ubiH	2-polyprenyl-6-methoxyphenol 4-hydroxylase	karp_01605	299539	300802	Yes
+trcR	cell cycle transcriptional regulator TrcR	karp_01615	301136	301724	Yes
+ileS	isoleucine--tRNA ligase	karp_01620	301851	305055	Yes
+NA	Ubiquinone biosynthesis protein COQ9	karp_01625	305091	305697	Yes
+rpsU	30S ribosomal protein S21	karp_01630	305867	306074	No
+holC	DNA polymerase III subunit chi	karp_01635	306102	306612	Yes
+NA	Proline/betaine transporter	karp_01640	306785	308066	No
+NA	DUF5394 domain-containing protein	karp_01645	308266	308989	No
+NA	Ankyrin repeat protein with 1d ankyrin repeats	karp_01650	309080	310328	No
+pnp	polyribonucleotide nucleotidyltransferase	karp_01655	310459	312670	Yes
+rpsO	30S ribosomal protein S15	karp_01660	313003	313273	Yes
+tru	tRNA pseudouridine(55) synthase	karp_01665	313296	314205	Yes
+hipB	XRE family transcriptional regulator	karp_01670	315085	315526	Yes
+NA	hypothetical protein	karp_01675	315826	315967	Yes
+NA	hypothetical protein	karp_01680	316218	316506	Yes
+NA	Conjugal transfer protein	karp_01685	316525	316756	Yes
+NA	Conjugal transfer protein TraD	karp_01690	316710	316971	Yes
+NA	Conjugal transfer protein	karp_01695	316974	317268	Yes
+NA	Transposase	karp_01700	317365	317722	No
+NA	DDE superendonuclease family protein	karp_01705	317733	318108	No
+NA	TPR repeat-containing protein 08	karp_01710	318285	318423	No
+NA	Conjugal transfer protein TraD	karp_01715	318753	318975	No
+NA	transposase	karp_01720	319082	319985	Yes
+NA	(P)pGpp hydrolase	karp_01725	320103	320682	Yes
+NA	Replicative DNA helicase	karp_01730	320915	321062	Yes
+NA	DNA helicase	karp_01735	321019	321247	Yes
+NA	Conjugal transfer protein TraA	karp_01740	321439	322210	No
+NA	Conjugal transfer protein TraA	karp_01745	322288	322477	No
+NA	Putative integrase	karp_01750	322662	322854	Yes
+NA	Integrase	karp_01755	322864	323098	Yes
+NA	MFS transporter	karp_01760	323747	325010	No
+panF	sodium:pantothenate symporter	karp_01765	325025	326429	No
+NA	hypothetical protein	karp_01770	327442	327568	No
+NA	Conjugal transfer protein	karp_01775	327796	328378	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	karp_01780	328420	328747	Yes
+NA	Conjugative transfer protein	karp_01785	328813	329032	Yes
+NA	Conjugative transfer protein	karp_01790	329117	329357	Yes
+NA	Integrase	karp_01795	329550	329721	Yes
+NA	hypothetical protein	karp_01800	330625	330925	No
+NA	Putative integrase	karp_01805	332248	333142	No
+NA	Integrase	karp_01810	333338	333533	No
+traL	conjugal transfer protein traL, complete TraL	karp_01815	333636	333960	No
+NA	Conjugal transfer protein TraE	karp_01820	333959	334379	No
+NA	Conjugal transfer protein TraE	karp_01825	334359	334512	No
+NA	hypothetical protein	karp_01830	334508	334835	No
+NA	Conjugal transfer protein	karp_01835	334908	335181	No
+NA	hypothetical protein	karp_01840	335309	335648	No
+curA	NADP-dependent oxidoreductase	karp_01845	336624	337770	Yes
+ccmE	cytochrome c biogenesis protein CcmE	karp_01850	338069	338465	No
+NA	DUF1189 domain-containing protein	karp_01855	338495	339410	No
+ruvX	Holliday junction resolvase RuvX	karp_01860	339406	339880	No
+recJ	single-stranded-DNA-specific exonuclease RecJ	karp_01865	339893	341654	No
+mlaF	ABC transporter ATP-binding protein	karp_01870	341980	342736	Yes
+mlaE	Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla	karp_01875	342764	343556	Yes
+rsmE	Ribosomal RNA small subunit methyltransferase E	karp_01880	343668	344460	Yes
+rpsD	30S ribosomal protein S4	karp_01885	344585	345209	No
+NA	hypothetical protein	karp_01890	345287	345518	No
+NA	Conjugal transfer protein	karp_01895	345617	345785	No
+NA	Conjugal transfer protein	karp_01900	345916	346114	No
+NA	Conjugative transfer protein	karp_01905	346150	346780	No
+NA	Conjugative transfer protein TraH	karp_01910	346783	347137	No
+NA	Conjugal transfer protein TraG	karp_01915	347377	347656	No
+traD	conjugal transfer protein TraD	karp_01920	347627	349163	No
+NA	transposase	karp_01925	349172	350216	Yes
+NA	Toprim domain protein	karp_01930	350267	350819	Yes
+traI	conjugal transfer protein TraI	karp_01935	350832	352932	Yes
+NA	Conjugal transfer protein TraA	karp_01940	353197	353965	Yes
+traA	conjugal transfer protein TraA	karp_01945	354021	356034	Yes
+traD	conjugal transfer protein TraD, complete TraD	karp_01950	356312	356768	No
+NA	hypothetical protein	karp_01955	356826	357627	Yes
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	karp_01960	357702	358278	Yes
+baeS	sensor histidine kinase	karp_01965	358378	359236	Yes
+baeS	Signal transduction histidine kinase	karp_01970	359210	359987	Yes
+dam	DNA methyltransferase	karp_01975	360353	361112	No
+NA	Membrane protein	karp_01980	361167	361719	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	karp_01985	361765	362410	Yes
+NA	(P)pGpp hydrolase	karp_01990	362444	362840	Yes
+NA	(P)pGpp hydrolase	karp_01995	362876	363020	Yes
+nrdA	ribonucleotide-diphosphate reductase subunit alpha	karp_02000	364062	365880	No
+nrdB	ribonucleotide-diphosphate reductase subunit beta	karp_02005	365902	366904	No
+NA	hypothetical protein	karp_02010	367394	367970	No
+NA	Integrase	karp_02015	368321	368570	No
+abcT	ABC transporter ATP-binding protein	karp_02020	368704	369955	No
+NA	PRANC domain-containing protein	karp_02025	370256	371153	Yes
+NA	Conjugal transfer protein	karp_02030	371926	372577	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	karp_02035	372626	372959	No
+NA	ATP-binding protein	karp_02040	373198	373780	No
+NA	ATP-binding protein	karp_02045	373796	374159	No
+NA	ATP-binding protein	karp_02050	374265	374478	No
+NA	transposase	karp_02055	374871	375834	No
+NA	Transposase	karp_02060	376005	376158	Yes
+NA	Transposase	karp_02065	376214	376475	Yes
+NA	hypothetical protein	karp_02070	376455	377067	Yes
+NA	Ankyrin repeat-containing protein	karp_02075	377105	377426	Yes
+amiR	N-acetylmuramoyl-L-alanine amidase	karp_02080	379181	380279	Yes
+NA	Repeat-containing protein D	karp_02085	380953	382711	No
+NA	Transposase	karp_02090	383702	383864	No
+NA	DDE superendonuclease family protein	karp_02095	383817	384192	No
+NA	hypothetical protein	karp_02100	384151	384373	Yes
+NA	Conjugative transfer protein	karp_02105	384483	385074	Yes
+NA	Integrase	karp_02110	385138	385354	No
+NA	Integrase	karp_02115	385435	385582	No
+lipB	lipase LipB	karp_02120	386022	386916	No
+NA	Integrase	karp_02125	387309	387426	Yes
+NA	Putative integrase	karp_02130	387488	387743	Yes
+NA	Group II intron, maturase-specific domain protein	karp_02135	388743	389001	Yes
+NA	Reverse transcriptase	karp_02140	389088	389307	Yes
+NA	Ankyrin repeat-containing protein 19	karp_02145	389664	390528	Yes
+NA	Ankyrin repeat-containing protein	karp_02150	390545	390710	Yes
+NA	hypothetical protein	karp_02155	390941	391088	Yes
+NA	Conjugal transfer protein TraI	karp_02160	391136	391523	Yes
+NA	hypothetical protein	karp_02165	391646	392315	No
+NA	Conjugal transfer protein TraA	karp_02170	392530	392674	Yes
+NA	Conjugal transfer protein TraA	karp_02175	392667	392982	Yes
+NA	Conjugal transfer protein TraA	karp_02180	392953	393196	Yes
+NA	Conjugal transfer protein TraA	karp_02185	393217	393646	Yes
+NA	Conjugal transfer protein TraA	karp_02190	393698	394022	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_02195	394702	395926	No
+NA	HNH endonuclease	karp_02200	396040	396490	No
+NA	Helix-turn-helix domain-containing protein	karp_02205	396642	396804	Yes
+NA	hypothetical protein	karp_02210	396800	398627	Yes
+NA	TPR repeat-containing protein 08	karp_02215	399076	399217	No
+NA	TPR repeat-containing protein 08	karp_02220	399316	399562	No
+tnp-IS5	IS5 family transposase	karp_02225	399569	399698	No
+NA	IS5 family transposase ISOt6	karp_02230	399694	399811	No
+NA	DDE superendonuclease family protein	karp_02235	399822	400197	No
+infA	translation initiation factor IF-1	karp_02245	400800	401025	No
+maf	septum formation inhibitor Maf	karp_02250	401068	401665	No
+tACO1	YebC/PmpR family DNA-binding transcriptional regulator	karp_02255	401791	402541	No
+gyrA	DNA gyrase subunit A	karp_02260	402639	405357	No
+glyA	serine hydroxymethyltransferase	karp_02265	405390	406671	No
+NA	DUF3971 domain-containing protein	karp_02270	407423	409916	Yes
+rnpA	ribonuclease P	karp_02275	410154	410694	Yes
+rpmH	50S ribosomal protein L34	karp_02280	410694	410877	Yes
+cYT1	Cytochrome c1	karp_02285	411608	412403	No
+NA	hypothetical protein	karp_02290	412397	412532	Yes
+rph	ribonuclease PH	karp_02295	412899	413655	Yes
+grpE	nucleotide exchange factor GrpE	karp_02300	413783	414380	No
+NA	IS630 family transposase	karp_02305	414904	415069	Yes
+NA	Phage integrase family protein, complete integrase	karp_02310	415506	416826	No
+traL	conjugal transfer protein traL, complete TraL	karp_02315	416893	417217	No
+traE	conjugal transfer protein TraE, complete TraE	karp_02320	417216	417768	No
+traK1	conjugal transfer protein traK1, complete TraK-1	karp_02325	417764	418253	No
+traK2	conjugal transfer protein traK2, complete TraK-2	karp_02330	418659	418995	No
+traB	conjugal transfer protein TraB, complete TraB	karp_02335	419033	420362	No
+traV	conjugal transfer protein TraV, complete TraV	karp_02340	420361	420682	No
+traC	conjugal transfer protein TraC, complete TraC	karp_02345	420662	423155	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	karp_02350	423151	423811	No
+NA	hypothetical protein	karp_02355	423901	424075	No
+traU	conjugal transfer protein TraU, complete TraU	karp_02360	424108	425053	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	karp_02365	425075	425459	No
+traN	conjugal transfer protein TraN, complete TraN	karp_02370	425455	427150	No
+traF	conjugal transfer protein TraF, complete TraF	karp_02375	427146	427845	No
+traH	conjugal transfer protein TraH, complete TraH	karp_02380	427841	429143	No
+traG	conjugal transfer protein TraG	karp_02385	429142	431038	No
+traG	conjugal transfer protein TraG	karp_02390	431095	431776	No
+NA	TPR repeat-containing protein 03	karp_02395	431788	432928	No
+traD	conjugal transfer protein TraD, complete TraD	karp_02400	432933	434688	No
+NA	transposase	karp_02405	434697	435633	Yes
+NA	Uncharacterized domain associated with phage/plasmid primase	karp_02410	435684	436236	Yes
+traI	conjugal transfer protein TraI	karp_02415	436249	438358	Yes
+traA	conjugal transfer protein TraA, complete TraA	karp_02420	438621	441489	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_02425	442170	443886	No
+traD	conjugal transfer protein TraD, complete TraD	karp_02430	444095	444551	No
+NA	transposase	karp_02435	444618	445689	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_02440	445810	446398	Yes
+baeS	ATP-binding protein	karp_02445	446439	446934	Yes
+NA	ATP-binding protein	karp_02450	446952	447888	Yes
+NA	ATP-binding protein	karp_02455	447904	448483	Yes
+baeS	histidine kinase	karp_02460	448612	449314	Yes
+NA	ATP-binding protein	karp_02465	449378	449657	Yes
+dam	DNA methyltransferase	karp_02470	450023	450833	No
+NA	Membrane protein	karp_02475	450836	451385	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	karp_02480	451432	452077	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_02485	452111	452687	Yes
+dnaB	replicative DNA helicase	karp_02490	452920	454369	Yes
+NA	DnaA-N domain-containing protein	karp_02495	454377	456093	Yes
+tnp-IS630	IS630 family transposase	karp_02500	456248	456575	Yes
+NA	IS5 family transposase ISOt6	karp_02505	456846	456942	No
+NA	Transposase	karp_02510	456951	457098	No
+rnd	ribonuclease D	karp_02515	457303	457936	Yes
+ftsB	Cell division protein FtsB	karp_02520	457942	458242	Yes
+cdsA	phosphatidate cytidylyltransferase	karp_02525	458249	458900	Yes
+uppS	polyprenyl diphosphate synthase	karp_02530	458902	459598	Yes
+abcT	ABC transporter ATP-binding protein	karp_02535	459773	461579	No
+dnaE	DNA polymerase III subunit alpha	karp_02540	461897	465602	Yes
+valS	valine--tRNA ligase	karp_02545	465591	468156	Yes
+ubiA	4-hydroxybenzoate octaprenyltransferase	karp_02550	468187	469063	No
+NA	hypothetical protein	karp_02555	469332	470094	Yes
+ldcA	LD-carboxypeptidase	karp_02560	470445	471444	No
+NA	Transposase	karp_02565	472341	472716	Yes
+NA	IS5 family transposase ISOt6	karp_02570	472669	472996	Yes
+NA	Lipase-3 domain-containing protein	karp_02575	473242	474442	Yes
+NA	DnaA-N domain-containing protein	karp_02580	475057	476623	No
+dnaB	replicative DNA helicase	karp_02585	476631	478080	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_02590	478314	478890	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	karp_02595	478924	479569	No
+NA	Putative ompA-like autotransporter	karp_02600	479616	480120	No
+dam	DNA methyltransferase	karp_02605	480123	480933	Yes
+NA	ATP-binding protein	karp_02610	481306	481585	No
+baeS	histidine kinase	karp_02615	481649	482351	No
+baeS	sensor histidine kinase	karp_02620	482480	483059	No
+NA	ATP-binding protein	karp_02625	483209	483923	No
+baeS	ATP-binding protein	karp_02630	484026	484521	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_02635	484562	485150	No
+NA	transposase	karp_02640	485271	486282	No
+NA	Putative conjugative transfer protein TraD	karp_02645	486389	486602	Yes
+NA	SycD/LcrH family type III secretion system chaperone	karp_02650	486882	487956	Yes
+traD	conjugal transfer protein TraD, complete TraD	karp_02655	488277	488733	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_02660	488942	489320	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_02665	489422	490658	Yes
+traA	conjugal transfer protein TraA, complete TraA	karp_02670	491340	494160	No
+traI	conjugal transfer protein TraI	karp_02675	494423	496529	No
+NA	Uncharacterized domain associated with phage/plasmid primase	karp_02680	496542	497094	No
+NA	transposase	karp_02685	497145	498261	No
+traD	conjugal transfer protein TraD, complete TraD	karp_02690	498270	500025	Yes
+NA	TPR repeat-containing protein 08	karp_02695	500030	501176	Yes
+traG	conjugal transfer protein TraG, complete TraG	karp_02700	501198	503838	Yes
+NA	Conjugal transfer protein TraH	karp_02705	503837	504293	Yes
+NA	Conjugal transfer protein TraH	karp_02710	504246	505140	Yes
+NA	Conjugal transfer protein	karp_02715	505321	505855	Yes
+NA	Ankyrin repeat-containing protein 16	karp_02720	506039	507368	Yes
+traN	conjugal transfer protein TraN, complete TraN	karp_02725	507527	509222	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	karp_02730	509218	509602	Yes
+traU	conjugal transfer protein TraU, complete TraU	karp_02735	509624	510569	Yes
+NA	hypothetical protein	karp_02740	510602	510776	Yes
+traW	type-F conjugative transfer system protein TraW, complete TraW	karp_02745	510866	511526	Yes
+traC	conjugal transfer protein TraC, complete TraC	karp_02750	511522	514015	Yes
+traV	conjugal transfer protein TraV, complete TraV	karp_02755	513995	514325	Yes
+traB	conjugal transfer protein TraB, complete TraB	karp_02760	514324	515644	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	karp_02765	515682	516018	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	karp_02770	516424	516913	Yes
+traE	conjugal transfer protein TraE, complete TraE	karp_02775	516909	517461	Yes
+traL	conjugal transfer protein traL, complete TraL	karp_02780	517460	517784	Yes
+NA	Phage integrase family protein, complete integrase	karp_02785	517927	519148	Yes
+NA	hypothetical protein	karp_02790	519281	519482	Yes
+coxB	cytochrome c oxidase subunit II	karp_02795	519599	520295	Yes
+NA	RDD family protein	karp_02800	520506	520983	Yes
+virB6-5	conjugal transfer protein	karp_02805	522144	524361	No
+NA	Conjugal transfer protein TraI	karp_02810	524943	525111	No
+NA	DDE superendonuclease family protein	karp_02815	525264	525621	No
+NA	Transposase	karp_02820	525632	525806	No
+uvrA	excinuclease ABC subunit A	karp_02825	525982	528856	Yes
+NA	IS982 family transposase	karp_02830	529255	530065	No
+NA	Conjugal transfer protein TraA	karp_02835	530176	530647	Yes
+NA	Conjugal transfer protein TraA	karp_02840	530643	530805	Yes
+NA	Conjugal transfer protein TraA	karp_02845	530805	531171	Yes
+NA	Transposase	karp_02850	532152	532356	Yes
+rpmA	50S ribosomal protein L27	karp_02855	534476	534746	Yes
+rplU	50S ribosomal protein L21	karp_02860	534786	535113	Yes
+NA	phospholipid phosphatase	karp_02865	535252	535921	Yes
+phnP	MBL fold metallo-hydrolase	karp_02870	536025	536775	No
+xseA	exodeoxyribonuclease VII large subunit	karp_02875	536995	538366	No
+hisJ	PBPb domain-containing protein	karp_02880	538424	539900	No
+scaD	ScaD autotransporter protein	karp_02885	539991	542958	Yes
+dnaX	DNA polymerase III subunit gamma/tau	karp_02895	544016	545696	No
+ybaB	Nucleoid-associated protein, YbaB/EbfC family	karp_02900	545707	546268	No
+znuC	zinc ABC transporter ATP-binding protein	karp_02905	546536	547250	No
+znuB	metal ABC transporter permease	karp_02910	547230	548019	No
+NA	reverse transcriptase	karp_02915	548787	549084	No
+NA	hypothetical protein	karp_02920	550636	550726	No
+tnp-IS5	IS5 family transposase	karp_02925	550985	551384	Yes
+NA	DDE superendonuclease family protein	karp_02930	551371	551749	Yes
+NA	Integrase	karp_02935	551911	552505	No
+NA	Integrase	karp_02940	552549	552726	No
+traL	conjugal transfer protein traL	karp_02945	552853	553147	No
+NA	DDE superendonuclease family protein	karp_02950	553374	553731	No
+NA	DDE superendonuclease family protein	karp_02955	553742	554087	No
+NA	Exodeoxyribonuclease III	karp_02960	555165	555300	No
+pgsA	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	karp_02965	555733	556282	Yes
+NA	DUF2610 domain-containing protein	karp_02970	557724	558066	Yes
+hemF	oxygen-dependent coproporphyrinogen oxidase	karp_02975	558206	559043	Yes
+miaB	tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB	karp_02980	559216	560566	Yes
+sppA	S49 family peptidase	karp_02985	560857	561775	No
+NA	IS5 family transposase ISOt6	karp_02990	561878	562262	Yes
+NA	IS5 family transposase ISOt6	karp_02995	562886	563024	Yes
+NA	Conjugal transfer protein TraC	karp_03000	563150	563495	Yes
+NA	hypothetical protein	karp_03005	563746	563920	Yes
+tyrS	tyrosine--tRNA ligase	karp_03010	564509	565751	No
+NA	Replicative DNA helicase	karp_03015	566410	566581	No
+NA	DUF2610 domain-containing protein	karp_03020	566995	567337	No
+NA	DDE superendonuclease family protein	karp_03025	568074	568179	No
+NA	IS5 family transposase ISOt6	karp_03030	568190	568427	No
+pipB2	Secreted effector protein PipB2	karp_03035	568836	572463	Yes
+scaE	ScaE autotransporter protein	karp_03040	572992	575260	Yes
+NA	IS5 family transposase ISOt6	karp_03045	575921	576056	Yes
+NA	DDE superendonuclease family protein	karp_03050	576610	576967	No
+NA	IS5 family transposase ISOt6	karp_03055	576993	577221	No
+NA	Integrase	karp_03060	577265	577445	No
+NA	Putative integrase	karp_03065	577583	577793	No
+NA	Integrase	karp_03070	577957	578533	Yes
+trm112	tetraacyldisaccharide 4'-kinase	karp_03075	579528	579696	Yes
+NA	hypothetical protein	karp_03080	579828	580050	Yes
+rpmE	50S ribosomal protein L31	karp_03090	580325	580550	Yes
+rpmB	50S ribosomal protein L28	karp_03095	580559	580847	Yes
+eamA	EamA family transporter	karp_03100	581090	581963	No
+NA	MFS transporter	karp_03105	581980	583237	No
+NA	hypothetical protein	karp_03110	583820	584585	No
+pBP4	penicillin-binding protein 4	karp_03115	584857	586069	Yes
+aspS	aspartate--tRNA(Asp/Asn) ligase	karp_03120	586094	587888	Yes
+rpoB	DNA-directed RNA polymerase subunit beta'	karp_03125	588166	592357	Yes
+rpoB	DNA-directed RNA polymerase subunit beta	karp_03130	592471	596596	Yes
+rplL	50S ribosomal protein L7/L12	karp_03135	596911	597301	Yes
+rplJ	50S ribosomal protein L10	karp_03140	597322	597832	Yes
+rplA	50S ribosomal protein L1	karp_03145	597835	598582	Yes
+rplK	50S ribosomal protein L11	karp_03150	598585	599032	Yes
+nusG	transcription termination/antitermination factor NusG	karp_03155	599071	599608	Yes
+secE	preprotein translocase subunit SecE	karp_03160	599649	599850	Yes
+tuf	elongation factor Tu	karp_03170	600104	601289	Yes
+plsC	1-acyl-sn-glycerol-3-phosphate acyltransferase	karp_03175	601462	602227	Yes
+recR	recombination protein RecR	karp_03180	602391	603003	Yes
+yciB	septation protein A	karp_03185	603091	603628	Yes
+fTR1	iron permease	karp_03190	603631	604471	Yes
+NA	cupredoxin domain-containing protein	karp_03195	604499	604865	Yes
+eAL	EAL domain-containing protein	karp_03205	605329	606562	Yes
+abcT	ABC transporter ATP-binding protein	karp_03210	606747	607479	Yes
+art	arginine ABC transporter permease	karp_03215	607471	608089	Yes
+NA	DDE transposase family protein	karp_03220	608757	608949	No
+NA	Transposase	karp_03225	608956	609220	No
+NA	hypothetical protein	karp_03230	609748	611002	No
+NA	DDE transposase family protein	karp_03235	611174	611417	No
+NA	DDE superendonuclease family protein	karp_03240	611816	612170	No
+NA	DDE superendonuclease family protein	karp_03245	612264	612492	No
+NA	Transposase	karp_03250	612469	612577	No
+NA	Conjugal transfer protein	karp_03255	613415	613607	Yes
+gst	glutathione S-transferase	karp_03265	614249	614918	No
+NA	Replicative DNA helicase	karp_03270	615055	615262	No
+NA	hypothetical protein	karp_03275	615174	615375	Yes
+nusB	transcription antitermination factor NusB	karp_03280	615612	616089	Yes
+hisS	histidine--tRNA ligase	karp_03285	616112	617384	Yes
+mlaD	outer membrane lipid asymmetry maintenance protein MlaD	karp_03290	617386	617872	Yes
+nuo	NADH ubiquinone oxidoreductase	karp_03295	617876	618239	Yes
+rnhA	ribonuclease H	karp_03300	618210	618717	Yes
+sspB2	Stringent starvation protein B	karp_03305	618716	619244	Yes
+dsbA	thiol:disulfide interchange protein	karp_03310	619372	620197	Yes
+fdxA	ferredoxin	karp_03315	620326	620647	Yes
+ccmC	heme exporter protein C	karp_03320	620651	621362	Yes
+yfiH	Laccase domain protein YfiH	karp_03325	621354	621969	Yes
+glnA	glutamine synthetase	karp_03330	622063	622915	No
+NA	Transposase	karp_03335	623418	623901	Yes
+NA	Conjugal transfer protein	karp_03340	624442	624799	Yes
+NA	Ankyrin repeat-containing protein 09	karp_03345	625100	626108	No
+NA	hypothetical protein	karp_03350	626254	626356	Yes
+NA	Conjugal transfer protein TraE	karp_03355	626394	626685	Yes
+NA	Conjugal transfer TraD family protein	karp_03360	627611	627764	No
+NA	hypothetical protein	karp_03365	628225	628474	No
+lacA	ribose-5-phosphate isomerase	karp_03370	628942	629392	No
+NA	Replicative DNA helicase	karp_03375	630422	630545	Yes
+NA	DnaA-N domain-containing protein	karp_03380	630553	631354	Yes
+NA	hypothetical protein	karp_03385	631313	631649	Yes
+NA	hypothetical protein	karp_03390	631987	632113	Yes
+NA	Transposase	karp_03395	632390	632711	No
+greA	transcription elongation factor GreA	karp_03400	633337	633817	No
+rpoH	RNA polymerase factor sigma-32	karp_03405	633863	634763	No
+NA	hypothetical protein	karp_03410	635361	635469	No
+NA	Copper(I)-binding protein	karp_03415	635961	636504	Yes
+NA	hypothetical protein	karp_03420	636786	636957	No
+NA	Transposase	karp_03425	638402	638705	Yes
+NA	DDE superendonuclease family protein	karp_03430	638716	639073	Yes
+aNKYR	Ankyrin repeat protein with 8 ankyrin repeats	karp_03435	639588	641073	Yes
+traC	conjugal transfer protein TraC	karp_03440	641355	643521	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	karp_03445	643517	644177	No
+NA	hypothetical protein	karp_03450	644260	644464	No
+traU	conjugal transfer protein TraU, complete TraU	karp_03455	644464	645442	No
+NA	Type-F conjugative transfer system pilin assembly protein TrbC	karp_03460	645464	645596	No
+pilW	type IV pilus biogenesis/stability protein PilW	karp_03465	645855	647082	No
+NA	DUF4065 domain-containing protein	karp_03470	647185	647632	No
+NA	hypothetical protein	karp_03475	647594	647747	No
+traF	conjugal transfer protein TraF, complete TraF	karp_03480	647758	648475	No
+NA	Conjugal transfer protein TraH	karp_03485	648471	649101	No
+NA	Conjugal transfer protein TraH	karp_03490	649289	649775	No
+traG	conjugal transfer protein TraG	karp_03495	649774	650401	No
+putP	sodium:proline symporter	karp_03500	651556	654994	Yes
+icd	isocitrate dehydrogenase	karp_03510	656152	657712	Yes
+hemC	hydroxymethylbilane synthase	karp_03515	657884	658781	No
+proP	proline/betaine transporter	karp_03520	659092	660313	No
+NA	RNA-binding protein	karp_03525	661383	663051	No
+NA	hypothetical protein	karp_03530	663604	665473	No
+tdcB	threonine dehydratase	karp_03535	666038	667052	Yes
+ycbZ	endopeptidase La	karp_03540	667168	669541	No
+dnaA	Chromosomal replication initiator protein DnaA	karp_03545	669604	670255	Yes
+purF	amidophosphoribosyltransferase	karp_03550	670385	671132	Yes
+miaA	tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA	karp_03555	671115	672153	Yes
+rnhB	ribonuclease HII	karp_03560	672222	672840	No
+NA	DUF2312 domain-containing protein	karp_03565	673405	673651	No
+NA	Integrase	karp_03570	674144	674306	No
+NA	Integrase	karp_03575	674322	674433	No
+NA	Integrase	karp_03580	674693	675038	No
+NA	Integrase	karp_03585	674994	675282	No
+NA	hypothetical protein	karp_03590	675631	675868	No
+pilW	type IV pilus biogenesis/stability protein PilW	karp_03595	676238	677339	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	karp_03600	677644	678292	Yes
+NA	ATP-binding protein	karp_03605	678475	678685	Yes
+NA	ATP-binding protein	karp_03610	678653	678779	Yes
+NA	ATP-binding protein	karp_03615	678838	679258	Yes
+NA	Znf/thioredoxin-put domain-containing protein	karp_03625	680348	680993	Yes
+dapD	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	karp_03630	681093	681945	No
+NA	Transposase, YhgA-like family protein	karp_03635	682035	682476	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	karp_03640	682485	683733	Yes
+NA	Conjugal transfer protein TraD	karp_03645	683734	684064	Yes
+NA	Conjugal transfer protein TraH	karp_03650	684044	684443	Yes
+NA	Conjugal transfer protein TraH	karp_03655	684492	685122	Yes
+NA	IS982 family transposase	karp_03660	685262	686138	Yes
+NA	Conjugal transfer protein	karp_03665	686228	686774	Yes
+NA	hypothetical protein	karp_03670	686857	687259	Yes
+NA	hypothetical protein	karp_03675	687352	688516	Yes
+NA	Conjugal transfer protein TraN	karp_03680	688651	688852	Yes
+NA	Integrase	karp_03685	689363	690206	No
+NA	Conjugative transfer domain protein	karp_03690	690374	690626	Yes
+NA	hypothetical protein	karp_03695	690772	690952	Yes
+NA	hypothetical protein	karp_03700	691047	691248	Yes
+NA	hypothetical protein	karp_03705	691244	691397	Yes
+NA	Conjugal transfer protein TraE	karp_03710	691377	691797	Yes
+traL	conjugal transfer protein traL	karp_03715	691796	692093	Yes
+NA	Phage integrase family protein	karp_03720	692184	692841	Yes
+NA	Integrase	karp_03725	693156	693525	Yes
+NA	ATP-binding protein	karp_03730	693956	694058	Yes
+NA	hypothetical protein	karp_03735	694408	695125	Yes
+NA	Putative ompA-like autotransporter	karp_03740	696004	696511	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	karp_03745	696557	697202	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_03750	697236	697809	Yes
+NA	hypothetical protein	karp_03755	698039	698612	Yes
+NA	DnaA-N domain-containing protein	karp_03760	698613	699135	Yes
+NA	hypothetical protein	karp_03765	699176	699752	Yes
+NA	transposase	karp_03770	699980	700919	Yes
+NA	IS110 family transposase	karp_03775	701498	702071	No
+NA	Transposase IS116/IS110/IS902 family protein	karp_03780	702027	702453	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_03785	702591	703179	Yes
+baeS	ATP-binding protein	karp_03790	703220	703715	Yes
+NA	ATP-binding protein	karp_03795	703733	704417	Yes
+NA	ATP-binding protein	karp_03800	704417	704669	Yes
+NA	ATP-binding protein	karp_03805	704685	705264	Yes
+NA	ATP-binding protein	karp_03810	705434	705611	Yes
+NA	Site-specific DNA-methyltransferase (adenine-specific)	karp_03815	705977	706673	No
+NA	RNA-binding protein	karp_03820	707042	707579	No
+NA	RNA-binding protein	karp_03825	707556	707727	No
+dnaB	replicative DNA helicase	karp_03830	707716	709048	Yes
+NA	DnaA-N domain-containing protein	karp_03835	709056	710772	Yes
+NA	conjugal transfer protein TraN	karp_03840	710999	711254	Yes
+NA	DnaA-N domain-containing protein	karp_03845	711814	712954	No
+NA	hypothetical protein	karp_03850	712955	713528	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_03855	713757	714330	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	karp_03860	714364	715009	No
+NA	Putative ompA-like autotransporter	karp_03865	715056	715560	No
+dam	DNA methyltransferase	karp_03870	715563	716373	Yes
+baeS	Signal transduction histidine kinase	karp_03875	716758	717535	No
+baeS	sensor histidine kinase	karp_03880	717509	718367	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	karp_03885	718467	719043	No
+NA	transposase	karp_03890	719164	720175	No
+traD	conjugal transfer protein TraD, complete TraD	karp_03895	720244	720700	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_03900	720909	722625	Yes
+NA	Conjugal transfer protein TraA	karp_03905	723306	724347	No
+traA	conjugal transfer protein TraA	karp_03910	724388	726164	No
+traI	conjugal transfer protein TraI	karp_03915	726282	728364	No
+NA	transposase	karp_03920	728415	729435	No
+traD	conjugal transfer protein TraD, complete TraD	karp_03925	729444	731199	Yes
+NA	hypothetical protein	karp_03930	731204	731339	Yes
+traG	conjugal transfer protein TraG	karp_03935	731325	733221	Yes
+NA	Conjugal transfer protein TraH	karp_03940	733220	733700	Yes
+NA	Conjugal transfer protein TraH	karp_03945	733894	734524	Yes
+traF	conjugal transfer protein TraF, complete TraF	karp_03950	734520	735204	Yes
+traN	conjugal transfer protein TraN, complete TraN	karp_03955	735215	736910	Yes
+NA	Integrase	karp_03960	737049	737406	Yes
+NA	Integrase	karp_03965	737422	737587	Yes
+NA	Replicative DNA helicase	karp_03970	738357	738906	Yes
+NA	Replicative DNA helicase	karp_03975	738966	739122	Yes
+NA	Integrase	karp_03980	739959	740130	No
+NA	Integrase	karp_03985	740474	740615	No
+NA	Integrase	karp_03990	740590	740740	No
+NA	Integrase	karp_03995	740834	741041	No
+traL	conjugal transfer protein traL, complete TraL	karp_04000	741141	741465	No
+scaA	ScaA autotransporter protein	karp_04005	742451	746996	Yes
+NA	IS5 family transposase ISOt6	karp_04010	747648	748059	Yes
+NA	DDE superendonuclease family protein	karp_04015	748033	748390	Yes
+NA	Multidrug resistance protein MdtL	karp_04020	748516	748789	Yes
+NA	MFS transporter	karp_04025	748799	749051	Yes
+NA	hypothetical protein	karp_04030	749350	749698	No
+NA	hypothetical protein	karp_04035	749816	749990	No
+NA	IS982 family transposase	karp_04040	749986	750862	Yes
+lepB	signal peptidase I	karp_04045	751411	752152	No
+rnc	ribonuclease III	karp_04050	752207	752948	No
+NA	IS5 family transposase ISOt6	karp_04055	753152	753308	Yes
+NA	DDE superendonuclease family protein	karp_04060	753282	753399	Yes
+NA	IS5 family transposase ISOt6	karp_04065	753501	753639	Yes
+NA	DDE superendonuclease family protein	karp_04070	753803	753908	No
+NA	IS5 family transposase ISOt6	karp_04075	753882	754293	No
+NA	DnaB-like helicase C terminal domain protein	karp_04080	754594	754756	No
+NA	(P)pGpp hydrolase	karp_04085	754988	755246	No
+menE,fadK	acyl-[ACP]--phospholipid O-acyltransferase	karp_04090	755810	759284	Yes
+ypfH	esterase	karp_04095	759603	760236	Yes
+nth	endonuclease III	karp_04100	760232	760871	Yes
+grxD	Grx4 family monothiol glutaredoxin	karp_04105	760946	761291	No
+nifU	NifU family protein	karp_04110	761349	761898	No
+NA	transcriptional regulator	karp_04115	763043	763841	Yes
+fieF	Cation efflux family	karp_04120	764120	765038	No
+tadA	tRNA-specific adenosine deaminase	karp_04125	765093	765546	No
+ligA	DNA ligase (NAD(+)) LigA	karp_04130	765623	767723	No
+pepA	aminopeptidase	karp_04135	767719	769492	No
+NA	Transposase	karp_04140	769733	770042	Yes
+NA	Transposase	karp_04145	770019	770127	Yes
+dam	DNA methyltransferase	karp_04150	770349	771159	Yes
+NA	ATP-binding protein	karp_04155	771532	772261	No
+baeS	sensor histidine kinase	karp_04160	772282	773140	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_04165	773240	773819	No
+NA	Putative permease	karp_04170	773937	774582	No
+NA	Transposase	karp_04175	774822	774930	Yes
+NA	DDE superendonuclease family protein	karp_04180	774907	775135	Yes
+NA	DDE superendonuclease family protein	karp_04185	775146	775584	Yes
+NA	hypothetical protein	karp_04190	775713	775866	No
+NA	Lipase-3 domain-containing protein	karp_04195	776025	777219	No
+NA	hypothetical protein	karp_04200	778392	778773	No
+murJ	lipid II flippase MurJ	karp_04205	778809	780324	Yes
+NA	DDE-3 domain-containing protein	karp_04210	780700	780850	Yes
+arpD	type I secretion system permease/ATPase	karp_04215	781637	783392	No
+hlyD	HlyD family type I secretion periplasmic adaptor subunit	karp_04220	783429	784968	No
+NA	Transposase	karp_04225	786263	786530	Yes
+NA	Transposase	karp_04230	786670	786862	Yes
+NA	Conjugative transfer protein	karp_04235	787052	787214	No
+NA	IS982 family transposase	karp_04240	787600	788077	No
+NA	hypothetical protein	karp_04245	788067	788280	No
+tlc	ATP/ADP translocase	karp_04250	788854	790255	No
+tlcC	AAA family ATPase	karp_04255	790407	791952	No
+NA	hypothetical protein	karp_04260	791951	793757	No
+ispB	octaprenyl-diphosphate synthase	karp_04265	793776	794793	No
+NA	Conjugative transfer domain protein	karp_04270	794950	795106	No
+NA	Putative conjugative transfer protein	karp_04275	795222	795387	No
+NA	Conjugal transfer protein TraG	karp_04280	795880	796000	No
+traG	conjugal transfer protein TraG	karp_04285	795987	796365	No
+NA	hypothetical protein	karp_04290	796418	796568	No
+NA	TPR repeat-containing protein 03	karp_04295	796728	797151	No
+NA	Conjugal transfer protein TraG	karp_04300	797298	797415	No
+NA	Conjugal transfer protein	karp_04305	797420	797615	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	karp_04310	797692	798703	No
+NA	Transposase	karp_04315	798712	798889	Yes
+NA	Ankyrin repeat-containing protein 09	karp_04320	798924	799326	No
+NA	Conjugal transfer protein TraA	karp_04325	799336	799855	Yes
+NA	Conjugal transfer protein TraA	karp_04330	799839	800067	Yes
+NA	Conjugal transfer protein TraA	karp_04335	800261	800552	Yes
+NA	hypothetical protein	karp_04340	800745	800862	Yes
+apaG	Co2+/Mg2+ efflux protein ApaG	karp_04345	801230	801656	No
+pleD	PleD family two-component system response regulator	karp_04350	802165	803635	Yes
+ubiX	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	karp_04360	804104	804668	No
+mgtE	magnesium transporter	karp_04365	804717	805632	Yes
+ybeY	rRNA maturation RNase YbeY	karp_04370	805644	806148	Yes
+NA	IS982 family transposase	karp_04375	807652	808189	No
+ftsY	signal recognition particle-docking protein FtsY	karp_04380	809641	810583	Yes
+NA	DUF2660 domain-containing protein	karp_04385	810694	811084	No
+virB9-1	P-type conjugative transfer protein VirB9	karp_04390	811346	812111	Yes
+virB8-1	type VI secretion protein	karp_04395	812100	812802	Yes
+thyA	thymidylate synthase (FAD)	karp_04410	816355	817258	Yes
+cinA	Competence-damaged protein cinA	karp_04415	817301	817805	Yes
+pgpA	phosphatidylglycerophosphatase A	karp_04420	817864	818461	Yes
+perM	AI-2E family transporter	karp_04425	818765	819818	No
+hemA	5-aminolevulinate synthase	karp_04430	819827	821039	Yes
+ptrB	S9 family peptidase	karp_04435	821063	823124	Yes
+rpsT	30S ribosomal protein S20	karp_04440	823189	823462	Yes
+rplQ	50S ribosomal protein L17	karp_04445	823543	823981	Yes
+rpoA	DNA-directed RNA polymerase subunit alpha	karp_04450	823999	825028	Yes
+rpsK	30S ribosomal protein S11	karp_04455	825075	825456	Yes
+rpsM	30S ribosomal protein S13	karp_04460	825465	825843	Yes
+adk	adenylate kinase	karp_04465	825922	826567	Yes
+secY	preprotein translocase subunit SecY	karp_04470	826563	827871	Yes
+rplO	50S ribosomal protein L15	karp_04475	827872	828364	Yes
+rpsE	30S ribosomal protein S5	karp_04480	828597	829116	Yes
+rplR	50S ribosomal protein L18	karp_04485	829136	829511	Yes
+rplF	50S ribosomal protein L6	karp_04490	829524	830058	Yes
+rpsH	30S ribosomal protein S8	karp_04495	830085	830487	Yes
+rpsN	30S ribosomal protein S14	karp_04500	830509	830815	Yes
+rplE	50S ribosomal protein L5	karp_04505	830833	831403	Yes
+rplX	50S ribosomal protein L24	karp_04510	831427	831745	Yes
+rplN	50S ribosomal protein L14	karp_04515	831746	832115	Yes
+rpsQ	30S ribosomal protein S17	karp_04520	832189	832429	Yes
+rpmC	50S ribosomal protein L29	karp_04525	832429	832651	Yes
+rplP	50S ribosomal protein L16	karp_04530	832643	833054	Yes
+rpsC	30S ribosomal protein S3	karp_04535	833082	833742	Yes
+rplV	50S ribosomal protein L22	karp_04540	833757	834108	Yes
+rpsS	30S ribosomal protein S19	karp_04545	834109	834388	Yes
+rplB	50S ribosomal protein L2	karp_04550	834411	835233	Yes
+rplW	50S ribosomal protein L23	karp_04555	835233	835530	Yes
+rplD	50S ribosomal protein L4	karp_04560	835526	836159	Yes
+rplC	50S ribosomal protein L3	karp_04565	836173	836857	Yes
+rpsJ	30S ribosomal protein S10	karp_04570	836840	837146	Yes
+tuf	elongation factor Tu	karp_04575	837190	838375	Yes
+rlmB	23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB	karp_04590	838838	839573	No
+recA	DNA recombination/repair protein RecA	karp_04595	839660	840731	No
+fabG	3-oxoacyl-ACP reductase	karp_04600	840724	841450	No
+acpP	acyl carrier protein	karp_04605	841572	841959	No
+fabF	beta-ketoacyl-[acyl-carrier-protein] synthase II	karp_04610	842045	843317	No
+rpmG	50S ribosomal protein L33	karp_04615	844411	844582	No
+rpsP	30S ribosomal protein S16	karp_04620	844590	844914	No
+NA	Transposase	karp_04630	847400	847634	No
+NA	Transposase	karp_04635	847734	847896	No
+NA	hypothetical protein	karp_04640	848938	849034	No
+NA	hypothetical protein	karp_04645	849568	849679	No
+rplT	50S ribosomal protein L20	karp_04650	849679	850045	Yes
+rpmI	50S ribosomal protein L35	karp_04655	850064	850271	Yes
+htpG	molecular chaperone HtpG	karp_04660	850714	852607	No
+dapE	succinyl-diaminopimelate desuccinylase	karp_04665	852769	853936	No
+tig	trigger factor	karp_04675	854087	855578	No
+mdlB	multidrug resistance protein	karp_04680	856080	857751	Yes
+ompR	two-component system response regulator	karp_04685	857859	858609	Yes
+rpsF	30S ribosomal protein S6	karp_04690	858902	859259	No
+rpsR	30S ribosomal protein S18	karp_04695	859304	859613	No
+rplI	50S ribosomal protein L9	karp_04700	859655	860183	No
+tlcC	AAA family ATPase	karp_04705	860338	861814	No
+NA	hypothetical protein	karp_04710	862975	863164	No
+NA	DUF2748 domain-containing protein	karp_04725	865015	866359	No
+mnmA	tRNA 2-thiouridine(34) synthase MnmA	karp_04730	866592	867702	Yes
+NA	Propionyl-CoA carboxylase beta chain	karp_04735	868105	868300	No
+NA	Propionyl-CoA carboxylase beta chain	karp_04740	868547	868706	No
+NA	Propionyl-CoA carboxylase beta chain	karp_04745	868841	869150	No
+NA	Biotin-carb-N domain-containing protein	karp_04750	869552	869801	No
+NA	Acetyl-/propionyl-coenzyme A carboxylase alpha chain	karp_04755	870016	870337	No
+NA	CbamoylP-synth-lsu-like-ATP-bd domain-containing protein	karp_04760	870378	870504	No
+NA	Biotin carboxylase	karp_04765	870557	871127	No
+NA	ATP-binding protein	karp_04770	871188	871404	No
+NA	ATP-binding protein	karp_04775	871562	871859	No
+NA	Hydrolase	karp_04780	871915	872089	No
+NA	DnaA-N domain-containing protein	karp_04785	873015	873963	No
+NA	DnaA N-terminal domain protein	karp_04790	874016	874247	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_04795	874476	875049	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	karp_04800	875083	875728	No
+NA	Membrane protein	karp_04805	875774	876326	No
+NA	Site-specific DNA-methyltransferase (adenine-specific)	karp_04810	876355	876964	Yes
+NA	hypothetical protein	karp_04815	877669	877846	No
+NA	hypothetical protein	karp_04820	878089	879592	Yes
+NA	ATP-binding protein	karp_04825	880487	881216	No
+baeS	sensor histidine kinase	karp_04830	881237	882095	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	karp_04835	882195	882771	No
+NA	transposase	karp_04840	882892	883903	No
+NA	Conjugal transfer protein TraD	karp_04845	883970	884246	Yes
+NA	hypothetical protein	karp_04850	884544	885483	No
+NA	Conjugative transfer protein	karp_04855	885540	885780	Yes
+NA	Conjugal transfer TraD family protein	karp_04860	885748	885997	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_04865	886207	887923	Yes
+NA	Conjugal transfer protein TraA	karp_04870	888603	889188	No
+NA	Conjugal transfer protein TraA	karp_04875	889244	890747	No
+NA	DnaA-N domain-containing protein	karp_04880	891131	892841	No
+dnaB	replicative DNA helicase	karp_04885	892849	893314	No
+NA	Replicative DNA helicase	karp_04890	893494	894298	No
+aNKYR	Ankyrin repeat	karp_04895	894537	895167	No
+NA	Putative ompA-like autotransporter	karp_04900	895213	895453	No
+NA	Membrane protein	karp_04905	895456	895717	No
+NA	hypothetical protein	karp_04910	896586	896763	No
+NA	hypothetical protein	karp_04915	897006	898509	Yes
+NA	ATP-binding protein	karp_04920	899404	900133	No
+baeS	sensor histidine kinase	karp_04925	900154	901012	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	karp_04930	901112	901688	No
+fliH	Flagellar biosynthesis/type III secretory pathway protein FliH	karp_04935	901809	902832	No
+pilW	type IV pilus biogenesis/stability protein PilW	karp_04940	903022	904225	Yes
+NA	hypothetical protein	karp_04945	904321	904465	Yes
+traD	conjugal transfer protein TraD, complete TraD	karp_04950	904548	905004	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_04955	905214	906930	Yes
+traA	conjugal transfer protein TraA	karp_04960	907612	909826	No
+NA	Conjugal transfer protein TraI	karp_04965	909944	911462	No
+NA	Uncharacterized domain associated with phage/plasmid primase	karp_04970	911475	912027	No
+NA	transposase	karp_04975	912078	913074	No
+traD	conjugal transfer protein TraD, complete TraD	karp_04980	913083	914838	Yes
+NA	TPR repeat-containing protein 08	karp_04985	914841	915987	Yes
+traG	conjugal transfer protein TraG, complete TraG	karp_04990	916002	918654	Yes
+NA	Conjugal transfer protein TraH	karp_04995	918653	919088	Yes
+NA	conjugal transfer protein TraH	karp_05000	919100	919277	Yes
+NA	Conjugal transfer protein TraH	karp_05005	919326	919956	Yes
+traF	conjugal transfer protein TraF, complete TraF	karp_05010	919952	920669	Yes
+NA	Ankyrin repeat-containing protein 16	karp_05015	920863	922183	Yes
+traN	conjugal transfer protein TraN, complete TraN	karp_05020	922342	924034	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	karp_05025	924030	924414	Yes
+NA	conjugal transfer protein	karp_05030	924436	924964	Yes
+NA	Ankyrin repeat-containing protein	karp_05035	925612	926602	No
+NA	Conjugal transfer protein TraC	karp_05040	926515	927466	Yes
+NA	hypothetical protein	karp_05045	928149	928287	Yes
+NA	TraE family protein	karp_05050	928439	928805	Yes
+bcp	peroxiredoxin	karp_05055	928791	929085	Yes
+NA	Phage integrase family protein	karp_05060	929087	929864	Yes
+NA	Integrase	karp_05065	929998	930226	Yes
+NA	Replicative DNA helicase	karp_05075	931938	932130	Yes
+NA	IS982 family transposase	karp_05080	932444	933236	Yes
+NA	Putative membrane protein	karp_05085	934182	934392	Yes
+erhM	2-hydroxyacid dehydrogenase	karp_05090	934460	935933	Yes
+hyfB	cation:proton antiporter	karp_05095	935942	937433	Yes
+mnhC	cation:proton antiporter subunit C	karp_05100	937425	937821	Yes
+NA	Na(+)/H(+) antiporter subunit B	karp_05105	937804	938239	Yes
+mnhB	DUF4040 domain-containing protein	karp_05110	938259	938850	Yes
+NA	sodium:proton antiporter	karp_05115	938846	939176	Yes
+nagD	TIGR01459 family HAD-type hydrolase	karp_05125	939727	940588	Yes
+gyrB	DNA gyrase subunit B	karp_05130	940704	943128	No
+NA	hypothetical protein	karp_05135	943164	943689	Yes
+potE	amino acid permease	karp_05140	943990	945406	No
+NA	Transposase	karp_05150	946257	946557	No
+NA	IS5 family transposase ISOt6	karp_05155	946548	946923	Yes
+NA	hypothetical protein	karp_05160	946934	947039	Yes
+NA	IS5 family transposase ISOt6	karp_05165	947184	947310	Yes
+yidC	membrane protein insertase YidC	karp_05170	948323	950027	No
+yihA	YihA family ribosome biogenesis GTP-binding protein	karp_05175	950023	950650	No
+argB	acetylglutamate kinase	karp_05180	950597	951539	No
+NA	IS5 family transposase ISOt6	karp_05185	951636	951987	Yes
+NA	DDE superendonuclease family protein	karp_05190	951961	952066	Yes
+NA	IS630 family transposase	karp_05195	952280	952508	Yes
+NA	Phage integrase family protein, complete integrase	karp_05200	953002	954322	No
+traL	conjugal transfer protein traL, complete TraL	karp_05205	954389	954713	No
+traE	conjugal transfer protein TraE, complete TraE	karp_05210	954712	955264	No
+traK1	conjugal transfer protein traK1, complete TraK-1	karp_05215	955260	955749	No
+traK2	conjugal transfer protein traK2, complete TraK-2	karp_05220	956155	956491	No
+traB	conjugal transfer protein TraB, complete TraB	karp_05225	956529	957849	No
+traV	conjugal transfer protein TraV, complete TraV	karp_05230	957848	958169	No
+traC	conjugal transfer protein TraC, complete TraC	karp_05235	958149	960642	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	karp_05240	960638	961298	No
+NA	hypothetical protein	karp_05245	961388	961592	No
+traU	conjugal transfer protein TraU, complete TraU	karp_05250	961592	962570	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	karp_05255	962592	962976	No
+traN	conjugal transfer protein TraN	karp_05260	962972	964529	No
+NA	conjugal transfer protein TraN	karp_05265	964553	964667	No
+traF	conjugal transfer protein TraF, complete TraF	karp_05270	964678	965362	No
+traH	conjugal transfer protein TraH, complete TraH	karp_05275	965358	966660	No
+traG	conjugal transfer protein TraG, complete TraG	karp_05280	966659	969287	No
+NA	TPR repeat-containing protein 08	karp_05285	969299	970439	No
+traD	conjugal transfer protein TraD, complete TraD	karp_05290	970444	972199	No
+NA	transposase	karp_05295	972208	973180	Yes
+traI	conjugal transfer protein TraI, complete TraI	karp_05300	973231	975901	Yes
+traA	conjugal transfer protein TraA, complete TraA	karp_05305	976164	978984	Yes
+NA	hypothetical protein	karp_05310	979292	980624	No
+traD	conjugal transfer protein TraD, complete TraD	karp_05315	980681	981125	No
+NA	transposase	karp_05320	981192	982239	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_05325	982360	982948	Yes
+baeS	ATP-binding protein	karp_05330	982989	983484	Yes
+NA	ATP-binding protein	karp_05335	983502	984441	Yes
+NA	ATP-binding protein	karp_05340	984457	985036	Yes
+baeS	histidine kinase	karp_05345	985165	985867	Yes
+NA	ATP-binding protein	karp_05350	985931	986210	Yes
+dam	DNA methyltransferase	karp_05355	986577	987387	No
+NA	Putative ompA-like autotransporter	karp_05360	987390	987894	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	karp_05365	987941	988586	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_05370	988620	989196	Yes
+dnaB	replicative DNA helicase	karp_05375	989429	990878	Yes
+NA	DnaA-N domain-containing protein	karp_05380	990886	992602	Yes
+NA	IS630 family transposase	karp_05385	992888	993083	Yes
+NA	cell surface protein	karp_05390	993266	996008	Yes
+gmk	guanylate kinase	karp_05395	996142	996808	Yes
+NA	hypothetical protein	karp_05400	997016	997784	Yes
+cutA	divalent-cation tolerance protein CutA	karp_05405	998504	998861	Yes
+ffh	signal recognition particle protein	karp_05410	998918	1000271	Yes
+NA	NADH dehydrogenase ubiquinone Fe-S protein 4	karp_05415	1001359	1001641	Yes
+xseB	exodeoxyribonuclease VII small subunit	karp_05420	1001694	1001934	No
+NA	hypothetical protein	karp_05425	1002006	1002102	Yes
+NA	hypothetical protein	karp_05430	1002581	1002845	Yes
+NA	IS982 family transposase	karp_05435	1003034	1003790	Yes
+dnaB	Replicative DNA helicase	karp_05440	1004394	1004676	No
+NA	RNA-binding protein	karp_05445	1004801	1005149	Yes
+NA	RNA-binding protein	karp_05450	1005602	1007264	Yes
+NA	hypothetical protein	karp_05455	1007538	1007790	No
+NA	Repeat-containing protein D	karp_05460	1008023	1010603	No
+xthA2	exodeoxyribonuclease III	karp_05465	1011236	1012022	No
+traD	conjugal transfer protein TraD, complete TraD	karp_05470	1012063	1012519	Yes
+NA	Conjugal transfer protein TraA	karp_05475	1012796	1013876	No
+NA	Conjugal transfer protein TraI	karp_05480	1013841	1014279	Yes
+NA	Conjugal transfer protein TraI	karp_05485	1014259	1014634	Yes
+NA	Conjugal transfer protein TraI	karp_05490	1014608	1015199	Yes
+NA	Conjugal transfer protein TraA	karp_05495	1015347	1015491	Yes
+NA	Conjugal transfer protein TraA	karp_05500	1015580	1016084	Yes
+traA	conjugal transfer protein TraA	karp_05505	1016403	1018284	Yes
+lspA	Lipoprotein signal peptidase	karp_05510	1019117	1019624	Yes
+bamD	outer membrane protein assembly factor BamD	karp_05520	1019918	1020713	No
+bcsA	glycosyl transferase	karp_05525	1023201	1024953	Yes
+NA	hypothetical protein	karp_05530	1024937	1026248	Yes
+ftsA	cell division protein FtsA	karp_05535	1026226	1027474	Yes
+NA	alpha/beta hydrolase	karp_05545	1027767	1028469	Yes
+iscR	[Fe-S]-binding protein	karp_05550	1028706	1029120	No
+nifS	aminotransferase class V-fold PLP-dependent enzyme	karp_05555	1029131	1030418	No
+sufS	cysteine desulfurase	karp_05560	1030432	1031704	No
+iscU	Fe-S cluster assembly scaffold IscU	karp_05565	1031743	1032169	No
+iscA	iron-sulfur cluster assembly accessory protein	karp_05570	1032178	1032553	No
+hscB	co-chaperone HscB	karp_05575	1032565	1033069	No
+hscA	molecular chaperone HscA	karp_05580	1033055	1034909	No
+fdx	(2Fe-2S) ferredoxin	karp_05585	1034925	1035270	No
+NA	Transposase	karp_05590	1035706	1036060	Yes
+NA	IS5 family transposase ISOt6	karp_05595	1036086	1036311	Yes
+hPt	Histidine phosphotransfer protein ChpT, HPt domain	karp_05600	1036513	1037191	No
+fumC	class II fumarate hydratase	karp_05605	1037254	1038655	No
+pTR2	MFS transporter	karp_05610	1038819	1040298	Yes
+NA	Conjugal transfer protein TraE	karp_05620	1042766	1042937	Yes
+NA	Peroxiredoxin	karp_05625	1043182	1043551	Yes
+NA	Ankyrin repeat family protein	karp_05630	1044499	1045372	No
+NA	Membrane protein	karp_05635	1045368	1046031	No
+NA	DDE superendonuclease family protein	karp_05640	1046350	1046488	No
+NA	IS5 family transposase ISOt6	karp_05645	1046477	1046720	No
+NA	Conjugal transfer protein	karp_05650	1046763	1046997	Yes
+NA	Conjugal transfer protein	karp_05655	1046948	1047512	Yes
+gepA	DUF4065 domain-containing protein	karp_05660	1047486	1048053	Yes
+NA	TPR repeat-containing protein 03	karp_05665	1048163	1048613	Yes
+NA	TPR repeat-containing protein 03	karp_05670	1048613	1048997	Yes
+NA	Conjugative transfer protein	karp_05675	1049247	1049358	Yes
+traN	conjugal transfer protein TraN	karp_05680	1049382	1050939	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	karp_05685	1050935	1051319	Yes
+traU	conjugal transfer protein TraU, complete TraU	karp_05690	1051341	1052286	Yes
+NA	hypothetical protein	karp_05695	1052319	1052493	Yes
+traW	type-F conjugative transfer system protein TraW, complete TraW	karp_05700	1052583	1053243	Yes
+traC	conjugal transfer protein TraC, complete TraC	karp_05705	1053239	1055732	Yes
+traV	conjugal transfer protein TraV, complete TraV	karp_05710	1055712	1056042	Yes
+NA	Conjugal transfer protein	karp_05715	1056041	1056437	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	karp_05720	1056451	1056940	Yes
+traE	conjugal transfer protein TraE, complete TraE	karp_05725	1056936	1057488	Yes
+traL	conjugal transfer protein traL, complete TraL	karp_05730	1057487	1057811	Yes
+NA	Phage integrase family protein	karp_05735	1057875	1058532	Yes
+NA	Integrase	karp_05740	1058847	1059216	Yes
+NA	ATP-binding protein	karp_05745	1059648	1059777	Yes
+pld	phospholipase D family protein	karp_05750	1059872	1060463	No
+NA	Transposase family protein	karp_05755	1060950	1061163	No
+NA	Transposase	karp_05760	1061671	1061872	No
+NA	Transposase	karp_05765	1062065	1062194	Yes
+NA	IS5 family transposase ISOt6	karp_05770	1062197	1062383	Yes
+NA	Transposase	karp_05775	1062394	1062559	Yes
+NA	IS5 family transposase ISOt6	karp_05780	1062649	1062811	Yes
+uvrD	ATP-dependent DNA helicase UvrD	karp_05785	1063059	1065201	No
+NA	Transposase	karp_05790	1065401	1065719	No
+cysS	cysteine--tRNA ligase	karp_05795	1066017	1067454	Yes
+gltX2	glutamate--tRNA ligase 2	karp_05800	1067518	1068865	Yes
+mutL	DNA mismatch repair protein MutL	karp_05805	1069045	1071088	Yes
+narK	MFS transporter	karp_05810	1071115	1072369	Yes
+virB6-4	type VI secretion protein	karp_05815	1072405	1074970	Yes
+virB6-3	type VI secretion protein	karp_05820	1074962	1078235	Yes
+virB6-2	type VI secretion protein	karp_05825	1078288	1082170	Yes
+virB6-1	type VI secretion protein	karp_05830	1082191	1084639	Yes
+virB4-1	VirB4 family type IV secretion/conjugal transfer ATPase	karp_05835	1084638	1087056	Yes
+virB3	type VI secretion protein	karp_05840	1087066	1087354	Yes
+priA	primosomal protein N'	karp_05845	1087669	1089610	Yes
+metG	methionine--tRNA ligase	karp_05850	1089796	1091332	No
+tatD	DNA-binding protein	karp_05855	1091374	1092133	No
+NA	hypothetical protein	karp_05860	1092756	1092990	No
+mscC	mechanosensitive ion channel protein MscS	karp_05865	1093464	1094331	Yes
+rlpA	septal ring lytic transglycosylase RlpA family lipoprotein	karp_05870	1095377	1096043	No
+NA	Repeat-containing protein D	karp_05875	1096854	1098162	Yes
+NA	hypothetical protein	karp_05880	1098653	1098911	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_05885	1098997	1099573	Yes
+dnaB	replicative DNA helicase	karp_05890	1099805	1101242	Yes
+NA	DnaA-N domain-containing protein	karp_05895	1101250	1101997	Yes
+NA	hypothetical protein	karp_05900	1102521	1102815	Yes
+NA	hypothetical protein	karp_05905	1103996	1104521	No
+tatA	twin-arginine translocase TatA/TatE family subunit	karp_05910	1104993	1105152	Yes
+obgE	GTPase ObgE	karp_05915	1105670	1106660	Yes
+nrfF	Cytochrome C biogenesis protein	karp_05920	1106679	1107057	Yes
+NA	hypothetical protein	karp_05925	1107079	1107409	Yes
+yccA	modulator of FtsH protease YccA	karp_05930	1107588	1108329	Yes
+rpoZ	DNA-directed RNA polymerase subunit omega	karp_05935	1108673	1109063	No
+spoT	bifunctional (p)ppGpp synthase/hydrolase SpoT	karp_05940	1109080	1111216	No
+acpS	holo-ACP synthase	karp_05945	1111226	1111622	No
+NA	hypothetical protein	karp_05950	1112232	1112406	Yes
+groEL	molecular chaperone GroEL	karp_05955	1112749	1114417	Yes
+groES	Co-chaperonin GroES	karp_05960	1114489	1114774	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	karp_05965	1115705	1116875	No
+dnaB	replicative DNA helicase	karp_05970	1117360	1118815	Yes
+baeS	Signal transduction histidine kinase	karp_05975	1119565	1121128	Yes
+raiA	Ribosome-associated translation inhibitor RaiA	karp_05980	1121411	1121762	No
+NA	Conjugal transfer protein TraI	karp_05985	1122378	1122684	Yes
+aNKYR	Ankyrin repeat	karp_05990	1122900	1124556	No
+NA	Putative conjugative transfer protein TraA	karp_05995	1124584	1124923	Yes
+NA	Conjugal transfer protein TraA	karp_06000	1124974	1125367	Yes
+traA	conjugal transfer protein TraA	karp_06005	1125423	1127418	Yes
+NA	Conjugative transfer protein	karp_06010	1127717	1127954	No
+NA	Conjugative transfer protein	karp_06015	1127922	1128162	No
+NA	hypothetical protein	karp_06020	1128245	1128389	No
+NA	TPR repeat-containing protein 08	karp_06025	1128484	1128844	No
+NA	Conjugal transfer protein TraD	karp_06030	1129139	1129361	No
+NA	transposase	karp_06035	1129468	1130419	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_06040	1130540	1131128	Yes
+baeS	ATP-binding protein	karp_06045	1131169	1131664	Yes
+NA	DDE superendonuclease family protein	karp_06050	1131794	1132169	Yes
+NA	DDE superendonuclease family protein	karp_06055	1132180	1132285	Yes
+NA	DDE superendonuclease family protein	karp_06060	1132375	1132618	Yes
+NA	Uncharacterized domain associated with phage/plasmid primase	karp_06065	1132938	1133490	No
+rpnC	transposase	karp_06070	1133541	1134102	No
+NA	IS110-like element ISOt5 family transposase	karp_06075	1134117	1135080	Yes
+NA	Putative transposase	karp_06080	1135308	1135734	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	karp_06085	1135743	1136730	Yes
+NA	DDE superendonuclease family protein	karp_06090	1136806	1137244	No
+NA	DDE superendonuclease family protein	karp_06095	1137255	1137483	No
+NA	IS5 family transposase ISOt6	karp_06100	1137460	1137631	No
+NA	Conjugal transfer protein	karp_06105	1137647	1137902	Yes
+NA	Conjugal transfer protein TraD	karp_06110	1137903	1138233	Yes
+NA	Conjugal transfer protein TraH	karp_06115	1138213	1138612	Yes
+NA	Conjugal transfer protein TraH	karp_06120	1138661	1139291	Yes
+NA	IS982 family transposase	karp_06125	1139431	1139659	Yes
+NA	IS982 family transposase	karp_06130	1139757	1140363	No
+NA	hypothetical protein	karp_06135	1140676	1140937	Yes
+NA	(P)pGpp hydrolase	karp_06140	1141546	1141699	No
+NA	Integrase	karp_06145	1142061	1142205	No
+NA	Integrase	karp_06150	1142472	1142898	No
+dnaB	replicative DNA helicase	karp_06155	1143261	1144698	Yes
+NA	DnaA-N domain-containing protein	karp_06160	1144706	1145240	Yes
+NA	Reverse transcriptase	karp_06165	1146086	1146266	No
+NA	hypothetical protein	karp_06170	1147323	1147836	Yes
+NA	Transposase	karp_06175	1148364	1148487	No
+NA	Transposase DDE domain protein	karp_06180	1148532	1148757	No
+bamB	outer membrane protein assembly factor BamB	karp_06185	1149271	1150624	Yes
+NA	DUF2659 domain-containing protein	karp_06190	1150683	1151361	Yes
+NA	Transposase	karp_06195	1151499	1151766	Yes
+NA	IS630 family transposase	karp_06200	1151766	1152033	Yes
+NA	Transposase	karp_06205	1152697	1153090	Yes
+NA	Transposase	karp_06210	1153427	1153595	Yes
+ssb	single-stranded DNA-binding protein	karp_06215	1153862	1154330	No
+NA	peptidase	karp_06220	1154408	1155269	No
+NA	Conjugal transfer protein TraE	karp_06225	1156079	1156292	Yes
+lepA	elongation factor 4	karp_06230	1156860	1158666	Yes
+prfA	peptide chain release factor 1	karp_06235	1159058	1159922	No
+NA	hypothetical protein	karp_06240	1160241	1162731	Yes
+NA	hypothetical protein	karp_06245	1163057	1163210	No
+hemB	porphobilinogen synthase	karp_06250	1163435	1164455	Yes
+tolQ	protein TolQ	karp_06255	1164625	1165315	No
+tolR	protein TolR	karp_06260	1165320	1165779	No
+NA	hypothetical protein	karp_06265	1165765	1167004	No
+nadK	NAD kinase	karp_06270	1167096	1167888	Yes
+tsaD	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD	karp_06275	1167904	1168939	Yes
+cdnL	CarD family transcriptional regulator	karp_06280	1168962	1169472	Yes
+dnaQ	DNA polymerase III subunit epsilon	karp_06285	1169691	1170360	Yes
+putP	sodium:proline symporter	karp_06290	1171104	1174542	No
+traL	conjugal transfer protein traL, complete TraL	karp_06295	1175254	1175578	No
+NA	conjugative transfer protein	karp_06300	1175577	1175895	No
+NA	Conjugal transfer protein	karp_06305	1175924	1176107	No
+ppdK	pyruvate, phosphate dikinase	karp_06310	1176926	1179632	No
+vut1	queuosine precursor transporter	karp_06315	1180128	1180803	Yes
+NA	Transposase	karp_06320	1180920	1181112	No
+NA	Ankyrin	karp_06325	1181268	1181379	Yes
+atpB	ATP synthase subunit A	karp_06330	1182151	1182880	No
+atpE	ATP synthase subunit C	karp_06335	1182935	1183160	No
+atpF	ATP synthase subunit B	karp_06340	1183167	1183665	No
+atpF	ATP synthase subunit b	karp_06345	1183677	1184142	No
+NA	Transposase	karp_06350	1184506	1184896	No
+NA	DDE superendonuclease family protein	karp_06355	1185168	1185525	No
+NA	IS5 family transposase ISOt6	karp_06360	1185536	1185911	No
+ftsK	DNA translocase FtsK	karp_06365	1186191	1188480	Yes
+NA	DUF2672 domain-containing protein	karp_06370	1188566	1188938	Yes
+ettA	energy-dependent translational throttle protein EttA	karp_06375	1188970	1190638	Yes
+NA	hypothetical protein	karp_06380	1190778	1191618	Yes
+NA	Transposase	karp_06385	1192003	1192198	Yes
+NA	IS982 family transposase	karp_06390	1192263	1192866	Yes
+NA	hypothetical protein	karp_06395	1193331	1194027	Yes
+NA	Reverse transcriptase	karp_06400	1194802	1194997	Yes
+NA	Ankyrin repeat-containing protein	karp_06405	1195479	1197690	No
+NA	Transposase	karp_06410	1198146	1198308	No
+gatB	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B	karp_06415	1198433	1199894	Yes
+gatA	glutamyl-tRNA(Gln) amidotransferase subunit A	karp_06420	1199896	1201375	Yes
+gatC	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferasesubunit C	karp_06425	1201374	1201674	Yes
+rnjA	RNase J family beta-CASP ribonuclease	karp_06430	1201756	1203493	Yes
+ctrA	DNA-binding response regulator	karp_06435	1203624	1204362	Yes
+NA	hypothetical protein	karp_06445	1207332	1207497	No
+NA	hypothetical protein	karp_06450	1207493	1207688	No
+NA	Conjugal transfer protein	karp_06455	1208409	1208682	No
+map	type I methionyl aminopeptidase	karp_06460	1210876	1211683	No
+NA	DnaA-N domain-containing protein	karp_06465	1212498	1214214	No
+dnaB	replicative DNA helicase	karp_06470	1214222	1215659	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_06475	1215893	1216469	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	karp_06480	1216503	1217148	No
+NA	Putative ompA-like autotransporter	karp_06485	1217194	1217701	No
+dam	DNA methyltransferase	karp_06490	1217704	1218514	Yes
+NA	ATP-binding protein	karp_06495	1218880	1219159	No
+baeS	histidine kinase	karp_06500	1219223	1219925	No
+NA	ATP-binding protein	karp_06505	1220054	1220633	No
+NA	ATP-binding protein	karp_06510	1220649	1221498	No
+baeS	ATP-binding protein	karp_06515	1221604	1222099	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_06520	1222140	1222728	No
+NA	transposase	karp_06525	1222852	1223791	No
+traD	conjugal transfer protein TraD, complete TraD	karp_06530	1223858	1224314	Yes
+traA	conjugal transfer protein TraA	karp_06535	1224593	1227038	No
+NA	Conjugal transfer protein TraI	karp_06540	1227156	1228668	No
+NA	Toprim domain protein	karp_06545	1228681	1229233	No
+NA	transposase	karp_06550	1229284	1230196	No
+traD	conjugal transfer protein TraD, complete TraD	karp_06555	1230205	1231960	Yes
+NA	TPR repeat-containing protein 08	karp_06560	1231963	1233109	Yes
+traG	conjugal transfer protein TraG, complete TraG	karp_06565	1233124	1235788	Yes
+NA	Conjugal transfer protein TraH	karp_06570	1235787	1236273	Yes
+NA	Conjugal transfer protein TraH	karp_06575	1236461	1237091	Yes
+traF	conjugal transfer protein TraF, complete TraF	karp_06580	1237087	1237810	Yes
+NA	Ankyrin repeat-containing protein 16	karp_06585	1237938	1238706	Yes
+traN	conjugal transfer protein TraN, complete TraN	karp_06590	1238769	1240464	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	karp_06595	1240460	1240844	Yes
+traU	conjugal transfer protein TraU, complete TraU	karp_06600	1240866	1241811	Yes
+NA	hypothetical protein	karp_06605	1241844	1242018	Yes
+traW	type-F conjugative transfer system protein TraW, complete TraW	karp_06610	1242108	1242768	Yes
+NA	Conjugal transfer protein TraC	karp_06615	1242764	1244414	Yes
+NA	Conjugal transfer protein TraC	karp_06620	1244385	1245258	Yes
+traV	conjugal transfer protein TraV, complete TraV	karp_06625	1245238	1245568	Yes
+traB	conjugal transfer protein TraB, complete TraB	karp_06630	1245567	1246899	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	karp_06635	1246937	1247270	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	karp_06640	1247676	1248165	Yes
+traE	conjugal transfer protein TraE, complete TraE	karp_06645	1248161	1248713	Yes
+traL	conjugal transfer protein traL, complete TraL	karp_06650	1248712	1249036	Yes
+NA	Integrase	karp_06655	1249319	1249496	Yes
+NA	Integrase	karp_06660	1249709	1250558	Yes
+NA	hypothetical protein	karp_06665	1250628	1250892	Yes
+NA	hypothetical protein	karp_06670	1250992	1251796	Yes
+NA	hypothetical protein	karp_06675	1251876	1252266	Yes
+NA	ATP-binding protein	karp_06680	1252532	1252808	Yes
+NA	ATP-binding protein	karp_06685	1252826	1253510	Yes
+NA	ATP-binding protein	karp_06690	1253510	1253762	Yes
+NA	ATP-binding protein	karp_06695	1253778	1254495	Yes
+NA	Membrane protein	karp_06700	1254771	1255053	Yes
+NA	Putative ompA-like autotransporter domain protein	karp_06705	1255012	1255279	Yes
+NA	Reverse transcriptase	karp_06710	1255696	1256071	No
+NA	Reverse transcriptase	karp_06715	1256170	1256332	No
+lplB	lipoate-protein ligase B	karp_06720	1257113	1257740	Yes
+murD	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase	karp_06725	1257822	1259241	No
+ftsW	cell division protein FtsW	karp_06730	1259247	1260375	No
+murG	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase	karp_06735	1260378	1261458	No
+NA	Reverse transcriptase	karp_06740	1262008	1262224	No
+NA	IS5 family transposase ISOt6	karp_06745	1263245	1263374	Yes
+NA	IS5 family transposase ISOt6	karp_06750	1263421	1263619	Yes
+NA	DDE superendonuclease family protein	karp_06755	1263630	1263735	Yes
+metL1	aspartate kinase	karp_06760	1264333	1265548	Yes
+NA	hypothetical protein	karp_06765	1265828	1266323	Yes
+kch	potassium transporter	karp_06770	1266306	1268049	Yes
+ygfA	5-formyltetrahydrofolate cyclo-ligase	karp_06775	1268221	1268794	No
+NA	Colicin V production protein	karp_06780	1268790	1269405	No
+NA	hypothetical protein	karp_06785	1269427	1269616	No
+NA	Conjugal transfer protein TraC	karp_06790	1269704	1270361	Yes
+NA	IS5 family transposase ISOt6	karp_06795	1270729	1271167	No
+NA	DDE superendonuclease family protein	karp_06800	1271178	1271553	No
+cinA	competence-damaged protein CinA	karp_06805	1271659	1274245	No
+cinB	hypothetical protein (cinB)	karp_06810	1274285	1276784	No
+NA	Replicative DNA helicase	karp_06815	1277006	1277237	No
+NA	Transposase	karp_06820	1277293	1277566	Yes
+csa3	transposase	karp_06825	1278813	1279167	Yes
+dsbG	protein-disulfide isomerase	karp_06830	1279322	1280105	Yes
+panF	sodium:pantothenate symporter	karp_06835	1280969	1282415	No
+polA	DNA polymerase I	karp_06840	1282786	1285519	No
+der	ribosome biogenesis GTPase Der	karp_06845	1285584	1286949	No
+NA	hypothetical protein	karp_06850	1286957	1287641	No
+zapE	cell division protein ZapE	karp_06855	1287711	1288785	No
+tmk	thymidylate kinase	karp_06860	1288777	1289431	No
+mnmG	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG	karp_06865	1289570	1291439	Yes
+NA	hypothetical protein	karp_06870	1292078	1293362	Yes
+NA	hypothetical protein	karp_06875	1293970	1294357	No
+NA	hypothetical protein	karp_06880	1294402	1294552	Yes
+rho	transcription termination factor Rho	karp_06885	1295333	1296839	Yes
+hemE	uroporphyrinogen decarboxylase	karp_06890	1298327	1299356	No
+hemH	ferrochelatase	karp_06895	1299348	1300383	No
+hemJ	Uncharacterised protein family (UPF0093)	karp_06900	1300391	1300826	No
+NA	Transposase	karp_06905	1301912	1302149	No
+NA	Integrase	karp_06910	1302575	1302944	No
+NA	Phage integrase family protein	karp_06915	1303259	1303916	No
+traL	conjugal transfer protein traL	karp_06920	1304007	1304304	No
+NA	Conjugal transfer protein TraE	karp_06925	1304303	1304564	No
+NA	hypothetical protein	karp_06930	1304704	1304857	No
+NA	hypothetical protein	karp_06935	1304853	1305060	No
+NA	Conjugative transfer protein TraC	karp_06940	1305056	1305782	No
+NA	Conjugal transfer protein TraC	karp_06945	1305828	1306416	No
+NA	Ankyrin repeat-containing protein	karp_06950	1306323	1307310	Yes
+NA	Conjugal transfer protein	karp_06955	1307359	1307824	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	karp_06960	1307846	1308230	No
+traN	conjugal transfer protein TraN, complete TraN	karp_06965	1308226	1309918	No
+traF	conjugal transfer protein TraF, complete TraF	karp_06970	1309929	1310613	No
+NA	Conjugal transfer protein TraH	karp_06975	1310609	1311503	No
+traG	conjugal transfer protein TraG	karp_06980	1311629	1311926	No
+NA	IS110-like element ISOt5 family transposase	karp_06985	1312102	1313065	No
+traG	conjugal transfer protein TraG	karp_06990	1313147	1313786	No
+NA	Conjugal transfer protein TraC	karp_06995	1313908	1314325	No
+NA	Site-specific DNA-methyltransferase (adenine-specific)	karp_07000	1314617	1314974	No
+rmd1	ribonuclease D	karp_07005	1315006	1315876	Yes
+NA	Conjugal transfer protein	karp_07010	1316224	1316380	Yes
+NA	Conjugal transfer protein	karp_07015	1316472	1316628	Yes
+NA	Conjugal transfer protein	karp_07020	1316655	1316913	Yes
+NA	Conjugal transfer protein TraB	karp_07025	1316888	1317125	Yes
+ctaA	Heme A synthase	karp_07030	1318192	1319272	Yes
+NA	Transposase DDE domain protein	karp_07035	1320268	1320493	Yes
+NA	Transposase	karp_07040	1320499	1320775	No
+NA	Transposase	karp_07045	1320774	1321167	No
+NA	DDE superendonuclease family protein	karp_07050	1321449	1321887	No
+NA	DDE superendonuclease family protein	karp_07055	1321898	1322273	No
+NA	Conjugative transfer protein	karp_07060	1323119	1323296	Yes
+mdh	malate dehydrogenase	karp_07065	1323838	1325140	Yes
+yfdV	Permease	karp_07070	1325159	1326086	Yes
+NA	hypothetical protein	karp_07075	1326395	1326995	No
+gltA	citrate synthase	karp_07080	1327058	1327442	No
+NA	Transposase	karp_07085	1327451	1327835	Yes
+NA	DnaA-N domain-containing protein	karp_07090	1328031	1328832	No
+NA	DnaA-N domain-containing protein	karp_07095	1328791	1329496	No
+dnaB	replicative DNA helicase	karp_07100	1329600	1331037	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_07105	1331271	1331844	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	karp_07110	1331878	1332523	No
+NA	Putative ompA-like autotransporter	karp_07115	1332570	1333074	No
+dam	DNA methyltransferase	karp_07120	1333077	1333887	Yes
+NA	ATP-binding protein	karp_07125	1334253	1334532	No
+baeS	histidine kinase	karp_07130	1334596	1335298	No
+baeS	sensor histidine kinase	karp_07135	1335427	1336006	No
+NA	ATP-binding protein	karp_07140	1336156	1336960	No
+baeS	ATP-binding protein	karp_07145	1336978	1337473	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_07150	1337514	1338102	No
+NA	transposase	karp_07155	1338223	1339138	No
+pilW	type IV pilus biogenesis/stability protein PilW	karp_07160	1339328	1340531	Yes
+NA	hypothetical protein	karp_07165	1340627	1340771	Yes
+NA	Conjugal transfer protein TraD	karp_07170	1340854	1341025	Yes
+NA	Conjugative transfer protein	karp_07175	1341117	1341312	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_07180	1341521	1341899	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_07185	1342001	1343237	Yes
+traA	conjugal transfer protein TraA, complete TraA	karp_07190	1343937	1346778	No
+NA	Conjugal transfer protein TraI	karp_07195	1346896	1348414	No
+NA	Uncharacterized domain associated with phage/plasmid primase	karp_07200	1348427	1348979	No
+NA	transposase	karp_07205	1349030	1350026	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	karp_07210	1350035	1351283	Yes
+NA	Conjugal transfer protein	karp_07215	1351284	1351791	Yes
+NA	hypothetical protein	karp_07220	1351796	1351931	Yes
+traG	conjugal transfer protein TraG	karp_07225	1351917	1353813	Yes
+NA	Conjugal transfer protein TraH	karp_07230	1353812	1354268	Yes
+NA	Conjugal transfer protein TraH	karp_07235	1354221	1355115	Yes
+NA	Conjugal transfer protein	karp_07240	1355536	1356070	Yes
+NA	Ankyrin repeat-containing protein 16	karp_07245	1356185	1357772	Yes
+NA	Conjugal transfer protein TraN	karp_07250	1357839	1357953	Yes
+traN	conjugal transfer protein TraN	karp_07255	1358220	1359534	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	karp_07260	1359530	1359914	Yes
+traU	conjugal transfer protein TraU, complete TraU	karp_07265	1359936	1360881	Yes
+NA	hypothetical protein	karp_07270	1360914	1361088	Yes
+traW	type-F conjugative transfer system protein TraW, complete TraW	karp_07275	1361178	1361838	Yes
+traC	conjugal transfer protein TraC, complete TraC	karp_07280	1361834	1364327	Yes
+traV	conjugal transfer protein TraV, complete TraV	karp_07285	1364307	1364637	Yes
+traB	conjugal transfer protein TraB, complete TraB	karp_07290	1364636	1365956	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	karp_07295	1365994	1366330	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	karp_07300	1366736	1367225	Yes
+traE	conjugal transfer protein TraE, complete TraE	karp_07305	1367221	1367773	Yes
+traL	conjugal transfer protein traL, complete TraL	karp_07310	1367772	1368096	Yes
+NA	Integrase	karp_07315	1368237	1368915	Yes
+NA	Integrase	karp_07320	1369160	1369469	Yes
+NA	Transposase DDE domain protein	karp_07325	1370146	1370464	No
+NA	Transposase	karp_07330	1370915	1371185	Yes
+ung	uracil-DNA glycosylase	karp_07335	1371581	1372388	No
+potE	Serine transporter YbeC, amino acid:H+ symporter family	karp_07340	1374069	1375353	No
+NA	HTH cro/C1-type domain-containing protein	karp_07345	1375692	1378611	Yes
+NA	IS630 family transposase	karp_07350	1379043	1379439	No
+qcrB,petB	cytochrome b	karp_07355	1380034	1381231	Yes
+petA	ubiquinol-cytochrome c reductase iron-sulfur subunit	karp_07360	1381371	1382037	Yes
+NA	DUF2670 domain-containing protein	karp_07365	1382148	1383288	Yes
+ccmB	heme exporter protein B	karp_07370	1383441	1384092	Yes
+ccmA	cytochrome c biogenesis protein CcmA	karp_07375	1384088	1384694	Yes
+NA	Aconitate hydratase A	karp_07380	1384767	1385115	No
+acnA	Aconitate hydratase A	karp_07385	1385062	1385893	No
+NA	Transposase DDE domain protein	karp_07390	1386553	1386778	Yes
+NA	IS630 family transposase	karp_07395	1386804	1387341	Yes
+NA	Transposase	karp_07400	1387359	1387671	Yes
+NA	DnaA-N domain-containing protein	karp_07405	1388065	1388866	No
+NA	DnaA-N domain-containing protein	karp_07410	1388825	1389626	No
+dnaB	Replicative DNA helicase	karp_07415	1389634	1390099	No
+NA	Replicative DNA helicase	karp_07420	1390279	1391083	No
+aNKYR	Ankyrin repeat	karp_07425	1391322	1391952	No
+NA	Putative ompA-like autotransporter	karp_07430	1391999	1392503	No
+NA	ATP-binding protein	karp_07435	1393183	1393966	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	karp_07440	1394066	1394645	No
+NA	transposase	karp_07445	1394763	1395714	No
+NA	DDE superendonuclease family protein	karp_07450	1395849	1396209	No
+NA	IS5 family transposase ISOt6	karp_07455	1396212	1396359	No
+NA	Transposase DDE domain protein	karp_07460	1396340	1396415	No
+putP	sodium:proline symporter	karp_07465	1396879	1400314	Yes
+NA	Transposase	karp_07470	1400733	1400853	No
+NA	TPR repeat-containing protein 08	karp_07475	1401355	1402381	Yes
+traD	conjugal transfer protein TraD, complete TraD	karp_07480	1402682	1403138	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_07485	1403348	1403726	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_07490	1403828	1405064	Yes
+traA	conjugal transfer protein TraA	karp_07495	1405746	1408191	No
+NA	Putative conjugative transfer protein TraI	karp_07500	1408339	1409359	No
+NA	DDE superendonuclease family protein	karp_07505	1409372	1409579	Yes
+NA	Transposase family protein	karp_07510	1409763	1409916	Yes
+NA	Conjugal transfer protein TraI	karp_07515	1409959	1410376	No
+NA	Toprim domain protein	karp_07520	1410650	1411202	No
+rpnC	transposase	karp_07525	1411186	1412191	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	karp_07530	1412200	1413187	Yes
+NA	DDE superendonuclease family protein	karp_07535	1413263	1413701	No
+NA	DDE superendonuclease family protein	karp_07540	1413712	1413940	No
+NA	IS5 family transposase ISOt6	karp_07545	1413917	1414088	No
+NA	Conjugal transfer protein	karp_07550	1414104	1414359	Yes
+NA	Conjugal transfer protein TraD	karp_07555	1414360	1414690	Yes
+NA	Conjugal transfer protein TraH	karp_07560	1414670	1415069	Yes
+NA	Conjugal transfer protein TraH	karp_07565	1415118	1415748	Yes
+traF	conjugal transfer protein TraF, complete TraF	karp_07570	1415744	1416491	Yes
+NA	hypothetical protein	karp_07575	1416465	1416729	Yes
+NA	DUF4065 domain-containing protein	karp_07580	1416768	1417032	Yes
+NA	TPR repeat-containing protein 03	karp_07585	1417128	1418037	Yes
+NA	IS110-like element ISOt5 family transposase	karp_07590	1418343	1419306	Yes
+atpC	ATP synthase subunit epsilon	karp_07595	1419526	1419931	Yes
+atpB	ATP synthase subunit beta	karp_07600	1419927	1421364	Yes
+capM	capsule biosynthesis protein CapM	karp_07605	1421709	1422849	Yes
+menH	alpha/beta hydrolase	karp_07610	1422884	1423658	No
+mltE	murein transglycosylase	karp_07615	1424037	1426035	Yes
+fabD	ACP S-malonyltransferase	karp_07620	1426076	1427015	No
+pheS	phenylalanine--tRNA ligase subunit alpha	karp_07625	1427836	1428871	No
+pheT	phenylalanine--tRNA ligase subunit beta	karp_07630	1428867	1431306	No
+tsf	elongation factor Ts	karp_07635	1431391	1432321	Yes
+rpsB	30S ribosomal protein S2	karp_07640	1432317	1433193	Yes
+mipZ	ATPase MipZ family protein	karp_07645	1433520	1434372	Yes
+pepB	leucyl aminopeptidase	karp_07650	1434355	1436008	Yes
+NA	Ankyrin repeat protein with 8 ankyrin repeats	karp_07655	1436812	1438300	Yes
+NA	DDE transposase family protein	karp_07660	1438734	1438923	Yes
+NA	IS110 family transposase	karp_07665	1438951	1439056	Yes
+yifB	AAA family ATPase	karp_07670	1439465	1440977	No
+leuS	leucine--tRNA ligase	karp_07675	1441309	1441573	No
+NA	RNA-binding protein	karp_07680	1441814	1443479	No
+dnaB	replicative DNA helicase	karp_07685	1443572	1444988	Yes
+NA	DnaA-N domain-containing protein	karp_07690	1445326	1446892	No
+dnaB	replicative DNA helicase	karp_07695	1446900	1448337	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_07700	1448572	1449148	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	karp_07705	1449185	1449830	No
+NA	Putative ompA-like autotransporter	karp_07710	1449877	1450384	No
+dam	DNA methyltransferase	karp_07715	1450387	1451197	Yes
+baeS	Signal transduction histidine kinase	karp_07720	1451570	1452299	No
+baeS	sensor histidine kinase	karp_07725	1452320	1453178	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_07730	1453278	1453857	No
+NA	transposase	karp_07735	1453975	1454998	No
+pilW	type IV pilus biogenesis/stability protein PilW	karp_07740	1455188	1456391	Yes
+NA	hypothetical protein	karp_07745	1456487	1456631	Yes
+NA	Conjugal transfer protein TraD	karp_07750	1456714	1456885	Yes
+NA	Conjugative transfer protein	karp_07755	1456977	1457172	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_07760	1457381	1459097	Yes
+traA	conjugal transfer protein TraA	karp_07765	1459779	1461993	No
+traI	conjugal transfer protein TraI	karp_07770	1462111	1464193	No
+NA	transposase	karp_07775	1464244	1465240	No
+traD	conjugal transfer protein TraD, complete TraD	karp_07780	1465249	1467004	Yes
+NA	TPR repeat-containing protein 08	karp_07785	1467009	1468155	Yes
+traG	conjugal transfer protein TraG, complete TraG	karp_07790	1468177	1470814	Yes
+NA	Conjugal transfer protein TraH	karp_07795	1470813	1471269	Yes
+NA	Conjugal transfer protein TraH	karp_07800	1471222	1472116	Yes
+traF	conjugal transfer protein TraF, complete TraF	karp_07805	1472112	1472829	Yes
+NA	DUF4065 domain-containing protein	karp_07810	1472840	1473137	Yes
+pilW	type IV pilus biogenesis/stability protein PilW	karp_07815	1473247	1474657	Yes
+traN	conjugal transfer protein TraN, complete TraN	karp_07820	1474910	1476602	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	karp_07825	1476598	1476982	Yes
+traU	conjugal transfer protein TraU, complete TraU	karp_07830	1477004	1477949	Yes
+NA	hypothetical protein	karp_07835	1477982	1478156	Yes
+traW	type-F conjugative transfer system protein TraW, complete TraW	karp_07840	1478239	1478899	Yes
+traC	conjugal transfer protein TraC, complete TraC	karp_07845	1478895	1481388	Yes
+traV	conjugal transfer protein TraV, complete TraV	karp_07850	1481368	1481689	Yes
+traB	conjugal transfer protein TraB, complete TraB	karp_07855	1481688	1483014	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	karp_07860	1483052	1483388	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	karp_07865	1483794	1484283	Yes
+traE	conjugal transfer protein TraE, complete TraE	karp_07870	1484279	1484831	Yes
+traL	conjugal transfer protein traL, complete TraL	karp_07875	1484830	1485154	Yes
+NA	Integrase	karp_07880	1485295	1485970	Yes
+NA	Integrase	karp_07885	1486215	1486524	Yes
+NA	Transposase	karp_07890	1487236	1487569	Yes
+clpP	ATP-dependent Clp protease proteolytic subunit	karp_07895	1488952	1489573	Yes
+NA	Transposase	karp_07900	1490142	1490403	No
+NA	DDE superendonuclease family protein	karp_07905	1490351	1490582	Yes
+NA	IS630 family transposase	karp_07910	1490550	1490859	Yes
+NA	Putative integrase	karp_07915	1491355	1491601	No
+NA	Integrase	karp_07920	1491629	1492553	No
+traL	conjugal transfer protein traL, complete TraL	karp_07925	1492656	1492980	No
+NA	TraE family protein	karp_07930	1492979	1493375	No
+NA	hypothetical protein	karp_07935	1493378	1493531	No
+traK1	conjugal transfer protein traK1	karp_07940	1493527	1493914	No
+traK2	conjugal transfer protein traK2, complete TraK-2	karp_07945	1494146	1494473	No
+NA	Conjugal transfer protein	karp_07950	1494515	1495406	No
+NA	Conjugal transfer protein	karp_07955	1495374	1495848	No
+traV	conjugal transfer protein TraV, complete TraV	karp_07960	1495847	1496177	No
+NA	Conjugal transfer protein TraC	karp_07965	1496157	1497030	No
+NA	Conjugal transfer protein TraC	karp_07970	1497001	1497913	No
+NA	Ankyrin repeat-containing protein 09	karp_07975	1497862	1498906	Yes
+NA	Conjugal transfer protein	karp_07980	1499206	1499959	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	karp_07985	1499981	1500365	No
+NA	Conjugal transfer protein TraN	karp_07990	1500361	1500844	No
+NA	hypothetical protein	karp_07995	1501057	1502233	No
+NA	hypothetical protein	karp_08000	1502325	1502730	No
+traF	conjugal transfer protein TraF, complete TraF	karp_08005	1502813	1503467	No
+NA	Conjugal transfer protein TraH	karp_08010	1503463	1504357	No
+NA	Conjugal transfer protein TraH	karp_08015	1504310	1504766	No
+traG	conjugal transfer protein TraG	karp_08020	1504765	1505881	No
+NA	Conjugal transfer protein	karp_08025	1506035	1506482	No
+NA	Conjugal transfer protein	karp_08030	1506453	1506789	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	karp_08035	1506743	1507730	No
+rpnC	transposase	karp_08040	1507739	1508630	Yes
+NA	Conjugal transfer protein TraI	karp_08045	1508656	1509925	Yes
+NA	Conjugal transfer protein TraI	karp_08050	1510035	1510806	Yes
+NA	Conjugal transfer protein TraA	karp_08055	1511072	1512311	Yes
+NA	Conjugal transfer protein TraA	karp_08060	1512307	1512634	Yes
+NA	Conjugal transfer protein TraA	karp_08065	1512679	1513927	Yes
+NA	Conjugative transfer protein	karp_08070	1514226	1514439	No
+scaF	ScaF autotransporter protein	karp_08075	1514657	1516595	Yes
+NA	hypothetical protein	karp_08080	1516642	1516750	No
+traD	conjugal transfer protein TraD, complete TraD	karp_08085	1517282	1517738	No
+NA	hypothetical protein	karp_08090	1517831	1518368	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_08095	1518394	1518970	Yes
+baeS	sensor histidine kinase	karp_08100	1519070	1519928	Yes
+baeS	Signal transduction histidine kinase	karp_08105	1519902	1520679	Yes
+NA	hypothetical protein	karp_08110	1521029	1521746	Yes
+NA	Putative ompA-like autotransporter	karp_08115	1522638	1523142	Yes
+aNKYR	Ankyrin repeat	karp_08120	1523188	1523818	Yes
+dnaB	replicative DNA helicase	karp_08125	1524057	1525494	Yes
+NA	DnaA-N domain-containing protein	karp_08130	1525502	1526303	Yes
+NA	hypothetical protein	karp_08135	1526262	1526598	Yes
+NA	IS5 family transposase ISOt6	karp_08140	1526958	1527357	Yes
+NA	hypothetical protein	karp_08145	1528251	1530039	No
+gtaD	phage portal protein	karp_08150	1530170	1531361	No
+NA	hypothetical protein	karp_08155	1531379	1531646	No
+hipB	XRE family transcriptional regulator	karp_08160	1532104	1532344	Yes
+scaC	ScaC autotransporter protein	karp_08165	1532522	1534076	No
+NA	ankyrin repeat domain-containing protein	karp_08175	1535716	1536403	No
+NA	hypothetical protein	karp_08180	1536881	1537964	No
+ykfC	Retron-type reverse transcriptase	karp_08185	1538124	1538451	Yes
+NA	Conjugal transfer protein	karp_08190	1539080	1539572	Yes
+NA	Type-F conjugative transfer system protein TraW	karp_08195	1539940	1540255	Yes
+NA	Guanosine polyphosphate pyrophosphohydrolase	karp_08200	1540879	1541011	Yes
+NA	Transposase	karp_08205	1541939	1542152	No
+cflA	Bcr/CflA family drug resistance efflux transporter	karp_08210	1542316	1543498	Yes
+NA	hypothetical protein	karp_08215	1544574	1544733	No
+dnaB	replicative DNA helicase	karp_08220	1544954	1546178	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_08225	1546413	1546989	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	karp_08230	1547000	1547645	No
+NA	Membrane protein	karp_08235	1547747	1548296	No
+dam	DNA methyltransferase	karp_08240	1548299	1549109	Yes
+NA	IS5 family transposase ISOt6	karp_08245	1549931	1550135	Yes
+NA	Transposase	karp_08250	1550146	1550584	Yes
+NA	hypothetical protein	karp_08255	1550773	1551466	Yes
+NA	Preprotein translocase SecA subunit-like protein	karp_08260	1551515	1552910	Yes
+NA	Conjugal transfer TraD family protein	karp_08265	1553427	1553787	Yes
+NA	hypothetical protein	karp_08270	1553833	1555174	Yes
+NA	HNH endonuclease	karp_08275	1555341	1555794	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_08280	1555908	1557132	Yes
+NA	Conjugal transfer protein TraA	karp_08285	1557813	1559175	No
+NA	Conjugal transfer protein TraA	karp_08290	1559231	1560026	No
+NA	Repeat-containing protein E_01	karp_08295	1560192	1560732	No
+NA	DDE superendonuclease family protein	karp_08300	1561591	1561948	No
+NA	DDE superendonuclease family protein	karp_08305	1561959	1562334	No
+NA	Transposase	karp_08310	1562325	1562562	Yes
+NA	DnaA-N domain-containing protein	karp_08315	1562758	1564198	No
+NA	Integrase, complete integrase	karp_08320	1564616	1565846	No
+traL	conjugal transfer protein traL, complete TraL	karp_08325	1565987	1566311	No
+traE	conjugal transfer protein TraE, complete TraE	karp_08330	1566310	1566862	No
+traK1	conjugal transfer protein traK1, complete TraK-1	karp_08335	1566858	1567347	No
+traK2	conjugal transfer protein traK2, complete TraK-2	karp_08340	1567753	1568089	No
+traB	conjugal transfer protein TraB, complete TraB	karp_08345	1568127	1569447	No
+traV	conjugal transfer protein TraV, complete TraV	karp_08350	1569446	1569776	No
+traC	conjugal transfer protein TraC, complete TraC	karp_08355	1569756	1572249	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	karp_08360	1572245	1572905	No
+NA	hypothetical protein	karp_08365	1572995	1573169	No
+traU	conjugal transfer protein TraU, complete TraU	karp_08370	1573202	1574147	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	karp_08375	1574169	1574553	No
+traN	conjugal transfer protein TraN, complete TraN	karp_08380	1574549	1576241	No
+traF	conjugal transfer protein TraF, complete TraF	karp_08385	1576252	1576936	No
+traH	conjugal transfer protein TraH, complete TraH	karp_08390	1576932	1578234	No
+traG	conjugal transfer protein TraG, complete TraG	karp_08395	1578233	1580870	No
+NA	TPR repeat-containing protein 08	karp_08400	1580882	1582022	No
+traD	conjugal transfer protein TraD, complete TraD	karp_08405	1582027	1583782	No
+NA	transposase	karp_08410	1583791	1584763	Yes
+NA	Uncharacterized domain associated with phage/plasmid primase	karp_08415	1584814	1585366	Yes
+traI	conjugal transfer protein TraI	karp_08420	1585379	1587485	Yes
+traA	conjugal transfer protein TraA, complete TraA	karp_08425	1587748	1590568	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_08430	1591250	1592966	No
+traD	conjugal transfer protein TraD, complete TraD	karp_08435	1593176	1593632	No
+NA	hypothetical protein	karp_08440	1593715	1593859	No
+pilW	type IV pilus biogenesis/stability protein PilW	karp_08445	1593955	1595158	No
+NA	transposase	karp_08450	1595350	1596325	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_08455	1596443	1597022	Yes
+baeS	sensor histidine kinase	karp_08460	1597122	1597980	Yes
+NA	Histidine kinase domain-containing protein	karp_08465	1598001	1598730	Yes
+dam	DNA methyltransferase	karp_08470	1599096	1599906	No
+NA	Putative ompA-like autotransporter	karp_08475	1599909	1600416	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	karp_08480	1600462	1601107	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_08485	1601141	1601714	Yes
+dnaB	replicative DNA helicase	karp_08490	1601947	1603390	Yes
+NA	DnaA-N domain-containing protein	karp_08495	1603398	1604139	Yes
+NA	DnaA-N domain-containing protein	karp_08500	1604606	1606316	No
+dnaB	replicative DNA helicase	karp_08505	1606324	1607761	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_08510	1607994	1608570	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	karp_08515	1608607	1609252	No
+NA	Membrane protein	karp_08520	1609299	1609848	No
+dam	DNA methyltransferase	karp_08525	1609851	1610661	Yes
+NA	ATP-binding protein	karp_08530	1611034	1611763	No
+baeS	sensor histidine kinase	karp_08535	1611784	1612642	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_08540	1612742	1613327	No
+NA	transposase	karp_08545	1613432	1614515	No
+NA	conjugal transfer protein	karp_08550	1614681	1615038	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_08555	1615247	1616963	Yes
+NA	Conjugal transfer protein TraA	karp_08560	1617645	1618500	No
+traA	conjugal transfer protein TraA	karp_08565	1618508	1620464	No
+traI	conjugal transfer protein TraI	karp_08570	1620727	1622833	No
+NA	Uncharacterized domain associated with phage/plasmid primase	karp_08575	1622846	1623398	No
+NA	transposase	karp_08580	1623449	1624517	No
+traD	conjugal transfer protein TraD, complete TraD	karp_08585	1624526	1626281	Yes
+NA	Tetratricopeptide repeat family protein	karp_08590	1626286	1627432	Yes
+traG	conjugal transfer protein TraG, complete TraG	karp_08595	1627447	1630105	Yes
+traH	conjugal transfer protein TraH, complete TraH	karp_08600	1630104	1631406	Yes
+traF	conjugal transfer protein TraF, complete TraF	karp_08605	1631402	1632086	Yes
+traN	conjugal transfer protein TraN, complete TraN	karp_08610	1632097	1633792	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	karp_08615	1633788	1634172	Yes
+NA	Conjugal transfer protein	karp_08620	1634194	1634947	Yes
+NA	Ankyrin repeat-containing protein 09	karp_08625	1635247	1636291	No
+NA	Conjugal transfer protein TraC	karp_08630	1636365	1637148	Yes
+NA	Conjugal transfer protein TraC	karp_08635	1637119	1637992	Yes
+traV	conjugal transfer protein TraV, complete TraV	karp_08640	1637972	1638302	Yes
+traB	conjugal transfer protein TraB, complete TraB	karp_08645	1638301	1639630	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	karp_08650	1639668	1640004	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	karp_08655	1640410	1640899	Yes
+traE	conjugal transfer protein TraE, complete TraE	karp_08660	1640895	1641447	Yes
+traL	conjugal transfer protein traL, complete TraL	karp_08665	1641446	1641770	Yes
+bcp	peroxiredoxin	karp_08670	1641849	1642320	Yes
+xerD	Site-specific recombinase XerD	karp_08675	1642340	1642484	Yes
+NA	Integrase	karp_08680	1642530	1642758	Yes
+NA	hypothetical protein	karp_08685	1643129	1643696	Yes
+NA	hypothetical protein	karp_08690	1643943	1644471	Yes
+NA	hypothetical protein	karp_08695	1644512	1645067	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_08700	1645697	1647413	No
+traD	conjugal transfer protein TraD, complete TraD	karp_08705	1647622	1648078	No
+NA	transposase	karp_08710	1648147	1649158	Yes
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	karp_08715	1649279	1649855	Yes
+baeS	sensor histidine kinase	karp_08720	1649955	1650813	Yes
+baeS	Signal transduction histidine kinase	karp_08725	1650787	1651564	Yes
+dam	DNA methyltransferase	karp_08730	1651937	1652747	No
+NA	Membrane protein	karp_08735	1652750	1653299	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	karp_08740	1653401	1654046	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_08745	1654083	1654659	Yes
+NA	hypothetical protein	karp_08750	1654799	1655438	Yes
+NA	IS5 family transposase ISOt6	karp_08755	1655424	1655688	Yes
+NA	Transposase	karp_08760	1655787	1656165	Yes
+NA	hypothetical protein	karp_08765	1656253	1656910	Yes
+NA	Transposase, YhgA-like family protein	karp_08770	1657181	1657451	No
+NA	Transposase IS116/IS110/IS902 family protein	karp_08775	1657466	1657892	Yes
+NA	IS110 family transposase	karp_08780	1657848	1658421	Yes
+NA	Transposase, YhgA-like family protein	karp_08785	1658637	1658844	No
+NA	Integrase	karp_08790	1659260	1659545	No
+NA	Integrase	karp_08795	1659790	1660078	No
+NA	Integrase	karp_08800	1660163	1660385	No
+traL	conjugal transfer protein traL, complete TraL	karp_08805	1660585	1660909	No
+NA	Conjugal transfer protein TraE	karp_08810	1660908	1661328	No
+NA	hypothetical protein	karp_08815	1661308	1661461	No
+NA	hypothetical protein	karp_08820	1661457	1661784	No
+NA	TPR repeat-containing protein 06_01	karp_08825	1661922	1662090	No
+NA	TPR repeat-containing protein 08	karp_08830	1662055	1662703	No
+NA	Transposase	karp_08835	1663300	1663693	No
+sco1	SCO family protein	karp_08840	1664687	1665338	No
+NA	Integrase	karp_08845	1665779	1665953	No
+NA	Integrase	karp_08850	1665949	1666069	No
+NA	Integrase	karp_08855	1666482	1666992	No
+NA	hypothetical protein	karp_08860	1667129	1667231	No
+NA	hypothetical protein	karp_08865	1667234	1667453	No
+NA	Type-F conjugative transfer system protein TraW	karp_08870	1667452	1667668	No
+NA	Conjugal transfer protein TraE	karp_08875	1667677	1667872	No
+NA	hypothetical protein	karp_08880	1667852	1668005	No
+traK1	conjugal transfer protein traK1, complete TraK-1	karp_08885	1668001	1668466	No
+NA	Integrase	karp_08890	1668522	1669542	Yes
+NA	DDE superendonuclease family protein	karp_08895	1669528	1669903	Yes
+NA	DDE superendonuclease family protein	karp_08900	1669914	1670271	Yes
+NA	hypothetical protein	karp_08905	1670779	1670980	Yes
+NA	Transposase	karp_08910	1671092	1671359	Yes
+NA	IS630 family transposase	karp_08915	1671493	1671622	Yes
+NA	Transposase	karp_08920	1672230	1672626	No
+NA	RNA-binding protein	karp_08925	1673326	1674274	No
+NA	RNA-binding protein	karp_08930	1674379	1675033	No
+NA	IS5 family transposase ISOt6	karp_08935	1675595	1675865	No
+NA	Conjugal transfer protein TraI	karp_08940	1676957	1678169	Yes
+NA	Conjugal transfer protein TraA	karp_08945	1678432	1679227	Yes
+NA	Conjugal transfer protein TraA	karp_08950	1679283	1680645	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_08955	1681326	1682550	No
+NA	HNH endonuclease	karp_08960	1682664	1683117	No
+traD	conjugal transfer protein TraD	karp_08965	1683253	1683652	No
+NA	hypothetical protein	karp_08970	1683739	1684120	Yes
+NA	hypothetical protein	karp_08975	1684119	1684659	Yes
+NA	hypothetical protein	karp_08980	1684600	1684903	Yes
+NA	hypothetical protein	karp_08985	1684925	1685345	Yes
+NA	transposase	karp_08990	1685579	1686464	Yes
+NA	PD-(D/E)XK nuclease transposase family protein	karp_08995	1686402	1686519	Yes
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	karp_09000	1686637	1687216	Yes
+baeS	sensor histidine kinase	karp_09005	1687316	1688174	Yes
+NA	Histidine kinase domain-containing protein	karp_09010	1688195	1688924	Yes
+dam	DNA methyltransferase	karp_09015	1689290	1690100	No
+NA	Membrane protein	karp_09020	1690103	1690652	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	karp_09025	1690754	1691399	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_09030	1691436	1692012	Yes
+NA	hypothetical protein	karp_09035	1692425	1692761	Yes
+NA	hypothetical protein	karp_09040	1693636	1694392	No
+comEC	competence protein ComEC	karp_09045	1694549	1696598	No
+NA	two-component sensor histidine kinase	karp_09055	1697233	1698811	No
+atoC	sigma-54-dependent Fis family transcriptional regulator	karp_09060	1698951	1700421	No
+NA	hypothetical protein	karp_09065	1700457	1702290	No
+NA	Ankyrin repeat-containing protein 09	karp_09070	1704159	1705428	Yes
+mreC	rod shape-determining protein MreC	karp_09075	1706051	1706903	Yes
+mreB	rod shape-determining protein	karp_09080	1706909	1707974	Yes
+aceF	dihydrolipoamide acetyltransferase	karp_09085	1708074	1708353	Yes
+NA	2-oxoacid-dh domain-containing protein	karp_09090	1708327	1708642	Yes
+NA	hypothetical protein	karp_09095	1708761	1710741	Yes
+NA	SpoT ppGpp synthetase	karp_09100	1711192	1715455	Yes
+cafA	ribonuclease E	karp_09105	1716225	1718253	No
+NA	hypothetical protein	karp_09110	1718302	1718422	No
+NA	hypothetical protein	karp_09115	1719098	1719977	No
+NA	DnaA-N domain-containing protein	karp_09120	1720086	1721805	No
+dnaB	replicative DNA helicase	karp_09125	1721813	1723250	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_09130	1723484	1724060	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	karp_09135	1724094	1724739	No
+NA	Putative ompA-like autotransporter	karp_09140	1724785	1725292	No
+dam	DNA methyltransferase	karp_09145	1725295	1726105	Yes
+NA	ATP-binding protein	karp_09150	1726471	1726750	No
+baeS	histidine kinase	karp_09155	1726814	1727516	No
+baeS	sensor histidine kinase	karp_09160	1727645	1728224	No
+NA	ATP-binding protein	karp_09165	1728240	1729173	No
+baeS	ATP-binding protein	karp_09170	1729191	1729686	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_09175	1729727	1730333	No
+NA	Transposase IS116/IS110/IS902 family protein	karp_09180	1730471	1730897	Yes
+NA	IS110 family transposase	karp_09185	1730853	1731426	Yes
+traN	conjugal transfer protein TraN, complete TraN	karp_09190	1731657	1733349	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	karp_09195	1733345	1733729	Yes
+NA	conjugal transfer protein	karp_09200	1733751	1734279	Yes
+NA	Ankyrin repeat-containing protein	karp_09205	1734492	1735482	No
+NA	Conjugal transfer protein TraC	karp_09210	1735395	1736346	Yes
+NA	hypothetical protein	karp_09215	1737029	1737167	Yes
+NA	TraE family protein	karp_09220	1737319	1737685	Yes
+bcp	peroxiredoxin	karp_09225	1737671	1737965	Yes
+NA	Phage integrase family protein	karp_09230	1737967	1738744	Yes
+NA	Integrase	karp_09235	1738878	1739106	Yes
+NA	hypothetical protein	karp_09240	1739475	1740042	Yes
+NA	Integrase	karp_09245	1740150	1740687	Yes
+NA	Integrase	karp_09250	1740667	1740994	Yes
+NA	Integrase	karp_09255	1740997	1741120	Yes
+NA	Integrase	karp_09260	1741119	1741353	Yes
+NA	hypothetical protein	karp_09265	1742504	1743056	No
+gpsA	glycerol-3-phosphate dehydrogenase (NAD(P)(+))	karp_09275	1743308	1744301	Yes
+mtaB	tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))- methylthiotransferase MtaB	karp_09280	1744363	1745635	Yes
+NA	Transposase	karp_09285	1745842	1746346	No
+NA	Transposase	karp_09290	1746485	1746710	No
+secF	protein translocase subunit SecF	karp_09295	1747126	1748053	Yes
+mutS	DNA mismatch repair protein MutS	karp_09300	1748113	1750807	Yes
+tlc	ATP/ADP translocase	karp_09305	1750859	1752392	Yes
+rsmI	16S rRNA (cytidine(1402)-2'-O)-methyltransferase	karp_09315	1752757	1753615	No
+serS	serine--tRNA ligase	karp_09320	1753616	1754906	Yes
+tatC	twin-arginine translocase subunit TatC	karp_09325	1754883	1755651	Yes
+NA	hypothetical protein	karp_09330	1755631	1755766	Yes
+rsmG	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG	karp_09335	1755796	1756393	No
+parA	chromosome partitioning protein ParA	karp_09340	1756399	1757197	No
+spo0J	chromosome partitioning protein	karp_09345	1757208	1758090	No
+NA	Transposase	karp_09350	1758384	1758864	No
+NA	IS5 family transposase ISOt6	karp_09355	1758990	1759347	No
+NA	Transposase	karp_09360	1759333	1759600	No
+NA	hypothetical protein	karp_09365	1759603	1759702	No
+NA	Transposase	karp_09370	1760359	1760470	Yes
+NA	DDE superendonuclease family protein	karp_09375	1760759	1761134	Yes
+NA	Transposase	karp_09380	1761087	1761501	Yes
+ubiB	ubiquinone biosynthesis protein UbiB	karp_09385	1761663	1763052	Yes
+coq7	ubiquinone biosynthesis protein	karp_09390	1763048	1763822	Yes
+rimP	Ribosome maturation factor RimP	karp_09395	1764358	1764841	No
+nusA	transcription termination/antitermination protein NusA	karp_09400	1764859	1766362	No
+infB	translation initiation factor IF-2	karp_09405	1766611	1769152	No
+rbfA	ribosome-binding factor A	karp_09410	1769182	1769545	No
+NA	IS5 family transposase ISOt6	karp_09415	1769568	1769697	Yes
+NA	Transposase	karp_09420	1769896	1770172	Yes
+NA	DDE superendonuclease family protein	karp_09425	1770140	1770395	Yes
+NA	ATP-binding protein	karp_09430	1770423	1770579	Yes
+NA	hypothetical protein	karp_09435	1771024	1771264	No
+NA	DnaA N-terminal domain protein	karp_09440	1771239	1772127	No
+NA	Ankyrin repeat-containing protein	karp_09445	1772598	1774767	No
+dam	DNA methyltransferase	karp_09450	1775059	1775863	Yes
+baeS	Signal transduction histidine kinase	karp_09455	1776236	1777013	No
+baeS	sensor histidine kinase	karp_09460	1776987	1777845	No
+NA	(P)pGpp hydrolase	karp_09465	1777945	1778299	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	karp_09470	1778303	1778525	No
+NA	transposase	karp_09475	1778643	1779582	No
+traD	conjugal transfer protein TraD, complete TraD	karp_09480	1779649	1780105	Yes
+NA	Conjugal transfer protein TraA	karp_09485	1780384	1781644	No
+NA	Conjugal transfer protein TraA	karp_09490	1781689	1783252	No
+NA	Conjugal transfer protein TraI	karp_09495	1783580	1784162	No
+NA	Conjugal transfer protein TraI	karp_09500	1784109	1784370	No
+NA	transposase	karp_09505	1784421	1785429	No
+traD	conjugal transfer protein TraD, complete TraD	karp_09510	1785438	1787193	Yes
+NA	hypothetical protein	karp_09515	1787198	1787333	Yes
+traG	conjugal transfer protein TraG	karp_09520	1787319	1788903	Yes
+NA	transposase	karp_09525	1789293	1790220	No
+pilW	type IV pilus biogenesis/stability protein PilW	karp_09530	1790564	1792073	Yes
+NA	hypothetical protein	karp_09535	1792178	1792313	Yes
+NA	hypothetical protein	karp_09540	1792513	1793380	No
+NA	Conjugal transfer protein TraD	karp_09545	1793449	1793620	Yes
+NA	Conjugative transfer protein	karp_09550	1793712	1793907	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_09555	1794116	1795832	Yes
+NA	Conjugal transfer protein TraA	karp_09560	1796512	1797838	No
+recD	conjugal transfer protein TraA	karp_09565	1797809	1799333	No
+NA	Putative conjugative transfer protein TraI	karp_09570	1799851	1800751	No
+NA	DDE superendonuclease family protein	karp_09575	1800764	1800971	Yes
+NA	Transposase family protein	karp_09580	1801155	1801308	Yes
+NA	Conjugal transfer protein TraI	karp_09585	1801351	1801768	No
+NA	Toprim domain protein	karp_09590	1802042	1802594	No
+NA	transposase	karp_09595	1802645	1803593	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	karp_09600	1803602	1804850	Yes
+NA	Conjugal transfer protein	karp_09605	1804851	1805358	Yes
+NA	hypothetical protein	karp_09610	1805363	1805498	Yes
+traG	conjugal transfer protein TraG	karp_09615	1805484	1807380	Yes
+NA	Conjugal transfer protein TraH	karp_09620	1807379	1807835	Yes
+NA	Conjugal transfer protein TraH	karp_09625	1807788	1808682	Yes
+traF	conjugal transfer protein TraF, complete TraF	karp_09630	1808678	1809395	Yes
+NA	hypothetical protein	karp_09635	1809406	1809559	Yes
+NA	DUF4065 domain-containing protein	karp_09640	1809521	1809968	Yes
+NA	TPR repeat-containing protein 03	karp_09645	1810602	1810974	Yes
+NA	Ankyrin repeat protein with 14 ankyrin repeats	karp_09650	1811460	1813749	Yes
+NA	Transposase IS116/IS110/IS902 family protein	karp_09655	1813921	1814347	Yes
+NA	IS110 family transposase	karp_09660	1814303	1814876	Yes
+NA	conjugal transfer protein TraN	karp_09665	1815106	1815217	Yes
+traN	conjugal transfer protein TraN	karp_09670	1815241	1816798	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	karp_09675	1816794	1817178	Yes
+traU	conjugal transfer protein TraU, complete TraU	karp_09680	1817200	1818145	Yes
+NA	hypothetical protein	karp_09685	1818178	1818352	Yes
+traW	type-F conjugative transfer system protein TraW, complete TraW	karp_09690	1818435	1819095	Yes
+NA	Conjugal transfer protein TraC	karp_09695	1819091	1820357	Yes
+virB4	conjugal transfer protein	karp_09700	1820462	1821146	Yes
+traV	conjugal transfer protein TraV, complete TraV	karp_09705	1821126	1821456	Yes
+NA	Conjugal transfer protein	karp_09710	1821455	1822091	Yes
+NA	Conjugal transfer protein	karp_09715	1822138	1822783	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	karp_09720	1822825	1823152	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	karp_09725	1823558	1824047	Yes
+traE	conjugal transfer protein TraE, complete TraE	karp_09730	1824043	1824595	Yes
+traL	conjugal transfer protein traL, complete TraL	karp_09735	1824594	1824918	Yes
+NA	Integrase	karp_09740	1825059	1825737	Yes
+NA	Integrase	karp_09745	1825982	1826291	Yes
+NA	hypothetical protein	karp_09750	1826424	1826625	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_09755	1827089	1827665	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	karp_09760	1827702	1828347	No
+NA	Membrane protein	karp_09765	1828449	1828998	No
+dam	DNA methyltransferase	karp_09770	1829001	1829811	Yes
+NA	Histidine kinase domain-containing protein	karp_09775	1830177	1830906	No
+baeS	sensor histidine kinase	karp_09780	1830927	1831785	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_09785	1831885	1832461	No
+NA	hypothetical protein	karp_09790	1832466	1832994	Yes
+NA	hypothetical protein	karp_09795	1833145	1833358	Yes
+NA	hypothetical protein	karp_09800	1833500	1833869	Yes
+NA	hypothetical protein	karp_09805	1834088	1834196	Yes
+NA	hypothetical protein	karp_09810	1834428	1835523	Yes
+NA	Preprotein translocase SecA subunit-like protein	karp_09815	1835726	1836296	Yes
+secA	preprotein translocase SecA subunit-like protein	karp_09820	1836451	1836613	Yes
+traD	conjugal transfer protein TraD, complete TraD	karp_09825	1837031	1837487	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_09830	1837840	1839556	Yes
+traN	conjugal transfer protein TraN	karp_09835	1840114	1841563	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	karp_09840	1841559	1841943	Yes
+NA	Conjugal transfer protein	karp_09845	1841965	1842667	Yes
+NA	Transposase	karp_09850	1842892	1843156	No
+NA	hypothetical protein	karp_09855	1843178	1843418	Yes
+NA	hypothetical protein	karp_09860	1843429	1843987	Yes
+NA	Conjugal transfer protein TraC	karp_09865	1844120	1845113	Yes
+traV	conjugal transfer protein TraV, complete TraV	karp_09870	1845093	1845423	Yes
+NA	Conjugal transfer protein	karp_09875	1845422	1845818	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	karp_09880	1845832	1846321	Yes
+NA	hypothetical protein	karp_09885	1846317	1846470	Yes
+NA	Conjugal transfer protein TraE	karp_09890	1846610	1846871	Yes
+traL	conjugal transfer protein traL	karp_09895	1846870	1847167	Yes
+NA	Phage integrase family protein	karp_09900	1847258	1847915	Yes
+NA	Integrase	karp_09905	1848230	1848599	Yes
+NA	Replicative DNA helicase	karp_09910	1849103	1849250	No
+NA	(P)pGpp hydrolase	karp_09915	1849483	1849804	No
+NA	DDE superendonuclease family protein	karp_09920	1850680	1851055	Yes
+NA	DDE superendonuclease family protein	karp_09925	1851066	1851423	Yes
+trpS	tryptophan--tRNA ligase	karp_09930	1852017	1853025	Yes
+NA	DDE-3 domain-containing protein	karp_09935	1853579	1853819	No
+NA	hypothetical protein	karp_09940	1853999	1854347	No
+NA	DDE transposase family protein	karp_09945	1854697	1854970	Yes
+kdpD	hybrid sensor histidine kinase/response regulator	karp_09950	1855166	1858394	Yes
+NA	hypothetical protein	karp_09955	1859442	1860837	Yes
+NA	IS5 family transposase ISOt6	karp_09960	1861173	1861548	Yes
+NA	Transposase	karp_09965	1861501	1861663	Yes
+tnp-IS5	IS5 family transposase	karp_09970	1861753	1861996	Yes
+NA	DDE superendonuclease family protein	karp_09975	1862235	1862475	No
+NA	Tetratricopeptide and ankyrin rep with 1 trp repeats	karp_09980	1863207	1866039	No
+NA	hypothetical protein	karp_09985	1866225	1866384	No
+NA	DDE superendonuclease family protein	karp_09990	1867062	1867500	No
+NA	DDE superendonuclease family protein	karp_09995	1867511	1867886	No
+NA	Transposase	karp_10000	1867877	1868114	Yes
+NA	DDE superendonuclease family protein	karp_10005	1868449	1868824	Yes
+NA	DDE superendonuclease family protein	karp_10010	1868835	1869273	Yes
+tsaC	threonylcarbamoyl-AMP synthase	karp_10015	1869368	1870325	Yes
+glyS	glycine--tRNA ligase subunit beta	karp_10020	1870314	1872366	Yes
+glyQ	glycine--tRNA ligase subunit alpha	karp_10025	1872358	1873237	Yes
+tsa56	type-specific antigen TSA56	karp_10030	1873785	1875384	No
+NA	Type specific antigen	karp_10035	1875613	1876342	No
+murC	UDP-N-acetylmuramate--L-alanine ligase	karp_10040	1876509	1878018	No
+murB	UDP-N-acetylenolpyruvoylglucosamine reductase	karp_10045	1877986	1878898	No
+ddl	D-alanine--D-alanine ligase	karp_10050	1878875	1879850	No
+ftsQ	cell division protein FtsQ	karp_10055	1879842	1880673	No
+recF	DNA replication/repair protein RecF	karp_10060	1880690	1881827	No
+NA	DDE superendonuclease family protein	karp_10065	1882241	1882598	No
+NA	DDE superendonuclease family protein	karp_10070	1882609	1882984	No
+NA	Conjugal transfer protein TraH	karp_10075	1883817	1883967	No
+NA	IS5 family transposase ISOt6	karp_10080	1883995	1884121	No
+NA	IS5 family transposase ISOt6	karp_10085	1884194	1884371	No
+NA	IS5 family transposase ISOt6	karp_10090	1884382	1884634	No
+NA	DnaA-N domain-containing protein	karp_10095	1885406	1887074	Yes
+NA	Conjugative transfer protein	karp_10100	1887634	1888270	No
+NA	Ankyrin repeat-containing protein 16	karp_10105	1888428	1889232	No
+NA	Conjugal transfer protein	karp_10110	1889416	1889950	No
+NA	Conjugal transfer protein TraH	karp_10115	1890131	1891025	No
+NA	Conjugal transfer protein TraH	karp_10120	1890978	1891434	No
+traG	conjugal transfer protein TraG	karp_10125	1891433	1893329	No
+NA	hypothetical protein	karp_10130	1893315	1893450	No
+NA	Conjugal transfer protein	karp_10135	1893455	1893962	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	karp_10140	1893963	1895211	No
+NA	transposase	karp_10145	1895220	1896216	Yes
+NA	Conjugal transfer protein TraI	karp_10150	1896267	1897536	Yes
+NA	Conjugal transfer protein TraI	karp_10155	1897646	1898417	Yes
+traA	conjugal transfer protein TraA	karp_10160	1898683	1901110	Yes
+NA	conjugal transfer protein	karp_10165	1901406	1901763	No
+NA	Preprotein translocase SecA subunit-like protein	karp_10170	1902280	1903675	No
+NA	hypothetical protein	karp_10175	1903724	1904417	No
+NA	hypothetical protein	karp_10180	1904441	1904573	No
+NA	Ankyrin repeat-containing protein 14	karp_10185	1904941	1906237	No
+NA	hypothetical protein	karp_10190	1906787	1907411	No
+NA	hypothetical protein	karp_10195	1907562	1908090	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_10200	1908095	1908671	Yes
+baeS	sensor histidine kinase	karp_10205	1908771	1909629	Yes
+baeS	Signal transduction histidine kinase	karp_10210	1909650	1910379	Yes
+NA	hypothetical protein	karp_10215	1910729	1911446	Yes
+NA	Putative ompA-like autotransporter	karp_10220	1912339	1912843	Yes
+aNKYR	Ankyrin repeat	karp_10225	1912889	1913519	Yes
+dnaB	replicative DNA helicase	karp_10230	1913758	1915195	Yes
+NA	DnaA-N domain-containing protein	karp_10235	1915203	1916883	Yes
+NA	Conjugal transfer protein	karp_10240	1917091	1917274	Yes
+NA	Conjugal transfer protein	karp_10245	1917382	1918426	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	karp_10250	1918468	1918795	Yes
+traK1	conjugal transfer protein traK1	karp_10255	1919027	1919414	Yes
+NA	hypothetical protein	karp_10260	1919410	1919563	Yes
+NA	TraE family protein	karp_10265	1919566	1919962	Yes
+traL	conjugal transfer protein traL, complete TraL	karp_10270	1919961	1920285	Yes
+NA	Integrase	karp_10275	1920568	1920745	Yes
+NA	Integrase	karp_10280	1920958	1921795	Yes
+NA	DnaA-N domain-containing protein	karp_10285	1922252	1922999	No
+dnaB	replicative DNA helicase	karp_10290	1923007	1924444	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_10295	1924679	1925255	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	karp_10300	1925266	1925911	No
+NA	Membrane protein	karp_10305	1925957	1926509	No
+NA	Site-specific DNA-methyltransferase (adenine-specific)	karp_10310	1926538	1927147	Yes
+NA	hypothetical protein	karp_10315	1927956	1928499	No
+NA	hypothetical protein	karp_10320	1929354	1929558	No
+NA	Transposase	karp_10325	1929709	1929829	Yes
+putP	sodium:proline symporter	karp_10330	1930256	1933694	No
+NA	Replicative DNA helicase	karp_10335	1933947	1934289	No
+NA	ATP-binding protein	karp_10340	1934639	1935368	No
+baeS	Signal transduction histidine kinase	karp_10345	1935389	1935686	No
+NA	ATP-binding protein	karp_10350	1935878	1936247	No
+NA	(P)pGpp hydrolase	karp_10355	1936347	1936701	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	karp_10360	1936705	1936924	No
+NA	transposase	karp_10365	1937045	1937972	No
+NA	Conjugal transfer protein TraD	karp_10370	1938039	1938315	Yes
+NA	hypothetical protein	karp_10375	1938613	1939552	No
+NA	Conjugative transfer protein	karp_10380	1939609	1939849	Yes
+NA	Conjugal transfer TraD family protein	karp_10385	1939817	1940066	Yes
+NA	Conjugal transfer protein TraA	karp_10390	1940345	1941605	No
+recD	ATPase/5’-3’ helicase helicase subunit RecD of the DNA repair enzyme RecBCD (exonuclease V)	karp_10395	1941650	1942361	No
+NA	Conjugal transfer protein TraA	karp_10400	1942417	1943185	No
+traI	conjugal transfer protein TraI	karp_10405	1943333	1945559	No
+NA	hypothetical protein	karp_10410	1945572	1945665	No
+NA	Conjugal transfer protein TraI	karp_10415	1945865	1946123	No
+NA	transposase	karp_10420	1946174	1947194	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	karp_10425	1947203	1948451	Yes
+NA	Conjugal transfer protein	karp_10430	1948452	1948959	Yes
+NA	hypothetical protein	karp_10435	1948964	1949099	Yes
+traG	conjugal transfer protein TraG	karp_10440	1949085	1950981	Yes
+traH	conjugal transfer protein TraH, complete TraH	karp_10445	1950980	1952282	Yes
+traF	conjugal transfer protein TraF, complete TraF	karp_10450	1952278	1952995	Yes
+NA	hypothetical protein	karp_10455	1953006	1953159	Yes
+NA	DUF4065 domain-containing protein	karp_10460	1953121	1953568	Yes
+pilW	type IV pilus biogenesis/stability protein PilW	karp_10465	1953671	1954898	Yes
+NA	Type-F conjugative transfer system pilin assembly protein TrbC	karp_10470	1955157	1955289	Yes
+traU	conjugal transfer protein TraU, complete TraU	karp_10475	1955311	1956256	Yes
+NA	hypothetical protein	karp_10480	1956289	1956463	Yes
+traW	type-F conjugative transfer system protein TraW, complete TraW	karp_10485	1956553	1957213	Yes
+NA	Conjugal transfer protein TraC	karp_10490	1957209	1958859	Yes
+NA	Conjugal transfer protein TraC	karp_10495	1958830	1959703	Yes
+traV	conjugal transfer protein TraV, complete TraV	karp_10500	1959683	1960013	Yes
+NA	Conjugal transfer protein	karp_10505	1960012	1960486	Yes
+NA	Conjugal transfer protein	karp_10510	1960767	1961352	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	karp_10515	1961394	1961724	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	karp_10520	1961868	1962345	Yes
+NA	hypothetical protein	karp_10525	1962341	1962494	Yes
+NA	TraE family protein	karp_10530	1962497	1962893	Yes
+traL	conjugal transfer protein traL, complete TraL	karp_10535	1962892	1963216	Yes
+NA	Integrase	karp_10540	1963499	1963676	Yes
+NA	Integrase	karp_10545	1963889	1964738	Yes
+NA	hypothetical protein	karp_10550	1964808	1965072	Yes
+NA	hypothetical protein	karp_10555	1965156	1965447	Yes
+rppH	RNA pyrophosphohydrolase	karp_10560	1965816	1966302	No
+NA	Conjugal transfer protein TraA	karp_10565	1967366	1967486	No
+traA	conjugal transfer protein TraA	karp_10570	1967699	1969931	No
+secA	preprotein translocase subunit SecA	karp_10575	1970422	1973065	Yes
+NA	peptidylprolyl isomerase	karp_10580	1973310	1974342	No
+folC	bifunctional folylpolyglutamate synthase/dihydrofolate synthase	karp_10585	1974430	1975762	Yes
+thrS	threonine--tRNA ligase	karp_10590	1976021	1977968	No
+infC	translation initiation factor IF-3	karp_10595	1977978	1978524	No
+dut	deoxyuridine 5'-triphosphate nucleotidohydrolase	karp_10600	1978690	1979137	No
+atpH	ATP synthase subunit delta	karp_10605	1979231	1979777	No
+atpA	ATP synthase subunit alpha	karp_10610	1979819	1981358	No
+atpG	ATPase	karp_10615	1981372	1982263	No
+NA	hypothetical protein	karp_10620	1982273	1982906	Yes
+NA	hypothetical protein	karp_10625	1982907	1984521	Yes
+alaS	alanine--tRNA ligase	karp_10630	1984653	1987320	No
+gltX	glutamate--tRNA ligase	karp_10635	1987484	1988942	No
+iscA	iron-sulfur cluster assembly accessory protein	karp_10640	1988942	1989287	Yes
+argS	arginine--tRNA ligase	karp_10645	1989452	1991225	No
+NA	SPOR domain-containing protein	karp_10650	1991236	1991992	No
+NA	Transposase	karp_10655	1992285	1992420	Yes
+NA	Transposase	karp_10660	1992397	1992703	Yes
+purC	Phosphoribosylaminoimidazole-succinocarboxamide synthase	karp_10665	1993492	1993615	Yes
+NA	Phosphoribosylaminoimidazolesuccinocarboxamide synthase	karp_10670	1993740	1994109	Yes
+yfjG	ubiquinone-binding protein	karp_10675	1994092	1994539	Yes
+lipA	lipoyl synthase	karp_10680	1994559	1995468	Yes
+sppA	signal peptide peptidase SppA	karp_10685	1995478	1996387	Yes
+smpB	SsrA-binding protein SmpB	karp_10690	1996407	1996869	Yes
+dapA	4-hydroxy-tetrahydrodipicolinate synthase	karp_10695	1996871	1997768	Yes
+ilvE	branched chain amino acid aminotransferase	karp_10700	1997748	1998651	Yes
+recD	ATP-dependent RecD-like DNA helicase	karp_10705	1999272	2001468	Yes
+rplS	50S ribosomal protein L19	karp_10710	2001494	2001869	Yes
+trmD	tRNA (guanine(37)-N(1))-methyltransferase	karp_10715	2001865	2002630	Yes
+NA	hypothetical protein	karp_10720	2002676	2004527	Yes
+popZ	Cell pole-organizing protein PopZ	karp_10725	2004528	2005092	Yes
+tolC	TolC family protein	karp_10730	2005142	2006516	Yes
+xerD	site-specific tyrosine recombinase XerD	karp_10740	2006859	2007789	No
+NA	hypothetical protein	karp_10745	2007826	2007997	No
+NA	conjugal transfer protein	karp_10750	2008123	2008600	No
+surf1	surfeit locus protein 1	karp_10755	2008594	2009317	Yes
+fabZ	beta-hydroxyacyl-ACP dehydratase	karp_10760	2009556	2010042	No
+rsmD	16S rRNA (guanine(966)-N(2))-methyltransferase RsmD	karp_10765	2010060	2010633	No
+radA	DNA repair protein RadA	karp_10770	2010632	2011988	No
+rhaT	membrane protein	karp_10775	2012025	2012946	Yes
+NA	DUF3857 domain-containing protein	karp_10780	2013095	2014994	No
+NA	DUF3857 domain-containing protein	karp_10785	2015039	2016968	No
+NA	Reverse transcriptase	karp_10790	2017990	2018230	Yes
+NA	Conjugal transfer protein TraI	karp_10795	2019616	2019880	No
+NA	IS5 family transposase ISOt6	karp_10800	2020013	2020190	No
+NA	IS5 family transposase ISOt6	karp_10805	2020283	2020772	No
+NA	Ankyrin repeat family protein	karp_10810	2021303	2022587	Yes
+baeS	sensor histidine kinase	karp_10815	2023730	2024555	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	karp_10820	2024655	2025234	No
+NA	transposase	karp_10825	2025352	2026267	No
+NA	Conjugal transfer protein TraD	karp_10830	2026345	2026609	Yes
+NA	TPR repeat-containing protein 08	karp_10835	2026904	2027165	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	karp_10840	2027267	2027912	Yes
+NA	(P)pGpp hydrolase	karp_10845	2027946	2028342	Yes
+NA	(P)pGpp hydrolase	karp_10850	2028378	2028522	Yes
+dnaB	replicative DNA helicase	karp_10855	2028755	2030204	Yes
+NA	DnaA-N domain-containing protein	karp_10860	2030212	2031013	Yes
+NA	hypothetical protein	karp_10865	2030972	2031308	Yes
+ndk	nucleoside-diphosphate kinase	karp_10875	2032793	2033213	No
+NA	transposase	karp_10880	2033482	2034418	Yes
+NA	Conjugal transfer TraA domain protein	karp_10885	2034570	2036421	Yes
+NA	Conjugal transfer protein TraA	karp_10890	2036686	2037469	Yes
+traA	conjugal transfer protein TraA	karp_10895	2037525	2039538	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_10900	2040221	2041457	No
+ltrA	group II intron reverse transcriptase/maturase	karp_10905	2041559	2041937	No
+traD	conjugal transfer protein TraD, complete TraD	karp_10910	2042146	2042602	No
+NA	hypothetical protein	karp_10915	2042699	2043266	No
+NA	hypothetical protein	karp_10920	2043529	2044063	Yes
+NA	DDE superendonuclease family protein	karp_10925	2044246	2044684	No
+NA	DDE superendonuclease family protein	karp_10930	2044695	2045070	No
+NA	Integrase	karp_10935	2045123	2045267	Yes
+NA	hypothetical protein	karp_10940	2045397	2045598	Yes
+rpoD	RNA polymerase sigma factor RpoD	karp_10945	2046355	2048200	Yes
+dnaG	DNA primase	karp_10950	2048183	2049959	Yes
+NA	Transposase	karp_10955	2050398	2050599	Yes
+dprA	DNA-processing protein DprA	karp_10960	2051386	2052547	Yes
+ahpC	alkyl hydroperoxide reductase	karp_10965	2052587	2053190	Yes
+tnp-ISOt5	IS110 family ISOt5 transposase	karp_10970	2053521	2054484	No
+NA	Replicative DNA helicase	karp_10975	2055023	2055443	No
+NA	hypothetical protein	karp_10980	2055824	2056214	No
+NA	Transposase	karp_10985	2057725	2057911	Yes
+NA	hypothetical protein	karp_10990	2058374	2058833	No
+dnaB	replicative DNA helicase	karp_10995	2058803	2060177	Yes
+NA	DnaA-N domain-containing protein	karp_11000	2060185	2060986	Yes
+NA	DnaA-N domain-containing protein	karp_11005	2060945	2061746	Yes
+NA	Transposase	karp_11010	2062023	2062347	No
+NA	Conjugal transfer protein TraD	karp_11015	2062554	2062764	Yes
+NA	Conjugal transfer protein TraA	karp_11020	2062963	2063260	No
+NA	Conjugal transfer protein TraA	karp_11025	2063435	2063630	No
+NA	hypothetical protein	karp_11030	2064286	2065777	No
+grxC	glutaredoxin	karp_11035	2066216	2066600	Yes
+NA	hypothetical protein	karp_11040	2066808	2067237	Yes
+gtaA	DUF2163 domain-containing protein	karp_11045	2067335	2068139	Yes
+NA	TIGR02217 family protein	karp_11050	2068151	2068754	Yes
+NA	hypothetical protein	karp_11055	2068746	2069172	Yes
+NA	head-tail adaptor protein	karp_11060	2069171	2069513	Yes
+NA	hypothetical protein	karp_11065	2069512	2070058	Yes
+gtaC	phage major capsid protein	karp_11070	2070091	2071207	Yes
+gtaF	prohead protease	karp_11075	2071218	2071773	Yes
+NA	hypothetical protein	karp_11080	2072447	2073419	Yes
+ftsZ	cell division protein FtsZ	karp_11085	2073502	2074864	Yes
+murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	karp_11090	2075068	2076334	Yes
+NA	hypothetical protein	karp_11095	2077147	2077843	No
+NA	IS110 family transposase	karp_11105	2079112	2079265	Yes
+brkB	Virulence factor BrkB	karp_11110	2079547	2080393	Yes
+NA	DDE superendonuclease family protein	karp_11115	2080840	2081215	Yes
+NA	DDE superendonuclease family protein	karp_11120	2081226	2081664	Yes
+NA	hypothetical protein	karp_11125	2083027	2083246	Yes
+nuoA	NADH-quinone oxidoreductase subunit A	karp_11130	2083463	2083835	No
+nuoB	NADH-quinone oxidoreductase subunit B	karp_11135	2083847	2084363	No
+nuoC	NADH-quinone oxidoreductase subunit C	karp_11140	2084373	2084964	No
+nuoD	NADH-quinone oxidoreductase subunit D	karp_11145	2084975	2086166	No
+nuoE	NADH-quinone oxidoreductase subunit E	karp_11150	2086162	2086717	No
+nuoF	NADH-quinone oxidoreductase subunit F	karp_11155	2086734	2088003	No
+NA	hypothetical protein	karp_11160	2088301	2089063	Yes
+NA	IS630 family transposase	karp_11165	2089313	2089595	No
+tlc	ATP/ADP translocase	karp_11170	2090143	2091643	No
+NA	TrbC/VIRB2 pilin	karp_11175	2091884	2092241	No
+NA	TrbC/VIRB2 pilin	karp_11180	2092282	2092657	No
+NA	TrbC/VIRB2 pilin	karp_11185	2092722	2093076	No
+ruvC	crossover junction endodeoxyribonuclease RuvC	karp_11190	2093207	2093717	No
+dusB	tRNA dihydrouridine synthase DusB	karp_11195	2093772	2094741	No
+yggU	UPF0235 protein OTT_0925	karp_11200	2094769	2095108	Yes
+ubiG	bifunctional 3-demethylubiquinone 3-O-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase	karp_11205	2095246	2095987	No
+prmC	peptide chain release factor N(5)-glutamine methyltransferase	karp_11210	2095973	2096840	Yes
+truA	tRNA pseudouridine(38-40) synthase TruA	karp_11215	2096841	2097690	Yes
+rplM	50S ribosomal protein L13	karp_11220	2097831	2098314	No
+rpsI	30S ribosomal protein S9	karp_11225	2098317	2098809	No
+NA	hypothetical protein	karp_11235	2099147	2099894	No
+NA	DDE superendonuclease family protein	karp_11240	2099993	2100431	No
+NA	DDE superendonuclease family protein	karp_11245	2100442	2100817	No
+NA	hypothetical protein	karp_11250	2102648	2102936	No
+NA	Transposase	karp_11255	2103566	2103851	Yes
+NA	IS630 family transposase	karp_11260	2104315	2104519	Yes
+NA	hypothetical protein	karp_11265	2105322	2105427	No
+ccmF	cytochrome C biogenesis protein	karp_11270	2105784	2107668	Yes
+mgtE	magnesium transporter	karp_11275	2107657	2108926	Yes
+NA	hypothetical protein	karp_11280	2109868	2110039	No
+sodB	superoxide dismutase	karp_11285	2110138	2110780	No
+sucA	2-oxoglutarate dehydrogenase E1 component	karp_11290	2110820	2113712	No
+sucB	dihydrolipoamide succinyltransferase	karp_11295	2113711	2114989	No
+NA	hypothetical protein	karp_11300	2114994	2116473	No
+NA	MFS transporter	karp_11305	2116765	2118067	No
+yraN	YraN family protein	karp_11310	2118133	2118472	No
+coxC	cytochrome c oxidase subunit III	karp_11315	2118864	2119689	Yes
+ruvB	Holliday junction branch migration DNA helicase RuvB	karp_11320	2119870	2120848	Yes
+ruvA	Holliday junction branch migration protein RuvA	karp_11325	2120847	2121465	Yes
+NA	hypothetical protein	karp_11330	2121709	2123854	Yes
+NA	hypothetical protein	karp_11335	2123896	2124064	No
+araJ	MFS transporter	karp_11340	2124244	2125444	Yes
+NA	IS630 family transposase	karp_11345	2126212	2126383	No
+NA	Ankyrin repeat protein with 14 ankyrin repeats	karp_11350	2126579	2128877	Yes
+NA	Transposase IS116/IS110/IS902 family protein	karp_11355	2129049	2129475	Yes
+NA	IS110 family transposase	karp_11360	2129431	2130004	Yes
+NA	IS630 family transposase	karp_11365	2130232	2130349	No
+NA	IS630 family transposase	karp_11370	2130356	2130713	No
+putP	sodium:proline symporter	karp_11375	2130934	2134372	No
+NA	IS982 family transposase	karp_11380	2134984	2135860	Yes
+NA	hypothetical protein	karp_11385	2136191	2136356	Yes
+NA	hypothetical protein	karp_11395	2138291	2138381	No
+tnp-IS5	IS5 family transposase	karp_11400	2138639	2139038	Yes
+NA	DDE superendonuclease family protein	karp_11405	2139025	2139403	Yes
+NA	Integrase	karp_11410	2139906	2140575	No
+traL	conjugal transfer protein traL, complete TraL	karp_11415	2140718	2141042	No
+NA	Conjugal transfer protein TraE	karp_11420	2141041	2141434	No
+NA	Conjugal transfer protein TraE	karp_11425	2141442	2141595	No
+traK1	conjugal transfer protein traK1, complete TraK-1	karp_11430	2141591	2142068	No
+traK2	conjugal transfer protein traK2, complete TraK-2	karp_11435	2142212	2142542	No
+NA	Conjugal transfer protein	karp_11440	2142584	2143169	No
+NA	Conjugal transfer protein	karp_11445	2143450	2143780	No
+virB4	Type IV secretory pathway, VirB4 component	karp_11450	2143749	2144685	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	karp_11455	2144681	2145341	No
+NA	hypothetical protein	karp_11460	2145426	2145603	No
+traU	conjugal transfer protein TraU, complete TraU	karp_11465	2145636	2146581	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	karp_11470	2146603	2146987	No
+traN	conjugal transfer protein TraN, complete TraN	karp_11475	2146983	2148672	No
+NA	Ankyrin repeat-containing protein 09	karp_11480	2148681	2149176	Yes
+traN	conjugal transfer protein TraN, complete TraN	karp_11485	2149334	2151029	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	karp_11490	2151025	2151409	Yes
+NA	Conjugal transfer protein	karp_11495	2151431	2152112	Yes
+traC	conjugal transfer protein TraC	karp_11500	2152443	2154603	Yes
+traV	conjugal transfer protein TraV, complete TraV	karp_11505	2154583	2154913	Yes
+NA	Conjugal transfer protein	karp_11510	2154912	2155095	Yes
+NA	Conjugal transfer protein	karp_11515	2155203	2156247	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	karp_11520	2156289	2156616	Yes
+traK1	conjugal transfer protein traK1	karp_11525	2156847	2157234	Yes
+NA	hypothetical protein	karp_11530	2157230	2157383	Yes
+NA	TraE family protein	karp_11535	2157386	2157782	Yes
+traL	conjugal transfer protein traL, complete TraL	karp_11540	2157781	2158105	Yes
+NA	Integrase	karp_11545	2158208	2159225	Yes
+ypwA	carboxypeptidase M32	karp_11550	2160459	2161950	No
+mgtE	magnesium transporter	karp_11555	2162053	2163418	Yes
+holB2	DNA polymerase III subunit delta	karp_11565	2163607	2164627	Yes
+leuS	leucine--tRNA ligase	karp_11570	2164646	2167166	Yes
+pcaH	intradiol ring-cleavage dioxygenase	karp_11575	2167785	2168517	Yes
+NA	hypothetical protein	karp_11580	2168895	2169003	Yes
+ppx	exopolyphosphatase	karp_11585	2170002	2171466	Yes
+NA	Transposase	karp_11590	2171701	2172094	Yes
+NA	IS5 family transposase ISOt6	karp_11595	2172251	2172488	Yes
+NA	DDE superendonuclease family protein	karp_11600	2172499	2172604	Yes
+NA	IS5 family transposase ISOt6	karp_11605	2172694	2172937	Yes
+NA	Transposase	karp_11610	2172971	2173199	Yes
+NA	Transposase	karp_11615	2173244	2173367	Yes
+NA	DnaA-N domain-containing protein	karp_11620	2173574	2175287	No
+dnaB	replicative DNA helicase	karp_11625	2175295	2176732	No
+aNKYR	Ankyrin repeat	karp_11630	2176971	2177601	No
+NA	Putative ompA-like autotransporter	karp_11635	2177647	2178151	No
+NA	ATP-binding protein	karp_11640	2178831	2179614	No
+NA	(P)pGpp hydrolase	karp_11645	2179714	2180296	No
+NA	hypothetical protein	karp_11650	2180662	2181601	No
+NA	Conjugative transfer protein	karp_11655	2181658	2181898	Yes
+NA	Conjugal transfer TraD family protein	karp_11660	2181866	2182115	Yes
+traA	conjugal transfer protein TraA, complete TraA	karp_11665	2182392	2185215	No
+NA	Transposase	karp_11670	2185747	2186224	No
+NA	hypothetical protein	karp_11675	2186443	2187004	No
+NA	hypothetical protein	karp_11680	2186981	2193641	No
+NA	IS982 family transposase	karp_11685	2193989	2194865	No
+NA	Conjugal transfer protein TraI	karp_11690	2195030	2197088	No
+NA	hypothetical protein	karp_11695	2197263	2197416	No
+NA	hypothetical protein	karp_11700	2198377	2198611	Yes
+NA	hypothetical protein	karp_11705	2198687	2199512	Yes
+NA	hypothetical protein	karp_11710	2199583	2199886	Yes
+NA	hypothetical protein	karp_11715	2200042	2200192	Yes
+NA	Conjugal transfer protein TraI	karp_11720	2200206	2200383	No
+rpnC	transposase	karp_11725	2200434	2200995	No
+NA	IS110-like element ISOt5 family transposase	karp_11730	2201010	2201973	Yes
+NA	Ankyrin repeat-containing protein 16	karp_11735	2202128	2203016	No
+traF	conjugal transfer protein TraF, complete TraF	karp_11740	2203264	2203918	No
+NA	Conjugal transfer protein TraH	karp_11745	2203914	2204808	No
+NA	Conjugal transfer protein TraH	karp_11750	2204761	2205217	No
+traG	conjugal transfer protein TraG	karp_11755	2205216	2207112	No
+NA	hypothetical protein	karp_11760	2207098	2207233	No
+NA	Conjugal transfer protein	karp_11765	2207238	2207745	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	karp_11770	2207746	2208994	No
+NA	transposase	karp_11775	2209003	2209999	Yes
+NA	Conjugal transfer protein TraI	karp_11780	2210050	2211610	Yes
+NA	Transposase	karp_11785	2211952	2212159	No
+NA	hypothetical protein	karp_11790	2212381	2213182	No
+traA	conjugal transfer protein TraA	karp_11795	2213751	2215887	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_11800	2216568	2218284	No
+traD	conjugal transfer protein TraD, complete TraD	karp_11805	2218493	2218949	No
+NA	exodeoxyribonuclease III	karp_11810	2218990	2219467	Yes
+NA	Exodeoxyribonuclease III	karp_11815	2219491	2219776	Yes
+NA	(P)ppGpp synthetase	karp_11820	2219953	2220163	Yes
+NA	Repeat-containing protein D	karp_11825	2220435	2222256	Yes
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	karp_11830	2223002	2223221	Yes
+NA	(P)pGpp hydrolase	karp_11835	2223225	2223579	Yes
+baeS	sensor histidine kinase	karp_11840	2223679	2224537	Yes
+baeS	Signal transduction histidine kinase	karp_11845	2224511	2225288	Yes
+NA	hypothetical protein	karp_11850	2225638	2226355	Yes
+NA	Putative ompA-like autotransporter	karp_11855	2227248	2227752	Yes
+aNKYR	Ankyrin repeat	karp_11860	2227798	2228428	Yes
+dnaB	replicative DNA helicase	karp_11865	2228667	2230104	Yes
+NA	IS982 family transposase	karp_11870	2230274	2230670	No
+NA	Transposase	karp_11875	2230792	2231188	No
+NA	IS630 family transposase	karp_11880	2231491	2231773	No
+sdhB	succinate dehydrogenase iron-sulfur subunit	karp_11885	2231799	2232585	Yes
+sdhA	succinate dehydrogenase flavoprotein subunit	karp_11890	2232619	2234407	Yes
+sdhD	succinate dehydrogenase, hydrophobic membrane anchor protein	karp_11895	2234601	2234991	Yes
+sdhC	succinate dehydrogenase, cytochrome b556 subunit	karp_11900	2235021	2235405	Yes
+NA	Integrase	karp_11905	2235679	2235889	Yes
+NA	hypothetical protein	karp_11910	2236126	2236285	Yes
+NA	DnaA-N domain-containing protein	karp_11915	2236317	2237349	Yes
+NA	hypothetical protein	karp_11920	2237626	2237806	No
+NA	hypothetical protein	karp_11925	2237884	2238142	No
+NA	C48 family peptidase	karp_11930	2238161	2242280	Yes
+cyaY	iron donor protein CyaY	karp_11935	2243191	2243524	No
+mdlB	ATP-binding protein	karp_11940	2243516	2245244	No
+NA	DDE superendonuclease family protein	karp_11945	2245597	2245792	No
+NA	Putative transposase	karp_11950	2245791	2245908	No
+NA	IS5 family transposase ISOt6	karp_11955	2246022	2246298	No
+NA	Hormone receptor domain-containing protein	karp_11960	2247663	2252169	Yes
+virB4-2	virB4 protein precursor	karp_11965	2252168	2254625	Yes
+gapA	type I glyceraldehyde-3-phosphate dehydrogenase	karp_11970	2254899	2255916	No
+pgk	phosphoglycerate kinase	karp_11975	2255996	2257217	No
+NA	hypothetical protein	karp_11980	2257230	2257524	No
+proS	proline--tRNA ligase	karp_11985	2257537	2258839	No
+clpX	ATP-dependent Clp protease ATP-binding subunit ClpX	karp_11990	2259067	2260321	Yes
+efp	elongation factor P	karp_11995	2260526	2261096	No
+suhB	extragenic suppressor protein SuhB	karp_12000	2261092	2261878	No
+tsaB	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB	karp_12005	2261897	2262599	No
+NA	IS982 family transposase	karp_12010	2262893	2263400	Yes
+NA	Transposase	karp_12015	2263448	2263670	Yes
+NA	IS5 family transposase ISOt6	karp_12020	2264121	2264322	Yes
+NA	IS5 family transposase ISOt6	karp_12025	2264369	2264567	Yes
+NA	DDE superendonuclease family protein	karp_12030	2264578	2264935	Yes
+prfA	peptide chain release factor 1	karp_12035	2265320	2266400	No
+NA	Peptidylprolyl isomerase	karp_12040	2266604	2267627	No
+era	GTPase Era	karp_12045	2267623	2268544	No
+NA	hypothetical protein	karp_12050	2268751	2268877	Yes
+bamE	SmpA / OmlA family	karp_12055	2268914	2269280	Yes
+rpmF	50S ribosomal protein L32	karp_12060	2269376	2269583	No
+coxW	cytochrome c oxidase assembly protein	karp_12065	2269864	2270392	Yes
+hisJ	amino acid ABC transporter substrate-binding protein	karp_12070	2270780	2271626	No
+dapB	dihydrodipicolinate reductase	karp_12075	2271632	2272484	No
+sixA	phosphohistidine phosphatase	karp_12080	2272565	2273039	No
+uvrD	ATP-dependent DNA helicase UvrD	karp_12085	2273051	2276519	No
+gltP	dicarboxylate/amino acid:cation symporter	karp_12090	2276699	2277896	No
+pcnB	poly(A) polymerase	karp_12095	2277948	2279157	No
+znuA	zinc ABC transporter substrate-binding protein	karp_12100	2279153	2280050	No
+himA	Bacterial nucleoid DNA-binding protein IHF-alpha	karp_12110	2280585	2280894	No
+surA	Chaperone SurA	karp_12115	2281076	2281952	No
+rsmA	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase	karp_12120	2282080	2282902	No
+rmuC	DNA recombination protein RmuC	karp_12125	2282962	2284312	No
+rseP	RIP metalloprotease RseP	karp_12130	2284421	2285483	No
+bamA	outer membrane protein assembly factor BamA	karp_12135	2285495	2287814	No
+NA	Thioredoxin	karp_12140	2287836	2288163	No
+NA	hypothetical protein	karp_12145	2288395	2288497	Yes
+rpmJ	50S ribosomal protein L36	karp_12150	2289233	2289359	No
+NA	Transposase	karp_12155	2290445	2290631	Yes
+NA	IS982 family transposase	karp_12160	2290736	2291483	Yes
+NA	DDE superendonuclease family protein	karp_12165	2291690	2291906	Yes
+NA	DDE superendonuclease family protein	karp_12170	2291917	2292022	Yes
+NA	IS5 family transposase ISOt6	karp_12175	2292112	2292355	Yes
+NA	Transposase	karp_12180	2292389	2292617	Yes
+NA	Transposase	karp_12185	2292662	2292785	Yes
+NA	DnaA-N domain-containing protein	karp_12190	2292992	2294708	No
+dnaB	replicative DNA helicase	karp_12195	2294716	2296048	No
+NA	RNA-binding protein	karp_12200	2296037	2296208	Yes
+NA	RNA-binding protein	karp_12205	2296185	2296722	Yes
+NA	Site-specific DNA-methyltransferase (adenine-specific)	karp_12210	2297091	2297787	Yes
+NA	ATP-binding protein	karp_12215	2298153	2298330	No
+NA	ATP-binding protein	karp_12220	2298500	2299079	No
+NA	ATP-binding protein	karp_12225	2299095	2299347	No
+NA	ATP-binding protein	karp_12230	2299347	2300031	No
+baeS	ATP-binding protein	karp_12235	2300049	2300544	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_12240	2300585	2301173	No
+NA	transposase	karp_12245	2301294	2302245	No
+NA	hypothetical protein	karp_12250	2302813	2303437	Yes
+NA	A nuclease family of the HNH/ENDO VII superfamily with conserved AHH	karp_12255	2303463	2305647	Yes
+NA	IS110 family transposase	karp_12260	2306001	2306574	No
+NA	Transposase IS116/IS110/IS902 family protein	karp_12265	2306530	2306956	No
+NA	hypothetical protein	karp_12270	2306971	2308006	Yes
+NA	DnaA-N domain-containing protein	karp_12275	2308219	2309929	No
+dnaB	replicative DNA helicase	karp_12280	2309937	2311386	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_12285	2311618	2312194	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	karp_12290	2312228	2312873	No
+NA	Membrane protein	karp_12295	2312920	2313469	No
+dam	DNA methyltransferase	karp_12300	2313472	2314282	Yes
+baeS	sensor histidine kinase	karp_12305	2314656	2315433	No
+baeS	sensor histidine kinase	karp_12310	2315407	2316265	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_12315	2316365	2316950	No
+NA	transposase	karp_12320	2317055	2318066	No
+traD	conjugal transfer protein TraD, complete TraD	karp_12325	2318133	2318589	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_12330	2318798	2320514	Yes
+traA	conjugal transfer protein TraA, complete TraA	karp_12335	2321214	2324016	No
+traI	conjugal transfer protein TraI, complete TraI	karp_12340	2324653	2327323	No
+NA	transposase	karp_12345	2327374	2328418	No
+traD	conjugal transfer protein TraD, complete TraD	karp_12350	2328427	2330182	Yes
+NA	TPR repeat-containing protein 08	karp_12355	2330187	2331327	Yes
+traG	conjugal transfer protein TraG, complete TraG	karp_12360	2331339	2333973	Yes
+traH	conjugal transfer protein TraH, complete TraH	karp_12365	2333972	2335274	Yes
+traF	conjugal transfer protein TraF, complete TraF	karp_12370	2335270	2335954	Yes
+traN	conjugal transfer protein TraN, complete TraN	karp_12375	2335965	2337660	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	karp_12380	2337656	2338040	Yes
+traU	conjugal transfer protein TraU, complete TraU	karp_12385	2338062	2339007	Yes
+NA	hypothetical protein	karp_12390	2339040	2339214	Yes
+traW	type-F conjugative transfer system protein TraW, complete TraW	karp_12395	2339297	2339957	Yes
+traC	conjugal transfer protein TraC, complete TraC	karp_12400	2339953	2342443	Yes
+traV	conjugal transfer protein TraV, complete TraV	karp_12405	2342423	2342753	Yes
+traB	conjugal transfer protein TraB, complete TraB	karp_12410	2342752	2344078	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	karp_12415	2344116	2344452	Yes
+NA	Conjugative transfer protein	karp_12420	2344585	2344813	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	karp_12425	2344948	2345437	Yes
+traE	conjugal transfer protein TraE, complete TraE	karp_12430	2345433	2345985	Yes
+traL	conjugal transfer protein traL, complete TraL	karp_12435	2345984	2346308	Yes
+bcp	peroxiredoxin	karp_12440	2346387	2346858	Yes
+xerD	Site-specific recombinase XerD, complete integrase	karp_12445	2346860	2348000	Yes
+NA	hypothetical protein	karp_12450	2348393	2350109	Yes
+NA	Preprotein translocase SecA subunit-like protein	karp_12455	2350158	2351553	Yes
+NA	Conjugative transfer protein	karp_12460	2352070	2352427	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_12465	2352636	2353014	Yes
+ltrA	group II intron reverse transcriptase/maturase	karp_12470	2353116	2354352	Yes
+traA	conjugal transfer protein TraA	karp_12475	2355034	2357479	No
+NA	Conjugal transfer protein TraI	karp_12480	2357597	2359109	No
+NA	Toprim domain protein	karp_12485	2359122	2359674	No
+NA	transposase	karp_12490	2359725	2360637	No
+traD	conjugal transfer protein TraD, complete TraD	karp_12495	2360646	2362338	Yes
+NA	TPR repeat-containing protein 08	karp_12500	2362404	2363550	Yes
+traG	conjugal transfer protein TraG	karp_12505	2363565	2365536	Yes
+NA	Transposase IS116/IS110/IS902 family protein	karp_12510	2365623	2366049	Yes
+NA	IS110 family transposase	karp_12515	2366005	2366578	Yes
+NA	IS5 family transposase ISOt6	karp_12520	2366754	2367165	Yes
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	karp_12525	2367241	2368228	No
+NA	transposase	karp_12530	2368237	2369257	Yes
+NA	Conjugal transfer protein TraI	karp_12535	2369308	2370577	Yes
+NA	Conjugal transfer protein TraI	karp_12540	2370687	2371458	Yes
+NA	Conjugal transfer protein TraA	karp_12545	2371724	2373287	Yes
+NA	Conjugal transfer protein TraA	karp_12550	2373332	2374592	Yes
+NA	Conjugative transfer protein	karp_12555	2374870	2375065	No
+NA	Conjugal transfer protein TraD	karp_12560	2375157	2375331	No
+NA	transposase	karp_12565	2375398	2376421	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_12570	2376542	2377118	Yes
+baeS	sensor histidine kinase	karp_12575	2377218	2378076	Yes
+baeS	sensor histidine kinase	karp_12580	2378050	2378827	Yes
+NA	Replicative DNA helicase	karp_12585	2379179	2379464	Yes
+NA	Ankyrin repeat protein with 1 ankyrin repeats	karp_12590	2379776	2381762	No
+dam	DNA-adenine methylase	karp_12595	2382554	2383187	No
+NA	Membrane protein	karp_12600	2383190	2383694	Yes
+aNKYR	Ankyrin repeat	karp_12605	2383740	2384247	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_12610	2384423	2384999	Yes
+NA	hypothetical protein	karp_12615	2385012	2385171	No
+dnaB	replicative DNA helicase	karp_12620	2385232	2386669	Yes
+NA	DnaA-N domain-containing protein	karp_12625	2386677	2388393	Yes
+NA	Conjugal transfer protein	karp_12630	2388747	2388930	Yes
+NA	Conjugal transfer protein TraE	karp_12635	2389061	2389277	Yes
+traL	conjugal transfer protein traL	karp_12640	2389276	2389525	Yes
+NA	Integrase	karp_12645	2389747	2389915	Yes
+NA	DDE superendonuclease family protein	karp_12650	2390236	2390479	No
+NA	DDE superendonuclease family protein	karp_12655	2390569	2390695	No
+NA	DDE superendonuclease family protein	karp_12660	2390684	2391059	No
+NA	Integrase	karp_12665	2391018	2391459	Yes
+gdhA	NAD-glutamate dehydrogenase	karp_12670	2392891	2397817	Yes
+mnmE	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE	karp_12675	2397898	2399242	No
+xerC	recombinase XerC	karp_12680	2399267	2400206	No
+dksA	RNA polymerase-binding protein DksA	karp_12685	2400240	2400672	No
+ppa	inorganic pyrophosphatase	karp_12690	2400761	2401289	No
+holB	DNA polymerase III subunit delta'	karp_12695	2401312	2402185	No
+rluC	ribosomal large subunit pseudouridine synthase	karp_12700	2402168	2403110	No
+NA	hypothetical protein	karp_12705	2403742	2403916	No
+NA	Transposase	karp_12710	2403905	2404199	No
+NA	hypothetical protein	karp_12715	2404478	2405483	Yes
+NA	Phage tail assembly chaperone protein, TAC	karp_12720	2405671	2407051	Yes
+NA	Ankyrin repeat-containing protein	karp_12725	2407656	2407815	No
+NA	Integrase	karp_12730	2408463	2408691	No
+NA	hypothetical protein	karp_12735	2408726	2408864	No
+NA	Integrase	karp_12740	2409303	2409462	No
+NA	Transposase DDE domain protein	karp_12745	2409476	2409701	Yes
+NA	DDE superendonuclease family protein	karp_12750	2409727	2409991	Yes
+NA	IS630 family transposase	karp_12755	2409991	2410264	Yes
+NA	Transposase	karp_12760	2410282	2410594	Yes
+NA	DnaA-N domain-containing protein	karp_12765	2410988	2411789	No
+NA	DnaA-N domain-containing protein	karp_12770	2411748	2412549	No
+dnaB	Replicative DNA helicase	karp_12775	2412557	2413022	No
+NA	Replicative DNA helicase	karp_12780	2413202	2414006	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_12785	2414240	2414813	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	karp_12790	2414847	2415492	No
+NA	Putative ompA-like autotransporter	karp_12795	2415538	2416045	No
+dam	DNA methyltransferase	karp_12800	2416048	2416858	Yes
+baeS	sensor histidine kinase	karp_12805	2417224	2418001	No
+baeS	sensor histidine kinase	karp_12810	2417975	2418833	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	karp_12815	2418933	2419509	No
+NA	hypothetical protein	karp_12820	2419514	2420042	Yes
+NA	hypothetical protein	karp_12825	2420193	2420406	Yes
+NA	hypothetical protein	karp_12830	2420548	2420917	Yes
+NA	hypothetical protein	karp_12835	2421136	2421244	Yes
+NA	hypothetical protein	karp_12840	2421476	2422571	Yes
+NA	Preprotein translocase SecA subunit-like protein	karp_12845	2422774	2423344	Yes
+secA	preprotein translocase SecA subunit-like protein	karp_12850	2423499	2423661	Yes
+NA	Conjugal transfer protein TraD	karp_12855	2424079	2424253	Yes
+NA	Conjugative transfer protein	karp_12860	2424345	2424528	Yes
+NA	Conjugal transfer protein TraA	karp_12865	2424827	2426075	No
+NA	Conjugal transfer protein TraA	karp_12870	2426120	2427683	No
+NA	Conjugal transfer protein TraI	karp_12875	2427949	2428720	No
+NA	Conjugal transfer protein TraI	karp_12880	2428830	2430099	No
+NA	transposase	karp_12885	2430150	2431134	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	karp_12890	2431143	2432391	Yes
+NA	Conjugal transfer protein	karp_12895	2432392	2432899	Yes
+NA	hypothetical protein	karp_12900	2432904	2433039	Yes
+NA	Conjugal transfer protein TraG	karp_12905	2433025	2433202	Yes
+traG	conjugal transfer protein TraG	karp_12910	2433173	2434922	Yes
+NA	Conjugal transfer protein TraH	karp_12915	2434921	2435377	Yes
+NA	Conjugal transfer protein TraH	karp_12920	2435330	2436224	Yes
+traF	conjugal transfer protein TraF, complete TraF	karp_12925	2436220	2436904	Yes
+NA	Conjugal transfer protein TraN	karp_12930	2436915	2438088	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	karp_12935	2438130	2438457	Yes
+traK1	conjugal transfer protein traK1	karp_12940	2438689	2439076	Yes
+NA	hypothetical protein	karp_12945	2439072	2439225	Yes
+NA	Conjugal transfer protein TraE	karp_12950	2439205	2439625	Yes
+traL	conjugal transfer protein traL, complete TraL	karp_12955	2439624	2439948	Yes
+NA	Integrase	karp_12960	2440148	2440370	Yes
+NA	Integrase	karp_12965	2440455	2441136	Yes
+NA	hypothetical protein	karp_12970	2441806	2441923	No
+secB	protein-export protein SecB	karp_12975	2442097	2442580	Yes
+dcd	deoxycytidine triphosphate deaminase	karp_12980	2442621	2443188	Yes
+NA	porin	karp_12985	2443789	2445070	No
+frr	ribosome-recycling factor	karp_12990	2445248	2445812	Yes
+nuoG	NADH-quinone oxidoreductase subunit G	karp_12995	2446091	2448131	No
+nuoH	NADH:ubiquinone oxidoreductase subunit H	karp_13000	2448187	2449231	No
+nuoI	NADH-quinone oxidoreductase subunit I	karp_13005	2449282	2449768	No
+nuoJ	NADH:ubiquinone oxidoreductase subunit J	karp_13010	2449771	2450380	No
+nuoK	NADH-quinone oxidoreductase subunit K	karp_13015	2450363	2450687	No
+erhM	2-hydroxyacid dehydrogenase	karp_13020	2450690	2452598	No
+nuoM	NADH-quinone oxidoreductase subunit M	karp_13025	2452598	2454098	No
+nuoN	NADH-quinone oxidoreductase subunit N	karp_13030	2454142	2455579	No
+tilS	tRNA lysidine(34) synthetase TilS	karp_13035	2455909	2457235	No
+ftsH	ATP-dependent metalloprotease	karp_13040	2457251	2459135	No
+alkA	3-methyladenine DNA glycosylase	karp_13045	2459169	2459706	No
+tsaE	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE	karp_13050	2459721	2460144	No
+rodA	rod shape-determining protein RodA	karp_13055	2460314	2461448	No
+mreD	Rod shape-determining protein MreD	karp_13060	2461453	2461939	No
+pBP2	penicillin-binding protein 2	karp_13065	2461928	2463680	No
+ubiD	3-polyprenyl-4-hydroxybenzoate decarboxylase	karp_13070	2463858	2465352	Yes
+ygaA	Uncharacterized membrane protein YqaA, VTT domain	karp_13075	2465682	2466105	No
+NA	IS5 family transposase ISOt6	karp_13080	2466184	2466283	No
+NA	Ankyrin repeat-containing protein	karp_13090	2467249	2468776	Yes
+sdhE	Succinate dehydrogenase flavin-adding protein, antitoxin component of the CptAB toxin-antitoxin module	karp_13095	2469210	2469474	Yes

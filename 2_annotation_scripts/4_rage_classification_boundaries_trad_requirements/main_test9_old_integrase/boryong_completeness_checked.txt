@@ -1,0 +1,2443 @@
+dnaA	chromosomal replication initiation protein DnaA	boryong_00005	21	1431	No
+virB7	DNA polymerase III subunit beta	boryong_00010	1449	2748	No
+virB8-2	type VI secretion protein	boryong_00015	2997	3678	No
+virB9-2	P-type conjugative transfer protein VirB9	boryong_00020	3661	4099	No
+virB10	type VI secretion protein	boryong_00025	4098	5628	No
+virB11	type VI secretion protein	boryong_00030	5627	6617	No
+virD4	type IV secretion system protein VirD4	boryong_00035	6616	8389	No
+NA	hypothetical protein	boryong_00040	8927	9221	No
+NA	IS5 family transposase ISOt6	boryong_00045	9635	9854	No
+NA	hypothetical protein	boryong_00050	10368	12168	No
+NA	hypothetical protein	boryong_00055	12695	12821	No
+NA	hypothetical protein	boryong_00060	14035	14188	No
+NA	reverse transcriptase domain-containing protein	boryong_00065	14372	15593	No
+NA	hypothetical protein	boryong_00070	16476	16620	No
+NA	hypothetical protein	boryong_00075	16679	17318	No
+NA	DDE superendonuclease family protein	boryong_00080	17309	17684	Yes
+NA	DDE superendonuclease family protein	boryong_00085	17695	18133	Yes
+NA	hypothetical protein	boryong_00090	18198	18378	No
+NA	FAD binding domain of DNA photolyase family protein	boryong_00095	18399	18657	No
+trxB	thioredoxin-disulfide reductase	boryong_00100	18682	19633	Yes
+yfdV	AEC family transporter	boryong_00105	19768	20692	Yes
+tolB	translocation protein TolB	boryong_00110	20867	22229	Yes
+lpd	dihydrolipoyl dehydrogenase	boryong_00115	22559	23987	Yes
+ubiE	SAM-dependent methyltransferase	boryong_00120	24078	24882	Yes
+tsa22	major outer membrane protein TSA22	boryong_00125	25056	25662	No
+NA	MobA/MobL family protein	boryong_00130	25998	26826	Yes
+NA	hypothetical protein	boryong_00135	26899	27100	No
+NA	Conjugal transfer TraD family protein	boryong_00140	27276	27558	No
+NA	tetratricopeptide repeat protein	boryong_00145	27881	28091	No
+NA	tetratricopeptide repeat protein	boryong_00150	28059	28476	No
+tnp-IS110	IS110 family transposase	boryong_00155	28784	29750	No
+nrdA	ribonucleotide-diphosphate reductase subunit alpha	boryong_00160	30178	31996	No
+nrdB	ribonucleotide-diphosphate reductase subunit beta	boryong_00165	32018	33008	No
+NA	Replicative DNA helicase	boryong_00170	34185	34392	Yes
+NA	DNA helicase	boryong_00175	34754	35036	Yes
+NA	hypothetical protein	boryong_00180	35330	35531	Yes
+NA	hypothetical protein	boryong_00185	35905	36058	No
+NA	Putative integrase	boryong_00190	36691	36844	No
+NA	site-specific integrase	boryong_00195	36966	37977	No
+traL	conjugal transfer protein traL, complete TraL	boryong_00200	38068	38404	No
+traE	conjugal transfer protein TraE	boryong_00205	38478	38955	No
+NA	hypothetical protein	boryong_00210	38951	39353	No
+NA	Conjugal transfer protein	boryong_00215	39464	39929	No
+NA	conjugal transfer protein	boryong_00220	39928	40219	No
+NA	Conjugal transfer protein	boryong_00225	40411	41095	No
+NA	hypothetical protein	boryong_00230	41113	41398	No
+NA	transposase	boryong_00235	41505	42480	Yes
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	boryong_00240	42601	43189	Yes
+baeS	Signal transduction histidine kinase	boryong_00245	43230	43737	Yes
+NA	hypothetical protein	boryong_00250	44120	44345	Yes
+NA	hypothetical protein	boryong_00255	44746	44944	Yes
+NA	Putative transposase	boryong_00260	45112	45235	Yes
+NA	IS5 family transposase ISOt6	boryong_00265	45253	45475	Yes
+NA	DDE superendonuclease family protein	boryong_00270	45428	45845	Yes
+NA	hypothetical protein	boryong_00275	45917	46319	No
+NA	Repeat-containing protein D	boryong_00280	46762	48487	Yes
+amiR	N-acetylmuramoyl-L-alanine amidase	boryong_00285	49163	50264	No
+NA	hypothetical protein	boryong_00290	51185	51302	No
+NA	Ankyrin repeat protein with 1d ankyrin repeats	boryong_00295	51897	52512	No
+NA	DDE superendonuclease family protein	boryong_00300	52574	53012	No
+NA	DDE superendonuclease family protein	boryong_00305	53023	53398	No
+NA	Arm DNA-binding domain-containing protein	boryong_00310	54518	54737	No
+lipB	lipase LipB	boryong_00315	55785	56679	No
+NA	Integrase	boryong_00320	57070	57187	Yes
+NA	hypothetical protein	boryong_00325	58157	58316	Yes
+ykfC	Retron-type reverse transcriptase	boryong_00330	58563	59292	Yes
+NA	DDE superendonuclease family protein	boryong_00335	59945	60320	Yes
+NA	DDE superendonuclease family protein	boryong_00340	60331	60769	Yes
+NA	Phage-related integrase	boryong_00345	60938	61682	No
+traL	conjugal transfer protein traL, complete TraL	boryong_00350	61807	62143	No
+traE	conjugal transfer protein TraE	boryong_00355	62217	62694	No
+NA	hypothetical protein	boryong_00360	62690	63092	No
+NA	Conjugal transfer protein	boryong_00365	63203	63668	No
+NA	conjugal transfer protein	boryong_00370	63667	63958	No
+NA	Conjugal transfer protein	boryong_00375	64150	64834	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	boryong_00380	64852	65236	No
+NA	Conjugal transfer protein TraN	boryong_00385	65232	65940	No
+NA	Conjugal transfer protein TraN	boryong_00390	65905	66238	No
+NA	Conjugative transfer protein	boryong_00395	66294	66942	No
+NA	Ankyrin repeat protein with 6 ankyrin repeats	boryong_00400	67087	68359	No
+NA	Conjugal transfer protein	boryong_00405	68707	68926	No
+NA	Conjugal transfer protein	boryong_00410	68985	69432	No
+NA	Conjugal transfer protein TraH	boryong_00415	69428	70130	No
+NA	Conjugal transfer protein TraH	boryong_00420	70105	70729	No
+NA	hypothetical protein	boryong_00425	70856	71303	No
+NA	DDE superendonuclease family protein	boryong_00430	71310	71748	No
+NA	DDE superendonuclease family protein	boryong_00435	71759	72134	No
+NA	hypothetical protein	boryong_00440	72120	72387	No
+NA	Conjugal transfer protein	boryong_00445	72379	72910	No
+NA	transposase	boryong_00450	72911	73979	Yes
+tnp-IS110	IS110 family transposase	boryong_00455	74291	75254	No
+NA	reverse transcriptase/maturase family protein	boryong_00460	75303	75711	No
+NA	Group II intron, maturase-specific domain-containing protein	boryong_00465	75770	75941	No
+NA	Ankyrin repeat protein with 14 ankyrin repeats	boryong_00470	76111	78367	No
+NA	hypothetical protein	boryong_00475	78492	78678	No
+NA	toprim domain-containing protein	boryong_00480	78693	80445	Yes
+NA	Conjugal transfer protein TraA	boryong_00485	80626	81823	Yes
+NA	AAA domain protein	boryong_00490	81807	82899	Yes
+NA	hypothetical protein	boryong_00495	82891	83107	Yes
+traD	conjugal transfer protein TraD	boryong_00500	83455	83854	No
+NA	hypothetical protein	boryong_00505	83941	84520	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	boryong_00510	84597	85173	Yes
+NA	Putative signal transduction histidine kinase	boryong_00515	85306	86908	Yes
+NA	hypothetical protein	boryong_00520	87420	87972	Yes
+NA	Site-specific DNA-methyltransferase (adenine-specific)	boryong_00525	88448	88883	No
+NA	Site-specific DNA-methyltransferase (adenine-specific)	boryong_00530	88955	89261	No
+NA	Putative ompA-like autotransporter	boryong_00535	89264	89768	Yes
+NA	HD domain protein	boryong_00540	89843	90065	Yes
+NA	Replicative DNA helicase	boryong_00545	90292	91081	Yes
+dnaB	Replicative DNA helicase	boryong_00550	91231	91675	Yes
+NA	DnaA-N domain-containing protein	boryong_00555	91750	93301	Yes
+NA	DnaA N-terminal domain protein	boryong_00560	93715	94810	No
+NA	ankyrin repeat domain-containing protein	boryong_00565	95038	95590	No
+NA	hypothetical protein	boryong_00570	95523	95679	Yes
+NA	reverse transcriptase domain-containing protein	boryong_00575	95886	97053	Yes
+NA	Transposase	boryong_00580	97332	98013	No
+NA	DDE superendonuclease family protein	boryong_00585	98046	98484	No
+NA	Transposase	boryong_00590	98495	98870	No
+NA	autotransporter domain-containing protein	boryong_00595	99504	103890	Yes
+NA	DDE superendonuclease family protein	boryong_00600	105080	105407	No
+tnp-IS5	IS5 family transposase	boryong_00605	105627	105735	No
+NA	Tetratricopeptide repeat protein with 2 trp repeats	boryong_00610	106686	106971	Yes
+NA	Conjugative transfer protein	boryong_00615	107368	107875	No
+NA	hypothetical protein	boryong_00620	107895	108072	No
+NA	Conjugal transfer protein	boryong_00625	108138	108585	No
+NA	Conjugal transfer protein TraH	boryong_00630	108581	109283	No
+NA	Conjugal transfer protein TraH	boryong_00635	109258	109882	No
+traG	conjugal transfer protein TraG	boryong_00640	110194	111625	No
+NA	Tetratricopeptide repeat protein with 5 trp repeats	boryong_00645	111801	112524	No
+traD	conjugal transfer protein TraD, complete TraD	boryong_00650	112523	114278	No
+NA	transposase	boryong_00655	114279	114456	Yes
+dapD	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	boryong_00660	114516	115368	Yes
+NA	Znf/thioredoxin-put domain-containing protein	boryong_00665	115466	116111	No
+NA	hypothetical protein	boryong_00670	116530	116650	Yes
+NA	hypothetical protein	boryong_00680	117755	117974	No
+NA	IS110 family transposase	boryong_00685	118051	118648	Yes
+NA	hypothetical protein	boryong_00690	118668	118836	Yes
+NA	Transposase	boryong_00695	119380	119551	Yes
+NA	DDE superendonuclease family protein	boryong_00700	119562	119739	Yes
+NA	DDE superendonuclease family protein	boryong_00705	119789	119915	Yes
+NA	hypothetical protein	boryong_00710	120180	121431	Yes
+NA	Transposase	boryong_00715	121873	122116	Yes
+NA	hypothetical protein	boryong_00720	122115	122274	Yes
+NA	ATP-binding protein	boryong_00725	122844	123216	No
+NA	Putative signal transduction histidine kinase	boryong_00730	123238	124120	No
+NA	DDE superendonuclease family protein	boryong_00735	124220	124595	Yes
+NA	Transposase	boryong_00740	124646	125045	Yes
+NA	TPR repeat-containing protein 08	boryong_00745	125272	125656	Yes
+NA	tetratricopeptide repeat protein	boryong_00750	125974	126169	Yes
+NA	Conjugal transfer TraD family protein	boryong_00755	126493	126775	Yes
+NA	hypothetical protein	boryong_00760	126950	127151	Yes
+NA	MobA/MobL family protein	boryong_00765	127224	127707	No
+NA	Conjugal transfer protein TraA	boryong_00770	127724	128537	No
+NA	AAA domain protein	boryong_00775	128521	129220	No
+NA	transposase	boryong_00780	129234	129639	No
+NA	hypothetical protein	boryong_00785	130478	131486	No
+NA	hypothetical protein	boryong_00790	132096	132699	No
+NA	peptidylprolyl isomerase	boryong_00795	132727	134185	Yes
+NA	hypothetical protein	boryong_00800	134192	134357	No
+tpiA	triose-phosphate isomerase	boryong_00805	134360	135110	No
+secG	preprotein translocase subunit SecG	boryong_00810	135115	135409	No
+lysS	lysine--tRNA ligase	boryong_00820	135906	137487	Yes
+dsbB	disulfide bond formation protein B	boryong_00825	137638	138187	No
+ubiB	ubiquinone biosynthesis protein UbiB	boryong_00830	138149	138695	No
+psd	phosphatidylserine decarboxylase	boryong_00835	138770	139463	No
+pssA	CDP-diacylglycerol--serine O-phosphatidyltransferase	boryong_00840	139514	140288	No
+mnhE	sodium:proton antiporter	boryong_00845	140334	140820	No
+NA	Multiple resistance and pH regulation F family protein	boryong_00850	140816	141065	No
+NA	PDDEXK-1 domain-containing protein	boryong_00855	141100	143929	No
+ndh	NADH dehydrogenase	boryong_00860	144105	145770	Yes
+sucD	succinyl-CoA synthetase subunit alpha	boryong_00865	145850	146729	Yes
+sucC	succinyl-CoA ligase subunit beta	boryong_00870	146743	147904	Yes
+ubiH	2-polyprenyl-6-methoxyphenol 4-hydroxylase	boryong_00875	147960	149169	Yes
+trcR	cell cycle transcriptional regulator TrcR	boryong_00885	149533	150118	Yes
+ileS	isoleucine--tRNA ligase	boryong_00890	150259	153463	Yes
+NA	Ubiquinone biosynthesis protein COQ9	boryong_00895	153499	154105	Yes
+rpsU	30S ribosomal protein S21	boryong_00900	154275	154482	No
+holC	DNA polymerase III subunit chi	boryong_00905	154510	155017	Yes
+NA	Proline/betaine transporter	boryong_00910	155111	156374	No
+NA	DUF5394 domain-containing protein	boryong_00915	156640	157192	No
+NA	DUF5394 domain-containing protein	boryong_00920	157234	157942	No
+NA	Ankyrin repeat protein with 1d ankyrin repeats	boryong_00925	158020	159256	No
+pnp	polyribonucleotide nucleotidyltransferase	boryong_00930	159356	161579	Yes
+rpsO	30S ribosomal protein S15	boryong_00935	161897	162167	Yes
+tru	tRNA pseudouridine(55) synthase	boryong_00940	162190	163099	Yes
+NA	DDE-3 domain-containing protein	boryong_00945	163558	163789	Yes
+hipB	XRE family transcriptional regulator	boryong_00950	164423	164864	Yes
+NA	hypothetical protein	boryong_00955	165476	165764	Yes
+NA	hypothetical protein	boryong_00960	166494	166680	No
+NA	ankyrin repeat domain-containing protein	boryong_00965	166666	167182	No
+NA	hypothetical protein	boryong_00970	167302	167401	Yes
+NA	Conjugative transfer protein	boryong_00975	167445	167715	Yes
+NA	Replicative DNA helicase	boryong_00980	167723	168449	Yes
+NA	DnaB-like helicase N terminal domain protein	boryong_00985	168599	169100	Yes
+NA	hypothetical protein	boryong_00990	169459	169927	Yes
+NA	Transposase	boryong_00995	170244	170547	No
+tyrS	tyrosine--tRNA ligase	boryong_01000	171792	173034	Yes
+NA	Replicative DNA helicase	boryong_01005	173718	173889	No
+NA	hypothetical protein	boryong_01010	174525	174816	No
+NA	Conjugative transfer protein	boryong_01015	174815	175049	No
+NA	Putative conjugative transfer protein TraC	boryong_01020	175422	175584	No
+NA	IS5 family transposase ISOt6	boryong_01025	175726	175864	No
+NA	hypothetical protein	boryong_01030	175957	176185	No
+sppA	S49 family peptidase	boryong_01035	176306	177224	Yes
+miaB	tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB	boryong_01040	177508	178864	No
+hemF	oxygen-dependent coproporphyrinogen oxidase	boryong_01045	179027	179864	No
+NA	DUF2610 domain-containing protein	boryong_01050	180004	180346	No
+NA	hypothetical protein	boryong_01055	181604	181814	No
+NA	Conjugal transfer protein	boryong_01060	181890	182073	Yes
+NA	SpoT ppGpp hydrolase	boryong_01065	182299	182437	Yes
+NA	hypothetical protein	boryong_01070	182734	183097	Yes
+NA	Conjugal transfer protein TraE	boryong_01075	183225	183363	Yes
+NA	hypothetical protein	boryong_01080	183406	183496	Yes
+NA	Putative integrase	boryong_01085	183492	183678	Yes
+trm112	tetraacyldisaccharide 4'-kinase	boryong_01090	184607	184775	Yes
+NA	hypothetical protein	boryong_01095	184911	185133	Yes
+rpmE	50S ribosomal protein L31	boryong_01105	185410	185635	Yes
+rpmB	50S ribosomal protein L28	boryong_01110	185644	185935	Yes
+eamA	EamA family transporter	boryong_01115	186177	187050	No
+NA	MFS transporter	boryong_01120	187067	188324	No
+NA	hypothetical protein	boryong_01125	189040	189793	No
+pBP4	penicillin-binding protein 4	boryong_01130	190157	191369	Yes
+aspS	aspartate--tRNA(Asp/Asn) ligase	boryong_01135	191394	193188	Yes
+rpoB	DNA-directed RNA polymerase subunit beta'	boryong_01140	193465	197656	Yes
+rpoB	DNA-directed RNA polymerase subunit beta	boryong_01145	197771	201905	Yes
+rplL	50S ribosomal protein L7/L12	boryong_01150	202220	202610	Yes
+rplJ	50S ribosomal protein L10	boryong_01155	202631	203141	Yes
+rplA	50S ribosomal protein L1	boryong_01160	203144	203891	Yes
+rplK	50S ribosomal protein L11	boryong_01165	203894	204341	Yes
+nusG	transcription termination/antitermination factorNusG	boryong_01170	204380	204917	Yes
+secE	preprotein translocase subunit SecE	boryong_01175	204959	205160	Yes
+tuf	elongation factor Tu	boryong_01185	205418	206603	Yes
+plsC	1-acyl-sn-glycerol-3-phosphate acyltransferase	boryong_01190	206774	207539	Yes
+NA	hypothetical protein	boryong_01195	207569	207659	Yes
+recR	recombination protein RecR	boryong_01200	207655	208267	Yes
+yciB	septation protein A	boryong_01205	208355	208892	Yes
+fTR1	iron permease	boryong_01210	208885	209734	Yes
+NA	cupredoxin domain-containing protein	boryong_01215	209762	210128	Yes
+eAL	EAL domain-containing protein	boryong_01225	210593	211823	Yes
+abcT	ABC transporter ATP-binding protein	boryong_01230	212012	212744	Yes
+art	arginine ABC transporter permease	boryong_01235	212736	213354	Yes
+NA	DDE superendonuclease family protein	boryong_01240	214023	214161	No
+NA	Putative transposase	boryong_01245	214300	214501	No
+NA	IS982 family transposase	boryong_01250	214647	215322	No
+NA	hypothetical protein	boryong_01255	215465	217892	Yes
+NA	hypothetical protein	boryong_01260	218378	218741	Yes
+traG	conjugal transfer protein TraG	boryong_01265	218917	220348	Yes
+NA	Conjugal transfer protein TraH	boryong_01270	220660	221284	Yes
+NA	Conjugal transfer protein TraH	boryong_01275	221259	221961	Yes
+NA	Conjugal transfer protein	boryong_01280	221957	222404	Yes
+NA	hypothetical protein	boryong_01285	222470	222647	Yes
+traN	conjugal transfer protein TraN, complete TraN	boryong_01290	222667	224368	Yes
+NA	Type-F conjugative transfer system pilin assembly family protein	boryong_01295	224351	224633	Yes
+NA	Conjugal transfer protein	boryong_01300	224752	225436	Yes
+NA	ankyrin repeat domain-containing protein	boryong_01305	225883	226870	No
+NA	Conjugative transfer protein	boryong_01310	226783	227149	Yes
+NA	AAA family ATPase	boryong_01315	227400	228852	Yes
+NA	MobA/MobL family protein	boryong_01320	228869	229352	Yes
+NA	hypothetical protein	boryong_01325	229425	229626	No
+NA	Conjugative transfer protein	boryong_01330	229683	229899	No
+NA	hypothetical protein	boryong_01335	230271	232314	Yes
+NA	DDE Tnp4 domain-containing protein	boryong_01340	232643	232925	No
+NA	(P)ppGpp synthetase	boryong_01345	232884	233241	Yes
+NA	Putative signal transduction histidine kinase	boryong_01350	233689	235267	Yes
+NA	hypothetical protein	boryong_01355	235779	236331	Yes
+dam	DNA methyltransferase	boryong_01360	236806	237637	No
+NA	Ankyrin repeat protein with 4 ankyrin repeats	boryong_01365	238024	238777	Yes
+NA	hypothetical protein	boryong_01370	238736	238859	Yes
+NA	DnaA N-terminal domain protein	boryong_01375	239072	240167	Yes
+NA	hypothetical protein	boryong_01380	240240	240774	Yes
+NA	Conjugal transfer protein TraH	boryong_01385	240952	241654	Yes
+infA	translation initiation factor IF-1	boryong_01395	242398	242623	No
+maf	septum formation inhibitor Maf	boryong_01400	242660	243266	No
+tACO1	YebC/PmpR family DNA-binding transcriptional regulator	boryong_01405	243393	244143	No
+gyrA	DNA gyrase subunit A	boryong_01410	244243	246961	No
+glyA	serine hydroxymethyltransferase	boryong_01415	246994	248275	No
+NA	hypothetical protein	boryong_01420	248658	248802	Yes
+NA	DUF3971 domain-containing protein	boryong_01425	248962	251455	Yes
+rnpA	ribonuclease P	boryong_01430	251841	252381	Yes
+rpmH	50S ribosomal protein L34	boryong_01435	252381	252516	Yes
+cYT1	Cytochrome c1	boryong_01440	253295	254090	No
+rph	ribonuclease PH	boryong_01445	254598	255354	Yes
+grpE	nucleotide exchange factor GrpE	boryong_01450	255483	256080	No
+NA	Transposase	boryong_01455	256608	256725	No
+NA	IS5 family transposase ISOt6	boryong_01460	256774	256864	No
+NA	hypothetical protein	boryong_01465	257086	257230	No
+rnd	ribonuclease D	boryong_01470	257218	257851	Yes
+ftsB	Cell division protein FtsB	boryong_01475	257857	258157	Yes
+cdsA	phosphatidate cytidylyltransferase	boryong_01480	258164	258815	Yes
+uppS	polyprenyl diphosphate synthase	boryong_01485	258817	259513	Yes
+abcT	ABC transporter ATP-binding protein	boryong_01490	259687	261493	No
+NA	Transposase	boryong_01495	261882	261981	No
+dnaE	DNA polymerase III subunit alpha	boryong_01500	262774	266479	Yes
+valS	valine--tRNA ligase	boryong_01505	266468	269033	Yes
+ubiA	4-hydroxybenzoate octaprenyltransferase	boryong_01510	269062	269941	No
+NA	hypothetical protein	boryong_01515	270047	270776	Yes
+ldcA	LD-carboxypeptidase	boryong_01520	271148	272147	No
+NA	hypothetical protein	boryong_01525	272238	272337	Yes
+NA	Reverse transcriptase	boryong_01530	272982	273165	No
+NA	AhpC/TSA family protein	boryong_01535	274212	274329	Yes
+NA	hypothetical protein	boryong_01540	274325	274481	Yes
+NA	IS5 family transposase ISOt6	boryong_01545	274818	275049	Yes
+NA	Putative transposase	boryong_01550	275035	275176	Yes
+NA	hypothetical protein	boryong_01555	275278	275380	Yes
+NA	hypothetical protein	boryong_01560	275379	275490	Yes
+NA	Lipase-3 domain-containing protein	boryong_01565	275560	276760	Yes
+coxB	cytochrome c oxidase subunit II	boryong_01570	277192	277888	Yes
+NA	RDD family protein	boryong_01575	278099	278576	Yes
+virB6-5	conjugal transfer protein	boryong_01580	279440	281657	No
+NA	DDE superendonuclease family protein	boryong_01585	282619	283057	No
+NA	IS5 family transposase ISOt6	boryong_01590	283179	283281	No
+NA	Transposase	boryong_01595	283314	283443	No
+gepA	DUF4065 domain-containing protein	boryong_01600	283402	283642	Yes
+NA	Tetratricopeptide repeat protein with 2 trp repeats	boryong_01605	283816	284191	Yes
+NA	IS630 family transposase	boryong_01610	284498	284771	No
+uvrA	excinuclease ABC subunit A	boryong_01615	285164	288041	Yes
+NA	Putative transposase	boryong_01620	288469	288733	No
+NA	Transposase DDE domain protein	boryong_01625	288739	288958	No
+NA	(P)ppGpp synthetase	boryong_01630	289140	289365	No
+NA	transposase	boryong_01635	289415	290318	No
+NA	Conjugal transfer protein TraD	boryong_01640	290396	290660	Yes
+NA	hypothetical protein	boryong_01645	290604	290790	Yes
+ykfC	Retron-type reverse transcriptase	boryong_01650	290997	291933	Yes
+NA	Putative reverse transcriptase	boryong_01655	291929	292166	Yes
+NA	hypothetical protein	boryong_01660	292449	292716	No
+NA	Ankyrin repeat protein with 2 ankyrin repeats	boryong_01665	292822	292987	No
+NA	Lipase (class 3)	boryong_01670	294197	294857	No
+NA	hypothetical protein	boryong_01675	295068	295392	No
+NA	hypothetical protein	boryong_01680	296217	296598	No
+murJ	lipid II flippase MurJ	boryong_01685	296634	298149	Yes
+NA	DDE-3 domain-containing protein	boryong_01690	298528	298678	Yes
+arpD	type I secretion system permease/ATPase	boryong_01695	299469	301224	No
+hlyD	HlyD family type I secretion periplasmic adaptor subunit	boryong_01700	301261	302806	No
+NA	DDE superendonuclease family protein	boryong_01705	303413	303788	Yes
+NA	DDE superendonuclease family protein	boryong_01710	303741	304236	Yes
+NA	DDE superendonuclease family protein	boryong_01715	304820	304988	Yes
+NA	Transposase	boryong_01720	304988	305138	Yes
+NA	IS630 family transposase	boryong_01725	305110	305257	Yes
+NA	Conjugative transfer protein	boryong_01730	305775	305952	No
+NA	IS982 family transposase	boryong_01735	306387	306813	No
+NA	Transposase	boryong_01740	306781	307147	No
+tlc	ATP/ADP translocase	boryong_01745	307714	309190	No
+tlcC	AAA family ATPase	boryong_01750	309344	310889	No
+NA	hypothetical protein	boryong_01755	310888	312694	No
+ispB	octaprenyl-diphosphate synthase	boryong_01760	312713	313730	No
+NA	Conjugative transfer protein	boryong_01765	314295	314559	No
+NA	Type-F conjugative transfer system protein TraW	boryong_01770	314894	315059	No
+NA	hypothetical protein	boryong_01775	315144	315306	No
+traG	conjugal transfer protein TraG	boryong_01780	315727	316036	No
+NA	hypothetical protein	boryong_01785	316051	316153	No
+NA	hypothetical protein	boryong_01790	316115	316409	No
+NA	Tetratricopeptide repeat family protein	boryong_01795	316610	316895	No
+NA	Conjugal transfer protein	boryong_01800	316900	317095	No
+tnp-IS110	IS110 family transposase	boryong_01805	317481	318444	No
+NA	DDE superendonuclease family protein	boryong_01810	318502	318877	Yes
+NA	DDE superendonuclease family protein	boryong_01815	318990	319428	No
+NA	IS5 family transposase ISOt6	boryong_01820	319439	319814	No
+NA	Putative transposase	boryong_01825	320049	320238	Yes
+NA	Conjugal transfer protein	boryong_01830	320721	321252	No
+NA	ankyrin repeat domain-containing protein	boryong_01835	321629	321872	No
+NA	hypothetical protein	boryong_01840	321910	322108	No
+NA	Putative conjugative transfer protein TraA	boryong_01845	322228	322372	Yes
+NA	Conjugal transfer protein TraA	boryong_01850	322503	322971	Yes
+NA	Conjugal transfer protein TraA	boryong_01855	323051	323390	Yes
+NA	MobA/MobL family protein	boryong_01860	323355	323823	Yes
+NA	hypothetical protein	boryong_01865	324003	324126	Yes
+NA	hypothetical protein	boryong_01870	324101	324212	Yes
+apaG	Co2+/Mg2+ efflux protein ApaG	boryong_01875	324522	324948	No
+pleD	PleD family two-component system response regulator	boryong_01880	325333	326803	Yes
+ubiX	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	boryong_01890	327284	327848	No
+mgtE	magnesium transporter	boryong_01895	327897	328812	Yes
+ybeY	rRNA maturation RNase YbeY	boryong_01900	328824	329328	Yes
+ftsY	signal recognition particle-docking protein FtsY	boryong_01905	330764	331703	Yes
+NA	DUF2660 domain-containing protein	boryong_01910	331812	332202	No
+virB9-1	P-type conjugative transfer protein VirB9	boryong_01915	332461	333223	Yes
+virB8-1	type VI secretion protein	boryong_01920	333212	333914	Yes
+thyA	thymidylate synthase (FAD)	boryong_01935	337491	338394	Yes
+cinA	Competence-damaged protein cinA	boryong_01940	338437	338941	Yes
+pgpA	phosphatidylglycerophosphatase A	boryong_01945	339006	339609	Yes
+NA	Conjugal transfer TraD family protein	boryong_01950	340688	340841	No
+NA	hypothetical protein	boryong_01955	341181	341490	No
+NA	hypothetical protein	boryong_01960	341392	341605	Yes
+perM	AI-2E family transporter	boryong_01965	341833	342880	No
+hemA	5-aminolevulinate synthase	boryong_01970	342889	344101	Yes
+ptrB	S9 family peptidase	boryong_01975	344133	346188	Yes
+rpsT	30S ribosomal protein S20	boryong_01980	346253	346526	Yes
+rplQ	50S ribosomal protein L17	boryong_01985	346607	347045	Yes
+rpoA	DNA-directed RNA polymerase subunit alpha	boryong_01990	347063	348092	Yes
+rpsK	30S ribosomal protein S11	boryong_01995	348140	348521	Yes
+rpsM	30S ribosomal protein S13	boryong_02000	348530	348908	Yes
+adk	adenylate kinase	boryong_02005	348987	349620	Yes
+secY	preprotein translocase subunit SecY	boryong_02010	349628	350936	Yes
+rplO	50S ribosomal protein L15	boryong_02015	350937	351429	Yes
+rpsE	30S ribosomal protein S5	boryong_02020	351664	352183	Yes
+rplR	50S ribosomal protein L18	boryong_02025	352203	352578	Yes
+rplF	50S ribosomal protein L6	boryong_02030	352591	353125	Yes
+rpsH	30S ribosomal protein S8	boryong_02035	353146	353548	Yes
+rpsN	30S ribosomal protein S14	boryong_02040	353570	353876	Yes
+rplE	50S ribosomal protein L5	boryong_02045	353894	354464	Yes
+rplX	50S ribosomal protein L24	boryong_02050	354476	354797	Yes
+rplN	50S ribosomal protein L14	boryong_02055	354798	355167	Yes
+rpsQ	30S ribosomal protein S17	boryong_02060	355262	355502	Yes
+rpmC	50S ribosomal protein L29	boryong_02065	355502	355724	Yes
+rplP	50S ribosomal protein L16	boryong_02070	355716	356127	Yes
+rpsC	30S ribosomal protein S3	boryong_02075	356155	356812	Yes
+rplV	50S ribosomal protein L22	boryong_02080	356827	357178	Yes
+rpsS	30S ribosomal protein S19	boryong_02085	357179	357458	Yes
+rplB	50S ribosomal protein L2	boryong_02090	357481	358303	Yes
+rplW	50S ribosomal protein L23	boryong_02095	358303	358600	Yes
+rplD	50S ribosomal protein L4	boryong_02100	358596	359229	Yes
+rplC	50S ribosomal protein L3	boryong_02105	359243	359927	Yes
+rpsJ	30S ribosomal protein S10	boryong_02110	359910	360216	Yes
+tuf	elongation factor Tu	boryong_02115	360260	361445	Yes
+rlmB	23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB	boryong_02130	361909	362638	No
+recA	DNA recombination/repair protein RecA	boryong_02135	362732	363803	No
+fabG	3-oxoacyl-ACP reductase	boryong_02140	363796	364522	No
+acpP	acyl carrier protein	boryong_02145	364643	365030	No
+fabF	beta-ketoacyl-[acyl-carrier-protein] synthase II	boryong_02150	365119	366391	No
+NA	Transposase	boryong_02155	366910	367144	Yes
+NA	Tnp-DDE-dom domain-containing protein	boryong_02160	367287	367731	Yes
+purC	Phosphoribosylaminoimidazole-succinocarboxamide synthase	boryong_02165	368210	368945	Yes
+yfjG	ubiquinone-binding protein	boryong_02170	368928	369375	Yes
+lipA	lipoyl synthase	boryong_02175	369397	370306	Yes
+sppA	signal peptide peptidase SppA	boryong_02180	370316	371246	Yes
+smpB	SsrA-binding protein SmpB	boryong_02185	371245	371707	Yes
+dapA	4-hydroxy-tetrahydrodipicolinate synthase	boryong_02190	371709	372606	Yes
+ilvE	branched chain amino acid aminotransferase	boryong_02195	372586	373489	Yes
+recD	ATP-dependent RecD-like DNA helicase	boryong_02200	373702	375898	Yes
+rplS	50S ribosomal protein L19	boryong_02205	375924	376299	Yes
+trmD	tRNA (guanine(37)-N(1))-methyltransferase	boryong_02210	376295	377060	Yes
+NA	hypothetical protein	boryong_02215	377102	378953	Yes
+popZ	Cell pole-organizing protein PopZ	boryong_02220	378954	379521	Yes
+tolC	TolC family protein	boryong_02225	379571	380948	Yes
+xerD	site-specific tyrosine recombinase XerD	boryong_02235	381230	382220	No
+NA	conjugal transfer protein	boryong_02240	382884	383355	No
+surf1	surfeit locus protein 1	boryong_02245	383349	384072	Yes
+fabZ	beta-hydroxyacyl-ACP dehydratase	boryong_02250	384313	384817	No
+rsmD	16S rRNA (guanine(966)-N(2))-methyltransferase RsmD	boryong_02255	384820	385396	No
+radA	DNA repair protein RadA	boryong_02260	385395	386751	No
+rhaT	membrane protein	boryong_02265	386789	387710	Yes
+NA	DUF3857 domain-containing protein	boryong_02270	387861	389760	No
+NA	DUF3857 domain-containing protein	boryong_02275	389800	391729	No
+NA	hypothetical protein	boryong_02280	392436	392616	Yes
+NA	hypothetical protein	boryong_02285	393092	393317	No
+NA	hypothetical protein	boryong_02290	393709	393889	No
+NA	hypothetical protein	boryong_02295	393974	394175	No
+NA	Phage-related integrase, complete integrase	boryong_02300	394305	395544	No
+traL	conjugal transfer protein traL, complete TraL	boryong_02305	395669	396005	No
+NA	Conjugative transfer protein	boryong_02310	396004	396337	No
+NA	Putative membrane protein	boryong_02315	396345	396462	No
+NA	Conjugal transfer protein TraC	boryong_02320	397309	398254	No
+NA	Conjugal transfer protein TraC	boryong_02325	398225	398969	No
+NA	PRANC domain-containing protein	boryong_02330	399084	399789	Yes
+NA	Ankyrin repeat family protein	boryong_02335	399730	399856	Yes
+NA	ankyrin repeat domain-containing protein	boryong_02340	399855	400074	Yes
+NA	Conjugal transfer protein TraD	boryong_02345	400180	400492	Yes
+NA	hypothetical protein	boryong_02350	400699	400873	Yes
+NA	DDE superendonuclease family protein	boryong_02355	401310	401823	No
+NA	DDE superendonuclease family protein	boryong_02360	401776	402004	No
+NA	Transposase	boryong_02365	402070	402256	No
+NA	hypothetical protein	boryong_02370	402797	402965	Yes
+rpmJ	50S ribosomal protein L36	boryong_02375	403331	403457	Yes
+NA	helix-turn-helix domain containing protein	boryong_02380	403930	404104	No
+NA	IS630 family transposase	boryong_02385	404308	404458	No
+NA	Putative transposase	boryong_02390	404424	404556	No
+NA	transposase	boryong_02395	404500	404800	No
+NA	hypothetical protein	boryong_02400	405119	405212	No
+NA	DDE superendonuclease family protein	boryong_02405	405381	405606	No
+NA	hypothetical protein	boryong_02410	405913	406066	No
+ykfC	Retron-type reverse transcriptase	boryong_02415	406250	407351	No
+NA	hypothetical protein	boryong_02420	407598	407706	No
+NA	Thioredoxin	boryong_02425	407865	408192	Yes
+bamA	outer membrane protein assembly factor BamA	boryong_02430	408210	410580	Yes
+rseP	RIP metalloprotease RseP	boryong_02435	410592	411654	Yes
+rmuC	DNA recombination protein RmuC	boryong_02440	411763	413104	Yes
+rsmA	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase	boryong_02445	413170	413992	Yes
+surA	Chaperone SurA	boryong_02450	414110	414986	Yes
+himA	Bacterial nucleoid DNA-binding protein IHF-alpha	boryong_02455	415178	415487	Yes
+NA	zinc ABC transporter substrate-binding protein	boryong_02465	416060	416939	Yes
+pcnB	poly(A) polymerase	boryong_02470	416935	418144	Yes
+gltP	dicarboxylate/amino acid:cation symporter	boryong_02475	418196	419393	Yes
+uvrD	ATP-dependent DNA helicase UvrD	boryong_02480	419573	423038	Yes
+sixA	phosphohistidine phosphatase	boryong_02485	423049	423523	Yes
+dapB	dihydrodipicolinate reductase	boryong_02490	423604	424456	Yes
+hisJ	amino acid ABC transporter substrate-binding protein	boryong_02495	424462	425266	Yes
+coxW	cytochrome c oxidase assembly protein	boryong_02500	426075	426603	No
+rpmF	50S ribosomal protein L32	boryong_02505	427451	427658	Yes
+bamE	SmpA / OmlA family	boryong_02510	427754	428120	No
+era	GTPase Era	boryong_02515	428647	429568	Yes
+NA	Peptidylprolyl isomerase	boryong_02520	429564	430584	Yes
+prfA	peptide chain release factor 1	boryong_02525	430787	431867	Yes
+NA	Transposase	boryong_02530	432387	432645	Yes
+NA	hypothetical protein	boryong_02535	432951	433194	No
+NA	hypothetical protein	boryong_02540	433190	433478	No
+NA	hypothetical protein	boryong_02545	433834	434236	No
+NA	DnaA-N domain-containing protein	boryong_02550	434232	434493	No
+dnaB	Replicative DNA helicase	boryong_02555	434568	435012	No
+NA	DNA helicase	boryong_02560	435199	435952	No
+NA	hypothetical protein	boryong_02565	436306	436462	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	boryong_02570	436439	437612	Yes
+NA	DDE superendonuclease family protein	boryong_02575	438287	438662	Yes
+NA	DDE superendonuclease family protein	boryong_02580	438615	439110	Yes
+ppx	exopolyphosphatase	boryong_02585	439910	441359	No
+NA	hypothetical protein	boryong_02590	442373	442481	No
+pcaH	intradiol ring-cleavage dioxygenase	boryong_02595	442859	443591	No
+leuS	leucine--tRNA ligase	boryong_02600	444206	446723	No
+holB2	DNA polymerase III subunit delta	boryong_02605	446742	447762	No
+mgtE	magnesium transporter	boryong_02615	447951	449316	No
+ypwA	carboxypeptidase M32	boryong_02620	449413	450904	Yes
+NA	Reverse transcriptase	boryong_02625	451692	451827	No
+NA	hypothetical protein	boryong_02630	452529	453063	No
+NA	DnaA-N domain-containing protein	boryong_02635	453136	454225	No
+dnaB	Replicative DNA helicase	boryong_02640	454300	454744	No
+NA	DNA helicase	boryong_02645	454931	455684	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	boryong_02650	455918	456494	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	boryong_02655	456531	457176	No
+NA	hypothetical protein	boryong_02660	457993	458101	No
+NA	hypothetical protein	boryong_02665	458720	459254	Yes
+NA	hypothetical protein	boryong_02670	459551	459674	Yes
+NA	ATP-binding protein	boryong_02675	459971	460247	No
+NA	ATP-binding protein	boryong_02680	460604	460817	No
+NA	hypothetical protein	boryong_02685	460915	461125	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	boryong_02690	461166	461754	No
+NA	transposase	boryong_02695	461875	462826	No
+NA	Conjugal transfer protein TraD	boryong_02700	462904	463168	Yes
+NA	hypothetical protein	boryong_02705	463112	463298	Yes
+ykfC	Retron-type reverse transcriptase	boryong_02710	463505	464642	Yes
+NA	hypothetical protein	boryong_02715	464826	464979	Yes
+NA	Ankyrin repeat protein with 3 ankyrin repeats	boryong_02720	465326	466304	No
+NA	Conjugal transfer protein TraC	boryong_02725	466229	466799	Yes
+NA	Conjugative transfer protein TraC	boryong_02730	466845	467571	Yes
+NA	conjugal transfer protein, complete TraV	boryong_02735	467551	467881	Yes
+NA	Conjugative pilus assembly protein	boryong_02740	467880	468258	Yes
+NA	hypothetical protein	boryong_02745	468331	468487	Yes
+NA	site-specific integrase	boryong_02750	468675	469404	Yes
+rpsD	30S ribosomal protein S4	boryong_02755	470142	470766	Yes
+rsmE	Ribosomal RNA small subunit methyltransferase E	boryong_02760	470901	471654	No
+mlaE	Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla	boryong_02765	471950	472742	No
+mlaF	ABC transporter ATP-binding protein	boryong_02770	472770	473526	No
+recJ	single-stranded-DNA-specific exonuclease RecJ	boryong_02775	473696	475457	Yes
+ruvX	Holliday junction resolvase RuvX	boryong_02780	475470	475944	Yes
+NA	DUF1189 domain-containing protein	boryong_02785	475940	476855	Yes
+ccmE	cytochrome c biogenesis protein CcmE	boryong_02790	476881	477277	Yes
+curA	NADP-dependent oxidoreductase	boryong_02795	477576	478740	No
+traL	conjugal transfer protein traL, complete TraL	boryong_02800	479831	480167	Yes
+NA	site-specific integrase	boryong_02805	480258	480933	Yes
+NA	Putative integrase	boryong_02810	480884	481271	Yes
+NA	Putative integrase	boryong_02815	481393	481546	Yes
+NA	hypothetical protein	boryong_02820	482872	483172	Yes
+NA	hypothetical protein	boryong_02825	484210	484381	No
+NA	hypothetical protein	boryong_02830	484723	485125	Yes
+NA	DDE superendonuclease family protein	boryong_02835	485197	485614	No
+NA	IS5 family transposase ISOt6	boryong_02840	485567	485789	No
+NA	Putative transposase	boryong_02845	485807	485930	No
+traE	conjugal transfer protein TraE, complete TraE	boryong_02850	485916	486456	No
+traK2	conjugal transfer protein traK2, complete TraK-2	boryong_02855	486589	486922	No
+NA	hypothetical protein	boryong_02860	486928	487324	Yes
+NA	hypothetical protein	boryong_02865	487846	487972	Yes
+panF	sodium:pantothenate symporter	boryong_02870	489025	490429	Yes
+NA	MFS transporter	boryong_02875	490444	491707	Yes
+NA	Putative integrase	boryong_02880	492356	492509	No
+NA	Integrase	boryong_02885	492631	492760	No
+NA	Conjugal transfer protein TraA	boryong_02890	492884	494363	Yes
+NA	AAA domain protein	boryong_02895	494347	495439	Yes
+NA	hypothetical protein	boryong_02900	495431	495647	Yes
+traD	conjugal transfer protein TraD	boryong_02905	495995	496394	No
+NA	hypothetical protein	boryong_02910	496481	497054	No
+NA	(P)ppGpp synthetase	boryong_02915	497139	497358	Yes
+NA	DDE superendonuclease family protein	boryong_02920	497485	497923	No
+tnp-IS5	IS5 family transposase	boryong_02925	498201	498309	No
+NA	DUF4065 domain-containing protein	boryong_02930	498403	498676	Yes
+NA	hypothetical protein	boryong_02935	498694	498793	Yes
+NA	Glycosyl transferase family 8	boryong_02940	498903	499596	Yes
+NA	conjugal transfer protein TraN	boryong_02945	499848	500481	Yes
+NA	Conjugal transfer protein TraN	boryong_02950	500788	501559	Yes
+NA	Type-F conjugative transfer system pilin assembly family protein	boryong_02955	501542	501824	Yes
+NA	Conjugal transfer protein	boryong_02960	501943	502627	Yes
+NA	conjugal transfer protein	boryong_02965	502819	503110	Yes
+NA	Conjugal transfer protein	boryong_02970	503109	503574	Yes
+NA	hypothetical protein	boryong_02975	503685	504087	Yes
+traE	conjugal transfer protein TraE, complete TraE	boryong_02980	504083	504560	Yes
+traL	conjugal transfer protein traL, complete TraL	boryong_02985	504634	504970	Yes
+NA	site-specific integrase	boryong_02990	505061	505736	Yes
+NA	Putative integrase	boryong_02995	505687	506074	Yes
+NA	Putative integrase	boryong_03000	506196	506349	Yes
+NA	hypothetical protein	boryong_03015	507892	508078	Yes
+NA	hypothetical protein	boryong_03020	508289	508397	Yes
+NA	reverse transcriptase domain-containing protein	boryong_03025	508604	509771	Yes
+NA	DDE superendonuclease family protein	boryong_03030	510598	510868	Yes
+tnp-IS5	IS5 family transposase	boryong_03035	511263	511371	Yes
+NA	DDE superendonuclease family protein	boryong_03040	511591	512086	Yes
+NA	Transposase IS116/IS110/IS902 family protein	boryong_03045	512226	512712	Yes
+NA	DDE superendonuclease family protein	boryong_03050	512968	513382	No
+NA	DDE superendonuclease family protein	boryong_03055	513335	513710	No
+NA	IS110 family transposase	boryong_03060	513669	514098	Yes
+NA	site-specific integrase	boryong_03065	514638	515070	No
+bcp	peroxiredoxin	boryong_03070	515072	515543	No
+NA	hypothetical protein	boryong_03075	516161	516326	No
+NA	hypothetical protein	boryong_03080	517115	517358	No
+tlcC	AAA family ATPase	boryong_03085	517684	519160	Yes
+rplI	50S ribosomal protein L9	boryong_03090	519313	519841	Yes
+rpsR	30S ribosomal protein S18	boryong_03095	519883	520192	Yes
+rpsF	30S ribosomal protein S6	boryong_03100	520239	520596	Yes
+ompR	two-component system response regulator	boryong_03105	520888	521638	No
+mdlB	multidrug resistance protein	boryong_03110	521743	523414	No
+NA	IS110 family transposase	boryong_03115	523543	523738	No
+tig	trigger factor	boryong_03120	523914	525405	Yes
+dapE	succinyl-diaminopimelate desuccinylase	boryong_03130	525556	526723	Yes
+htpG	molecular chaperone HtpG	boryong_03135	526885	528778	Yes
+rpmI	50S ribosomal protein L35	boryong_03140	529223	529430	No
+rplT	50S ribosomal protein L20	boryong_03145	529449	529815	No
+NA	hypothetical protein	boryong_03150	530407	530539	Yes
+NA	Putative transposase	boryong_03155	531688	531796	Yes
+NA	DDE superendonuclease family protein	boryong_03160	532074	532449	Yes
+NA	DDE superendonuclease family protein	boryong_03165	532460	532898	Yes
+NA	DDE superendonuclease family protein	boryong_03170	532972	533287	Yes
+NA	hypothetical protein	boryong_03175	534389	534488	No
+rpsP	30S ribosomal protein S16	boryong_03185	535812	536139	Yes
+rpmG	50S ribosomal protein L33	boryong_03190	536147	536315	Yes
+NA	hypothetical protein	boryong_03195	536890	536998	Yes
+NA	reverse transcriptase domain-containing protein	boryong_03200	537205	538372	Yes
+NA	IS982 family transposase	boryong_03205	539482	540244	No
+NA	hypothetical protein	boryong_03210	540298	540424	No
+NA	Sporulation related domain protein	boryong_03215	540448	541228	Yes
+argS	arginine--tRNA ligase	boryong_03220	541224	542997	Yes
+iscA	iron-sulfur cluster assembly accessory protein	boryong_03225	543162	543507	No
+gltX	glutamate--tRNA ligase	boryong_03230	543507	544944	Yes
+alaS	alanine--tRNA ligase	boryong_03235	545283	547953	Yes
+NA	hypothetical protein	boryong_03240	548085	549699	No
+NA	hypothetical protein	boryong_03245	549700	550330	No
+atpG	ATPase	boryong_03250	550340	551231	Yes
+atpA	ATP synthase subunit alpha	boryong_03255	551245	552784	Yes
+atpH	ATP synthase subunit delta	boryong_03260	552826	553372	Yes
+dut	deoxyuridine 5'-triphosphate nucleotidohydrolase	boryong_03265	553466	553913	Yes
+infC	translation initiation factor IF-3	boryong_03270	554225	554768	Yes
+thrS	threonine--tRNA ligase	boryong_03275	554781	556728	Yes
+folC	bifunctional folylpolyglutamate synthase/dihydrofolate synthase	boryong_03280	556978	558319	No
+NA	peptidylprolyl isomerase	boryong_03285	558421	559453	Yes
+secA	preprotein translocase subunit SecA	boryong_03290	559698	562341	No
+traA	conjugal transfer protein TraA	boryong_03295	563662	565894	Yes
+NA	Putative conjugative transfer protein TraA	boryong_03300	565933	566044	Yes
+NA	Conjugal transfer protein TraA	boryong_03305	566107	566227	Yes
+rppH	RNA pyrophosphohydrolase	boryong_03310	567295	567781	Yes
+NA	DnaA-N domain-containing protein	boryong_03315	568149	568551	No
+NA	IS5 family transposase ISOt6	boryong_03320	568992	569118	Yes
+NA	Transposase	boryong_03325	569131	569569	Yes
+NA	hypothetical protein	boryong_03330	569676	569811	Yes
+NA	Reverse transcriptase family protein	boryong_03335	570018	570567	Yes
+NA	Reverse transcriptase	boryong_03340	570612	571185	Yes
+NA	IS5 family transposase ISOt6	boryong_03345	571653	571785	Yes
+NA	Conjugal transfer protein TraH	boryong_03350	571813	571963	Yes
+NA	Transposase DDE domain protein	boryong_03355	572477	572879	No
+recF	DNA replication/repair protein RecF	boryong_03360	573044	574184	Yes
+ftsQ	cell division protein FtsQ	boryong_03365	574201	575032	Yes
+ddl	D-alanine--D-alanine ligase	boryong_03370	575024	575999	Yes
+murB	UDP-N-acetylenolpyruvoylglucosamine reductase	boryong_03375	575976	576879	Yes
+murC	UDP-N-acetylmuramate--L-alanine ligase	boryong_03380	576856	578365	Yes
+NA	Type specific antigen	boryong_03385	578540	579272	Yes
+tsa56	type-specific antigen TSA56	boryong_03390	579499	581098	Yes
+glyQ	glycine--tRNA ligase subunit alpha	boryong_03395	581645	582524	No
+glyS	glycine--tRNA ligase subunit beta	boryong_03400	582516	584568	No
+tsaC	threonylcarbamoyl-AMP synthase	boryong_03405	584545	585514	No
+NA	hypothetical protein	boryong_03410	586773	586926	No
+ykfC	Retron-type reverse transcriptase	boryong_03415	587110	588247	No
+NA	hypothetical protein	boryong_03420	588454	588640	No
+NA	Conjugal transfer protein TraD	boryong_03425	588584	588848	No
+NA	transposase	boryong_03430	588926	589877	Yes
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	boryong_03435	589998	590478	Yes
+NA	hypothetical protein	boryong_03440	590902	591037	Yes
+NA	hypothetical protein	boryong_03445	591205	591463	No
+NA	DnaA N-terminal domain protein	boryong_03450	591459	591726	No
+dnaB	Replicative DNA helicase	boryong_03455	591801	592245	No
+NA	Replicative DNA helicase	boryong_03460	592432	593185	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	boryong_03465	593412	593988	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	boryong_03470	594027	594672	No
+NA	Putative ompA-like autotransporter	boryong_03475	594774	595278	No
+NA	ATP-binding protein	boryong_03480	595790	596162	No
+NA	Putative signal transduction histidine kinase	boryong_03485	596184	597066	No
+NA	DDE superendonuclease family protein	boryong_03490	597166	597541	Yes
+NA	DDE superendonuclease family protein	boryong_03495	597552	597990	Yes
+NA	Putative signal transduction histidine kinase	boryong_03500	598132	598837	No
+NA	ATP-binding protein	boryong_03505	598859	599795	No
+baeS	Signal transduction histidine kinase	boryong_03510	599800	600307	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	boryong_03515	600348	600936	No
+NA	transposase	boryong_03520	601057	601984	No
+NA	Conjugal transfer protein TraD	boryong_03525	602062	602326	Yes
+NA	Transposase	boryong_03530	602751	603240	No
+NA	Transposase DDE domain protein	boryong_03535	603377	603560	No
+NA	hypothetical protein	boryong_03540	604220	604820	Yes
+traD	conjugal transfer protein TraD	boryong_03545	604849	605290	Yes
+NA	MobA/MobL family protein	boryong_03550	605624	606401	No
+NA	AAA family ATPase	boryong_03555	606481	606949	No
+NA	Putative conjugative transfer protein TraA	boryong_03560	607080	607224	No
+NA	Conjugal transfer protein TraA	boryong_03565	607258	608131	No
+NA	toprim domain-containing protein	boryong_03570	608312	610115	No
+NA	transposase	boryong_03575	610165	611077	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	boryong_03580	611078	612353	Yes
+NA	Conjugal transfer protein	boryong_03585	612327	612834	Yes
+NA	Tetratricopeptide repeat protein with 5 trp repeats	boryong_03590	612833	613556	Yes
+traG	conjugal transfer protein TraG	boryong_03595	613732	615163	Yes
+NA	Conjugal transfer protein TraH	boryong_03600	615475	616099	Yes
+NA	Conjugal transfer protein TraH	boryong_03605	616074	616776	Yes
+NA	Conjugal transfer protein	boryong_03610	616772	617219	Yes
+NA	hypothetical protein	boryong_03615	617285	617462	Yes
+traN	conjugal transfer protein TraN, complete TraN	boryong_03620	617482	619183	Yes
+NA	Type-F conjugative transfer system pilin assembly family protein	boryong_03625	619166	619448	Yes
+NA	Conjugal transfer protein	boryong_03630	619567	620269	Yes
+NA	hypothetical protein	boryong_03635	620782	621598	Yes
+NA	Conjugal transfer protein TraC	boryong_03640	621713	622814	Yes
+NA	Conjugative transfer protein	boryong_03645	622870	623053	Yes
+NA	Replicative DNA helicase	boryong_03650	622991	623156	Yes
+NA	Conjugal transfer protein	boryong_03655	623198	623600	Yes
+NA	Conjugal transfer protein	boryong_03660	623605	624544	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	boryong_03665	624601	624904	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	boryong_03670	625069	625558	Yes
+NA	Conjugal transfer protein TraE	boryong_03675	625554	625707	Yes
+NA	Conjugal transfer protein TraE	boryong_03680	625687	626107	Yes
+traL	conjugal transfer protein traL, complete TraL	boryong_03685	626106	626442	Yes
+xerD	Site-specific recombinase XerD	boryong_03690	626563	627136	Yes
+NA	Arm DNA-binding domain-containing protein	boryong_03695	627186	627759	Yes
+NA	hypothetical protein	boryong_03700	628177	628570	Yes
+NA	Integrase	boryong_03705	629096	629279	Yes
+dnaB	replicative DNA helicase	boryong_03710	629961	630909	No
+NA	(P)pGpp hydrolase	boryong_03715	631141	631294	No
+NA	site-specific integrase	boryong_03720	631682	632687	No
+NA	Replicative DNA helicase	boryong_03725	632895	633573	Yes
+NA	DNA helicase	boryong_03730	633668	633962	Yes
+NA	hypothetical protein	boryong_03735	634243	634504	Yes
+NA	hypothetical protein	boryong_03740	634670	634781	No
+NA	Reverse transcriptase	boryong_03745	635349	635529	No
+NA	conjugal transfer protein TraF	boryong_03750	636217	636460	Yes
+NA	hypothetical protein	boryong_03755	636585	637098	Yes
+NA	Reverse transcriptase	boryong_03760	637581	637734	Yes
+NA	Conjugal transfer protein TraE	boryong_03765	638808	639009	No
+NA	hypothetical protein	boryong_03775	639855	640038	Yes
+pTR2	MFS transporter	boryong_03780	641054	642533	No
+fumC	class II fumarate hydratase	boryong_03785	642696	644097	Yes
+hPt	histidine phosphotransferase	boryong_03790	644160	644838	Yes
+NA	DDE superendonuclease family protein	boryong_03795	645068	645395	No
+NA	DDE superendonuclease family protein	boryong_03800	645619	645994	Yes
+NA	DDE superendonuclease family protein	boryong_03805	645947	646442	Yes
+NA	hypothetical protein	boryong_03810	646834	646972	No
+NA	IS982 family transposase	boryong_03815	647224	647989	No
+NA	Conjugal transfer protein TraD	boryong_03820	648183	648393	Yes
+NA	Conjugal transfer protein TraA	boryong_03825	648591	648888	No
+NA	Conjugal transfer protein TraA	boryong_03830	649004	649259	No
+NA	hypothetical protein	boryong_03835	649914	651516	No
+grxC	glutaredoxin	boryong_03840	651949	652333	Yes
+NA	hypothetical protein	boryong_03845	652540	652969	Yes
+gtaA	DUF2163 domain-containing protein	boryong_03850	653066	653870	Yes
+NA	TIGR02217 family protein	boryong_03855	653882	654482	Yes
+NA	hypothetical protein	boryong_03860	654474	654900	Yes
+NA	head-tail adaptor protein	boryong_03865	654899	655241	Yes
+NA	hypothetical protein	boryong_03870	655242	655788	Yes
+gtaC	phage major capsid protein	boryong_03875	655821	656937	Yes
+gtaF	prohead protease	boryong_03880	656948	657503	Yes
+NA	hypothetical protein	boryong_03885	658426	658552	No
+NA	hypothetical protein	boryong_03890	658641	658968	No
+NA	DnaA-N domain-containing protein	boryong_03895	659416	659992	No
+NA	DDE superendonuclease family protein	boryong_03900	659951	660326	Yes
+NA	DDE superendonuclease family protein	boryong_03905	660337	660775	Yes
+lacA	ribose-5-phosphate isomerase	boryong_03910	661215	661698	Yes
+NA	hypothetical protein	boryong_03915	661885	662098	No
+NA	hypothetical protein	boryong_03920	662000	662309	Yes
+NA	Conjugal transfer TraD family protein	boryong_03925	662649	662802	Yes
+NA	Conjugal transfer protein TraE	boryong_03930	663886	664051	No
+NA	Conjugative transfer protein	boryong_03935	664016	664211	No
+NA	hypothetical protein	boryong_03940	664230	664332	No
+NA	Ankyrin repeat protein with 4 ankyrin repeats	boryong_03945	664451	665486	Yes
+NA	TraU family protein	boryong_03950	665856	666120	No
+NA	IS982 family transposase	boryong_03955	666766	667396	No
+mdlB	multidrug ABC transporter ATP-binding protein	boryong_03960	667542	669324	Yes
+pyrH	UMP kinase	boryong_03965	669376	670126	Yes
+mraY	phospho-N-acetylmuramoyl-pentapeptide- transferase	boryong_03970	670351	671443	Yes
+murF	UDP-N-acetylmuramoylalanyl-D-glutamyl-2, 6-diaminopimelate--D-alanyl-D-alanine ligase	boryong_03975	671432	672848	Yes
+murE	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-di aminopimelate ligase	boryong_03980	672844	674314	Yes
+pbpA2	penicillin-binding protein	boryong_03985	674300	676052	Yes
+ftsL	Cell division protein FtsL	boryong_03990	676253	676562	Yes
+rsmH	16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH	boryong_03995	676554	677469	Yes
+dnaJ	molecular chaperone DnaJ	boryong_04000	677561	678695	Yes
+dnaK	molecular chaperone DnaK	boryong_04005	678782	680711	Yes
+bolA	BolA family transcriptional regulator	boryong_04010	681090	681378	Yes
+fabI	enoyl-ACP reductase	boryong_04015	681584	682382	No
+NA	IS630 family transposase	boryong_04020	682580	682709	Yes
+ykfC	Retron-type reverse transcriptase	boryong_04025	682796	683063	Yes
+NA	Putative transposase	boryong_04030	683521	683788	No
+NA	hypothetical protein	boryong_04035	684093	684294	No
+NA	Arm DNA-binding domain-containing protein	boryong_04040	684424	685015	No
+NA	site-specific integrase	boryong_04045	684986	685664	No
+traL	conjugal transfer protein traL, complete TraL	boryong_04050	685789	686125	No
+NA	Putative conjugative transfer protein	boryong_04055	686199	686457	No
+NA	Putative membrane protein	boryong_04060	686465	686582	No
+NA	Conjugal transfer protein TraC	boryong_04065	687429	688374	No
+NA	Conjugal transfer protein TraC	boryong_04070	688345	689128	No
+virB4	Type IV secretory pathway, VirB4 component	boryong_04075	689149	689992	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	boryong_04080	689988	690648	No
+NA	hypothetical protein	boryong_04085	690730	690919	No
+NA	Conjugal transfer protein	boryong_04090	691233	691917	No
+NA	Type-F conjugative transfer system pilin assembly family protein	boryong_04095	692036	692318	No
+NA	Conjugal transfer protein TraN	boryong_04100	692301	693072	No
+NA	Conjugative transfer protein	boryong_04105	693379	694006	No
+NA	hypothetical protein	boryong_04110	694026	694203	No
+NA	Tetratricopeptide repeat protein with 8 trp repeats	boryong_04115	694269	695271	No
+NA	Conjugal transfer protein	boryong_04120	695270	695786	No
+NA	toprim domain-containing protein	boryong_04125	695900	697220	Yes
+NA	Conjugal transfer protein TraI	boryong_04130	697164	697875	Yes
+NA	Conjugal transfer protein TraA	boryong_04135	698504	700055	Yes
+NA	Conjugal transfer protein TraA	boryong_04140	700039	700852	Yes
+NA	MobA/MobL family protein	boryong_04145	700869	701352	Yes
+NA	hypothetical protein	boryong_04150	701425	701626	No
+NA	Putative transposase	boryong_04155	701734	701998	No
+NA	IS982 family transposase	boryong_04160	702004	702610	No
+NA	hypothetical protein	boryong_04165	702946	704683	No
+NA	Conjugal transfer TraD family protein	boryong_04170	705668	705950	No
+NA	hypothetical protein	boryong_04175	706052	706598	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	boryong_04180	706665	707259	Yes
+NA	ATP-binding protein	boryong_04185	707393	707774	Yes
+NA	hypothetical protein	boryong_04190	707800	708217	Yes
+baeS	sensor histidine kinase	boryong_04195	708155	708983	Yes
+NA	hypothetical protein	boryong_04200	709674	711579	No
+NA	Site-specific DNA-methyltransferase (adenine-specific)	boryong_04205	712063	712498	No
+NA	Site-specific DNA-methyltransferase (adenine-specific)	boryong_04210	712570	712876	No
+NA	Putative ompA-like autotransporter	boryong_04215	712996	713371	Yes
+NA	Transposase	boryong_04220	713475	713874	No
+NA	DDE superendonuclease family protein	boryong_04225	713925	714222	No
+atpC	ATP synthase subunit epsilon	boryong_04230	715180	715585	Yes
+atpB	ATP synthase subunit beta	boryong_04235	715581	717018	Yes
+capM	capsule biosynthesis protein CapM	boryong_04240	717367	718507	Yes
+menH	alpha/beta hydrolase	boryong_04245	718542	719316	No
+mltE	murein transglycosylase	boryong_04250	719705	721703	Yes
+fabD	ACP S-malonyltransferase	boryong_04255	721744	722683	No
+NA	transposase	boryong_04260	723843	724122	Yes
+NA	Putative transposase	boryong_04265	724246	724393	Yes
+NA	Transposase family protein	boryong_04270	724528	724723	Yes
+NA	Integrase	boryong_04275	724871	725102	Yes
+NA	Putative integrase domain protein	boryong_04280	725190	725373	Yes
+NA	hypothetical protein	boryong_04285	725550	725697	Yes
+NA	hypothetical protein	boryong_04290	725811	726024	No
+NA	reverse transcriptase domain-containing protein	boryong_04295	725986	726238	No
+NA	Reverse transcriptase family protein	boryong_04300	726253	726409	No
+NA	Reverse transcriptase family protein	boryong_04305	726423	726792	No
+NA	hypothetical protein	boryong_04310	727012	727249	No
+NA	IS982 family transposase	boryong_04315	728015	728891	Yes
+baeS	ATP-binding protein	boryong_04320	729182	729647	No
+baeS	Signal transduction histidine kinase	boryong_04325	729652	730159	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	boryong_04330	730200	730788	No
+NA	transposase	boryong_04335	730909	731836	No
+NA	Conjugal transfer protein TraD	boryong_04340	731914	732178	Yes
+NA	hypothetical protein	boryong_04345	732122	732308	Yes
+NA	reverse transcriptase domain-containing protein	boryong_04350	732515	733709	Yes
+NA	hypothetical protein	boryong_04355	733893	734046	Yes
+NA	hypothetical protein	boryong_04360	734073	734208	Yes
+NA	Tetratricopeptide and ankyrin rep with 1 trp repeats	boryong_04365	734394	737169	Yes
+NA	IS630 family transposase	boryong_04370	737907	738147	Yes
+NA	DDE superendonuclease family protein	boryong_04375	738327	738702	Yes
+NA	Transposase	boryong_04380	738753	739152	Yes
+trpS	tryptophan--tRNA ligase	boryong_04385	739628	740636	No
+NA	reverse transcriptase domain-containing protein	boryong_04390	741176	742421	Yes
+NA	hypothetical protein	boryong_04395	742553	742706	Yes
+ppdK	pyruvate, phosphate dikinase	boryong_04400	743708	746414	No
+NA	DDE superendonuclease family protein	boryong_04405	746921	747359	No
+NA	DDE superendonuclease family protein	boryong_04410	747370	747745	No
+vut1	queuosine precursor transporter	boryong_04415	748149	748824	Yes
+NA	Transposase	boryong_04420	748941	749133	No
+NA	Ankyrin	boryong_04425	749289	749400	Yes
+atpB	ATP synthase subunit A	boryong_04430	750180	750909	No
+atpE	ATP synthase subunit C	boryong_04435	750964	751189	No
+atpF	ATP synthase subunit B	boryong_04440	751196	751694	No
+atpF	FoF1-type ATP synthase, membrane subunit b or b'	boryong_04445	751848	752172	No
+NA	DDE superendonuclease family protein	boryong_04450	752901	753135	No
+NA	Transposase	boryong_04455	753223	753370	No
+NA	DDE superendonuclease family protein	boryong_04460	753329	753704	Yes
+NA	DDE superendonuclease family protein	boryong_04465	753715	754153	Yes
+NA	IS5 family transposase ISOt6	boryong_04470	754261	754636	No
+ftsK	DNA translocase FtsK	boryong_04475	754917	757206	Yes
+NA	DUF2672 domain-containing protein	boryong_04480	757296	757668	Yes
+ettA	energy-dependent translational throttle protein EttA	boryong_04485	757700	759368	Yes
+NA	hypothetical protein	boryong_04490	759508	760342	Yes
+NA	transposase	boryong_04495	760728	760923	Yes
+NA	Transposase	boryong_04500	760988	761315	Yes
+NA	Transposase	boryong_04505	761672	761894	Yes
+ffh	signal recognition particle protein	boryong_04510	762806	764159	No
+cutA	divalent-cation tolerance protein CutA	boryong_04515	764214	764571	No
+NA	hypothetical protein	boryong_04520	764586	764697	Yes
+NA	hypothetical protein	boryong_04525	765323	766154	No
+gmk	guanylate kinase	boryong_04530	766360	767026	No
+NA	hypothetical protein	boryong_04535	767159	767534	No
+NA	cell surface protein	boryong_04540	767524	769804	No
+NA	Putative transposase	boryong_04545	770122	770230	No
+NA	hypothetical protein	boryong_04550	770476	772030	No
+NA	Replicative DNA helicase	boryong_04555	772107	772239	No
+NA	(P)pGpp hydrolase	boryong_04560	772475	772628	No
+NA	Arm DNA-binding domain-containing protein	boryong_04565	773015	773285	No
+NA	DDE superendonuclease family protein	boryong_04570	773292	773787	No
+NA	DDE superendonuclease family protein	boryong_04575	773740	774115	No
+NA	Rpn family recombination-promoting nuclease/putative transposase	boryong_04580	774074	774257	Yes
+NA	Conjugal transfer protein TraI	boryong_04585	774241	774793	Yes
+NA	toprim domain-containing protein	boryong_04590	775014	775377	Yes
+NA	Putative conjugal transfer protein TraA	boryong_04595	775363	776041	Yes
+NA	Conjugal transfer protein TraA	boryong_04600	776222	777419	Yes
+NA	AAA domain protein	boryong_04605	777403	778498	Yes
+NA	hypothetical protein	boryong_04610	778490	778706	Yes
+traD	conjugal transfer protein TraD	boryong_04615	779054	779453	No
+NA	hypothetical protein	boryong_04620	779540	780119	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	boryong_04625	780196	780772	Yes
+NA	DNA helicase	boryong_04630	781006	781759	Yes
+dnaB	Replicative DNA helicase	boryong_04635	781946	782390	Yes
+NA	DnaA-N domain-containing protein	boryong_04640	782465	782726	Yes
+NA	hypothetical protein	boryong_04645	782722	783124	Yes
+NA	hypothetical protein	boryong_04650	783480	784005	Yes
+NA	reverse transcriptase	boryong_04655	784107	784326	Yes
+NA	DDE superendonuclease family protein	boryong_04660	784400	784775	Yes
+NA	DDE superendonuclease family protein	boryong_04665	784786	785224	Yes
+NA	hypothetical protein	boryong_04670	785412	785565	Yes
+glpE	Thiosulfate sulfurtransferase GlpE	boryong_04675	785939	786689	Yes
+tim44	transporter	boryong_04680	786801	787437	Yes
+NA	hypothetical protein	boryong_04685	787529	787733	No
+NA	transposase	boryong_04690	787737	788052	Yes
+NA	DDE superendonuclease family protein	boryong_04695	788014	788251	Yes
+NA	Transposase family protein	boryong_04700	788204	788582	Yes
+midA	SAM-dependent methyltransferase, MidA family	boryong_04705	789695	790850	Yes
+NA	hypothetical protein	boryong_04710	791441	791564	No
+NA	hypothetical protein	boryong_04715	791717	791879	No
+NA	hypothetical protein	boryong_04720	791981	792134	No
+NA	hypothetical protein	boryong_04725	793440	794007	No
+NA	DnaA N-terminal domain protein	boryong_04730	794048	795155	No
+NA	Ankyrin repeat protein with 1 ankyrin repeats	boryong_04735	795885	798006	No
+dam	DNA methyltransferase	boryong_04740	798295	799102	Yes
+NA	Putative signal transduction histidine kinase	boryong_04745	799819	800074	No
+NA	Putative signal transduction histidine kinase	boryong_04750	800150	801422	No
+NA	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	boryong_04755	801555	802125	No
+NA	hypothetical protein	boryong_04760	802148	802661	Yes
+NA	hypothetical protein	boryong_04765	802813	803089	Yes
+NA	Conjugal transfer TraD family protein	boryong_04770	803349	803541	Yes
+NA	hypothetical protein	boryong_04775	803598	803799	Yes
+NA	MobA/MobL family protein	boryong_04780	803872	804355	No
+NA	Conjugal transfer protein TraA	boryong_04785	804372	805185	No
+NA	Conjugal transfer protein TraA	boryong_04790	805169	806366	No
+NA	Putative conjugal transfer protein TraA	boryong_04795	806547	807225	No
+NA	toprim domain-containing protein	boryong_04800	807211	807574	No
+NA	Conjugal transfer protein TraI	boryong_04805	807795	808347	No
+NA	Rpn family recombination-promoting nuclease/putative transposase	boryong_04810	808331	808799	No
+NA	Putative transposase	boryong_04815	808788	809268	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	boryong_04820	809269	810412	Yes
+NA	Conjugal transfer protein TraH	boryong_04825	810539	811163	Yes
+NA	Conjugal transfer protein TraH	boryong_04830	811138	811840	Yes
+NA	Conjugal transfer protein	boryong_04835	811836	812283	Yes
+NA	hypothetical protein	boryong_04840	812342	812528	Yes
+NA	Conjugative transfer protein	boryong_04845	812548	813175	Yes
+NA	conjugal transfer protein TraN	boryong_04850	813231	813408	Yes
+NA	Conjugal transfer protein TraN	boryong_04855	813482	814253	Yes
+NA	Type-F conjugative transfer system pilin assembly family protein	boryong_04860	814236	814518	Yes
+NA	Conjugal transfer protein	boryong_04865	814637	815321	Yes
+NA	conjugal transfer protein	boryong_04870	815513	815804	Yes
+NA	Conjugal transfer protein	boryong_04875	815803	816268	Yes
+NA	hypothetical protein	boryong_04880	816379	816781	Yes
+traE	conjugal transfer protein TraE	boryong_04885	816777	817254	Yes
+traL	conjugal transfer protein traL, complete TraL	boryong_04890	817328	817664	Yes
+NA	Phage-related integrase, complete integrase	boryong_04895	817789	819028	Yes
+NA	hypothetical protein	boryong_04900	819158	819359	Yes
+putP	sodium:proline symporter	boryong_04905	819657	823095	Yes
+icd	isocitrate dehydrogenase	boryong_04915	823733	825293	Yes
+hemC	hydroxymethylbilane synthase	boryong_04920	825466	826363	No
+proP	proline/betaine transporter	boryong_04925	826663	827884	No
+NA	DDE superendonuclease family protein	boryong_04930	828845	829283	No
+NA	DDE superendonuclease family protein	boryong_04935	829294	829669	No
+NA	hypothetical protein	boryong_04940	829655	829907	No
+ykfC	reverse transcriptase	boryong_04945	829942	830770	No
+NA	hypothetical protein	boryong_04950	830977	831085	No
+NA	FAST kinase-like, subdomain 1 family protein	boryong_04955	831864	832146	No
+NA	RNA-binding protein	boryong_04960	832138	833761	No
+NA	hypothetical protein	boryong_04965	834315	836184	No
+tdcB	threonine dehydratase	boryong_04970	836750	837764	Yes
+ycbZ	endopeptidase La	boryong_04975	837880	840241	No
+hda	DnaA regulatory inactivator Hda	boryong_04980	840317	840968	Yes
+purF	amidophosphoribosyltransferase	boryong_04985	841097	841844	Yes
+miaA	tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA	boryong_04990	841827	842865	Yes
+rnhB	ribonuclease HII	boryong_04995	842935	843553	No
+NA	DUF2312 domain-containing protein	boryong_05000	844115	844367	No
+NA	Arm DNA-binding domain-containing protein	boryong_05005	844843	845284	No
+NA	hypothetical protein	boryong_05010	845275	845383	Yes
+NA	reverse transcriptase domain-containing protein	boryong_05015	845590	846613	Yes
+NA	Transposase	boryong_05020	846640	847036	No
+scaB	ScaB autotransporter protein	boryong_05025	847164	849114	Yes
+NA	IS630 transposase-related protein	boryong_05030	849647	849854	Yes
+NA	Transposase	boryong_05035	850852	851155	No
+NA	DDE superendonuclease family protein	boryong_05040	851114	851489	Yes
+NA	DDE superendonuclease family protein	boryong_05045	851442	851937	Yes
+NA	Ankyrin repeat protein with 1 ankyrin repeats	boryong_05050	852261	854418	Yes
+NA	hypothetical protein	boryong_05055	855012	855150	Yes
+NA	hypothetical protein	boryong_05060	855154	855556	Yes
+NA	hypothetical protein	boryong_05065	855559	855970	Yes
+NA	hypothetical protein	boryong_05070	855962	856250	Yes
+NA	hypothetical protein	boryong_05075	856323	856866	Yes
+NA	Putative permease	boryong_05080	857140	857764	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	boryong_05085	857765	858908	Yes
+NA	Conjugal transfer protein TraH	boryong_05090	859035	859659	Yes
+NA	Conjugal transfer protein TraH	boryong_05095	859634	860336	Yes
+NA	Conjugal transfer protein	boryong_05100	860332	860779	Yes
+NA	hypothetical protein	boryong_05105	860845	861022	Yes
+traN	conjugal transfer protein TraN, complete TraN	boryong_05110	861042	862743	Yes
+NA	Type-F conjugative transfer system pilin assembly family protein	boryong_05115	862726	863008	Yes
+NA	Conjugal transfer protein	boryong_05120	863127	863811	Yes
+NA	conjugal transfer protein	boryong_05125	864003	864294	Yes
+NA	Conjugal transfer protein	boryong_05130	864293	864758	Yes
+NA	hypothetical protein	boryong_05135	864869	865271	Yes
+traE	conjugal transfer protein TraE, complete TraE	boryong_05140	865267	865819	Yes
+traL	conjugal transfer protein traL, complete TraL	boryong_05145	865818	866154	Yes
+NA	site-specific integrase	boryong_05150	866245	866920	Yes
+NA	Integrase	boryong_05155	866871	867117	Yes
+NA	Putative integrase	boryong_05160	867381	867534	Yes
+rpnC	Recombination-promoting DNA endonuclease RpnC/YadD	boryong_05165	867989	868163	Yes
+NA	Conjugal transfer protein TraI	boryong_05170	868331	868625	Yes
+NA	Conjugal transfer protein TraI	boryong_05175	868596	869778	Yes
+NA	hypothetical protein	boryong_05180	869774	869927	Yes
+NA	Repeat-containing protein E_01	boryong_05185	870118	870775	Yes
+NA	Conjugal transfer protein TraA	boryong_05190	870918	872469	Yes
+NA	AAA domain protein	boryong_05195	872453	873548	Yes
+NA	hypothetical protein	boryong_05200	873540	873756	Yes
+traD	conjugal transfer protein TraD	boryong_05205	874104	874503	No
+NA	hypothetical protein	boryong_05210	874576	875512	Yes
+NA	(P)ppGpp synthetase	boryong_05215	876122	876455	Yes
+NA	ATP-binding protein	boryong_05220	876812	877349	Yes
+kdpD	K+-sensing histidine kinase KdpD	boryong_05225	877371	877989	Yes
+NA	Putative signal transduction histidine kinase	boryong_05230	878053	878743	Yes
+NA	ATP-binding protein	boryong_05235	878839	879112	Yes
+NA	DNA adenine methylase	boryong_05240	879478	879682	No
+NA	Site-specific DNA-methyltransferase (adenine-specific)	boryong_05245	879674	880280	No
+NA	Putative ompA-like autotransporter	boryong_05250	880283	880814	Yes
+NA	hypothetical protein	boryong_05255	880987	881551	Yes
+NA	IS5 family transposase ISOt6	boryong_05260	881839	881962	No
+raiA	Ribosome-associated translation inhibitor RaiA	boryong_05265	882854	883205	Yes
+baeS	Signal transduction histidine kinase	boryong_05270	883450	884998	No
+NA	hypothetical protein	boryong_05275	885398	885596	No
+dnaB	replicative DNA helicase	boryong_05280	886019	887483	No
+NA	hypothetical protein	boryong_05285	887838	887994	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	boryong_05290	887971	889144	Yes
+NA	DDE superendonuclease family protein	boryong_05295	889819	890194	Yes
+NA	DDE superendonuclease family protein	boryong_05300	890147	890642	Yes
+groES	Co-chaperonin GroES	boryong_05305	890986	891271	No
+groEL	molecular chaperone GroEL	boryong_05310	891343	893008	No
+NA	hypothetical protein	boryong_05315	894009	894285	No
+acpS	holo-ACP synthase	boryong_05320	894158	894554	Yes
+spoT	bifunctional (p)ppGpp synthase/hydrolase SpoT	boryong_05325	894564	896700	Yes
+rpoZ	DNA-directed RNA polymerase subunit omega	boryong_05330	896717	897104	Yes
+yccA	modulator of FtsH protease YccA	boryong_05335	897470	898211	No
+NA	hypothetical protein	boryong_05340	898384	898714	No
+nrfF	Cytochrome C biogenesis protein	boryong_05345	898736	899114	No
+obgE	GTPase ObgE	boryong_05350	899130	900123	No
+tatA	twin-arginine translocase TatA/TatE family subunit	boryong_05355	900643	900802	No
+NA	hypothetical protein	boryong_05360	901226	901751	Yes
+NA	integrase	boryong_05365	903834	904044	No
+tnp-IS110	IS110 family transposase	boryong_05370	904059	905022	Yes
+NA	Conjugal transfer protein TraH	boryong_05375	905593	906049	Yes
+NA	Conjugal transfer protein TraH	boryong_05380	906094	906688	Yes
+NA	Conjugal transfer protein	boryong_05385	906684	907167	Yes
+NA	Conjugal transfer protein	boryong_05390	907147	907267	Yes
+NA	Ankyrin repeat protein with 6 ankyrin repeats	boryong_05395	907471	908653	Yes
+NA	Conjugative transfer protein	boryong_05400	908798	909446	Yes
+NA	Conjugal transfer protein TraN	boryong_05405	909753	910524	Yes
+NA	Type-F conjugative transfer system pilin assembly family protein	boryong_05410	910507	910789	Yes
+NA	Conjugal transfer protein	boryong_05415	910908	911592	Yes
+NA	conjugal transfer protein	boryong_05420	911784	912075	Yes
+NA	Conjugal transfer protein	boryong_05425	912074	912539	Yes
+NA	hypothetical protein	boryong_05430	912650	913052	Yes
+traE	conjugal transfer protein TraE, complete TraE	boryong_05435	913048	913600	Yes
+traL	conjugal transfer protein traL, complete TraL	boryong_05440	913599	913935	Yes
+NA	Phage-related integrase, complete integrase	boryong_05445	914060	915299	Yes
+NA	hypothetical protein	boryong_05450	915429	915630	Yes
+tsaB	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB	boryong_05455	916175	916877	Yes
+suhB	extragenic suppressor protein SuhB	boryong_05460	916896	917682	Yes
+efp	elongation factor P	boryong_05465	917678	918248	Yes
+clpX	ATP-dependent Clp protease ATP-binding subunit ClpX	boryong_05470	918453	919707	No
+proS	proline--tRNA ligase	boryong_05475	919834	921136	Yes
+NA	hypothetical protein	boryong_05480	921149	921443	Yes
+pgk	phosphoglycerate kinase	boryong_05485	921466	922678	Yes
+gapA	type I glyceraldehyde-3-phosphate dehydrogenase	boryong_05490	922759	923776	Yes
+virB4-2	virB4 protein precursor	boryong_05495	924050	926504	No
+NA	Hormone receptor domain-containing protein	boryong_05500	926503	931030	No
+NA	hypothetical protein	boryong_05505	932870	933011	Yes
+ykfC	reverse transcriptase	boryong_05510	933218	934328	Yes
+NA	hypothetical protein	boryong_05515	934493	935027	No
+NA	DnaA N-terminal domain protein	boryong_05520	935100	936195	No
+NA	Ankyrin repeat protein with 5 ankyrin repeats	boryong_05525	936435	937311	No
+NA	Site-specific DNA-methyltransferase (adenine-specific)	boryong_05530	937371	937683	Yes
+NA	Site-specific DNA-methyltransferase (adenine-specific)	boryong_05535	937738	938173	Yes
+NA	Putative signal transduction histidine kinase	boryong_05540	938524	940126	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	boryong_05545	940226	940802	No
+NA	hypothetical protein	boryong_05550	940879	941458	Yes
+traD	conjugal transfer protein TraD	boryong_05555	941545	941944	Yes
+NA	hypothetical protein	boryong_05560	942292	942508	No
+NA	AAA domain protein	boryong_05565	942500	943595	No
+NA	AAA domain protein	boryong_05570	943579	944242	No
+NA	IS5 family transposase ISOt6	boryong_05575	944259	944634	Yes
+NA	DDE superendonuclease family protein	boryong_05580	944587	945082	Yes
+NA	toprim domain-containing protein	boryong_05585	945256	946039	No
+NA	Putative conjugative transfer protein TraI	boryong_05590	946685	947258	No
+NA	hypothetical protein	boryong_05595	947436	947583	No
+NA	hypothetical protein	boryong_05600	947705	948239	Yes
+NA	Conjugal transfer protein TraI	boryong_05605	948444	949515	No
+rpnC	Recombination-promoting DNA endonuclease RpnC/YadD	boryong_05610	949565	949739	No
+NA	Putative permease	boryong_05615	949854	950478	No
+NA	Conjugal transfer protein	boryong_05620	950479	950689	Yes
+NA	Transposase	boryong_05625	950870	951269	No
+NA	DDE superendonuclease family protein	boryong_05630	951320	951695	No
+NA	type IV secretion system DNA-binding domain-containing protein	boryong_05635	951654	951888	Yes
+NA	Transposase family protein	boryong_05640	952192	952375	No
+NA	hypothetical protein	boryong_05645	953038	953566	No
+NA	hypothetical protein	boryong_05650	953958	954174	No
+NA	DnaA-N domain-containing protein	boryong_05655	954170	954689	No
+NA	Replicative DNA helicase	boryong_05660	954713	954809	No
+dnaB	Replicative DNA helicase	boryong_05665	954825	955068	No
+NA	hypothetical protein	boryong_05670	955174	955570	No
+NA	hypothetical protein	boryong_05675	956111	956657	No
+NA	hypothetical protein	boryong_05680	956649	963549	No
+NA	Conjugal transfer protein	boryong_05685	964504	965257	Yes
+traG	conjugal transfer protein TraG	boryong_05690	965262	966645	Yes
+NA	Conjugal transfer protein TraH	boryong_05695	966957	967581	Yes
+NA	Conjugal transfer protein TraH	boryong_05700	967556	968258	Yes
+NA	Conjugal transfer protein	boryong_05705	968254	968701	Yes
+NA	hypothetical protein	boryong_05710	968767	968944	Yes
+NA	Conjugative transfer protein	boryong_05715	968964	969591	Yes
+NA	Putative conjugative transfer protein TraN	boryong_05720	969856	970666	Yes
+NA	Type-F conjugative transfer system pilin assembly family protein	boryong_05725	970649	970931	Yes
+NA	Conjugal transfer protein	boryong_05730	971050	971734	Yes
+NA	conjugal transfer protein	boryong_05735	971926	972217	Yes
+NA	Conjugal transfer protein	boryong_05740	972216	972681	Yes
+NA	hypothetical protein	boryong_05745	972792	973194	Yes
+traE	conjugal transfer protein TraE, complete TraE	boryong_05750	973190	973742	Yes
+traL	conjugal transfer protein traL, complete TraL	boryong_05755	973741	974077	Yes
+NA	site-specific integrase	boryong_05760	974168	974843	Yes
+NA	Integrase	boryong_05765	974794	975040	Yes
+NA	Putative integrase	boryong_05770	975304	975457	Yes
+NA	hypothetical protein	boryong_05775	976090	976243	Yes
+NA	DDE Tnp4 domain-containing protein	boryong_05780	976370	976751	Yes
+NA	Putative transposase	boryong_05785	976770	976947	Yes
+NA	DDE superendonuclease family protein	boryong_05790	976946	977144	Yes
+mdlB	ATP-binding protein	boryong_05795	977496	979233	Yes
+cyaY	iron donor protein CyaY	boryong_05800	979216	979549	Yes
+NA	hypothetical protein	boryong_05805	979839	980007	No
+NA	C48 family peptidase	boryong_05810	980452	984568	No
+NA	hypothetical protein	boryong_05815	984777	985191	No
+NA	hypothetical protein	boryong_05820	985285	985507	No
+NA	DnaA-N domain-containing protein	boryong_05825	985554	986307	No
+NA	Replicative DNA helicase	boryong_05830	986344	986440	No
+NA	DNA helicase	boryong_05835	986426	986627	No
+NA	DnaB-like helicase C terminal domain protein	boryong_05840	987030	987492	No
+NA	hypothetical protein	boryong_05845	987456	987960	Yes
+NA	hypothetical protein	boryong_05850	990099	990489	Yes
+NA	hypothetical protein	boryong_05855	990819	990984	Yes
+ykfC	Retron-type reverse transcriptase	boryong_05860	991449	992616	Yes
+NA	hypothetical protein	boryong_05865	992800	992953	Yes
+NA	hypothetical protein	boryong_05870	992980	993181	Yes
+hemJ	Uncharacterised protein family (UPF0093)	boryong_05875	993558	993993	Yes
+hemH	ferrochelatase	boryong_05880	994001	995036	Yes
+hemE	uroporphyrinogen decarboxylase	boryong_05885	995028	996057	Yes
+rho	transcription termination factor Rho	boryong_05890	997543	999049	No
+NA	hypothetical protein	boryong_05895	999790	999979	No
+NA	hypothetical protein	boryong_05900	1000068	1000179	No
+NA	DDE superendonuclease family protein	boryong_05905	1000814	1001252	Yes
+NA	hypothetical protein	boryong_05910	1001544	1002828	No
+mnmG	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG	boryong_05915	1003488	1005357	No
+tmk	thymidylate kinase	boryong_05920	1005496	1006150	Yes
+zapE	cell division protein ZapE	boryong_05925	1006142	1007216	Yes
+NA	hypothetical protein	boryong_05930	1007286	1007970	Yes
+der	ribosome biogenesis GTPase Der	boryong_05935	1007978	1009343	Yes
+polA	DNA polymerase I	boryong_05940	1009403	1012136	Yes
+panF	sodium:pantothenate symporter	boryong_05945	1012520	1013960	Yes
+NA	IS5 family transposase ISOt6	boryong_05950	1014639	1015014	Yes
+NA	DDE superendonuclease family protein	boryong_05955	1015025	1015463	Yes
+dsbG	protein-disulfide isomerase	boryong_05960	1015689	1016520	No
+NA	IS630 transposase-related protein	boryong_05965	1017029	1017488	No
+NA	hypothetical protein	boryong_05970	1017489	1017654	No
+NA	Transposase	boryong_05975	1018355	1018865	No
+NA	DDE superendonuclease family protein	boryong_05980	1018882	1019215	Yes
+NA	Transposase	boryong_05985	1019226	1019664	Yes
+NA	Transposase	boryong_05990	1019824	1020133	No
+secF	protein translocase subunit SecF	boryong_05995	1020493	1021420	Yes
+mutS	DNA mismatch repair protein MutS	boryong_06000	1021503	1024173	Yes
+tlc	ATP/ADP translocase	boryong_06005	1024225	1025758	Yes
+rsmI	16S rRNA (cytidine(1402)-2'-O)-methyltransferase	boryong_06015	1026122	1026980	No
+serS	serine--tRNA ligase	boryong_06020	1026981	1028271	Yes
+tatC	twin-arginine translocase subunit TatC	boryong_06025	1028248	1029007	Yes
+NA	hypothetical protein	boryong_06030	1028996	1029131	Yes
+rsmG	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG	boryong_06035	1029161	1029758	No
+parA	chromosome partitioning protein ParA	boryong_06040	1029764	1030562	No
+spo0J	chromosome partitioning protein	boryong_06045	1030573	1031455	No
+NA	Tnp-DDE-dom domain-containing protein	boryong_06050	1031865	1032249	No
+NA	IS5 family transposase ISOt6	boryong_06055	1032277	1032457	No
+NA	Transposase	boryong_06060	1032600	1032780	No
+NA	DDE superendonuclease family protein	boryong_06065	1032733	1032970	No
+NA	Transposase	boryong_06070	1033000	1033108	No
+ykfC	reverse transcriptase	boryong_06075	1033259	1033355	No
+NA	hypothetical protein	boryong_06080	1033372	1033480	No
+NA	NADH dehydrogenase ubiquinone Fe-S protein 4	boryong_06085	1033624	1033906	Yes
+xseB	exodeoxyribonuclease VII small subunit	boryong_06090	1033959	1034199	No
+NA	hypothetical protein	boryong_06095	1034309	1034405	Yes
+NA	DDE superendonuclease family protein	boryong_06100	1035079	1035517	No
+NA	DDE superendonuclease family protein	boryong_06105	1035528	1035903	No
+NA	Transposase DDE domain protein	boryong_06110	1036199	1036646	Yes
+NA	hypothetical protein	boryong_06115	1036967	1038692	No
+NA	ankyrin	boryong_06120	1038913	1039786	No
+NA	Putative ompA-like autotransporter	boryong_06125	1039885	1040383	No
+NA	IS630 family transposase	boryong_06130	1040606	1040879	No
+NA	DDE superendonuclease family protein	boryong_06135	1040973	1041312	No
+NA	Transposase	boryong_06140	1042425	1042653	No
+NA	DDE superendonuclease family protein	boryong_06145	1042664	1043039	No
+NA	hypothetical protein	boryong_06150	1043522	1045349	Yes
+NA	IS5 family transposase ISOt6	boryong_06155	1045806	1045920	No
+NA	DDE superendonuclease family protein	boryong_06160	1045988	1046309	No
+NA	DDE Tnp4 domain-containing protein	boryong_06165	1046292	1046463	No
+NA	hypothetical protein	boryong_06170	1046483	1046720	No
+NA	toprim domain-containing protein	boryong_06175	1046695	1047793	No
+NA	Rpn family recombination-promoting nuclease/putative transposase	boryong_06180	1047777	1048257	No
+NA	hypothetical protein	boryong_06185	1048222	1048870	Yes
+NA	Conjugal transfer protein TraC	boryong_06190	1049243	1049474	Yes
+NA	conjugal transfer protein	boryong_06195	1049454	1049748	Yes
+NA	Conjugative pilus assembly protein	boryong_06200	1049761	1050232	Yes
+NA	Reverse transcriptase	boryong_06205	1050647	1051220	No
+NA	Reverse transcriptase family protein	boryong_06210	1051265	1051814	No
+tnp-IS630	IS630 family transposase	boryong_06215	1052148	1053015	No
+dam	DNA methyltransferase	boryong_06220	1053120	1053924	Yes
+NA	hypothetical protein	boryong_06225	1054399	1055116	No
+baeS	sensor histidine kinase	boryong_06230	1055467	1056211	No
+baeS	sensor histidine kinase	boryong_06235	1056218	1057076	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	boryong_06240	1057176	1057752	No
+NA	hypothetical protein	boryong_06245	1057788	1058322	Yes
+traD	conjugal transfer protein TraD, complete TraD	boryong_06250	1058415	1058871	Yes
+NA	hypothetical protein	boryong_06255	1058872	1059073	Yes
+NA	Conjugal transfer protein TraA	boryong_06260	1059146	1060727	No
+NA	Conjugal transfer protein TraA	boryong_06265	1060761	1061634	No
+NA	toprim domain-containing protein	boryong_06270	1061815	1063618	No
+NA	transposase	boryong_06275	1063668	1064580	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	boryong_06280	1064581	1065856	Yes
+NA	Conjugal transfer protein	boryong_06285	1065830	1066337	Yes
+NA	Tetratricopeptide repeat protein with 5 trp repeats	boryong_06290	1066336	1067059	Yes
+traG	conjugal transfer protein TraG	boryong_06295	1067235	1068666	Yes
+NA	Conjugal transfer protein TraH	boryong_06300	1068978	1069602	Yes
+NA	Conjugal transfer protein TraH	boryong_06305	1069577	1070279	Yes
+NA	Conjugal transfer protein	boryong_06310	1070275	1070722	Yes
+NA	hypothetical protein	boryong_06315	1070788	1070965	Yes
+traN	conjugal transfer protein TraN, complete TraN	boryong_06320	1070985	1072686	Yes
+NA	Type-F conjugative transfer system pilin assembly family protein	boryong_06325	1072669	1072951	Yes
+NA	Conjugal transfer protein	boryong_06330	1073070	1073754	Yes
+NA	conjugal transfer protein	boryong_06335	1073946	1074237	Yes
+NA	Conjugal transfer protein	boryong_06340	1074236	1074701	Yes
+NA	hypothetical protein	boryong_06345	1074812	1075214	Yes
+traE	conjugal transfer protein TraE, complete TraE	boryong_06350	1075210	1075762	Yes
+traL	conjugal transfer protein traL, complete TraL	boryong_06355	1075761	1076097	Yes
+NA	site-specific integrase	boryong_06360	1076188	1077058	Yes
+NA	Putative integrase	boryong_06365	1077322	1077475	Yes
+NA	hypothetical protein	boryong_06370	1078512	1078917	No
+NA	hypothetical protein	boryong_06375	1079221	1080373	No
+NA	Transposase DDE domain protein	boryong_06380	1080615	1080843	Yes
+NA	hypothetical protein	boryong_06385	1080839	1081013	Yes
+NA	Reverse transcriptase family protein	boryong_06390	1081464	1082064	No
+fdx	(2Fe-2S) ferredoxin	boryong_06395	1082855	1083200	Yes
+hscA	molecular chaperone HscA	boryong_06400	1083216	1085067	Yes
+hscB	co-chaperone HscB	boryong_06405	1085053	1085557	Yes
+iscA	iron-sulfur cluster assembly accessory protein	boryong_06410	1085568	1085943	Yes
+iscU	Fe-S cluster assembly scaffold IscU	boryong_06415	1085955	1086381	Yes
+sufS	cysteine desulfurase	boryong_06420	1086422	1087694	Yes
+nifS	aminotransferase class V-fold PLP-dependent enzyme	boryong_06425	1087708	1089004	Yes
+iscR	[Fe-S]-binding protein	boryong_06430	1089004	1089418	Yes
+NA	alpha/beta hydrolase	boryong_06435	1089655	1090357	No
+ftsA	cell division protein FtsA	boryong_06445	1090650	1091898	No
+NA	hypothetical protein	boryong_06450	1091876	1093178	No
+bcsA	glycosyl transferase	boryong_06455	1093162	1094914	No
+NA	hypothetical protein	boryong_06460	1094955	1095120	No
+NA	DDE superendonuclease family protein	boryong_06465	1096065	1096224	No
+NA	hypothetical protein	boryong_06470	1096515	1096626	Yes
+NA	hypothetical protein	boryong_06475	1096792	1097053	No
+NA	DNA helicase	boryong_06480	1097334	1097628	No
+NA	Replicative DNA helicase	boryong_06485	1097723	1098401	No
+NA	site-specific integrase	boryong_06490	1098609	1099614	Yes
+NA	hypothetical protein	boryong_06495	1100185	1100575	Yes
+rpoD	RNA polymerase sigma factor RpoD	boryong_06500	1100844	1102689	Yes
+dnaG	DNA primase	boryong_06505	1102672	1104448	Yes
+dprA	DNA-processing protein DprA	boryong_06510	1105367	1106528	Yes
+ahpC	alkyl hydroperoxide reductase	boryong_06515	1106568	1107171	Yes
+NA	hypothetical protein	boryong_06520	1107945	1108098	No
+NA	reverse transcriptase domain-containing protein	boryong_06525	1108283	1109450	No
+NA	hypothetical protein	boryong_06530	1109657	1109765	No
+ykfC	reverse transcriptase	boryong_06540	1113359	1114526	No
+NA	hypothetical protein	boryong_06545	1114733	1114841	No
+NA	Ankyrin repeat protein with 8 ankyrin repeats	boryong_06550	1115279	1116767	No
+pepB	leucyl aminopeptidase	boryong_06555	1117554	1119207	No
+mipZ	ATPase MipZ family protein	boryong_06560	1119190	1120042	No
+rpsB	30S ribosomal protein S2	boryong_06565	1120316	1121243	No
+tsf	elongation factor Ts	boryong_06570	1121239	1122169	No
+pheT	phenylalanine--tRNA ligase subunit beta	boryong_06575	1122248	1124687	Yes
+pheS	phenylalanine--tRNA ligase subunit alpha	boryong_06580	1124683	1125718	Yes
+NA	hypothetical protein	boryong_06585	1127405	1127531	Yes
+NA	Phage-related integrase	boryong_06590	1128686	1129430	No
+traL	conjugal transfer protein traL, complete TraL	boryong_06595	1129555	1129891	No
+traE	conjugal transfer protein TraE, complete TraE	boryong_06600	1129890	1130442	No
+NA	hypothetical protein	boryong_06605	1130438	1130840	No
+NA	Conjugal transfer protein	boryong_06610	1130951	1131416	No
+NA	conjugal transfer protein	boryong_06615	1131415	1131706	No
+NA	Conjugal transfer protein	boryong_06620	1131898	1132582	No
+NA	Type-F conjugative transfer system pilin assembly family protein	boryong_06625	1132701	1132983	No
+NA	Conjugal transfer protein TraN	boryong_06630	1132966	1133737	No
+NA	conjugal transfer protein TraN	boryong_06635	1133811	1134018	No
+NA	ankyrin repeat domain-containing protein	boryong_06640	1134049	1135396	No
+NA	hypothetical protein	boryong_06645	1135389	1135866	No
+NA	hypothetical protein	boryong_06650	1135859	1136192	No
+NA	hypothetical protein	boryong_06655	1136170	1136356	No
+NA	Conjugal transfer protein	boryong_06660	1136806	1137253	No
+NA	Conjugal transfer protein TraH	boryong_06665	1137249	1137936	No
+NA	Conjugal transfer protein TraH	boryong_06670	1137911	1138535	No
+traG	conjugal transfer protein TraG	boryong_06675	1138662	1139817	No
+NA	Putative conjugative transfer protein TraG	boryong_06680	1139836	1140061	No
+NA	Tetratricopeptide repeat protein with 5 trp repeats	boryong_06685	1140457	1141180	No
+NA	Conjugal transfer protein	boryong_06690	1141179	1142001	No
+tnp-IS110	IS110 family transposase	boryong_06695	1142240	1143203	No
+NA	SpoT-like ppGpp hydrolase domain protein	boryong_06700	1143329	1143548	Yes
+NA	(P)pGpp hydrolase	boryong_06705	1143599	1143905	Yes
+baeS	sensor histidine kinase	boryong_06710	1144005	1144863	Yes
+baeS	sensor histidine kinase	boryong_06715	1144867	1145614	Yes
+NA	Site-specific DNA adenine methylase	boryong_06720	1145962	1146175	No
+NA	hypothetical protein	boryong_06725	1146266	1146791	Yes
+NA	hypothetical protein	boryong_06730	1147126	1147354	No
+NA	Site-specific DNA-methyltransferase (adenine-specific)	boryong_06735	1147455	1148076	No
+NA	hypothetical protein	boryong_06740	1148092	1148614	Yes
+NA	Ankyrin repeat protein with 4 ankyrin repeats	boryong_06745	1148715	1149054	Yes
+NA	reverse transcriptase N-terminal domain-containing protein	boryong_06750	1149606	1149858	No
+ltrA	group II intron reverse transcriptase/maturase	boryong_06755	1149814	1150828	No
+NA	HNH endonuclease family protein	boryong_06760	1150828	1151320	No
+NA	Ankyrin repeat protein with 2 ankyrin repeats	boryong_06765	1151441	1151714	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	boryong_06770	1151753	1152329	Yes
+NA	Replicative DNA helicase	boryong_06775	1152556	1153345	Yes
+dnaB	Replicative DNA helicase	boryong_06780	1153495	1153939	Yes
+NA	DnaA N-terminal domain protein	boryong_06785	1154014	1154281	Yes
+NA	hypothetical protein	boryong_06790	1154277	1154679	Yes
+NA	hypothetical protein	boryong_06795	1155035	1155560	Yes
+NA	hypothetical protein	boryong_06800	1155732	1155975	No
+NA	hypothetical protein	boryong_06805	1156396	1157488	Yes
+NA	Site-specific DNA-methyltransferase (adenine-specific)	boryong_06810	1157678	1157987	Yes
+NA	Site-specific DNA-methyltransferase (adenine-specific)	boryong_06815	1158059	1158362	Yes
+baeS	sensor histidine kinase	boryong_06820	1158844	1159591	No
+baeS	sensor histidine kinase	boryong_06825	1159595	1160453	No
+NA	(P)pGpp hydrolase	boryong_06830	1160553	1160859	No
+NA	SpoT-like ppGpp hydrolase domain protein	boryong_06835	1160910	1161129	No
+tnp-IS110	IS110 family transposase	boryong_06840	1161255	1162218	Yes
+NA	Conjugal transfer protein	boryong_06845	1162457	1163279	Yes
+NA	Tetratricopeptide repeat protein with 5 trp repeats	boryong_06850	1163278	1164001	Yes
+NA	Putative conjugative transfer protein TraG	boryong_06855	1164397	1164622	Yes
+traG	conjugal transfer protein TraG	boryong_06860	1164641	1165796	Yes
+NA	Conjugal transfer protein TraH	boryong_06865	1165923	1166547	Yes
+NA	Conjugal transfer protein TraH	boryong_06870	1166522	1167209	Yes
+NA	Conjugal transfer protein	boryong_06875	1167205	1167652	Yes
+NA	Conjugal transfer protein	boryong_06880	1167718	1167961	Yes
+NA	hypothetical protein	boryong_06885	1167935	1168091	Yes
+NA	DUF4065 domain-containing protein	boryong_06890	1168112	1168502	Yes
+NA	Tetratricopeptide repeat protein with 2 trp repeats	boryong_06895	1168611	1168920	Yes
+NA	helix-turn-helix domain containing protein	boryong_06900	1169073	1169367	Yes
+NA	Ankyrin repeat protein with 6 ankyrin repeats	boryong_06905	1169666	1170698	No
+NA	DDE superendonuclease family protein	boryong_06910	1171007	1171445	No
+NA	DDE superendonuclease family protein	boryong_06915	1171456	1171831	No
+tnp-IS110	IS110 family transposase	boryong_06920	1171955	1172918	Yes
+NA	conjugal transfer protein TraN	boryong_06925	1173751	1174384	Yes
+NA	conjugal transfer protein TraN	boryong_06930	1174440	1174617	Yes
+NA	Conjugal transfer protein TraN	boryong_06935	1174691	1175462	Yes
+NA	Type-F conjugative transfer system pilin assembly family protein	boryong_06940	1175445	1175727	Yes
+NA	Conjugal transfer protein	boryong_06945	1175846	1176530	Yes
+NA	Conjugative transfer protein	boryong_06950	1176775	1177012	Yes
+NA	Conjugative pilus assembly protein	boryong_06955	1177011	1177476	Yes
+NA	hypothetical protein	boryong_06960	1177587	1177989	Yes
+traE	conjugal transfer protein TraE, complete TraE	boryong_06965	1177985	1178537	Yes
+traL	conjugal transfer protein traL, complete TraL	boryong_06970	1178536	1178872	Yes
+NA	Phage-related integrase, complete integrase	boryong_06975	1178997	1180236	Yes
+sco1	SCO family protein	boryong_06980	1180686	1181337	Yes
+NA	Transposase	boryong_06985	1182871	1183447	Yes
+putP	sodium:proline symporter	boryong_06990	1183385	1186340	Yes
+NA	hypothetical protein	boryong_06995	1186375	1186822	Yes
+dnaQ	DNA polymerase III subunit epsilon	boryong_07000	1187568	1188237	No
+cdnL	CarD family transcriptional regulator	boryong_07005	1188456	1188966	No
+tsaD	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD	boryong_07010	1188989	1190024	No
+nadK	NAD kinase	boryong_07015	1190036	1190828	No
+NA	hypothetical protein	boryong_07020	1190929	1192153	Yes
+tolR	protein TolR	boryong_07025	1192139	1192598	Yes
+tolQ	protein TolQ	boryong_07030	1192603	1193293	Yes
+hemB	porphobilinogen synthase	boryong_07035	1193456	1194470	No
+NA	hypothetical protein	boryong_07040	1194690	1194855	Yes
+NA	hypothetical protein	boryong_07045	1195180	1197637	No
+prfA	peptide chain release factor 1	boryong_07050	1197953	1198625	Yes
+lepA	elongation factor 4	boryong_07055	1199208	1201014	No
+NA	Conjugal transfer protein TraE	boryong_07060	1201832	1201952	No
+ykfC	Retron-type reverse transcriptase	boryong_07065	1202654	1203791	Yes
+NA	DDE superendonuclease family protein	boryong_07070	1204383	1204821	No
+NA	DDE superendonuclease family protein	boryong_07075	1204832	1205207	No
+NA	DDE superendonuclease family protein	boryong_07080	1205767	1206028	Yes
+tnp-IS5	IS5 family transposase	boryong_07085	1206864	1206972	Yes
+NA	DDE superendonuclease family protein	boryong_07090	1207036	1207240	Yes
+NA	DDE superendonuclease family protein	boryong_07095	1207251	1207689	Yes
+NA	peptidase	boryong_07100	1207880	1208741	Yes
+ssb	single-stranded DNA-binding protein	boryong_07105	1208819	1209287	Yes
+NA	Putative transposase	boryong_07110	1209507	1209645	No
+NA	hypothetical protein	boryong_07115	1209922	1210075	No
+ykfC	Retron-type reverse transcriptase	boryong_07120	1210259	1211426	No
+NA	ankyrin repeat domain-containing protein	boryong_07125	1211722	1212280	Yes
+NA	hypothetical protein	boryong_07130	1212368	1212506	Yes
+NA	hypothetical protein	boryong_07135	1212510	1212912	Yes
+NA	hypothetical protein	boryong_07140	1212915	1213326	Yes
+NA	hypothetical protein	boryong_07145	1213318	1213606	Yes
+NA	hypothetical protein	boryong_07150	1213679	1214222	Yes
+NA	Transposase	boryong_07155	1214687	1215080	No
+greA	transcription elongation factor GreA	boryong_07160	1215704	1216184	No
+rpoH	RNA polymerase factor sigma-32	boryong_07165	1216230	1217130	No
+NA	Transposase	boryong_07170	1217490	1217787	No
+NA	Copper(I)-binding protein	boryong_07175	1218093	1218636	Yes
+NA	hypothetical protein	boryong_07180	1218918	1219107	No
+NA	PRANC domain-containing protein	boryong_07185	1220701	1221085	Yes
+NA	ankyrin repeat domain-containing protein	boryong_07190	1221117	1221678	Yes
+NA	ankyrin repeat domain-containing protein	boryong_07195	1221692	1222094	Yes
+NA	hypothetical protein	boryong_07200	1222053	1222197	Yes
+NA	Conjugative transfer protein	boryong_07205	1222432	1222801	Yes
+NA	conjugal transfer protein, complete TraV	boryong_07210	1222781	1223111	Yes
+NA	Conjugal transfer protein	boryong_07215	1223110	1223575	Yes
+NA	hypothetical protein	boryong_07220	1223686	1224088	Yes
+traE	conjugal transfer protein TraE	boryong_07225	1224084	1224561	Yes
+traL	conjugal transfer protein traL, complete TraL	boryong_07230	1224635	1224971	Yes
+NA	Phage-related integrase, complete integrase	boryong_07235	1225096	1226335	Yes
+NA	hypothetical protein	boryong_07240	1226465	1226666	Yes
+NA	hypothetical protein	boryong_07245	1226750	1226975	Yes
+NA	DnaA-N domain-containing protein	boryong_07250	1226984	1227377	Yes
+NA	hypothetical protein	boryong_07255	1227414	1228197	Yes
+NA	hypothetical protein	boryong_07260	1228822	1229017	No
+NA	hypothetical protein	boryong_07265	1229192	1230953	Yes
+atoC	sigma-54-dependent Fis family transcriptional regulator	boryong_07270	1231060	1232530	Yes
+NA	two-component sensor histidine kinase	boryong_07275	1232670	1234257	Yes
+comEC	competence protein ComEC	boryong_07285	1234920	1236969	Yes
+NA	hypothetical protein	boryong_07290	1237128	1237878	Yes
+NA	hypothetical protein	boryong_07295	1238199	1238724	No
+NA	hypothetical protein	boryong_07300	1239080	1239482	No
+NA	DnaA N-terminal domain protein	boryong_07305	1239478	1239745	No
+dnaB	Replicative DNA helicase	boryong_07310	1239820	1240264	No
+NA	Replicative DNA helicase	boryong_07315	1240414	1241203	No
+NA	HD domain protein	boryong_07320	1241430	1241652	No
+NA	Putative ompA-like autotransporter	boryong_07325	1241727	1242231	No
+NA	Site-specific DNA-methyltransferase (adenine-specific)	boryong_07330	1242234	1242540	Yes
+NA	Site-specific DNA-methyltransferase (adenine-specific)	boryong_07335	1242612	1242867	Yes
+NA	hypothetical protein	boryong_07340	1243649	1244240	No
+NA	Putative signal transduction histidine kinase	boryong_07345	1244598	1244853	No
+NA	Putative signal transduction histidine kinase	boryong_07350	1244929	1246201	No
+NA	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	boryong_07355	1246335	1246818	No
+NA	hypothetical protein	boryong_07360	1246789	1246918	No
+NA	hypothetical protein	boryong_07365	1247088	1247238	Yes
+NA	SycD/LcrH family type III secretion system chaperone	boryong_07370	1247224	1248436	Yes
+traD	conjugal transfer protein TraD, complete TraD	boryong_07375	1248760	1249216	Yes
+NA	hypothetical protein	boryong_07380	1249217	1249418	Yes
+NA	MobA/MobL family protein	boryong_07385	1249491	1249974	No
+NA	Conjugal transfer protein TraA	boryong_07390	1249991	1250264	No
+NA	Conjugal transfer protein TraA	boryong_07395	1250344	1250812	No
+NA	Putative conjugative transfer protein TraA	boryong_07400	1250943	1251087	No
+NA	AAA family ATPase	boryong_07405	1251121	1251994	No
+NA	Putative conjugal transfer protein TraA	boryong_07410	1252175	1252853	No
+NA	toprim domain-containing protein	boryong_07415	1252839	1253202	No
+NA	Conjugal transfer protein TraI	boryong_07420	1253423	1253975	No
+NA	Rpn family recombination-promoting nuclease/putative transposase	boryong_07425	1253959	1254427	No
+NA	Putative transposase	boryong_07430	1254416	1254896	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	boryong_07435	1254897	1256040	Yes
+NA	Conjugal transfer protein TraH	boryong_07440	1256167	1256794	Yes
+NA	Conjugal transfer protein TraH	boryong_07445	1256769	1257471	Yes
+NA	Conjugal transfer protein	boryong_07450	1257467	1257914	Yes
+NA	hypothetical protein	boryong_07455	1257980	1258157	Yes
+traN	conjugal transfer protein TraN, complete TraN	boryong_07460	1258177	1259878	Yes
+NA	Type-F conjugative transfer system pilin assembly family protein	boryong_07465	1259861	1260143	Yes
+NA	Conjugal transfer protein	boryong_07470	1260262	1260946	Yes
+NA	TraU family protein	boryong_07475	1260990	1261242	Yes
+NA	hypothetical protein	boryong_07480	1261259	1261448	Yes
+traW	type-F conjugative transfer system protein TraW, complete TraW	boryong_07485	1261530	1262190	Yes
+virB4	Type IV secretory pathway, VirB4 component	boryong_07490	1262186	1263029	Yes
+NA	Conjugal transfer protein TraC	boryong_07495	1263050	1263833	Yes
+NA	Conjugal transfer protein TraC	boryong_07500	1263804	1264749	Yes
+NA	Putative membrane protein	boryong_07505	1265596	1265713	Yes
+NA	Putative conjugative transfer protein	boryong_07510	1265721	1265979	Yes
+traL	conjugal transfer protein traL, complete TraL	boryong_07515	1266053	1266389	Yes
+NA	Phage-related integrase	boryong_07520	1266514	1267258	Yes
+NA	DDE superendonuclease family protein	boryong_07525	1267427	1267922	No
+NA	DDE superendonuclease family protein	boryong_07530	1267875	1268250	No
+ykfC	Retron-type reverse transcriptase	boryong_07535	1268903	1269668	No
+NA	hypothetical protein	boryong_07540	1269875	1269983	No
+NA	Conjugal transfer protein TraH	boryong_07545	1270171	1270741	No
+tnp-IS110	IS110 family transposase	boryong_07550	1270918	1271839	No
+NA	hypothetical protein	boryong_07555	1272813	1272942	No
+NA	hypothetical protein	boryong_07560	1273098	1273650	No
+gpsA	glycerol-3-phosphate dehydrogenase (NAD(P)(+))	boryong_07570	1273902	1274895	Yes
+mtaB	tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))- methylthiotransferase MtaB	boryong_07575	1274957	1276229	Yes
+NA	Transposase	boryong_07580	1276726	1276975	No
+NA	Transposase DDE domain protein	boryong_07585	1277038	1277305	No
+NA	hypothetical protein	boryong_07590	1277573	1277684	Yes
+NA	hypothetical protein	boryong_07595	1277747	1278356	Yes
+yfdV	permease	boryong_07600	1278671	1279598	No
+mdh	malate dehydrogenase	boryong_07605	1279617	1280919	No
+NA	Conjugal transfer protein TraD	boryong_07610	1281568	1281745	No
+NA	Transposase DDE domain protein	boryong_07615	1282044	1282269	Yes
+NA	ATP-binding protein	boryong_07620	1282497	1282914	Yes
+dam	DNA methyltransferase	boryong_07625	1283280	1284090	No
+NA	Putative ompA-like autotransporter	boryong_07630	1284093	1284603	Yes
+NA	Ankyrin repeat protein with 4 ankyrin repeats	boryong_07635	1284780	1285134	Yes
+NA	Ankyrin repeat protein with 2 ankyrin repeats	boryong_07640	1285099	1285348	Yes
+NA	DDE superendonuclease family protein	boryong_07645	1285417	1285855	No
+NA	DDE superendonuclease family protein	boryong_07650	1285866	1286241	No
+NA	Putative signal transduction histidine kinase	boryong_07655	1286227	1286689	No
+NA	DDE superendonuclease family protein	boryong_07660	1286789	1287164	Yes
+NA	Transposase	boryong_07665	1287215	1287614	Yes
+NA	TPR repeat-containing protein 08	boryong_07670	1287841	1288225	Yes
+NA	tetratricopeptide repeat protein	boryong_07675	1288441	1288636	Yes
+traD	conjugal transfer protein TraD	boryong_07680	1288960	1289359	Yes
+NA	hypothetical protein	boryong_07685	1289707	1289923	No
+NA	AAA domain protein	boryong_07690	1289915	1291010	No
+NA	Conjugal transfer protein TraA	boryong_07695	1290994	1292545	No
+NA	Conjugal transfer protein TraI	boryong_07700	1293174	1293885	No
+NA	toprim domain-containing protein	boryong_07705	1293829	1295149	No
+NA	Conjugal transfer protein	boryong_07710	1295263	1295779	Yes
+NA	TPR repeat-containing protein 03	boryong_07715	1295778	1296471	Yes
+NA	hypothetical protein	boryong_07720	1296458	1296782	Yes
+NA	hypothetical protein	boryong_07725	1296848	1297025	Yes
+NA	Conjugative transfer protein	boryong_07730	1297045	1297672	Yes
+NA	Conjugal transfer protein TraN	boryong_07735	1297979	1298750	Yes
+NA	Type-F conjugative transfer system pilin assembly family protein	boryong_07740	1298733	1299015	Yes
+NA	Conjugal transfer protein	boryong_07745	1299134	1299818	Yes
+NA	conjugal transfer protein	boryong_07750	1300010	1300301	Yes
+NA	Conjugal transfer protein	boryong_07755	1300300	1300765	Yes
+NA	hypothetical protein	boryong_07760	1300876	1301278	Yes
+traE	conjugal transfer protein TraE, complete TraE	boryong_07765	1301274	1301826	Yes
+traL	conjugal transfer protein traL, complete TraL	boryong_07770	1301825	1302161	Yes
+NA	Phage-related integrase, complete integrase	boryong_07775	1302286	1303525	Yes
+NA	hypothetical protein	boryong_07780	1303655	1303856	Yes
+NA	hypothetical protein	boryong_07785	1304308	1304725	No
+NA	IS5 family transposase ISOt6	boryong_07790	1304684	1305059	Yes
+NA	DDE superendonuclease family protein	boryong_07795	1305070	1305508	Yes
+NA	RAP domain-containing protein	boryong_07800	1306422	1306713	No
+NA	IS5-like element ISOt6 family transposase	boryong_07805	1306775	1307600	No
+mreC	rod shape-determining protein MreC	boryong_07810	1307955	1308807	Yes
+mreB	rod shape-determining protein	boryong_07815	1308813	1309881	Yes
+aceF	dihydrolipoamide acetyltransferase	boryong_07820	1309981	1310212	Yes
+NA	2-oxoacid-dh domain-containing protein	boryong_07825	1310181	1310802	Yes
+ykfC	Retron-type reverse transcriptase	boryong_07830	1311081	1312248	No
+NA	hypothetical protein	boryong_07835	1312455	1312563	No
+clpP	ATP-dependent Clp protease proteolytic subunit	boryong_07840	1312936	1313557	Yes
+NA	IS5 family transposase ISOt6	boryong_07845	1314126	1314297	No
+NA	Transposase	boryong_07850	1314449	1314623	No
+NA	DDE superendonuclease family protein	boryong_07855	1314714	1315206	No
+NA	IS5 family transposase ISOt6	boryong_07860	1315159	1315534	No
+NA	Integrase	boryong_07865	1315622	1315829	Yes
+map	type I methionyl aminopeptidase	boryong_07870	1316093	1316900	Yes
+NA	hypothetical protein	boryong_07875	1319410	1319620	Yes
+NA	DDE superendonuclease family protein	boryong_07880	1319606	1319981	Yes
+NA	DDE superendonuclease family protein	boryong_07885	1319992	1320430	Yes
+NA	hypothetical protein	boryong_07890	1321592	1321730	Yes
+NA	hypothetical protein	boryong_07895	1321793	1321982	Yes
+ctrA	DNA-binding response regulator	boryong_07905	1324958	1325696	No
+rnjA	RNase J family beta-CASP ribonuclease	boryong_07910	1325831	1327568	No
+gatC	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferasesubunit C	boryong_07915	1327650	1327950	No
+gatA	glutamyl-tRNA(Gln) amidotransferase subunit A	boryong_07920	1327949	1329428	No
+gatB	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferasesubunit B	boryong_07925	1329430	1330891	No
+NA	hypothetical protein	boryong_07930	1330900	1331173	Yes
+NA	hypothetical protein	boryong_07935	1331736	1332552	Yes
+NA	hypothetical protein	boryong_07940	1332822	1333791	Yes
+NA	Reverse transcriptase	boryong_07945	1334269	1334464	No
+NA	hypothetical protein	boryong_07950	1335616	1336312	No
+NA	IS982 family transposase	boryong_07955	1336795	1337212	No
+NA	Transposase	boryong_07960	1338608	1338782	No
+NA	Transposase	boryong_07965	1338735	1338978	No
+NA	Transposase	boryong_07970	1338981	1339110	No
+NA	hypothetical protein	boryong_07975	1339445	1340840	No
+kdpD	hybrid sensor histidine kinase/response regulator	boryong_07980	1341885	1345143	No
+NA	Reverse transcriptase family protein	boryong_07985	1345413	1345962	Yes
+NA	Reverse transcriptase	boryong_07990	1346007	1346715	Yes
+NA	hypothetical protein	boryong_07995	1346899	1347052	Yes
+NA	DDE superendonuclease family protein	boryong_08000	1347303	1347741	No
+NA	IS5 family transposase ISOt6	boryong_08005	1347752	1348127	No
+NA	DDE superendonuclease family protein	boryong_08010	1348667	1348898	No
+NA	Putative transposase	boryong_08015	1349195	1349324	No
+NA	hypothetical protein	boryong_08020	1349680	1349797	No
+NA	hypothetical protein	boryong_08025	1350174	1350447	Yes
+NA	Transposase DDE domain protein	boryong_08030	1350987	1351302	No
+NA	Putative transposase	boryong_08035	1351881	1352040	Yes
+acnA	Aconitate hydratase A	boryong_08040	1352509	1353229	Yes
+NA	hypothetical protein	boryong_08045	1353254	1353356	Yes
+NA	Aconitate hydratase A	boryong_08050	1353395	1353635	Yes
+ccmA	cytochrome c biogenesis protein CcmA	boryong_08055	1353711	1354317	No
+ccmB	heme exporter protein B	boryong_08060	1354313	1354964	No
+NA	DUF2670 domain-containing protein	boryong_08065	1355117	1356257	No
+petA	ubiquinol-cytochrome c reductase iron-sulfur subunit	boryong_08070	1356368	1357034	No
+qcrB,petB	cytochrome b	boryong_08075	1357188	1358385	No
+NA	HTH cro/C1-type domain-containing protein	boryong_08080	1359936	1362366	No
+potE	Serine transporter YbeC, amino acid:H+ symporter family	boryong_08085	1362705	1363989	Yes
+NA	hypothetical protein	boryong_08090	1365057	1365294	No
+ung	uracil-DNA glycosylase	boryong_08095	1365613	1366420	Yes
+NA	hypothetical protein	boryong_08100	1366615	1366723	Yes
+ykfC	Retron-type reverse transcriptase	boryong_08105	1366970	1367699	Yes
+NA	Phage-related integrase, complete integrase	boryong_08110	1368399	1369638	No
+NA	site-specific integrase	boryong_08115	1369869	1370544	Yes
+NA	Putative integrase	boryong_08120	1370495	1370882	Yes
+NA	Putative integrase	boryong_08125	1371004	1371157	Yes
+NA	IS5 family transposase ISOt6	boryong_08130	1371934	1372027	No
+argB	acetylglutamate kinase	boryong_08135	1372233	1373175	Yes
+yihA	YihA family ribosome biogenesis GTP-binding protein	boryong_08140	1373122	1373746	Yes
+yidC	membrane protein insertase YidC	boryong_08145	1373742	1375446	Yes
+potE	amino acid permease	boryong_08155	1377192	1378611	Yes
+NA	hypothetical protein	boryong_08160	1378902	1379427	No
+gyrB	DNA gyrase subunit B	boryong_08165	1379456	1381880	Yes
+nagD	TIGR01459 family HAD-type hydrolase	boryong_08170	1381996	1382857	No
+NA	sodium:proton antiporter	boryong_08180	1383419	1383749	No
+mnhB	DUF4040 domain-containing protein	boryong_08185	1383745	1384336	No
+NA	Na(+)/H(+) antiporter subunit B	boryong_08190	1384356	1384791	No
+mnhC	cation:proton antiporter subunit C	boryong_08195	1384774	1385170	No
+hyfB	cation:proton antiporter	boryong_08200	1385162	1386653	No
+erhM	2-hydroxyacid dehydrogenase	boryong_08205	1386662	1388135	No
+NA	DDE superendonuclease family protein	boryong_08210	1389858	1390233	Yes
+NA	DDE superendonuclease family protein	boryong_08215	1390186	1390684	Yes
+NA	Transposase	boryong_08220	1390847	1391243	No
+NA	Site-specific DNA-methyltransferase (adenine-specific)	boryong_08225	1391244	1391685	No
+NA	Ankyrin repeat protein with 1 ankyrin repeats	boryong_08230	1391974	1394113	Yes
+NA	hypothetical protein	boryong_08235	1394707	1394845	Yes
+NA	hypothetical protein	boryong_08240	1394849	1395251	Yes
+NA	hypothetical protein	boryong_08245	1395254	1395665	Yes
+NA	hypothetical protein	boryong_08250	1395657	1395945	Yes
+NA	DnaA-N domain-containing protein	boryong_08255	1396273	1396561	Yes
+NA	Putative integrase	boryong_08260	1397175	1397328	No
+NA	site-specific integrase	boryong_08265	1397450	1398461	No
+traL	conjugal transfer protein traL, complete TraL	boryong_08270	1398552	1398888	No
+traE	conjugal transfer protein TraE	boryong_08275	1398887	1399358	No
+NA	Conjugal transfer protein TraE	boryong_08280	1399305	1399440	No
+NA	hypothetical protein	boryong_08285	1399436	1399838	No
+NA	Conjugal transfer protein	boryong_08290	1399949	1400414	No
+NA	conjugal transfer protein	boryong_08295	1400413	1400704	No
+NA	Conjugal transfer protein	boryong_08300	1400896	1401580	No
+NA	Type-F conjugative transfer system pilin assembly family protein	boryong_08305	1401699	1401981	No
+NA	Conjugal transfer protein TraN	boryong_08310	1401964	1402735	No
+NA	Conjugative transfer protein	boryong_08315	1403042	1403669	No
+traF	conjugal transfer protein TraF, complete TraF	boryong_08320	1403689	1404379	No
+NA	Conjugal transfer protein TraH	boryong_08325	1404375	1405077	No
+NA	Conjugal transfer protein TraH	boryong_08330	1405052	1405676	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	boryong_08335	1405803	1406946	No
+NA	transposase	boryong_08340	1406947	1407859	Yes
+NA	toprim domain-containing protein	boryong_08345	1407909	1409712	Yes
+NA	Conjugal transfer protein TraA	boryong_08350	1409893	1411090	Yes
+NA	AAA domain protein	boryong_08355	1411074	1412166	Yes
+NA	hypothetical protein	boryong_08360	1412158	1412374	Yes
+traD	conjugal transfer protein TraD	boryong_08365	1412722	1413121	No
+NA	hypothetical protein	boryong_08370	1413208	1413787	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	boryong_08375	1413864	1414440	Yes
+NA	Putative signal transduction histidine kinase	boryong_08380	1414540	1416142	Yes
+NA	hypothetical protein	boryong_08385	1417305	1419174	No
+NA	hypothetical protein	boryong_08390	1419417	1419594	Yes
+NA	Site-specific DNA-methyltransferase (adenine-specific)	boryong_08395	1420143	1420578	No
+NA	Site-specific DNA-methyltransferase (adenine-specific)	boryong_08400	1420650	1420956	No
+NA	Putative ompA-like autotransporter	boryong_08405	1420959	1421463	Yes
+NA	HD domain protein	boryong_08410	1421538	1421760	Yes
+NA	Replicative DNA helicase	boryong_08415	1421987	1422776	Yes
+dnaB	Replicative DNA helicase	boryong_08420	1422926	1423370	Yes
+NA	DnaA N-terminal domain protein	boryong_08425	1423445	1423712	Yes
+NA	hypothetical protein	boryong_08430	1423708	1424110	Yes
+NA	hypothetical protein	boryong_08435	1424466	1424754	Yes
+NA	hypothetical protein	boryong_08440	1424750	1424993	Yes
+NA	reverse transcriptase	boryong_08445	1425095	1425314	Yes
+NA	hypothetical protein	boryong_08450	1425490	1425643	Yes
+NA	Integrase	boryong_08455	1426772	1427291	Yes
+NA	Integrase	boryong_08460	1427287	1427422	Yes
+NA	Arm-DNA-bind-3 domain-containing protein	boryong_08465	1427439	1427862	Yes
+NA	Transposase	boryong_08470	1427878	1428193	No
+bamB	outer membrane protein assembly factor BamB	boryong_08475	1428461	1429814	Yes
+NA	DUF2659 domain-containing protein	boryong_08480	1429873	1430554	Yes
+NA	Transposase	boryong_08485	1430692	1430911	Yes
+NA	DDE superendonuclease family protein	boryong_08490	1430913	1431225	Yes
+NA	DDE superendonuclease family protein	boryong_08495	1431921	1432125	No
+NA	DDE superendonuclease family protein	boryong_08500	1432253	1432628	Yes
+NA	Transposase	boryong_08505	1432679	1433078	Yes
+NA	DDE superendonuclease family protein	boryong_08510	1433272	1433647	No
+NA	Conjugative transfer protein	boryong_08515	1433606	1434485	Yes
+NA	Conjugal transfer protein TraH	boryong_08520	1434612	1435236	Yes
+NA	Conjugal transfer protein TraH	boryong_08525	1435211	1435913	Yes
+NA	Conjugal transfer protein	boryong_08530	1435909	1436356	Yes
+NA	hypothetical protein	boryong_08535	1436422	1436599	Yes
+traN	conjugal transfer protein TraN, complete TraN	boryong_08540	1436619	1438320	Yes
+NA	Type-F conjugative transfer system pilin assembly family protein	boryong_08545	1438303	1438585	Yes
+NA	Conjugal transfer protein	boryong_08550	1438704	1439388	Yes
+NA	TraU family protein	boryong_08555	1439432	1439684	Yes
+NA	hypothetical protein	boryong_08560	1439701	1439890	Yes
+traW	type-F conjugative transfer system protein TraW, complete TraW	boryong_08565	1439972	1440632	Yes
+virB4	Type IV secretory pathway, VirB4 component	boryong_08570	1440628	1441471	Yes
+NA	Conjugal transfer protein TraC	boryong_08575	1441492	1442275	Yes
+NA	hypothetical protein	boryong_08580	1442246	1443185	Yes
+NA	hypothetical protein	boryong_08585	1444165	1444270	No
+ccmF	cytochrome C biogenesis protein	boryong_08590	1444618	1446505	Yes
+mgtE	magnesium transporter	boryong_08595	1446494	1447763	Yes
+NA	hypothetical protein	boryong_08600	1448696	1448840	No
+NA	hypothetical protein	boryong_08605	1448952	1449192	No
+sodB	superoxide dismutase	boryong_08610	1449291	1449933	No
+sucA	2-oxoglutarate dehydrogenase E1 component	boryong_08615	1449973	1452865	No
+sucB	dihydrolipoamide succinyltransferase	boryong_08620	1452864	1454142	No
+NA	hypothetical protein	boryong_08625	1454147	1455626	No
+NA	MFS transporter	boryong_08630	1455918	1457220	No
+yraN	Uncharacterised protein family UPF0102	boryong_08635	1457377	1457626	No
+coxC	cytochrome c oxidase subunit III	boryong_08640	1458093	1458918	Yes
+ruvB	Holliday junction branch migration DNA helicase RuvB	boryong_08645	1459099	1460077	Yes
+ruvA	Holliday junction branch migration protein RuvA	boryong_08650	1460076	1460694	Yes
+NA	hypothetical protein	boryong_08655	1460938	1463080	Yes
+araJ	MFS transporter	boryong_08660	1463463	1464663	Yes
+NA	Putative transposase	boryong_08665	1465062	1465248	No
+NA	IS630 family transposase	boryong_08670	1466017	1466263	No
+putP	sodium:proline symporter	boryong_08675	1466524	1469962	No
+NA	hypothetical protein	boryong_08680	1470260	1470461	No
+NA	Phage-related integrase, complete integrase	boryong_08685	1470591	1471830	No
+traL	conjugal transfer protein traL, complete TraL	boryong_08690	1471955	1472291	No
+traE	conjugal transfer protein TraE, complete TraE	boryong_08695	1472290	1472842	No
+NA	hypothetical protein	boryong_08700	1472838	1473240	No
+NA	Conjugal transfer protein	boryong_08705	1473351	1473816	No
+NA	conjugal transfer protein	boryong_08710	1473815	1474106	No
+NA	Conjugal transfer protein	boryong_08715	1474298	1474982	No
+NA	Type-F conjugative transfer system pilin assembly family protein	boryong_08720	1475101	1475383	No
+NA	Conjugal transfer protein TraN	boryong_08725	1475366	1476137	No
+NA	conjugal transfer protein TraN	boryong_08730	1476211	1476388	No
+NA	Conjugative transfer protein	boryong_08735	1476444	1477071	No
+NA	hypothetical protein	boryong_08740	1477091	1477277	No
+NA	Conjugal transfer protein	boryong_08745	1477336	1477783	No
+NA	Conjugal transfer protein TraH	boryong_08750	1477779	1478481	No
+NA	Conjugal transfer protein TraH	boryong_08755	1478456	1479080	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	boryong_08760	1479207	1480350	No
+NA	transposase	boryong_08765	1480351	1481263	Yes
+NA	hypothetical protein	boryong_08770	1481313	1481724	Yes
+NA	toprim domain-containing protein	boryong_08775	1481695	1482385	Yes
+NA	Ankyrin repeat protein with 8 ankyrin repeats	boryong_08780	1482595	1484236	No
+NA	Conjugal transfer protein TraA	boryong_08785	1484316	1485867	Yes
+NA	AAA domain protein	boryong_08790	1485851	1486946	Yes
+NA	hypothetical protein	boryong_08795	1486938	1487154	Yes
+traD	conjugal transfer protein TraD	boryong_08800	1487504	1487903	No
+NA	tetratricopeptide repeat protein	boryong_08805	1488227	1488422	No
+NA	TPR repeat-containing protein 08	boryong_08810	1488740	1489124	No
+NA	DDE superendonuclease family protein	boryong_08815	1489351	1489789	No
+NA	DDE superendonuclease family protein	boryong_08820	1489800	1490004	No
+lplB	lipoate-protein ligase B	boryong_08825	1491107	1491734	Yes
+murD	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase	boryong_08830	1491816	1493235	No
+ftsW	cell division protein FtsW	boryong_08835	1493241	1494369	No
+murG	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase	boryong_08840	1494372	1495452	No
+NA	DDE superendonuclease family protein	boryong_08845	1497344	1497719	Yes
+NA	DDE superendonuclease family protein	boryong_08850	1497730	1497847	Yes
+NA	DDE superendonuclease family protein	boryong_08855	1497935	1498088	Yes
+metL1	aspartate kinase	boryong_08860	1498588	1499803	Yes
+NA	hypothetical protein	boryong_08865	1500083	1500578	Yes
+kch	potassium transporter	boryong_08870	1500561	1502304	Yes
+ygfA	5-formyltetrahydrofolate cyclo-ligase	boryong_08875	1502476	1503049	No
+NA	Colicin V production protein	boryong_08880	1503045	1503657	No
+NA	Conjugative transfer protein TraC	boryong_08885	1503852	1504656	Yes
+NA	conjugal transfer protein, complete TraV	boryong_08890	1504636	1504966	Yes
+NA	hypothetical protein	boryong_08895	1505035	1505188	No
+NA	hypothetical protein	boryong_08900	1505208	1507800	No
+cinB	hypothetical protein (cinB)	boryong_08905	1507834	1510324	No
+NA	HNH endonuclease	boryong_08910	1511732	1511852	Yes
+NA	hypothetical protein	boryong_08915	1512188	1512341	No
+NA	Arm DNA-binding domain-containing protein	boryong_08920	1512396	1512879	Yes
+NA	hypothetical protein	boryong_08925	1513009	1513210	Yes
+NA	hypothetical protein	boryong_08930	1514476	1514596	Yes
+cafA	ribonuclease E	boryong_08935	1514645	1516673	Yes
+NA	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	boryong_08940	1517443	1521610	No
+NA	hypothetical protein	boryong_08945	1522063	1524043	No
+ykfC	Retron-type reverse transcriptase	boryong_08950	1524474	1525548	Yes
+NA	hypothetical protein	boryong_08955	1525732	1525885	Yes
+NA	hypothetical protein	boryong_08960	1525912	1526047	Yes
+NA	hypothetical protein	boryong_08965	1526233	1527127	Yes
+NA	DDE superendonuclease family protein	boryong_08970	1527113	1527488	Yes
+NA	Transposase	boryong_08975	1527441	1527615	Yes
+ubiB	ubiquinone biosynthesis protein UbiB	boryong_08980	1528127	1529507	Yes
+coq7	ubiquinone biosynthesis protein	boryong_08985	1529503	1530277	Yes
+rimP	Ribosome maturation factor RimP	boryong_08990	1530870	1531353	No
+nusA	transcription termination/antitermination protein NusA	boryong_08995	1531368	1532871	No
+infB	translation initiation factor IF-2	boryong_09000	1533117	1535664	No
+rbfA	ribosome-binding factor A	boryong_09005	1535694	1536057	No
+ykfC	Retron-type reverse transcriptase	boryong_09010	1536468	1537197	Yes
+NA	hypothetical protein	boryong_09015	1537239	1537452	Yes
+NA	Transposase	boryong_09020	1537479	1537890	No
+NA	IS5 family transposase ISOt6	boryong_09025	1538063	1538438	Yes
+NA	DDE superendonuclease family protein	boryong_09030	1538546	1538984	No
+NA	DDE superendonuclease family protein	boryong_09035	1538995	1539370	No
+NA	Transposase	boryong_09040	1539329	1539476	Yes
+NA	DDE superendonuclease family protein	boryong_09045	1539564	1539798	Yes
+glnA	glutamine synthetase	boryong_09050	1539921	1540752	Yes
+yfiH	Laccase domain protein YfiH	boryong_09055	1540918	1541482	No
+ccmC	heme exporter protein C	boryong_09060	1541474	1542185	No
+fdxA	ferredoxin	boryong_09065	1542190	1542511	No
+dsbA	thiol:disulfide interchange protein	boryong_09070	1542646	1543471	No
+sspB2	Stringent starvation protein B	boryong_09075	1543599	1544127	No
+rnhA	ribonuclease H	boryong_09080	1544126	1544633	No
+nuo	NADH ubiquinone oxidoreductase	boryong_09085	1544604	1544967	No
+mlaD	outer membrane lipid asymmetry maintenance protein MlaD	boryong_09090	1544971	1545457	No
+hisS	histidine--tRNA ligase	boryong_09095	1545459	1546731	No
+nusB	transcription antitermination factor NusB	boryong_09100	1546754	1547231	No
+gst	glutathione S-transferase	boryong_09105	1548215	1548884	Yes
+NA	Conjugal transfer protein	boryong_09115	1549379	1549487	No
+NA	Conjugal transfer protein	boryong_09120	1549526	1549718	No
+NA	IS5 family transposase ISOt6	boryong_09125	1549859	1549988	No
+NA	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	boryong_09130	1549974	1550535	No
+NA	hypothetical protein	boryong_09135	1550612	1551182	Yes
+traD	conjugal transfer protein TraD	boryong_09140	1551278	1551677	Yes
+NA	hypothetical protein	boryong_09145	1552025	1552238	No
+tnp-IS5	IS5 family transposase	boryong_09150	1552491	1553316	Yes
+NA	hypothetical protein	boryong_09155	1553378	1553537	Yes
+NA	hypothetical protein	boryong_09160	1553992	1554709	Yes
+dam	DNA methyltransferase	boryong_09165	1555183	1555990	No
+NA	Ankyrin repeat protein with 1 ankyrin repeats	boryong_09170	1556279	1558448	Yes
+NA	DnaA N-terminal domain protein	boryong_09175	1559183	1560278	Yes
+NA	hypothetical protein	boryong_09180	1560351	1560885	Yes
+ykfC	reverse transcriptase	boryong_09185	1561050	1562190	No
+NA	hypothetical protein	boryong_09190	1562397	1562505	No
+yifB	AAA family ATPase	boryong_09195	1563111	1564623	Yes
+NA	hypothetical protein	boryong_09200	1564624	1564771	Yes
+NA	IS110 family transposase	boryong_09205	1565032	1565137	No
+NA	DDE superendonuclease family protein	boryong_09210	1565425	1565605	No
+NA	hypothetical protein	boryong_09215	1566091	1566244	No
+ykfC	Retron-type reverse transcriptase	boryong_09220	1566428	1567556	No
+NA	hypothetical protein	boryong_09225	1567776	1567884	No
+NA	hypothetical protein	boryong_09230	1568543	1569515	Yes
+ftsZ	cell division protein FtsZ	boryong_09235	1569597	1570959	Yes
+murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	boryong_09240	1571164	1572430	Yes
+NA	Hypthetical protein	boryong_09245	1573379	1574075	No
+NA	Conjugal transfer protein	boryong_09255	1575331	1575457	No
+NA	IS110 family transposase	boryong_09260	1575736	1575889	Yes
+brkB	Virulence factor BrkB	boryong_09265	1576172	1577018	Yes
+NA	Transposase	boryong_09270	1577457	1577565	Yes
+NA	DDE superendonuclease family protein	boryong_09275	1577844	1577961	Yes
+NA	DDE superendonuclease family protein	boryong_09280	1578049	1578280	Yes
+NA	hypothetical protein	boryong_09285	1579643	1579862	Yes
+nuoA	NADH-quinone oxidoreductase subunit A	boryong_09290	1580079	1580451	No
+nuoB	NADH-quinone oxidoreductase subunit B	boryong_09295	1580463	1580979	No
+nuoC	NADH-quinone oxidoreductase subunit C	boryong_09300	1580989	1581577	No
+nuoD	NADH-quinone oxidoreductase subunit D	boryong_09305	1581602	1582793	No
+nuoE	NADH-quinone oxidoreductase subunit E	boryong_09310	1582789	1583368	No
+nuoF	NADH-quinone oxidoreductase subunit F	boryong_09315	1583361	1584630	No
+NA	hypothetical protein	boryong_09320	1585033	1585747	Yes
+tlc	ATP/ADP translocase	boryong_09325	1586873	1588373	No
+NA	TrbC/VirB2 family protein	boryong_09330	1588619	1588979	No
+NA	TrbC/VirB2 family protein	boryong_09335	1589038	1589395	No
+ruvC	crossover junction endodeoxyribonuclease RuvC	boryong_09340	1589520	1590036	No
+dusB	tRNA dihydrouridine synthase DusB	boryong_09345	1590091	1591060	No
+yggU	UPF0235 protein OTT_0925	boryong_09350	1591088	1591427	Yes
+ubiG	bifunctional 3-demethylubiquinone 3-O-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase	boryong_09355	1591588	1592329	No
+prmC	peptide chain release factor N(5)-glutamine methyltransferase	boryong_09360	1592315	1593182	Yes
+truA	tRNA pseudouridine(38-40) synthase TruA	boryong_09365	1593183	1594038	Yes
+rplM	50S ribosomal protein L13	boryong_09370	1594179	1594662	No
+rpsI	30S ribosomal protein S9	boryong_09375	1594665	1595157	No
+NA	hypothetical protein	boryong_09385	1595486	1596233	No
+NA	hypothetical protein	boryong_09390	1598640	1598769	No
+NA	IS5 family transposase ISOt6	boryong_09395	1598814	1599189	Yes
+NA	Putative transposase	boryong_09400	1599142	1599316	Yes
+NA	IS5 family transposase ISOt6	boryong_09405	1599393	1599636	Yes
+NA	DnaA-N domain-containing protein	boryong_09410	1599931	1601248	No
+NA	hypothetical protein	boryong_09415	1601251	1601665	No
+NA	Ankyrin repeat protein with 1 ankyrin repeats	boryong_09420	1602389	1604540	No
+dam	DNA methyltransferase	boryong_09425	1604829	1605636	Yes
+NA	Putative signal transduction histidine kinase	boryong_09430	1606353	1606608	No
+NA	Putative signal transduction histidine kinase	boryong_09435	1606684	1607956	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	boryong_09440	1608089	1608665	No
+NA	hypothetical protein	boryong_09445	1609057	1610296	No
+NA	hypothetical protein	boryong_09450	1610752	1611022	No
+NA	(P)ppGpp synthetase	boryong_09455	1611247	1611475	No
+xthA2	exodeoxyribonuclease III	boryong_09460	1611637	1612423	No
+traD	conjugal transfer protein TraD	boryong_09465	1612464	1612863	Yes
+NA	hypothetical protein	boryong_09470	1613211	1613427	No
+NA	AAA domain protein	boryong_09475	1613419	1614514	No
+NA	Conjugal transfer protein TraA	boryong_09480	1614498	1616049	No
+NA	Conjugal transfer protein TraI	boryong_09485	1616678	1617389	No
+NA	toprim domain-containing protein	boryong_09490	1617333	1618653	No
+NA	Conjugal transfer protein	boryong_09495	1618767	1619283	Yes
+NA	Tetratricopeptide repeat protein with 8 trp repeats	boryong_09500	1619282	1620284	Yes
+NA	hypothetical protein	boryong_09505	1620350	1620527	Yes
+NA	Conjugative transfer protein	boryong_09510	1620547	1621174	Yes
+NA	conjugal transfer protein TraN	boryong_09515	1621230	1621407	Yes
+NA	Conjugal transfer protein TraN	boryong_09520	1621481	1622252	Yes
+NA	Type-F conjugative transfer system pilin assembly family protein	boryong_09525	1622235	1622517	Yes
+NA	Conjugal transfer protein	boryong_09530	1622636	1623320	Yes
+NA	conjugal transfer protein	boryong_09535	1623512	1623803	Yes
+NA	Conjugal transfer protein	boryong_09540	1623802	1624267	Yes
+NA	hypothetical protein	boryong_09545	1624378	1624780	Yes
+traE	conjugal transfer protein TraE, complete TraE	boryong_09550	1624776	1625328	Yes
+traL	conjugal transfer protein traL, complete TraL	boryong_09555	1625327	1625663	Yes
+NA	Phage-related integrase	boryong_09560	1625788	1626532	Yes
+NA	DDE superendonuclease family protein	boryong_09565	1626701	1627196	No
+NA	DDE superendonuclease family protein	boryong_09570	1627149	1627524	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	boryong_09575	1628199	1629372	No
+NA	hypothetical protein	boryong_09580	1629349	1629505	No
+NA	DNA helicase	boryong_09585	1629859	1630612	Yes
+dnaB	Replicative DNA helicase	boryong_09590	1630799	1631243	Yes
+NA	DnaA N-terminal domain protein	boryong_09595	1631318	1631585	Yes
+NA	hypothetical protein	boryong_09600	1631581	1631983	Yes
+NA	hypothetical protein	boryong_09605	1633155	1634943	No
+gtaD	phage portal protein	boryong_09610	1635073	1636264	No
+NA	hypothetical protein	boryong_09615	1636282	1636549	No
+hipB	XRE family transcriptional regulator	boryong_09620	1636969	1637209	Yes
+scaC	ScaC autotransporter protein	boryong_09625	1637387	1638968	No
+NA	ankyrin repeat domain-containing protein	boryong_09635	1640705	1641392	No
+NA	hypothetical protein	boryong_09640	1641870	1642935	No
+NA	hypothetical protein	boryong_09645	1643027	1643252	Yes
+NA	reverse transcriptase domain-containing protein	boryong_09650	1643584	1644751	Yes
+NA	hypothetical protein	boryong_09655	1644935	1645088	Yes
+NA	hypothetical protein	boryong_09660	1645574	1645691	Yes
+NA	hypothetical protein	boryong_09665	1646155	1646308	No
+NA	Putative integrase	boryong_09670	1646941	1647094	No
+NA	site-specific integrase	boryong_09675	1647216	1648227	No
+NA	Phage-related integrase, complete integrase	boryong_09680	1648458	1649697	Yes
+sdhC	succinate dehydrogenase, cytochrome b556 subunit	boryong_09685	1650325	1650676	No
+sdhD	succinate dehydrogenase, hydrophobic membrane anchor protein	boryong_09690	1650706	1651096	No
+sdhA	succinate dehydrogenase flavoprotein subunit	boryong_09695	1651290	1653078	No
+sdhB	succinate dehydrogenase iron-sulfur subunit	boryong_09700	1653112	1653898	No
+NA	Conjugal transfer protein	boryong_09705	1654342	1654720	No
+NA	Conjugal transfer protein TraB	boryong_09710	1654750	1654987	No
+lepB	signal peptidase I	boryong_09715	1655796	1656537	No
+rnc	ribonuclease III	boryong_09720	1656577	1657333	No
+NA	DDE superendonuclease family protein	boryong_09725	1657522	1657882	Yes
+NA	(P)pGpp hydrolase	boryong_09730	1657960	1658275	No
+menE,fadK	acyl-[ACP]--phospholipid O-acyltransferase	boryong_09735	1659052	1662526	Yes
+ypfH	esterase	boryong_09740	1662844	1663477	Yes
+nth	endonuclease III	boryong_09745	1663473	1664112	Yes
+grxD	Grx4 family monothiol glutaredoxin	boryong_09750	1664187	1664541	No
+nifU	NifU family protein	boryong_09755	1664601	1665150	No
+NA	hypothetical protein	boryong_09760	1665414	1665618	No
+NA	transcriptional regulator	boryong_09765	1666413	1667214	Yes
+fieF	Cation efflux family	boryong_09770	1667483	1668401	No
+tadA	tRNA-specific adenosine deaminase	boryong_09775	1668456	1668924	No
+ligA	DNA ligase (NAD(+)) LigA	boryong_09780	1669001	1671098	No
+pepA	aminopeptidase	boryong_09785	1671104	1672877	No
+NA	Transposase	boryong_09790	1673119	1673512	Yes
+NA	hypothetical protein	boryong_09795	1673511	1673658	Yes
+NA	Site-specific DNA-methyltransferase (adenine-specific)	boryong_09800	1673752	1674073	Yes
+NA	Site-specific DNA-methyltransferase (adenine-specific)	boryong_09805	1674050	1674557	Yes
+NA	ATP-binding protein	boryong_09810	1674694	1674919	No
+NA	ATP-binding protein	boryong_09815	1674941	1675877	No
+NA	ATP-binding protein	boryong_09820	1675882	1676239	No
+NA	Hydrolase	boryong_09825	1676247	1676430	No
+NA	Phage-related integrase, complete integrase	boryong_09830	1676820	1678059	No
+traL	conjugal transfer protein traL, complete TraL	boryong_09835	1678184	1678520	No
+traE	conjugal transfer protein TraE, complete TraE	boryong_09840	1678519	1679071	No
+NA	hypothetical protein	boryong_09845	1679067	1679469	No
+NA	Conjugal transfer protein	boryong_09850	1679580	1680045	No
+NA	conjugal transfer protein	boryong_09855	1680044	1680335	No
+NA	Conjugal transfer protein	boryong_09860	1680527	1681211	No
+NA	Type-F conjugative transfer system pilin assembly family protein	boryong_09865	1681330	1681612	No
+NA	Conjugal transfer protein TraN	boryong_09870	1681595	1682366	No
+NA	conjugal transfer protein TraN	boryong_09875	1682440	1682617	No
+NA	Conjugative transfer protein	boryong_09880	1682673	1683300	No
+NA	hypothetical protein	boryong_09885	1683320	1683497	No
+NA	Conjugal transfer protein	boryong_09890	1683563	1684010	No
+NA	Conjugal transfer protein TraH	boryong_09895	1684006	1684708	No
+NA	Conjugal transfer protein TraH	boryong_09900	1684683	1685307	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	boryong_09905	1685434	1686577	No
+NA	transposase	boryong_09910	1686578	1687490	Yes
+NA	toprim domain-containing protein	boryong_09915	1687540	1689343	Yes
+NA	AAA family ATPase, complete TraA	boryong_09920	1689524	1692011	Yes
+NA	hypothetical protein	boryong_09925	1692084	1692285	No
+traD	conjugal transfer protein TraD, complete TraD	boryong_09930	1692286	1692742	No
+NA	hypothetical protein	boryong_09935	1692836	1693385	No
+NA	hypothetical protein	boryong_09940	1693465	1694350	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	boryong_09945	1694483	1695059	Yes
+NA	Putative signal transduction histidine kinase	boryong_09950	1695159	1696761	Yes
+NA	hypothetical protein	boryong_09955	1697924	1699793	No
+NA	hypothetical protein	boryong_09960	1700036	1700213	Yes
+NA	Site-specific DNA-methyltransferase (adenine-specific)	boryong_09965	1700762	1701197	No
+NA	Site-specific DNA-methyltransferase (adenine-specific)	boryong_09970	1701269	1701575	No
+NA	Putative ompA-like autotransporter	boryong_09975	1701578	1702082	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	boryong_09980	1702182	1702827	Yes
+NA	Putative spoT-like ppGpp hydrolase	boryong_09985	1702864	1703089	Yes
+NA	Ankyrin repeat protein with 12 ankyrin repeats	boryong_09990	1703556	1705512	Yes
+NA	hypothetical protein	boryong_09995	1705999	1706356	Yes
+NA	Transposase	boryong_10000	1706638	1707028	No
+NA	Transposase DDE domain protein	boryong_10005	1707458	1707770	No
+yajC	preprotein translocase subunit YajC	boryong_10010	1708149	1708530	No
+secD	protein translocase subunit SecD	boryong_10015	1708526	1710089	No
+NA	DDE superendonuclease family protein	boryong_10020	1710878	1711253	Yes
+NA	Transposase	boryong_10025	1711206	1711380	Yes
+NA	DDE superendonuclease family protein	boryong_10030	1711445	1711928	No
+NA	IS5 family transposase ISOt6	boryong_10035	1712197	1712305	Yes
+aatA	aspartate aminotransferase	boryong_10040	1712684	1713887	Yes
+ubiG	Ubiquinone biosynthesis O-methyltransferase	boryong_10045	1713995	1715033	No
+mlaA	ABC transporter	boryong_10050	1715092	1715926	No
+mlaC	MlaC protein	boryong_10055	1715928	1716513	No
+hemW	radical SAM family heme chaperone HemW	boryong_10060	1716540	1717761	No
+NA	hypothetical protein	boryong_10065	1717782	1718295	No
+recO	DNA repair protein RecO	boryong_10070	1718352	1719078	No
+NA	Transposase	boryong_10075	1719459	1719588	Yes
+NA	DDE superendonuclease family protein	boryong_10080	1719710	1719884	No
+NA	Transposase	boryong_10085	1719895	1720276	No
+NA	Putative integrase	boryong_10090	1720797	1720986	Yes
+NA	Conjugative transfer protein	boryong_10095	1721827	1721980	Yes
+NA	DUF721 domain-containing protein	boryong_10100	1722050	1722374	Yes
+radC	DNA repair protein RadC	boryong_10105	1722412	1723093	Yes
+rpsL	30S ribosomal protein S12	boryong_10110	1723344	1723716	No
+rpsG	30S ribosomal protein S7	boryong_10115	1723739	1724261	No
+fusA	elongation factor G	boryong_10120	1724264	1726385	No
+rpsA	30S ribosomal protein S1	boryong_10125	1726593	1728117	No
+NA	DDE superendonuclease family protein	boryong_10130	1728577	1728697	Yes
+NA	IS5 family transposase ISOt6	boryong_10135	1728833	1729010	Yes
+tnp-IS630	IS630 family transposase	boryong_10140	1729525	1730392	Yes
+cspC	cold-shock protein	boryong_10145	1731237	1731459	Yes
+gcvT	aminomethyltransferase	boryong_10150	1733206	1734073	No
+NA	Transposase	boryong_10155	1734250	1734466	Yes
+NA	hypothetical protein	boryong_10160	1734774	1734984	No
+NA	hypothetical protein	boryong_10165	1735014	1736625	No
+hinT	Purine nucleoside phosphoramidase	boryong_10170	1736860	1737232	No
+asd	aspartate-semialdehyde dehydrogenase	boryong_10175	1737279	1738329	No
+cyoB	protoheme IX farnesyltransferase	boryong_10180	1738457	1739399	Yes
+ctaD	cytochrome c oxidase subunit I	boryong_10185	1739410	1740997	Yes
+gtaE	phage terminase large subunit	boryong_10190	1741188	1742610	Yes
+ctc	50S ribosomal protein L25/general stress protein Ctc	boryong_10195	1742935	1743559	No
+arfB	aminoacyl-tRNA hydrolase	boryong_10200	1743558	1744119	No
+ychF	GTP-binding protein YchF	boryong_10205	1744128	1745229	No
+NA	hypothetical protein	boryong_10210	1745276	1745438	Yes
+xthA2	exodeoxyribonuclease III	boryong_10215	1746365	1747160	No
+NA	hypothetical protein	boryong_10220	1747651	1747774	No
+NA	Putative ompA-like autotransporter	boryong_10225	1748207	1748513	No
+NA	hypothetical protein	boryong_10230	1748655	1748859	No
+NA	hypothetical protein	boryong_10235	1748986	1749139	No
+ykfC	Retron-type reverse transcriptase	boryong_10240	1749323	1750490	No
+NA	hypothetical protein	boryong_10245	1750697	1750805	No
+NA	hypothetical protein	boryong_10250	1750796	1751309	Yes
+cyc7	cytochrome c family protein	boryong_10255	1752134	1752683	Yes
+hflC	paraslipin	boryong_10260	1752931	1753882	No
+NA	hypothetical protein	boryong_10265	1753874	1754003	No
+NA	DnaB-like helicase N terminal domain protein	boryong_10270	1753964	1754513	Yes
+NA	hypothetical protein	boryong_10275	1754844	1755246	Yes
+NA	hypothetical protein	boryong_10280	1755602	1756127	Yes
+NA	(P)ppGpp synthetase	boryong_10285	1756299	1756743	No
+NA	hypothetical protein	boryong_10290	1756922	1757075	No
+NA	Reverse transcriptase family protein	boryong_10295	1757259	1757685	No
+NA	Reverse transcriptase family protein	boryong_10300	1757828	1758428	No
+trpS	tryptophan--tRNA ligase	boryong_10305	1758968	1759976	Yes
+NA	Transposase	boryong_10310	1760452	1760851	No
+NA	DDE superendonuclease family protein	boryong_10315	1760902	1761277	No
+NA	transposase	boryong_10320	1761602	1761881	Yes
+NA	Putative transposase	boryong_10325	1762005	1762152	Yes
+NA	Transposase family protein	boryong_10330	1762287	1762482	Yes
+NA	Integrase	boryong_10335	1762632	1762863	Yes
+NA	Putative integrase domain protein	boryong_10340	1762951	1763134	Yes
+NA	hypothetical protein	boryong_10345	1763311	1763458	Yes
+NA	hypothetical protein	boryong_10350	1763572	1763785	No
+NA	reverse transcriptase domain-containing protein	boryong_10355	1763747	1763999	No
+ykfC	reverse transcriptase	boryong_10360	1764014	1764563	No
+mrp	ATP-binding protein	boryong_10365	1766602	1767616	Yes
+hflK	FtsH protease activity modulator HflK	boryong_10370	1767799	1768849	No
+hflC	protease modulator HflC	boryong_10375	1768872	1769739	No
+tsa47	type surface antigen 47kDa	boryong_10380	1769756	1771157	No
+ompA	peptidoglycan-associated lipoprotein	boryong_10385	1771364	1771973	No
+gtaB	glycoside hydrolase TIM-barrel-like domain-containing protein	boryong_10390	1772227	1775020	Yes
+fpr	ferredoxin--NADP(+) reductase	boryong_10395	1775218	1776235	No
+folD	bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase	boryong_10400	1776231	1777137	No
+NA	hypothetical protein	boryong_10405	1777071	1778457	Yes
+topA	DNA topoisomerase I	boryong_10410	1778456	1780823	Yes
+mdh	malate dehydrogenase	boryong_10415	1780915	1781872	Yes
+rimM	ribosome maturation factor RimM	boryong_10420	1782099	1782594	Yes
+NA	AsmA-like C-terminal region	boryong_10425	1782762	1785294	No
+fmt	methionyl-tRNA formyltransferase	boryong_10430	1785593	1786517	Yes
+def	peptide deformylase	boryong_10435	1786513	1787059	Yes
+NA	hypothetical protein	boryong_10440	1787344	1787869	No
+NA	DnaA-N domain-containing protein	boryong_10445	1788224	1788887	No
+dnaB	Replicative DNA helicase	boryong_10450	1788962	1789406	No
+NA	Replicative DNA helicase	boryong_10455	1789556	1790345	No
+NA	HD domain protein	boryong_10460	1790578	1790800	No
+NA	Putative ompA-like autotransporter	boryong_10465	1790876	1791263	No
+NA	Site-specific DNA-methyltransferase (adenine-specific)	boryong_10470	1791761	1792082	Yes
+NA	Putative signal transduction histidine kinase	boryong_10475	1792549	1792804	No
+NA	DDE superendonuclease family protein	boryong_10480	1792866	1793241	Yes
+NA	DDE superendonuclease family protein	boryong_10485	1793252	1793690	Yes
+NA	TPR repeat-containing protein 08	boryong_10490	1793917	1794301	Yes
+NA	tetratricopeptide repeat protein	boryong_10495	1794619	1794814	Yes
+NA	Conjugal transfer TraD family protein	boryong_10500	1795138	1795420	Yes
+NA	hypothetical protein	boryong_10505	1795595	1795796	Yes
+NA	MobA/MobL family protein	boryong_10510	1795869	1796352	No
+NA	Conjugal transfer protein TraA	boryong_10515	1796369	1797902	No
+NA	Conjugal transfer protein TraA	boryong_10520	1797932	1798361	No
+NA	Putative conjugative transfer TraI domain protein	boryong_10525	1798542	1798806	No
+NA	Putative conjugal transfer protein TraA	boryong_10530	1798795	1799221	No
+NA	toprim domain-containing protein	boryong_10535	1799207	1799570	No
+NA	Conjugal transfer protein TraI	boryong_10540	1799791	1800343	No
+NA	Rpn family recombination-promoting nuclease/putative transposase	boryong_10545	1800327	1800795	No
+NA	Putative transposase	boryong_10550	1800784	1801264	No
+ndk	nucleoside-diphosphate kinase	boryong_10555	1801775	1802195	Yes
+NA	hypothetical protein	boryong_10565	1804127	1804529	No
+NA	DnaA N-terminal domain protein	boryong_10570	1804525	1804792	No
+dnaB	Replicative DNA helicase	boryong_10575	1804867	1805263	No
+NA	Putative integrase	boryong_10580	1805680	1805833	No
+NA	site-specific integrase	boryong_10585	1805955	1806966	No
+traL	conjugal transfer protein traL, complete TraL	boryong_10590	1807057	1807393	No
+traE	conjugal transfer protein TraE	boryong_10595	1807467	1807944	No
+NA	hypothetical protein	boryong_10600	1807940	1808342	No
+NA	Conjugal transfer protein	boryong_10605	1808453	1808918	No
+NA	conjugal transfer protein	boryong_10610	1808917	1809208	No
+NA	Conjugal transfer protein	boryong_10615	1809400	1810084	No
+NA	Type-F conjugative transfer system pilin assembly family protein	boryong_10620	1810203	1810485	No
+NA	Conjugal transfer protein TraN	boryong_10625	1810468	1811239	No
+NA	Conjugative transfer protein	boryong_10630	1811546	1812173	No
+traF	conjugal transfer protein TraF, complete TraF	boryong_10635	1812193	1812883	No
+NA	Conjugal transfer protein TraH	boryong_10640	1812879	1813581	No
+NA	Putative conjugative transfer protein TraH	boryong_10645	1813556	1813892	No
+traG	conjugal transfer protein TraG	boryong_10650	1813927	1814197	No
+NA	Conjugal transfer protein TraC	boryong_10655	1814319	1814739	No
+NA	hypothetical protein	boryong_10660	1814690	1814978	No
+NA	Site-specific DNA-methyltransferase (adenine-specific)	boryong_10665	1815030	1815333	No
+rmd1	ribonuclease D	boryong_10670	1815418	1816288	Yes
+NA	Conjugal transfer protein	boryong_10675	1817226	1817421	Yes
+NA	Bacterial conjugation TrbI-like family protein	boryong_10680	1817422	1817668	Yes
+NA	hypothetical protein	boryong_10685	1818341	1818461	Yes
+ctaA	Heme A synthase	boryong_10690	1818941	1820021	Yes
+NA	Transposase DDE domain protein	boryong_10695	1820687	1820861	Yes
+NA	hypothetical protein	boryong_10700	1821169	1821277	Yes
+NA	reverse transcriptase domain-containing protein	boryong_10705	1821484	1822651	Yes
+NA	hypothetical protein	boryong_10710	1822835	1822988	Yes
+NA	Transposase	boryong_10715	1823560	1823803	No
+cflA	Bcr/CflA family drug resistance efflux transporter	boryong_10720	1823966	1825148	Yes
+NA	hypothetical protein	boryong_10725	1825570	1825663	Yes
+NA	hypothetical protein	boryong_10730	1825756	1825906	Yes
+NA	hypothetical protein	boryong_10735	1826351	1826552	No
+NA	Phage-related integrase, complete integrase	boryong_10740	1826682	1827921	No
+traL	conjugal transfer protein traL, complete TraL	boryong_10745	1828046	1828382	No
+traE	conjugal transfer protein TraE, complete TraE	boryong_10750	1828381	1828933	No
+NA	hypothetical protein, complete TraK-1	boryong_10755	1828929	1829406	No
+NA	Putative membrane protein	boryong_10760	1829579	1829840	No
+NA	Conjugal transfer protein	boryong_10765	1829938	1830466	No
+NA	Conjugal transfer protein	boryong_10770	1830558	1831275	No
+NA	DDE superendonuclease family protein	boryong_10775	1831295	1831670	Yes
+NA	DDE superendonuclease family protein	boryong_10780	1831681	1832119	Yes
+traL	conjugal transfer protein traL, complete TraL	boryong_10785	1832432	1832768	Yes
+NA	site-specific integrase	boryong_10790	1832859	1833870	Yes
+NA	Putative integrase	boryong_10795	1833992	1834145	Yes
+NA	Putative transposase	boryong_10800	1834936	1835125	No
+NA	Putative transposase	boryong_10805	1835258	1835375	No
+NA	DDE superendonuclease family protein	boryong_10810	1835386	1835761	No
+znuB	metal ABC transporter permease	boryong_10815	1836544	1837333	Yes
+znuC	zinc ABC transporter ATP-binding protein	boryong_10820	1837313	1838027	Yes
+ybaB	YbaB/EbfC family nucleoid-associated protein	boryong_10825	1838294	1838855	Yes
+dnaX	DNA polymerase III subunit gamma/tau	boryong_10830	1838866	1840546	Yes
+NA	autotransporter domain-containing protein	boryong_10840	1841600	1844597	No
+hisJ	PBPb domain-containing protein	boryong_10845	1844688	1846164	Yes
+xseA	exodeoxyribonuclease VII large subunit	boryong_10850	1846221	1847592	Yes
+phnP	MBL fold metallo-hydrolase	boryong_10855	1847827	1848577	Yes
+NA	phospholipid phosphatase	boryong_10860	1848680	1849349	No
+rplU	50S ribosomal protein L21	boryong_10865	1849485	1849812	No
+rpmA	50S ribosomal protein L27	boryong_10870	1849855	1850125	No
+NA	Transposase	boryong_10875	1852253	1852457	No
+tnp-ISOt6	IS5 family ISOt6 transposase	boryong_10880	1852613	1853438	Yes
+NA	hypothetical protein	boryong_10885	1853529	1853661	Yes
+NA	Conjugal transfer protein TraA	boryong_10890	1854348	1854693	No
+NA	Conjugal transfer protein TraA	boryong_10895	1854715	1854877	No
+NA	Conjugal transfer protein TraA	boryong_10900	1854873	1855149	No
+NA	DDE transposase family protein	boryong_10905	1855145	1855355	Yes
+NA	hypothetical protein	boryong_10910	1855597	1855762	Yes
+NA	hypothetical protein	boryong_10920	1856742	1857075	No
+pgsA	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	boryong_10925	1857452	1858001	Yes
+NA	Transposase	boryong_10930	1858645	1858960	Yes
+NA	hypothetical protein	boryong_10935	1859099	1859711	No
+NA	DnaA-N domain-containing protein	boryong_10940	1859729	1860173	No
+NA	DNA helicase	boryong_10945	1860210	1860492	No
+NA	DDE superendonuclease family protein	boryong_10950	1861278	1861779	No
+NA	hypothetical protein	boryong_10955	1862117	1862708	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	boryong_10960	1862941	1863517	No
+NA	hypothetical protein	boryong_10965	1863603	1863714	Yes
+NA	hypothetical protein	boryong_10970	1863676	1863862	Yes
+NA	hypothetical protein	boryong_10975	1864352	1864493	No
+NA	DDE superendonuclease family protein	boryong_10980	1864452	1864827	Yes
+NA	DDE superendonuclease family protein	boryong_10985	1864940	1865378	No
+NA	IS5 family transposase ISOt6	boryong_10990	1865389	1865764	No
+NA	Transposase	boryong_10995	1865781	1866186	Yes
+NA	hypothetical protein	boryong_11000	1866227	1867013	No
+NA	hypothetical protein	boryong_11005	1867104	1867380	No
+rlpA	septal ring lytic transglycosylase RlpA family lipoprotein	boryong_11010	1868399	1869065	Yes
+NA	Putative integrase	boryong_11015	1869756	1869864	Yes
+mscC	mechanosensitive ion channel protein MscS	boryong_11020	1870096	1870963	No
+tatD	DNA-binding protein	boryong_11025	1871911	1872700	Yes
+metG	methionine--tRNA ligase	boryong_11030	1872712	1874248	Yes
+priA	primosomal protein N'	boryong_11035	1874432	1876373	No
+virB3	type VI secretion protein	boryong_11040	1876747	1877035	No
+virB4-1	VirB4 family type IV secretion/conjugal transferATPase	boryong_11045	1877045	1879463	No
+virB6-1	type VI secretion protein	boryong_11050	1879462	1881910	No
+virB6-2	type VI secretion protein	boryong_11055	1881931	1885804	No
+virB6-3	type VI secretion protein	boryong_11060	1885857	1889133	No
+virB6-4	type VI secretion protein	boryong_11065	1889125	1891693	No
+narK	MFS transporter	boryong_11070	1891729	1892983	No
+mutL	DNA mismatch repair protein MutL	boryong_11075	1893011	1895054	No
+gltX2	glutamate--tRNA ligase 2	boryong_11080	1895179	1896580	No
+cysS	cysteine--tRNA ligase	boryong_11085	1896644	1898081	No
+NA	Transposase	boryong_11090	1898229	1898448	No
+NA	IS982 family transposase	boryong_11095	1898511	1899072	No
+uvrD	ATP-dependent DNA helicase UvrD	boryong_11100	1899063	1901214	Yes
+NA	DDE superendonuclease family protein	boryong_11105	1901528	1901966	No
+NA	DDE superendonuclease family protein	boryong_11110	1901977	1902352	No
+NA	Transposase	boryong_11115	1902549	1902750	Yes
+NA	transposase	boryong_11120	1903171	1903480	Yes
+pld	phospholipase D family protein	boryong_11125	1903968	1904559	Yes
+NA	ATP-binding protein	boryong_11130	1904654	1904807	No
+NA	ATP-binding protein	boryong_11135	1904876	1905035	No
+NA	Transposase	boryong_11140	1905383	1905905	No
+NA	hypothetical protein	boryong_11145	1906037	1906292	Yes
+NA	hypothetical protein	boryong_11150	1906297	1906645	No
+NA	hypothetical protein	boryong_11155	1906680	1906893	No
+NA	hypothetical protein	boryong_11160	1907042	1907555	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	boryong_11165	1907578	1908148	Yes
+baeS	sensor histidine kinase	boryong_11170	1908248	1909106	Yes
+baeS	sensor histidine kinase	boryong_11175	1909113	1909857	Yes
+NA	hypothetical protein	boryong_11180	1910208	1910925	Yes
+dam	DNA methyltransferase	boryong_11185	1911400	1912207	No
+NA	Putative ompA-like autotransporter	boryong_11190	1912234	1912771	Yes
+NA	ankyrin	boryong_11195	1912796	1913741	Yes
+NA	DnaA N-terminal domain protein	boryong_11200	1913969	1915064	Yes
+NA	Putative ompA-like autotransporter	boryong_11205	1915181	1915391	Yes
+NA	hypothetical protein	boryong_11210	1916164	1916959	No
+NA	hypothetical protein	boryong_11215	1918371	1918572	No
+NA	Phage-related integrase, complete integrase	boryong_11220	1918702	1919941	No
+traL	conjugal transfer protein traL, complete TraL	boryong_11225	1920066	1920402	No
+traE	conjugal transfer protein TraE, complete TraE	boryong_11230	1920401	1920953	No
+NA	hypothetical protein	boryong_11235	1920949	1921351	No
+NA	Conjugal transfer protein	boryong_11240	1921462	1921927	No
+NA	conjugal transfer protein	boryong_11245	1921926	1922217	No
+NA	Conjugal transfer protein	boryong_11250	1922409	1923093	No
+NA	Type-F conjugative transfer system pilin assembly family protein	boryong_11255	1923212	1923494	No
+NA	Conjugal transfer protein TraN	boryong_11260	1923490	1924246	No
+NA	conjugal transfer protein TraN	boryong_11265	1924320	1924527	No
+NA	ankyrin repeat domain-containing protein	boryong_11270	1924558	1925905	No
+NA	hypothetical protein	boryong_11275	1925898	1926375	No
+NA	hypothetical protein	boryong_11280	1926368	1926701	No
+NA	hypothetical protein	boryong_11285	1926679	1926865	No
+NA	Conjugal transfer protein	boryong_11290	1927315	1927762	No
+NA	Conjugal transfer protein TraH	boryong_11295	1927758	1928460	No
+NA	Conjugal transfer protein TraH	boryong_11300	1928435	1929059	No
+traG	conjugal transfer protein TraG	boryong_11305	1929186	1930938	No
+NA	Conjugative transfer TraG domain protein	boryong_11310	1931186	1931696	No
+NA	TPR repeat-containing protein 01_07	boryong_11315	1931708	1932848	No
+traD	conjugal transfer protein TraD, complete TraD	boryong_11320	1932917	1934609	No
+NA	transposase	boryong_11325	1934610	1935654	Yes
+NA	toprim domain-containing protein	boryong_11330	1935638	1937441	Yes
+NA	AAA family ATPase, complete TraA	boryong_11335	1937622	1940109	Yes
+NA	hypothetical protein	boryong_11340	1940182	1940383	No
+traD	conjugal transfer protein TraD, complete TraD	boryong_11345	1940384	1940840	No
+NA	hypothetical protein	boryong_11350	1940933	1941467	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	boryong_11355	1941503	1942079	Yes
+baeS	sensor histidine kinase	boryong_11360	1942179	1943037	Yes
+baeS	sensor histidine kinase	boryong_11365	1943044	1943788	Yes
+NA	hypothetical protein	boryong_11370	1944139	1944454	Yes
+NA	Ankyrin repeat protein with 1 ankyrin repeats	boryong_11375	1945117	1947091	No
+dam	DNA methyltransferase	boryong_11380	1947705	1948518	No
+NA	Hypotheical protein	boryong_11385	1948713	1949814	Yes
+NA	hypothetical protein	boryong_11390	1949875	1950013	Yes
+NA	DnaA-N domain-containing protein	boryong_11395	1950243	1951938	Yes
+NA	IS5 family transposase ISOt6	boryong_11400	1952639	1952975	No
+NA	DDE superendonuclease family protein	boryong_11405	1952971	1953076	No
+NA	IS5 family transposase ISOt6	boryong_11410	1953087	1953462	No
+NA	hypothetical protein	boryong_11415	1953448	1953958	No
+NA	DDE superendonuclease family protein	boryong_11420	1954026	1954464	No
+NA	DDE superendonuclease family protein	boryong_11425	1954475	1954850	No
+NA	hypothetical protein	boryong_11430	1954809	1955226	Yes
+NA	hypothetical protein	boryong_11435	1955678	1955879	No
+NA	Phage-related integrase, complete integrase	boryong_11440	1956009	1957248	No
+traL	conjugal transfer protein traL, complete TraL	boryong_11445	1957373	1957709	No
+traE	conjugal transfer protein TraE, complete TraE	boryong_11450	1957708	1958260	No
+NA	hypothetical protein	boryong_11455	1958256	1958658	No
+NA	Conjugal transfer protein	boryong_11460	1958769	1959234	No
+NA	conjugal transfer protein	boryong_11465	1959233	1959524	No
+NA	Conjugal transfer protein	boryong_11470	1959716	1960400	No
+NA	Type-F conjugative transfer system pilin assembly family protein	boryong_11475	1960519	1960801	No
+NA	Conjugal transfer protein TraN	boryong_11480	1960784	1961555	No
+NA	Conjugative transfer protein	boryong_11485	1961862	1962489	No
+NA	hypothetical protein	boryong_11490	1962509	1962686	No
+NA	Conjugal transfer protein	boryong_11495	1962752	1963199	No
+NA	Conjugal transfer protein TraH	boryong_11500	1963195	1963897	No
+NA	Conjugal transfer protein TraH	boryong_11505	1963872	1964496	No
+NA	hypothetical protein	boryong_11510	1964623	1965070	No
+NA	DDE superendonuclease family protein	boryong_11515	1965077	1965515	No
+NA	DDE superendonuclease family protein	boryong_11520	1965526	1965901	No
+NA	hypothetical protein	boryong_11525	1965887	1966154	No
+NA	Conjugal transfer protein	boryong_11530	1966146	1966677	No
+NA	Putative permease	boryong_11535	1966678	1967302	Yes
+rpnC	Recombination-promoting DNA endonuclease RpnC/YadD	boryong_11540	1967417	1967591	Yes
+NA	Conjugal transfer protein TraI	boryong_11545	1967641	1968712	Yes
+NA	hypothetical protein	boryong_11550	1968917	1969451	No
+NA	hypothetical protein	boryong_11555	1969573	1969720	Yes
+NA	Putative conjugative transfer protein TraI	boryong_11560	1969898	1970471	Yes
+NA	Conjugal transfer protein TraA	boryong_11565	1971100	1972651	Yes
+NA	AAA domain protein	boryong_11570	1972635	1973727	Yes
+lspA	Lipoprotein signal peptidase	boryong_11575	1974503	1975013	Yes
+bamD	outer membrane protein assembly factor BamD	boryong_11585	1975307	1976102	No
+NA	hypothetical protein	boryong_11590	1976406	1976559	No
+NA	reverse transcriptase	boryong_11595	1976735	1976954	No
+NA	hypothetical protein	boryong_11600	1977056	1977581	No
+NA	hypothetical protein	boryong_11605	1977937	1978339	No
+NA	DnaA N-terminal domain protein	boryong_11610	1978335	1978602	No
+dnaB	Replicative DNA helicase	boryong_11615	1978677	1979121	No
+NA	Replicative DNA helicase	boryong_11620	1979271	1980060	No
+NA	HD domain protein	boryong_11625	1980287	1980509	No
+NA	Putative ompA-like autotransporter	boryong_11630	1980584	1981088	No
+NA	Site-specific DNA-methyltransferase (adenine-specific)	boryong_11635	1981091	1981397	Yes
+NA	Site-specific DNA-methyltransferase (adenine-specific)	boryong_11640	1981469	1981904	Yes
+aNKYR	ankyrin repeat domain-containing protein	boryong_11645	1982495	1983443	No
+NA	OTT_1508-like deaminase	boryong_11650	1983435	1984470	No
+baeS	sensor histidine kinase	boryong_11655	1985014	1985842	No
+NA	hypothetical protein	boryong_11660	1985780	1986197	No
+NA	ATP-binding protein	boryong_11665	1986223	1986604	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	boryong_11670	1986738	1987332	No
+NA	hypothetical protein	boryong_11675	1987399	1987945	Yes
+NA	Conjugal transfer TraD family protein	boryong_11680	1988047	1988329	Yes
+NA	hypothetical protein	boryong_11685	1989314	1991051	Yes
+NA	IS982 family transposase	boryong_11690	1991386	1991992	Yes
+NA	Putative transposase	boryong_11695	1991998	1992262	Yes
+NA	hypothetical protein	boryong_11700	1992370	1992571	Yes
+NA	Conjugal transfer protein TraA	boryong_11705	1992644	1994222	No
+NA	AAA family ATPase	boryong_11710	1994256	1995129	No
+NA	toprim domain-containing protein	boryong_11715	1995310	1997113	No
+NA	transposase	boryong_11720	1997163	1998075	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	boryong_11725	1998076	1999351	Yes
+NA	Conjugal transfer protein	boryong_11730	1999325	1999832	Yes
+NA	Tetratricopeptide repeat protein with 5 trp repeats	boryong_11735	1999831	2000554	Yes
+traG	conjugal transfer protein TraG	boryong_11740	2000730	2002347	Yes
+NA	Conjugal transfer protein TraH	boryong_11745	2002474	2003098	Yes
+NA	Conjugal transfer protein TraH	boryong_11750	2003073	2003760	Yes
+NA	Conjugal transfer protein	boryong_11755	2003756	2004203	Yes
+NA	hypothetical protein	boryong_11760	2004269	2004446	Yes
+traN	conjugal transfer protein TraN, complete TraN	boryong_11765	2004466	2006167	Yes
+NA	Type-F conjugative transfer system pilin assembly family protein	boryong_11770	2006150	2006432	Yes
+NA	Conjugal transfer protein	boryong_11775	2006551	2007235	Yes
+NA	TraU family protein	boryong_11780	2007279	2007531	Yes
+NA	hypothetical protein	boryong_11785	2007548	2007737	Yes
+traW	type-F conjugative transfer system protein TraW, complete TraW	boryong_11790	2007819	2008479	Yes
+virB4	Type IV secretory pathway, VirB4 component	boryong_11795	2008475	2009318	Yes
+NA	Conjugal transfer protein TraC	boryong_11800	2009339	2010122	Yes
+NA	Conjugal transfer protein TraC	boryong_11805	2010093	2010966	Yes
+NA	conjugal transfer protein, complete TraV	boryong_11810	2010946	2011276	Yes
+traB	conjugal transfer protein TraB, complete TraB	boryong_11815	2011275	2012607	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	boryong_11820	2012660	2012993	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	boryong_11825	2013136	2013613	Yes
+traE	conjugal transfer protein TraE	boryong_11830	2013609	2014086	Yes
+traL	conjugal transfer protein traL, complete TraL	boryong_11835	2014160	2014496	Yes
+NA	Phage-related integrase, complete integrase	boryong_11840	2014551	2015871	Yes
+NA	Putative transposase	boryong_11845	2016278	2016638	Yes
+NA	hypothetical protein	boryong_11850	2017063	2017624	No
+NA	DnaA-N domain-containing protein	boryong_11855	2017637	2018918	No
+NA	Replicative DNA helicase	boryong_11860	2018931	2019063	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	boryong_11865	2019297	2019873	No
+NA	Ankyrin	boryong_11870	2019909	2020026	No
+NA	Ankyrin repeat protein with 2 ankyrin repeats	boryong_11875	2020054	2020357	No
+NA	hypothetical protein	boryong_11880	2020460	2020613	Yes
+NA	DUF2748 domain-containing protein	boryong_11885	2021023	2022367	No
+mnmA	tRNA 2-thiouridine(34) synthase MnmA	boryong_11890	2022979	2024089	Yes
+NA	hypothetical protein	boryong_11895	2024671	2024845	No
+NA	Propionyl-CoA carboxylase beta chain	boryong_11900	2024939	2025098	No
+NA	Propionyl-CoA carboxylase beta chain	boryong_11905	2025232	2025538	No
+NA	hypothetical protein	boryong_11910	2025550	2025766	Yes
+NA	DnaA-N domain-containing protein	boryong_11915	2025774	2026974	No
+NA	hypothetical protein	boryong_11920	2026978	2027155	No
+tnp-IS110	IS110 family transposase	boryong_11925	2027272	2028235	Yes
+NA	ankyrin repeat domain-containing protein	boryong_11930	2028460	2028718	No
+NA	hypothetical protein	boryong_11935	2029124	2029985	Yes
+NA	Putative ompA-like autotransporter	boryong_11940	2030580	2030841	No
+NA	Site-specific DNA-methyltransferase (adenine-specific)	boryong_11945	2030852	2031476	Yes
+NA	hypothetical protein	boryong_11950	2031577	2031805	Yes
+NA	hypothetical protein	boryong_11955	2032140	2032665	No
+NA	Site-specific DNA adenine methylase	boryong_11960	2032756	2032969	Yes
+baeS	sensor histidine kinase	boryong_11965	2033317	2034064	No
+baeS	sensor histidine kinase	boryong_11970	2034068	2034926	No
+NA	(P)pGpp hydrolase	boryong_11975	2035026	2035332	No
+NA	(P)ppGpp synthetase	boryong_11980	2035383	2035617	No
+NA	hypothetical protein	boryong_11985	2035591	2035717	No
+NA	hypothetical protein	boryong_11990	2035744	2035897	No
+NA	Reverse transcriptase domain protein	boryong_11995	2036081	2036192	No
+NA	IS982 family transposase	boryong_12000	2036282	2037158	No
+NA	hypothetical protein	boryong_12005	2037633	2044533	Yes
+NA	hypothetical protein	boryong_12010	2044525	2045071	Yes
+NA	hypothetical protein	boryong_12015	2045633	2046953	Yes
+NA	DDE superendonuclease family protein	boryong_12020	2047426	2047864	No
+NA	DDE superendonuclease family protein	boryong_12025	2047875	2048250	No
+NA	Conjugal transfer TraD family protein	boryong_12030	2048311	2048578	Yes
+NA	MobA/MobL family protein	boryong_12035	2049030	2049807	No
+NA	AAA family ATPase	boryong_12040	2049887	2050355	No
+NA	Putative conjugative transfer protein TraA	boryong_12045	2050486	2050630	No
+NA	Conjugal transfer protein TraA	boryong_12050	2050664	2051891	No
+NA	Conjugal transfer protein TraI	boryong_12055	2052520	2053231	No
+NA	toprim domain-containing protein	boryong_12060	2053175	2054678	No
+NA	hypothetical protein	boryong_12065	2054705	2054858	No
+ykfC	reverse transcriptase	boryong_12070	2055042	2056146	No
+NA	hypothetical protein	boryong_12075	2056393	2056501	No
+NA	MobA/MobL family protein	boryong_12080	2056524	2056770	Yes
+NA	Conjugal transfer protein TraA	boryong_12085	2056774	2057128	Yes
+NA	Conjugal transfer protein TraD	boryong_12090	2058029	2058200	No
+xthA2	exodeoxyribonuclease III	boryong_12095	2058241	2059027	Yes
+NA	(P)ppGpp synthetase	boryong_12100	2059189	2059417	Yes
+NA	hypothetical protein	boryong_12105	2059642	2059912	Yes
+NA	DDE superendonuclease family protein	boryong_12110	2060024	2060462	No
+NA	IS5 family transposase ISOt6	boryong_12115	2060473	2060848	No
+NA	hypothetical protein	boryong_12120	2060907	2062164	Yes
+NA	DnaB-like helicase C terminal domain protein	boryong_12125	2062843	2063044	Yes
+NA	Transposase DDE domain protein	boryong_12130	2063180	2063402	Yes
+NA	Putative transposase	boryong_12135	2063482	2063620	No
+pipB2	Secreted effector protein PipB2	boryong_12145	2066335	2069986	Yes
+NA	OmpA-like, putative autotransporter	boryong_12150	2070431	2072705	Yes
+NA	hypothetical protein	boryong_12155	2073375	2073657	No
+NA	HTH-Tnp-4 domain-containing protein	boryong_12160	2073924	2074185	No
+NA	Transposase	boryong_12165	2074247	2074421	No
+NA	Putative transposase	boryong_12170	2074528	2074666	No
+NA	Transposase	boryong_12175	2075054	2075228	No
+NA	IS630 family transposase	boryong_12180	2075249	2075726	No
+NA	transposase	boryong_12185	2075850	2076102	No
+NA	DDE superendonuclease family protein	boryong_12190	2076165	2076603	No
+NA	DDE superendonuclease family protein	boryong_12195	2076614	2076989	No
+NA	Transposase	boryong_12200	2076948	2077437	Yes
+NA	IS630 transposase-related protein	boryong_12205	2078247	2078454	No
+scaB	ScaB autotransporter protein	boryong_12210	2078987	2080937	No
+NA	Transposase	boryong_12215	2081065	2081461	Yes
+NA	reverse transcriptase domain-containing protein	boryong_12220	2081488	2082511	No
+NA	hypothetical protein	boryong_12225	2082718	2082826	No
+NA	hypothetical protein	boryong_12230	2082950	2083310	No
+NA	hypothetical protein	boryong_12235	2083346	2083694	No
+NA	Transposase	boryong_12240	2084359	2084677	Yes
+rluC	ribosomal large subunit pseudouridine synthase	boryong_12245	2085576	2086515	Yes
+holB	DNA polymerase III subunit delta'	boryong_12250	2086498	2087371	Yes
+ppa	inorganic pyrophosphatase	boryong_12255	2087394	2087922	Yes
+dksA	RNA polymerase-binding protein DksA	boryong_12260	2088004	2088436	Yes
+xerC	recombinase XerC	boryong_12265	2088469	2089408	Yes
+mnmE	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE	boryong_12270	2089433	2090777	Yes
+gdhA	NAD-glutamate dehydrogenase	boryong_12275	2090857	2095783	No
+NA	Transposase	boryong_12280	2096365	2096698	No
+NA	IS5 family transposase ISOt6	boryong_12285	2096715	2097090	Yes
+NA	DDE superendonuclease family protein	boryong_12290	2097101	2097539	Yes
+secB	protein-export protein SecB	boryong_12295	2099141	2099624	Yes
+dcd	deoxycytidine triphosphate deaminase	boryong_12300	2099666	2100233	Yes
+NA	porin	boryong_12305	2100867	2102148	No
+frr	ribosome-recycling factor	boryong_12310	2102311	2102875	Yes
+nuoG	NADH-quinone oxidoreductase subunit G	boryong_12315	2103154	2105194	No
+nuoH	NADH:ubiquinone oxidoreductase subunit H	boryong_12320	2105250	2106321	No
+nuoI	NADH-quinone oxidoreductase subunit I	boryong_12325	2106346	2106832	No
+nuoJ	NADH:ubiquinone oxidoreductase subunit J	boryong_12330	2106835	2107444	No
+nuoK	NADH-quinone oxidoreductase subunit K	boryong_12335	2107427	2107751	No
+erhM	2-hydroxyacid dehydrogenase	boryong_12340	2107754	2109662	No
+nuoM	NADH-quinone oxidoreductase subunit M	boryong_12345	2109662	2111159	No
+nuoN	NADH-quinone oxidoreductase subunit N	boryong_12350	2111203	2112640	No
+tilS	tRNA lysidine(34) synthetase TilS	boryong_12355	2112724	2114050	No
+ftsH	ATP-dependent metalloprotease	boryong_12360	2114066	2115950	No
+alkA	3-methyladenine DNA glycosylase	boryong_12365	2115984	2116521	No
+tsaE	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE	boryong_12370	2116536	2116959	No
+rodA	rod shape-determining protein RodA	boryong_12375	2117173	2118256	No
+mreD	Rod shape-determining protein MreD	boryong_12380	2118267	2118753	No
+pBP2	penicillin-binding protein 2	boryong_12385	2118742	2120491	No
+ubiD	3-polyprenyl-4-hydroxybenzoate decarboxylase	boryong_12390	2120647	2122141	Yes
+ygaA	Uncharacterized membrane protein YqaA, VTT domain	boryong_12395	2122473	2122896	No
+NA	Ankyrin repeat protein with 8 ankyrin repeats	boryong_12405	2124559	2126086	Yes
+sdhE	Succinate dehydrogenase flavin-adding protein, antitoxin component of the CptAB toxin-antitoxin module	boryong_12410	2126470	2126734	Yes

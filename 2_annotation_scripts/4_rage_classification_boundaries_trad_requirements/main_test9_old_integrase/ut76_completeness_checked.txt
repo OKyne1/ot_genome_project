@@ -1,0 +1,2249 @@
+dnaA	chromosomal replication initiation protein DnaA	ut76_00005	0	1410	No
+dnaN	DNA polymerase III subunit beta	ut76_00010	1428	2727	No
+virB8-2	type VI secretion protein	ut76_00015	2944	3625	No
+virB9-2	P-type conjugative transfer protein VirB9	ut76_00020	3608	4046	No
+virB10	type VI secretion protein	ut76_00025	4045	5575	No
+virB11	type VI secretion protein	ut76_00030	5574	6564	No
+virD4	type IV secretion system protein VirD4	ut76_00035	6563	8336	No
+NA	IS5 family transposase ISOt6	ut76_00040	8500	8803	No
+NA	hypothetical protein	ut76_00045	9315	11115	No
+NA	Transposase	ut76_00050	12072	12465	Yes
+dam	DNA methyltransferase	ut76_00055	12687	12828	Yes
+NA	IS982 family transposase	ut76_00060	13324	14074	No
+NA	Tnp-DDE-dom domain-containing protein	ut76_00070	15190	15607	No
+NA	transposase	ut76_00075	15727	16606	No
+NA	Conjugal transfer protein TraD	ut76_00080	16673	16844	Yes
+NA	IS110 family transposase	ut76_00085	17274	17739	Yes
+NA	Tetratricopeptide repeat protein	ut76_00090	18249	18375	Yes
+traD	conjugal transfer protein TraD	ut76_00095	18698	19094	Yes
+NA	Conjugal transfer protein TraA	ut76_00100	19437	20544	No
+tsa22	major outer membrane protein TSA22	ut76_00105	20728	21334	Yes
+ubiE	SAM-dependent methyltransferase	ut76_00110	21510	22314	No
+lpd	dihydrolipoyl dehydrogenase	ut76_00115	22405	23833	No
+tolB	translocation protein TolB	ut76_00120	24167	25529	No
+yfdV	AEC family transporter	ut76_00125	25705	26629	No
+trxB	thioredoxin-disulfide reductase	ut76_00130	26758	27721	No
+ykfC	Retron-type reverse transcriptase	ut76_00135	28415	29435	Yes
+NA	Transposase	ut76_00140	29474	29870	Yes
+NA	hypothetical protein	ut76_00145	30078	30210	No
+NA	hypothetical protein	ut76_00150	30294	30552	No
+NA	(P)pGpp hydrolase	ut76_00155	30831	31221	Yes
+NA	ATP-binding protein	ut76_00160	31800	32097	Yes
+baeS	Signal transduction histidine kinase	ut76_00165	32118	32247	Yes
+NA	ATP-binding protein	ut76_00170	32349	32847	Yes
+dam	DNA methyltransferase	ut76_00175	33213	33588	No
+NA	DNA methyltransferase	ut76_00180	33541	33793	No
+NA	Membrane protein	ut76_00185	33796	34354	Yes
+aNKYR	Ankyrin repeat	ut76_00190	34344	34980	Yes
+nrdA	ribonucleotide-diphosphate reductase subunit alpha	ut76_00195	36027	37845	No
+nrdB	ribonucleotide-diphosphate reductase subunit beta	ut76_00200	37867	38857	No
+NA	hypothetical protein	ut76_00205	39356	39614	No
+NA	Integrase	ut76_00210	40069	40297	No
+NA	ABC transporter ATP-binding protein	ut76_00215	40454	41339	No
+NA	ABC transporter ATP-binding protein	ut76_00220	41357	42104	No
+NA	hypothetical protein	ut76_00225	42063	42420	No
+prmA	Ribosomal protein L11 methyltransferase	ut76_00230	42545	42749	No
+NA	Replicative DNA helicase	ut76_00235	42991	43120	No
+NA	Replicative DNA helicase	ut76_00240	43133	43760	No
+NA	DNA helicase	ut76_00245	43783	43888	No
+NA	Conjugal transfer protein TraC	ut76_00250	44398	44575	No
+NA	PRANC domain-containing protein	ut76_00255	44583	45480	Yes
+NA	TraU family protein	ut76_00260	46253	46676	No
+NA	Conjugative transfer protein	ut76_00265	46665	46932	No
+NA	Type-F conjugative transfer system pilin assembly protein TrbC	ut76_00270	46954	47194	No
+NA	ATP-binding protein	ut76_00275	47261	47891	No
+NA	ATP-binding protein	ut76_00280	47921	48107	No
+NA	ATP-binding protein	ut76_00285	48123	49062	No
+NA	ATP-binding protein	ut76_00290	49080	49830	No
+NA	Transposase	ut76_00295	49952	50054	No
+NA	transposase	ut76_00300	50348	51197	Yes
+NA	ATP-binding protein	ut76_00305	51318	52068	Yes
+NA	hypothetical protein	ut76_00310	52309	52459	Yes
+NA	hypothetical protein	ut76_00315	52460	52685	Yes
+NA	hypothetical protein	ut76_00320	52693	52939	Yes
+NA	hypothetical protein	ut76_00325	53077	53665	Yes
+NA	Ankyrin repeat-containing protein	ut76_00330	53703	54024	Yes
+amiR	N-acetylmuramoyl-L-alanine amidase	ut76_00335	55798	56896	Yes
+NA	hypothetical protein	ut76_00340	57087	57204	Yes
+NA	hypothetical protein	ut76_00345	57565	57697	No
+NA	Repeat-containing protein D	ut76_00350	57899	59321	No
+NA	Transposase	ut76_00355	60317	60491	No
+NA	IS5 family transposase ISOt6	ut76_00360	60444	60642	No
+NA	hypothetical protein	ut76_00365	60777	60999	Yes
+NA	Conjugative transfer protein	ut76_00370	61095	61572	Yes
+NA	hypothetical protein	ut76_00375	62840	62939	No
+NA	Integrase	ut76_00380	63094	63208	No
+NA	Lipase LipB	ut76_00385	63544	64252	No
+NA	Lipase LipB	ut76_00390	64193	64439	No
+NA	Integrase	ut76_00395	64831	64948	Yes
+NA	Putative integrase	ut76_00400	64999	65254	Yes
+NA	Group II intron, maturase-specific domain protein	ut76_00405	66422	66680	Yes
+NA	Reverse transcriptase	ut76_00410	66770	66989	Yes
+NA	Ankyrin repeat-containing protein 19	ut76_00415	67347	68211	Yes
+NA	Ankyrin repeat-containing protein	ut76_00420	68228	68393	Yes
+NA	hypothetical protein	ut76_00425	68624	68771	Yes
+NA	Conjugal transfer protein TraI	ut76_00430	69059	69194	Yes
+NA	hypothetical protein	ut76_00435	69317	69986	No
+traA	conjugal transfer protein TraA	ut76_00440	70348	72304	Yes
+NA	Conjugal transfer protein TraA	ut76_00445	72348	72525	Yes
+traD	conjugal transfer protein TraD, complete TraD	ut76_00450	72798	73263	No
+NA	hypothetical protein	ut76_00455	73266	74832	Yes
+NA	ATP-binding protein	ut76_00460	75155	75545	Yes
+NA	Site-specific DNA-methyltransferase (adenine-specific)	ut76_00465	75618	76059	Yes
+NA	ATP-binding protein	ut76_00470	76424	76700	No
+NA	ATP-binding protein	ut76_00475	76764	77190	No
+kdpD	K+-sensing histidine kinase KdpD	ut76_00480	77168	77837	No
+baeS	ATP-binding protein	ut76_00485	77859	78228	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	ut76_00490	78337	79126	No
+NA	hypothetical protein	ut76_00495	79303	80335	Yes
+NA	Conjugal transfer protein TraA	ut76_00500	80632	80839	No
+NA	Conjugal transfer protein TraA	ut76_00505	80823	81348	No
+NA	Conjugal transfer protein TraA	ut76_00510	81334	81538	No
+NA	Conjugal transfer protein TraA	ut76_00515	81594	82362	No
+NA	Conjugal transfer protein TraI	ut76_00520	82692	83460	No
+NA	transposase	ut76_00525	83510	84410	No
+NA	conjugal transfer protein	ut76_00530	84419	84629	Yes
+NA	Conjugal transfer protein	ut76_00535	84725	85685	Yes
+NA	Conjugal transfer protein	ut76_00540	85660	85903	Yes
+NA	Conjugal transfer protein TraG	ut76_00545	85931	86210	Yes
+NA	Conjugative transfer protein TraH	ut76_00550	86450	86726	Yes
+NA	Conjugal transfer protein TraN	ut76_00555	86807	87143	Yes
+NA	Conjugative transfer protein	ut76_00560	87208	87337	Yes
+NA	Conjugative transfer protein	ut76_00565	87340	87502	Yes
+NA	Conjugal transfer protein	ut76_00570	87498	87696	Yes
+NA	Conjugal transfer protein	ut76_00575	87836	87995	Yes
+NA	hypothetical protein	ut76_00580	88152	88326	Yes
+rpsD	30S ribosomal protein S4	ut76_00585	88390	89014	Yes
+rsmE	Ribosomal RNA small subunit methyltransferase E	ut76_00590	89140	89932	No
+mlaE	Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla	ut76_00595	89970	90837	No
+mlaF	ABC transporter ATP-binding protein	ut76_00600	90865	91621	No
+recJ	single-stranded-DNA-specific exonuclease RecJ	ut76_00605	91945	93706	Yes
+ruvX	Holliday junction resolvase RuvX	ut76_00610	93719	94193	Yes
+NA	DUF1189 domain-containing protein	ut76_00615	94189	95104	Yes
+ccmE	cytochrome c biogenesis protein CcmE	ut76_00620	95134	95530	Yes
+curA	NADP-dependent oxidoreductase	ut76_00625	95840	96986	No
+NA	hypothetical protein	ut76_00630	97971	98310	Yes
+NA	Conjugal transfer protein	ut76_00635	98309	98492	Yes
+NA	Conjugal transfer protein TraE	ut76_00640	98521	98764	Yes
+NA	IS982 family transposase	ut76_00645	98799	99675	Yes
+traL	conjugal transfer protein traL, complete TraL	ut76_00650	99834	100170	Yes
+NA	Integrase	ut76_00655	100305	100884	Yes
+NA	Integrase	ut76_00660	101232	101343	Yes
+NA	Integrase	ut76_00665	101359	101542	Yes
+NA	hypothetical protein	ut76_00670	101586	101874	Yes
+tsaB	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB	ut76_00675	102647	103373	Yes
+suhB	extragenic suppressor protein SuhB	ut76_00680	103392	104178	Yes
+efp	elongation factor P	ut76_00685	104174	104744	Yes
+clpX	ATP-dependent Clp protease ATP-binding subunit ClpX	ut76_00690	104949	106203	No
+proS	proline--tRNA ligase	ut76_00695	106328	107630	Yes
+NA	hypothetical protein	ut76_00700	107643	107937	Yes
+pgk	phosphoglycerate kinase	ut76_00705	107950	109171	Yes
+gapA	type I glyceraldehyde-3-phosphate dehydrogenase	ut76_00710	109251	110268	Yes
+virB4-2	virB4 protein precursor	ut76_00715	110542	112996	No
+NA	Hormone receptor domain-containing protein	ut76_00720	112995	117519	No
+NA	hypothetical protein	ut76_00725	118749	118848	No
+NA	DDE superendonuclease family protein	ut76_00730	118878	119259	Yes
+NA	Putative transposase	ut76_00735	119270	119387	Yes
+NA	IS5 family transposase ISOt6	ut76_00740	119426	119582	Yes
+mdlB	ATP-binding protein	ut76_00745	119938	121666	Yes
+cyaY	iron donor protein CyaY	ut76_00750	121658	121991	Yes
+NA	C48 family peptidase	ut76_00755	122886	127008	No
+NA	hypothetical protein	ut76_00760	127228	127714	No
+NA	Integrase	ut76_00765	128681	128891	No
+sdhC	succinate dehydrogenase, cytochrome b556 subunit	ut76_00770	129199	129550	No
+sdhD	succinate dehydrogenase, hydrophobic membrane anchor protein	ut76_00775	129566	129956	No
+sdhA	succinate dehydrogenase flavoprotein subunit	ut76_00780	130150	131938	No
+sdhB	succinate dehydrogenase iron-sulfur subunit	ut76_00785	131972	132758	No
+NA	IS630 family transposase	ut76_00790	132785	133067	Yes
+NA	Transposase	ut76_00795	133749	134067	Yes
+NA	hypothetical protein	ut76_00800	134337	134850	No
+NA	DnaA-N domain-containing protein	ut76_00805	135335	137051	No
+dnaB	replicative DNA helicase	ut76_00810	137059	138529	No
+NA	RNA-binding protein	ut76_00815	138625	140887	Yes
+NA	DDE superendonuclease family protein	ut76_00820	141306	141681	Yes
+NA	DDE superendonuclease family protein	ut76_00825	141692	142130	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_00830	142454	143030	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ut76_00835	143064	143709	No
+NA	Putative ompA-like autotransporter	ut76_00840	143806	144310	No
+dam	DNA methyltransferase	ut76_00845	144313	145123	Yes
+NA	ATP-binding protein	ut76_00850	145496	145775	No
+baeS	histidine kinase	ut76_00855	145839	146541	No
+NA	Putative signal transduction histidine kinase	ut76_00860	146670	147471	No
+NA	ATP-binding protein	ut76_00865	147487	148423	No
+baeS	ATP-binding protein	ut76_00870	148441	148936	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_00875	148977	149565	No
+NA	transposase	ut76_00880	149686	150661	No
+NA	Putative conjugative transfer protein TraD	ut76_00885	150768	150981	Yes
+NA	SycD/LcrH family type III secretion system chaperone	ut76_00890	151260	152334	Yes
+NA	hypothetical protein	ut76_00895	152430	152574	Yes
+traD	conjugal transfer protein TraD, complete TraD	ut76_00900	152657	153113	Yes
+NA	Conjugal transfer protein TraA	ut76_00905	153391	154048	No
+NA	Conjugal transfer protein TraA	ut76_00910	154032	155595	No
+NA	Conjugal transfer protein TraI	ut76_00915	155928	156999	No
+NA	Transposase, YhgA-like family protein	ut76_00920	157050	157470	No
+NA	Transposase	ut76_00925	157466	157850	No
+ndk	nucleoside-diphosphate kinase	ut76_00930	158313	158733	Yes
+NA	hypothetical protein	ut76_00935	158882	159107	No
+NA	hypothetical protein	ut76_00945	160738	161185	No
+NA	DnaA-N domain-containing protein	ut76_00950	161355	162450	No
+dnaB	replicative DNA helicase	ut76_00955	162458	163895	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_00960	164129	164705	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ut76_00965	164739	165384	No
+NA	Putative ompA-like autotransporter	ut76_00970	165374	165932	No
+dam	DNA methyltransferase	ut76_00975	165935	166745	Yes
+NA	ATP-binding protein	ut76_00980	167111	167390	No
+baeS	histidine kinase	ut76_00985	167454	168156	No
+baeS	Signal transduction histidine kinase	ut76_00990	168284	168851	No
+NA	ATP-binding protein	ut76_00995	168867	169362	No
+NA	ATP-binding protein	ut76_01000	169448	169805	No
+baeS	ATP-binding protein	ut76_01005	169823	170318	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_01010	170359	170947	No
+NA	transposase	ut76_01015	171068	172067	No
+traD	conjugal transfer protein TraD, complete TraD	ut76_01020	172134	172590	Yes
+traA	conjugal transfer protein TraA, complete TraA	ut76_01025	172864	175720	No
+aNKYR	Ankyrin repeat	ut76_01030	175748	177089	Yes
+NA	Conjugal transfer protein TraI	ut76_01035	177305	178370	No
+NA	transposase	ut76_01040	178421	179381	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	ut76_01045	179390	180638	Yes
+NA	Conjugal transfer protein	ut76_01050	180643	181144	Yes
+NA	TPR repeat-containing protein 08	ut76_01055	181147	182293	Yes
+traG	conjugal transfer protein TraG, complete TraG	ut76_01060	182315	184955	Yes
+NA	Conjugal transfer protein TraH	ut76_01065	184954	185422	Yes
+NA	conjugal transfer protein TraH	ut76_01070	185455	186256	Yes
+traF	conjugal transfer protein TraF, complete TraF	ut76_01075	186252	186936	Yes
+NA	Conjugal transfer protein TraN	ut76_01080	186947	187946	Yes
+NA	DnaA-N domain-containing protein	ut76_01085	188143	189856	No
+dnaB	replicative DNA helicase	ut76_01090	189864	191301	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_01095	191716	192112	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ut76_01100	192149	192794	No
+NA	Membrane protein	ut76_01105	192784	193342	No
+dam	DNA methyltransferase	ut76_01110	193345	194155	Yes
+NA	hypothetical protein	ut76_01115	194679	194877	No
+NA	Transposase	ut76_01120	195179	195299	Yes
+putP	sodium:proline symporter	ut76_01125	195717	199152	No
+NA	hypothetical protein	ut76_01130	199542	199743	No
+NA	Phage integrase family protein, complete integrase	ut76_01135	199876	201097	No
+traL	conjugal transfer protein traL, complete TraL	ut76_01140	201228	201564	No
+traE	conjugal transfer protein TraE, complete TraE	ut76_01145	201563	202115	No
+traK1	conjugal transfer protein traK1, complete TraK-1	ut76_01150	202111	202588	No
+NA	hypothetical protein	ut76_01155	202706	202814	No
+traK2	conjugal transfer protein traK2, complete TraK-2	ut76_01160	203005	203341	No
+traB	conjugal transfer protein TraB, complete TraB	ut76_01165	203379	204708	No
+NA	DnaA-N domain-containing protein	ut76_01170	204916	206632	No
+dnaB	replicative DNA helicase	ut76_01175	206640	208089	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_01180	208321	208897	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ut76_01185	208931	209576	No
+NA	Putative ompA-like autotransporter	ut76_01190	209623	210127	No
+dam	DNA methyltransferase	ut76_01195	210130	210940	Yes
+NA	ATP-binding protein	ut76_01200	211306	211585	No
+baeS	histidine kinase	ut76_01205	211649	212351	No
+NA	Putative signal transduction histidine kinase	ut76_01210	212480	213281	No
+NA	ATP-binding protein	ut76_01215	213297	214233	No
+baeS	ATP-binding protein	ut76_01220	214251	214746	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_01225	214787	215375	No
+NA	transposase	ut76_01230	215499	216582	No
+traD	conjugal transfer protein TraD, complete TraD	ut76_01235	216649	217105	Yes
+traA	conjugal transfer protein TraA, complete TraA	ut76_01240	217382	220202	No
+traI	conjugal transfer protein TraI, complete TraI	ut76_01245	220467	223137	No
+NA	transposase	ut76_01250	223188	223452	No
+NA	Transposase	ut76_01255	223479	223734	No
+NA	Putative transposase	ut76_01260	223737	224148	No
+traD	conjugal transfer protein TraD, complete TraD	ut76_01265	224157	225912	Yes
+pilW	type IV pilus biogenesis/stability protein PilW	ut76_01270	225917	227063	Yes
+traG	conjugal transfer protein TraG, complete TraG	ut76_01275	227085	229737	Yes
+traH	conjugal transfer protein TraH, complete TraH	ut76_01280	229736	231038	Yes
+traF	conjugal transfer protein TraF, complete TraF	ut76_01285	231034	231718	Yes
+traN	conjugal transfer protein TraN, complete TraN	ut76_01290	231729	233421	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ut76_01295	233417	233801	Yes
+traU	conjugal transfer protein TraU, complete TraU	ut76_01300	233823	234801	Yes
+NA	hypothetical protein	ut76_01305	234801	235005	Yes
+traW	type-F conjugative transfer system protein TraW, complete TraW	ut76_01310	235091	235751	Yes
+traC	conjugal transfer protein TraC, complete TraC	ut76_01315	235747	238240	Yes
+traV	conjugal transfer protein TraV, complete TraV	ut76_01320	238220	238550	Yes
+traB	conjugal transfer protein TraB, complete TraB	ut76_01325	238549	239875	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	ut76_01330	239913	240249	Yes
+NA	Conjugative transfer domain protein	ut76_01335	240350	240602	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	ut76_01340	240737	241226	Yes
+traE	conjugal transfer protein TraE, complete TraE	ut76_01345	241222	241774	Yes
+traL	conjugal transfer protein traL, complete TraL	ut76_01350	241773	242109	Yes
+NA	Phage integrase family protein, complete integrase	ut76_01355	242206	243490	Yes
+traV	conjugal transfer protein TraV	ut76_01360	243926	244217	No
+traC	conjugal transfer protein TraC, complete TraC	ut76_01365	244197	246690	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	ut76_01370	246686	247346	No
+NA	hypothetical protein	ut76_01375	247429	247603	No
+traU	conjugal transfer protein TraU, complete TraU	ut76_01380	247636	248581	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ut76_01385	248603	248987	No
+traN	conjugal transfer protein TraN, complete TraN	ut76_01390	248983	250672	No
+pilW	type IV pilus biogenesis/stability protein PilW	ut76_01395	250927	252739	No
+gepA	DUF4065 domain-containing protein	ut76_01400	252848	253409	No
+traF	conjugal transfer protein TraF, complete TraF	ut76_01405	253420	254137	No
+NA	Conjugal transfer protein TraH	ut76_01410	254133	255027	No
+NA	Conjugal transfer protein TraH	ut76_01415	254980	255436	No
+traG	conjugal transfer protein TraG, complete TraG	ut76_01420	255435	258075	No
+NA	TPR repeat-containing protein 08	ut76_01425	258090	259236	No
+traD	conjugal transfer protein TraD, complete TraD	ut76_01430	259241	260996	No
+NA	transposase	ut76_01435	261005	262025	Yes
+traI	conjugal transfer protein TraI, complete TraI	ut76_01440	262076	264746	Yes
+traA	conjugal transfer protein TraA, complete TraA	ut76_01445	265009	267829	Yes
+traD	conjugal transfer protein TraD, complete TraD	ut76_01450	268107	268563	No
+NA	SycD/LcrH family type III secretion system chaperone	ut76_01455	268884	269958	No
+NA	Putative conjugative transfer protein TraD	ut76_01460	270274	270487	No
+NA	transposase	ut76_01465	270594	271701	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_01470	271825	272413	Yes
+baeS	ATP-binding protein	ut76_01475	272454	272949	Yes
+NA	ATP-binding protein	ut76_01480	272967	273903	Yes
+NA	Putative signal transduction histidine kinase	ut76_01485	273910	274720	Yes
+baeS	histidine kinase	ut76_01490	274849	275551	Yes
+NA	ATP-binding protein	ut76_01495	275615	275894	Yes
+dam	DNA methyltransferase	ut76_01500	276260	277070	No
+NA	Membrane protein	ut76_01505	277073	277622	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ut76_01510	277669	278314	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_01515	278348	278924	Yes
+dnaB	replicative DNA helicase	ut76_01520	279157	280600	Yes
+NA	DnaA-N domain-containing protein	ut76_01525	280608	282174	Yes
+NA	IS630 family transposase	ut76_01530	282693	283200	Yes
+tnp-IS630	IS630 family transposase	ut76_01535	283186	283561	Yes
+NA	hypothetical protein	ut76_01540	283604	283841	No
+NA	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase family protein	ut76_01545	284194	285304	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	ut76_01550	285404	285980	No
+NA	transposase	ut76_01555	286100	287063	No
+traD	conjugal transfer protein TraD, complete TraD	ut76_01560	287130	287586	Yes
+NA	Conjugal transfer protein TraA	ut76_01565	287862	288807	No
+traA	conjugal transfer protein TraA	ut76_01570	288951	290739	No
+NA	Conjugal transfer protein TraI	ut76_01575	291005	291719	No
+NA	Conjugal transfer protein TraE	ut76_01580	291738	291900	Yes
+traL	conjugal transfer protein traL, complete TraL	ut76_01585	291899	292235	Yes
+NA	Integrase, complete integrase	ut76_01590	292358	293573	Yes
+NA	hypothetical protein	ut76_01595	294032	294431	No
+NA	Integrase	ut76_01600	294505	294802	No
+NA	Integrase	ut76_01605	294776	294914	No
+NA	Integrase	ut76_01610	294867	295845	No
+traL	conjugal transfer protein traL	ut76_01615	295897	296203	No
+NA	Conjugative transfer protein	ut76_01620	296231	296633	No
+NA	hypothetical protein	ut76_01625	296629	296956	No
+NA	TPR repeat-containing protein 06_01	ut76_01630	297095	297197	No
+NA	TPR repeat-containing protein 08	ut76_01635	297237	297690	No
+scaA	ScaA autotransporter protein	ut76_01640	299612	304193	No
+NA	hypothetical protein	ut76_01645	305179	305356	Yes
+NA	Integrase	ut76_01650	305610	305817	Yes
+NA	hypothetical protein	ut76_01655	305813	305957	Yes
+NA	Integrase	ut76_01660	305911	306061	Yes
+NA	Integrase	ut76_01665	306036	306177	Yes
+NA	hypothetical protein	ut76_01670	306415	306616	Yes
+NA	Transposase	ut76_01675	306876	307290	No
+NA	Transposase	ut76_01680	307243	307441	No
+NA	Integrase	ut76_01685	307819	307990	Yes
+NA	hypothetical protein	ut76_01690	308620	308767	Yes
+NA	Replicative DNA helicase	ut76_01695	308828	309593	No
+NA	(P)pGpp hydrolase	ut76_01700	309827	309980	No
+NA	Integrase, complete integrase	ut76_01705	310369	311584	No
+traL	conjugal transfer protein traL, complete TraL	ut76_01710	311707	312043	No
+NA	Conjugal transfer protein TraE	ut76_01715	312042	312204	No
+NA	Conjugal transfer protein TraE	ut76_01720	312193	312463	No
+NA	hypothetical protein	ut76_01725	312443	312596	No
+traK1	conjugal transfer protein traK1, complete TraK-1	ut76_01730	312592	313069	No
+NA	DDE superendonuclease family protein	ut76_01735	313449	313647	No
+NA	Putative transposase	ut76_01740	313646	313763	No
+NA	DDE superendonuclease family protein	ut76_01745	313774	314155	No
+NA	SpoT ppGpp hydrolase	ut76_01750	314141	314417	No
+traB	conjugal transfer protein TraB, complete TraB	ut76_01755	314459	315788	No
+NA	Putative conjugative transfer protein	ut76_01760	315787	315970	No
+NA	Conjugative transfer protein TraC	ut76_01765	316026	316434	No
+NA	Conjugal transfer protein TraC	ut76_01770	316470	317253	No
+NA	Membrane protein	ut76_01775	317233	317539	No
+dam	DNA methyltransferase	ut76_01780	317542	318355	Yes
+NA	hypothetical protein	ut76_01785	318880	319597	No
+NA	Integrase	ut76_01790	319593	319761	Yes
+NA	(P)pGpp hydrolase	ut76_01795	320302	320473	Yes
+NA	Replicative DNA helicase	ut76_01800	320706	320853	Yes
+NA	DNA helicase	ut76_01805	320810	321038	Yes
+NA	Conjugal transfer protein TraA	ut76_01810	321229	321418	No
+NA	Conjugal transfer protein TraA	ut76_01815	321430	322000	No
+NA	Putative integrase	ut76_01820	322451	322643	Yes
+NA	Integrase	ut76_01825	322847	323033	Yes
+NA	MFS transporter	ut76_01830	323672	324935	No
+panF	sodium:pantothenate symporter	ut76_01835	324950	326354	No
+NA	hypothetical protein	ut76_01840	327182	327308	No
+NA	Conjugal transfer protein	ut76_01845	327679	328258	Yes
+NA	Conjugative transfer protein	ut76_01850	328696	328915	Yes
+NA	Conjugative transfer protein	ut76_01855	329000	329240	Yes
+NA	Integrase	ut76_01860	329465	329636	Yes
+NA	hypothetical protein	ut76_01865	330540	330840	No
+NA	Transposase	ut76_01870	331409	331538	No
+NA	Transposase	ut76_01875	331568	331754	No
+NA	Arm-DNA-bind-3 domain-containing protein	ut76_01880	332176	332521	No
+NA	Integrase	ut76_01885	332617	333340	No
+NA	Conjugal transfer protein TraE	ut76_01890	333613	334033	No
+NA	hypothetical protein	ut76_01895	334013	334166	No
+NA	hypothetical protein	ut76_01900	334162	334489	No
+NA	Conjugal transfer protein	ut76_01905	334562	334952	No
+traV	conjugal transfer protein TraV, complete TraV	ut76_01910	334951	335281	No
+NA	Conjugative transfer protein TraC	ut76_01915	335261	335594	No
+NA	Conjugal transfer protein TraC	ut76_01920	335631	336135	No
+NA	Conjugal transfer protein TraC	ut76_01925	336106	336988	No
+NA	Ankyrin repeat-containing protein 09	ut76_01930	336968	338195	Yes
+NA	Conjugative transfer protein	ut76_01935	338264	338954	No
+NA	Conjugal transfer protein TraN	ut76_01940	339009	340260	No
+NA	hypothetical protein	ut76_01945	340393	341176	No
+NA	DnaA-N domain-containing protein	ut76_01950	341120	341960	No
+NA	Replicative DNA helicase	ut76_01955	341968	342091	No
+lacA	ribose-5-phosphate isomerase	ut76_01960	343152	343602	Yes
+NA	hypothetical protein	ut76_01965	344070	344442	Yes
+NA	Conjugal transfer protein TraD	ut76_01970	344776	344929	Yes
+NA	Conjugal transfer protein TraE	ut76_01975	345858	346023	No
+NA	hypothetical protein	ut76_01980	346146	346302	No
+aNKYR	Ankyrin repeat-containing protein 01_02	ut76_01985	346481	347456	Yes
+NA	Putative conjugative transfer protein TraU	ut76_01990	347833	348115	No
+glnA	glutamine synthetase	ut76_01995	348993	349758	Yes
+yfiH	Laccase domain protein YfiH	ut76_02000	349822	350554	No
+ccmC	heme exporter protein C	ut76_02005	350546	351257	No
+fdxA	ferredoxin	ut76_02010	351261	351582	No
+dsbA	thiol:disulfide interchange protein	ut76_02015	351710	352535	No
+sspB2	Stringent starvation protein B	ut76_02020	352663	353191	No
+rnhA	ribonuclease H	ut76_02025	353190	353697	No
+nuo	NADH ubiquinone oxidoreductase	ut76_02030	353668	354031	No
+mlaD	outer membrane lipid asymmetry maintenance protein MlaD	ut76_02035	354077	354521	No
+hisS	histidine--tRNA ligase	ut76_02040	354523	355795	No
+nusB	transcription antitermination factor NusB	ut76_02045	355817	356294	No
+NA	hypothetical protein	ut76_02050	356531	356732	No
+gst	glutathione S-transferase	ut76_02055	357160	357829	Yes
+NA	Conjugal transfer protein	ut76_02065	358324	358432	No
+NA	Conjugal transfer protein	ut76_02070	358471	358663	No
+NA	(P)ppGpp synthetase	ut76_02075	358919	359192	No
+NA	(P)ppGpp synthetase	ut76_02080	359264	359483	No
+NA	Conjugal transfer protein TraA	ut76_02085	359619	360186	No
+recD	ATPase/5’-3’ helicase helicase subunit RecD of the DNA repair enzyme RecBCD (exonuclease V)	ut76_02090	360157	360766	No
+NA	Conjugal transfer protein TraA	ut76_02095	360789	361020	No
+NA	Conjugal transfer protein TraC	ut76_02100	360969	361110	Yes
+NA	Transposase	ut76_02105	361243	361486	Yes
+uvrA	excinuclease ABC subunit A	ut76_02110	362003	364877	No
+NA	IS630 family transposase	ut76_02115	365273	365480	Yes
+NA	hypothetical protein	ut76_02120	365604	365763	Yes
+NA	TPR repeat-containing protein 03	ut76_02125	365874	366138	No
+NA	hypothetical protein	ut76_02130	366369	366525	No
+NA	Transposase	ut76_02135	366569	366944	Yes
+NA	IS5 family transposase ISOt6	ut76_02140	366897	367224	Yes
+NA	Conjugal transfer protein TraI	ut76_02145	367464	367632	Yes
+virB6-5	conjugal transfer protein	ut76_02150	368216	370433	Yes
+NA	RDD family protein	ut76_02155	371286	371763	No
+coxB	cytochrome c oxidase subunit II	ut76_02160	371974	372670	No
+NA	Lipase-3 domain-containing protein	ut76_02165	373109	374309	No
+NA	IS5 family transposase ISOt6	ut76_02170	374379	374874	No
+NA	Transposase	ut76_02175	374827	375202	No
+NA	Integrase	ut76_02180	375396	375549	No
+ldcA	LD-carboxypeptidase	ut76_02185	376919	377918	Yes
+NA	hypothetical protein	ut76_02190	378270	379056	No
+ubiA	4-hydroxybenzoate octaprenyltransferase	ut76_02195	379322	380198	Yes
+valS	valine--tRNA ligase	ut76_02200	380229	382794	No
+dnaE	DNA polymerase III subunit alpha	ut76_02205	382783	386488	No
+abcT	ABC transporter ATP-binding protein	ut76_02210	386806	388612	Yes
+uppS	polyprenyl diphosphate synthase	ut76_02215	388787	389483	No
+cdsA	phosphatidate cytidylyltransferase	ut76_02220	389485	390136	No
+ftsB	Cell division protein FtsB	ut76_02225	390143	390443	No
+rnd	ribonuclease D	ut76_02230	390449	391082	No
+NA	hypothetical protein	ut76_02235	391104	391212	Yes
+grpE	nucleotide exchange factor GrpE	ut76_02240	391681	392278	Yes
+rph	ribonuclease PH	ut76_02245	392407	393163	No
+cYT1	Cytochrome c1	ut76_02250	393906	394701	Yes
+rpmH	50S ribosomal protein L34	ut76_02255	395482	395617	No
+rnpA	ribonuclease P	ut76_02260	395617	396157	No
+NA	DUF3971 domain-containing protein	ut76_02265	396386	398879	No
+NA	IS982 family transposase	ut76_02270	399031	399907	Yes
+NA	hypothetical protein	ut76_02275	400049	400184	No
+glyA	serine hydroxymethyltransferase	ut76_02280	400522	401803	Yes
+gyrA	DNA gyrase subunit A	ut76_02285	401836	404554	Yes
+tACO1	YebC/PmpR family DNA-binding transcriptional regulator	ut76_02290	404652	405402	Yes
+maf	septum formation inhibitor Maf	ut76_02295	405528	406134	Yes
+infA	translation initiation factor IF-1	ut76_02300	406167	406392	Yes
+NA	Conjugal transfer protein TraH	ut76_02310	407137	407767	No
+NA	Conjugal transfer protein TraH	ut76_02315	407816	408440	No
+traG	conjugal transfer protein TraG	ut76_02320	408439	409342	No
+NA	TPR repeat family protein	ut76_02325	409382	409694	No
+NA	TPR repeat-containing protein 01_02	ut76_02330	409790	410048	No
+NA	Conjugal transfer protein TraD	ut76_02335	410053	410395	No
+NA	Conjugal transfer protein	ut76_02340	410592	410853	No
+NA	Conjugal transfer protein	ut76_02345	410807	411038	No
+NA	hypothetical protein	ut76_02350	411057	411345	No
+NA	hypothetical protein	ut76_02355	411458	411599	No
+hipB	XRE family transcriptional regulator	ut76_02360	411900	412347	No
+tru	tRNA pseudouridine(55) synthase	ut76_02365	413376	414285	No
+rpsO	30S ribosomal protein S15	ut76_02370	414308	414578	No
+pnp	polyribonucleotide nucleotidyltransferase	ut76_02375	414825	417036	No
+NA	Ankyrin repeat domain-containing protein	ut76_02380	417177	418455	Yes
+NA	Polyribonucleotide nucleotidyltransferase	ut76_02385	418609	418894	No
+NA	Ankyrin repeat protein with 1d ankyrin repeats	ut76_02390	418939	420169	Yes
+NA	DUF5394 domain-containing protein	ut76_02395	420260	420980	Yes
+NA	Ankyrin repeat protein with 1d ankyrin repeats	ut76_02400	421230	422499	Yes
+NA	Proline/betaine transporter	ut76_02405	422639	423905	Yes
+holC	DNA polymerase III subunit chi	ut76_02410	423999	424509	No
+rpsU	30S ribosomal protein S21	ut76_02415	424537	424744	Yes
+NA	Ubiquinone biosynthesis protein COQ9	ut76_02420	424914	425520	No
+ileS	isoleucine--tRNA ligase	ut76_02425	425556	428760	No
+trcR	cell cycle transcriptional regulator TrcR	ut76_02430	428896	429481	No
+ubiH	2-polyprenyl-6-methoxyphenol 4-hydroxylase	ut76_02440	429835	431098	No
+sucC	succinyl-CoA ligase subunit beta	ut76_02445	431154	432315	No
+sucD	succinyl-CoA synthetase subunit alpha	ut76_02450	432329	433208	No
+ndh	NADH dehydrogenase	ut76_02455	433288	434953	No
+NA	PDDEXK-1 domain-containing protein	ut76_02460	435129	437964	Yes
+NA	Multiple resistance and pH regulation F family protein	ut76_02465	437992	438247	Yes
+mnhE	sodium:proton antiporter	ut76_02470	438243	438729	Yes
+pssA	CDP-diacylglycerol--serine O-phosphatidyltransferase	ut76_02475	438778	439552	Yes
+psd	phosphatidylserine decarboxylase	ut76_02480	439603	440296	Yes
+ubiB	ubiquinone biosynthesis protein UbiB	ut76_02485	440372	440918	Yes
+dsbB	disulfide bond formation protein B	ut76_02490	440871	441429	Yes
+lysS	lysine--tRNA ligase	ut76_02495	441567	443148	No
+NA	hypothetical protein	ut76_02505	443722	443830	Yes
+secG	preprotein translocase subunit SecG	ut76_02510	443887	444181	Yes
+tpiA	triose-phosphate isomerase	ut76_02515	444186	444936	Yes
+NA	peptidylprolyl isomerase	ut76_02520	445112	446570	No
+NA	hypothetical protein	ut76_02525	446605	447199	Yes
+NA	hypothetical protein	ut76_02530	447723	448746	Yes
+NA	Conjugal transfer protein	ut76_02535	449431	449962	No
+NA	transposase	ut76_02540	449971	450943	Yes
+traI	conjugal transfer protein TraI, complete TraI	ut76_02545	450994	453472	Yes
+def	peptide deformylase	ut76_02550	453654	454200	No
+fmt	methionyl-tRNA formyltransferase	ut76_02555	454196	455120	No
+NA	AsmA-like C-terminal region	ut76_02560	455333	457865	Yes
+rimM	ribosome maturation factor RimM	ut76_02565	458034	458529	No
+mdh	malate dehydrogenase	ut76_02570	458748	459705	No
+topA	DNA topoisomerase I	ut76_02575	459797	462164	No
+NA	hypothetical protein	ut76_02580	462163	463549	No
+folD	bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase	ut76_02585	463483	464389	Yes
+fpr	ferredoxin--NADP(+) reductase	ut76_02590	464385	465402	Yes
+gtaB	glycoside hydrolase TIM-barrel-like domain-containing protein	ut76_02595	465600	468384	No
+ompA	peptidoglycan-associated lipoprotein	ut76_02600	468650	469265	Yes
+tsa47	type surface antigen 47kDa	ut76_02605	469480	470881	Yes
+hflC	protease modulator HflC	ut76_02610	470898	471765	Yes
+hflK	FtsH protease activity modulator HflK	ut76_02615	471788	472844	Yes
+mrp	ATP-binding protein	ut76_02620	473025	474051	No
+NA	IS630 family transposase	ut76_02625	475234	475399	Yes
+NA	hypothetical protein	ut76_02630	476108	476231	No
+hflC	paraslipin	ut76_02635	476679	477639	Yes
+cyc7	cytochrome c family protein	ut76_02640	477886	478435	No
+NA	hypothetical protein	ut76_02645	478681	478864	No
+NA	hypothetical protein	ut76_02650	479367	479541	No
+tnp-IS630	IS630 family transposase	ut76_02655	479633	479981	No
+tnp-IS630	IS630 family transposase	ut76_02660	479967	480474	No
+NA	Membrane protein	ut76_02665	480686	480998	Yes
+xthA2	exodeoxyribonuclease III	ut76_02670	482165	482960	Yes
+NA	hypothetical protein	ut76_02675	483740	483902	No
+ychF	GTP-binding protein YchF	ut76_02680	483949	485050	Yes
+arfB	aminoacyl-tRNA hydrolase	ut76_02685	485059	485620	Yes
+ctc	50S ribosomal protein L25/general stress proteinCtc	ut76_02690	485619	486240	Yes
+gtaE	phage terminase large subunit	ut76_02695	486570	487992	No
+ctaD	cytochrome c oxidase subunit I	ut76_02700	488184	489771	No
+cyoB	protoheme IX farnesyltransferase	ut76_02705	489781	490720	No
+asd	aspartate-semialdehyde dehydrogenase	ut76_02710	490859	491897	Yes
+hinT	Purine nucleoside phosphoramidase	ut76_02715	491956	492328	Yes
+NA	hypothetical protein	ut76_02720	492563	494387	Yes
+gcvT	aminomethyltransferase	ut76_02725	495090	495957	Yes
+NA	hypothetical protein	ut76_02730	496195	496594	Yes
+cspC	cold-shock protein	ut76_02735	497695	497917	No
+NA	hypothetical protein	ut76_02740	498424	498556	Yes
+NA	IS5 family transposase ISOt6	ut76_02745	499163	499334	No
+NA	DDE superendonuclease family protein	ut76_02750	499478	499598	No
+NA	IS5 family transposase ISOt6	ut76_02755	500121	500406	Yes
+NA	Transposase	ut76_02760	500359	500533	Yes
+NA	IS5 family transposase ISOt6	ut76_02765	500589	500730	Yes
+rpsA	30S ribosomal protein S1	ut76_02770	501721	503197	Yes
+fusA	elongation factor G	ut76_02775	503457	505584	Yes
+rpsG	30S ribosomal protein S7	ut76_02780	505587	506109	Yes
+rpsL	30S ribosomal protein S12	ut76_02785	506132	506504	Yes
+radC	DNA repair protein RadC	ut76_02790	506753	507434	No
+NA	DUF721 domain-containing protein	ut76_02795	507471	507795	No
+NA	Integrase	ut76_02800	508506	508677	No
+NA	Putative integrase	ut76_02805	508848	509037	No
+NA	IS5 family transposase ISOt6	ut76_02810	509735	509939	Yes
+NA	IS5 family transposase ISOt6	ut76_02815	509892	510348	Yes
+NA	Transposase	ut76_02820	510701	510830	No
+recO	DNA repair protein RecO	ut76_02825	511190	511916	Yes
+NA	hypothetical protein	ut76_02830	511975	512488	Yes
+hemW	radical SAM family heme chaperone HemW	ut76_02835	512509	513730	Yes
+mlaC	MlaC protein	ut76_02840	513757	514342	Yes
+mlaA	ABC transporter	ut76_02845	514344	515178	Yes
+ubiG	Ubiquinone biosynthesis O-methyltransferase	ut76_02850	515237	516275	Yes
+aatA	aspartate aminotransferase	ut76_02855	516381	517584	No
+NA	hypothetical protein	ut76_02860	517874	519461	No
+NA	IS5 family transposase ISOt6	ut76_02865	519798	520071	No
+NA	Transposase	ut76_02870	520195	520306	No
+NA	Transposase	ut76_02875	520331	520460	No
+secD	protein translocase subunit SecD	ut76_02880	521247	522810	Yes
+yajC	preprotein translocase subunit YajC	ut76_02885	522806	523187	Yes
+NA	Transposase	ut76_02890	523790	524105	Yes
+NA	hypothetical protein	ut76_02895	524280	524517	No
+NA	DnaA-N domain-containing protein	ut76_02900	524476	524827	No
+dnaB	Replicative DNA helicase	ut76_02905	524840	524951	No
+NA	Ankyrin	ut76_02910	525217	525394	No
+NA	ATP-binding protein	ut76_02915	525497	525773	No
+baeS	histidine kinase	ut76_02920	525844	526546	No
+NA	ATP-binding protein	ut76_02925	526560	526779	No
+traG	conjugal transfer protein TraG	ut76_02930	526775	527771	Yes
+traG	conjugal transfer protein TraG	ut76_02935	527782	529432	Yes
+NA	Conjugal transfer protein TraH	ut76_02940	529431	529911	Yes
+NA	Conjugal transfer protein TraH	ut76_02945	530105	530735	Yes
+traF	conjugal transfer protein TraF, complete TraF	ut76_02950	530731	531415	Yes
+NA	Conjugal transfer protein TraN	ut76_02955	531426	531720	Yes
+NA	Conjugal transfer protein TraN	ut76_02960	531697	532027	Yes
+NA	Conjugal transfer protein	ut76_02965	532023	533148	Yes
+NA	hypothetical protein	ut76_02970	533181	533358	Yes
+traW	type-F conjugative transfer system protein TraW, complete TraW	ut76_02975	533444	534104	Yes
+NA	Conjugal transfer protein TraC	ut76_02980	534100	535750	Yes
+NA	Conjugal transfer protein TraC	ut76_02985	535721	536225	Yes
+NA	Conjugative transfer protein TraC	ut76_02990	536262	536595	Yes
+traV	conjugal transfer protein TraV, complete TraV	ut76_02995	536575	536896	Yes
+NA	Conjugal transfer protein	ut76_03000	536895	537078	Yes
+NA	conjugative transfer protein	ut76_03005	537107	537425	Yes
+traL	conjugal transfer protein traL, complete TraL	ut76_03010	537424	537760	Yes
+NA	Integrase	ut76_03015	537885	538062	Yes
+NA	Integrase	ut76_03020	538106	538310	Yes
+NA	Integrase	ut76_03025	538275	538437	Yes
+NA	Integrase	ut76_03030	538649	539117	Yes
+NA	hypothetical protein	ut76_03035	539263	539464	Yes
+NA	Transposase IS116/IS110/IS902 family protein	ut76_03040	539552	539984	Yes
+NA	IS110 family transposase	ut76_03045	539984	540308	Yes
+NA	IS110 family transposase	ut76_03050	540268	540526	Yes
+NA	IS982 family transposase	ut76_03055	541280	542027	No
+NA	Transposase	ut76_03060	542017	542152	No
+greA	transcription elongation factor GreA	ut76_03065	542778	543258	No
+rpoH	RNA polymerase factor sigma-32	ut76_03070	543304	544204	No
+NA	Copper(I)-binding protein	ut76_03075	545162	545705	Yes
+NA	hypothetical protein	ut76_03080	545990	546179	No
+NA	hypothetical protein	ut76_03085	546501	546723	No
+NA	IS5 family transposase ISOt6	ut76_03090	547516	547651	Yes
+NA	DDE superendonuclease family protein	ut76_03095	547662	548100	Yes
+aNKYR	Ankyrin repeat protein with 8 ankyrin repeats	ut76_03100	548534	550022	Yes
+NA	Conjugative transfer protein TraC	ut76_03105	550219	550705	No
+NA	Conjugal transfer protein TraC	ut76_03110	550946	551405	No
+NA	Conjugal transfer protein TraC	ut76_03115	551416	552034	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	ut76_03120	552030	552690	No
+NA	hypothetical protein	ut76_03125	552776	552953	No
+traU	conjugal transfer protein TraU, complete TraU	ut76_03130	552986	553931	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ut76_03135	553953	554337	No
+traN	conjugal transfer protein TraN, complete TraN	ut76_03140	554333	556025	No
+pilW	type IV pilus biogenesis/stability protein PilW	ut76_03145	556277	557681	No
+gepA	DUF4065 domain-containing protein	ut76_03150	557790	558357	No
+traF	conjugal transfer protein TraF, complete TraF	ut76_03155	558361	559078	No
+NA	Conjugal transfer protein TraH	ut76_03160	559074	559827	No
+NA	Conjugal transfer protein TraH	ut76_03165	559907	560375	No
+traG	conjugal transfer protein TraG, complete TraG	ut76_03170	560374	563011	No
+NA	TPR repeat-containing protein 08	ut76_03175	563033	564179	No
+traD	conjugal transfer protein TraD, complete TraD	ut76_03180	564184	565939	No
+NA	transposase	ut76_03185	565948	566956	Yes
+NA	Conjugal transfer protein TraI	ut76_03190	567007	568639	Yes
+NA	Conjugal transfer protein TraI	ut76_03195	568589	569678	Yes
+traA	conjugal transfer protein TraA, complete TraA	ut76_03200	569949	572769	Yes
+traD	conjugal transfer protein TraD, complete TraD	ut76_03205	573045	573501	No
+NA	transposase	ut76_03210	573568	574603	Yes
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	ut76_03215	574724	575300	Yes
+baeS	sensor histidine kinase	ut76_03220	575309	576257	Yes
+baeS	sensor histidine kinase	ut76_03225	576231	577008	Yes
+NA	hypothetical protein	ut76_03230	577359	578076	Yes
+dam	DNA methyltransferase	ut76_03235	578625	579438	No
+NA	Membrane protein	ut76_03240	579441	579990	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ut76_03245	580091	580736	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_03250	580770	581346	Yes
+NA	Replicative DNA helicase	ut76_03255	581579	581711	Yes
+NA	hypothetical protein	ut76_03260	581724	583431	Yes
+NA	Conjugal transfer protein TraN	ut76_03265	583628	584552	No
+NA	Ankyrin repeat-containing protein 16	ut76_03270	584751	586062	No
+NA	Conjugal transfer protein	ut76_03275	586266	586470	No
+NA	Conjugal transfer protein	ut76_03280	586503	586983	No
+traH	conjugal transfer protein TraH, complete TraH	ut76_03285	586979	588281	No
+traG	conjugal transfer protein TraG, complete TraG	ut76_03290	588280	590920	No
+NA	TPR repeat-containing protein 01_07	ut76_03295	590928	592068	No
+traD	conjugal transfer protein TraD, complete TraD	ut76_03300	592073	593828	No
+NA	transposase	ut76_03305	593837	594749	Yes
+traI	conjugal transfer protein TraI, complete TraI	ut76_03310	594800	597464	Yes
+traA	conjugal transfer protein TraA, complete TraA	ut76_03315	597727	600544	Yes
+traD	conjugal transfer protein TraD, complete TraD	ut76_03320	600821	601277	No
+NA	hypothetical protein	ut76_03325	601365	601941	No
+NA	hypothetical protein	ut76_03330	602622	603117	Yes
+NA	transposase	ut76_03335	603407	604418	Yes
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	ut76_03340	604539	605115	Yes
+baeS	sensor histidine kinase	ut76_03345	605215	606073	Yes
+NA	ATP-binding protein	ut76_03350	606094	606823	Yes
+NA	hypothetical protein	ut76_03355	606884	607040	Yes
+NA	hypothetical protein	ut76_03360	607172	607889	Yes
+NA	hypothetical protein	ut76_03365	608744	609266	Yes
+dam	DNA methyltransferase	ut76_03370	609750	610563	No
+NA	Putative ompA-like autotransporter	ut76_03375	610566	611118	Yes
+NA	Ankyrin	ut76_03380	611165	611414	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ut76_03385	611618	611810	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_03390	611844	612420	Yes
+dnaB	replicative DNA helicase	ut76_03395	612655	614053	Yes
+NA	DnaA-N domain-containing protein	ut76_03400	614112	614694	Yes
+NA	DnaA-N domain-containing protein	ut76_03405	614804	615827	Yes
+NA	Conjugal transfer protein	ut76_03410	616035	616218	Yes
+NA	conjugative transfer protein	ut76_03415	616247	616565	Yes
+NA	IS630 family transposase	ut76_03420	616564	616714	Yes
+NA	hypothetical protein	ut76_03425	616725	616899	Yes
+NA	Integrase	ut76_03430	617024	617201	Yes
+NA	Integrase	ut76_03435	617245	617449	Yes
+NA	Integrase	ut76_03440	617414	617681	Yes
+NA	DUF4102 domain-containing protein	ut76_03445	617837	618059	Yes
+NA	Integrase	ut76_03450	618095	618239	Yes
+NA	Conjugative transfer protein	ut76_03455	619283	619409	Yes
+NA	Transposase	ut76_03460	619593	619785	No
+NA	Transposase	ut76_03465	619925	620192	No
+NA	Transposase	ut76_03470	620192	620399	No
+hlyD	HlyD family type I secretion periplasmic adaptor subunit	ut76_03475	621498	623037	Yes
+arpD	type I secretion system permease/ATPase	ut76_03480	623074	624829	Yes
+NA	DDE-3 domain-containing protein	ut76_03485	625614	625764	No
+murJ	lipid II flippase MurJ	ut76_03490	626142	627657	No
+NA	hypothetical protein	ut76_03495	627693	628074	Yes
+NA	Reverse transcriptase	ut76_03500	628243	628483	No
+NA	Lipase-3 domain-containing protein	ut76_03505	629248	630442	Yes
+NA	hypothetical protein	ut76_03510	630743	630845	No
+NA	Ankyrin	ut76_03515	631444	631693	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ut76_03520	631897	632089	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_03525	632123	632699	Yes
+NA	Replicative DNA helicase	ut76_03530	632932	633064	Yes
+NA	hypothetical protein	ut76_03535	633077	634784	Yes
+ltrA	group II intron reverse transcriptase/maturase	ut76_03540	635414	636638	No
+NA	HNH endonuclease family protein	ut76_03545	636638	637130	No
+traD	conjugal transfer protein TraD, complete TraD	ut76_03550	637339	637750	No
+NA	IS982 family transposase	ut76_03555	637759	638635	Yes
+NA	transposase	ut76_03560	638869	639808	Yes
+NA	IS630 family transposase	ut76_03565	640627	640825	Yes
+NA	IS5 family transposase ISOt6	ut76_03570	641966	642566	No
+NA	Ankyrin repeat-containing protein 13	ut76_03575	643115	644591	Yes
+NA	Transposase	ut76_03580	644983	645202	Yes
+NA	DDE superendonuclease family protein	ut76_03585	645571	645838	No
+NA	DDE superendonuclease family protein	ut76_03590	645838	646102	No
+NA	TPR repeat-containing protein 03	ut76_03595	646086	646275	Yes
+traG	conjugal transfer protein TraG	ut76_03600	646232	646943	Yes
+traG	conjugal transfer protein TraG	ut76_03605	646929	648333	Yes
+traH	conjugal transfer protein TraH, complete TraH	ut76_03610	648332	649634	Yes
+NA	Conjugal transfer protein	ut76_03615	649630	649864	Yes
+NA	Conjugal transfer protein	ut76_03620	649905	650325	Yes
+NA	conjugal transfer protein TraN	ut76_03625	650336	650450	Yes
+traN	conjugal transfer protein TraN	ut76_03630	650477	652031	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ut76_03635	652027	652411	Yes
+NA	conjugal transfer protein	ut76_03640	652433	652661	Yes
+NA	conjugal transfer protein	ut76_03645	652664	652763	Yes
+NA	conjugal transfer protein	ut76_03650	652766	653006	Yes
+NA	Ankyrin repeat-containing protein	ut76_03655	653174	654164	No
+virB4	conjugal transfer protein TraC	ut76_03660	654144	655737	Yes
+traV	conjugal transfer protein TraV, complete TraV	ut76_03665	655849	656179	Yes
+traB	conjugal transfer protein TraB, complete TraB	ut76_03670	656178	657507	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	ut76_03675	657545	657881	Yes
+NA	hypothetical protein	ut76_03680	658072	658180	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	ut76_03685	658287	658776	Yes
+traE	conjugal transfer protein TraE	ut76_03690	658772	659174	Yes
+NA	Type-F conjugative transfer system protein TraW	ut76_03695	659189	659324	Yes
+traL	conjugal transfer protein traL, complete TraL	ut76_03700	659323	659659	Yes
+NA	Integrase	ut76_03705	659921	660209	Yes
+NA	Integrase	ut76_03710	660174	661011	Yes
+NA	Transposase	ut76_03715	661610	661895	Yes
+gdhA	NAD-glutamate dehydrogenase	ut76_03720	662479	667405	Yes
+mnmE	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE	ut76_03725	667484	668828	No
+xerC	recombinase XerC	ut76_03730	668853	669792	No
+dksA	RNA polymerase-binding protein DksA	ut76_03735	669825	670257	No
+ppa	inorganic pyrophosphatase	ut76_03740	670340	670868	No
+holB	DNA polymerase III subunit delta'	ut76_03745	670891	671764	No
+rluC	ribosomal large subunit pseudouridine synthase	ut76_03750	671747	672689	No
+NA	hypothetical protein	ut76_03755	673190	673310	No
+NA	hypothetical protein	ut76_03760	673664	673838	No
+NA	Transposase	ut76_03765	673827	674121	No
+NA	hypothetical protein	ut76_03770	674400	675666	Yes
+NA	hypothetical protein	ut76_03775	675948	676386	Yes
+NA	hypothetical protein	ut76_03780	676327	676612	Yes
+NA	Ankyrin repeat-containing protein	ut76_03785	677217	677355	No
+NA	hypothetical protein	ut76_03790	678306	678459	No
+NA	Transposase DDE domain protein	ut76_03795	679194	679419	Yes
+NA	IS630 family transposase	ut76_03800	679445	679976	Yes
+NA	Transposase	ut76_03805	679954	680305	Yes
+NA	DnaA-N domain-containing protein	ut76_03810	680707	682423	No
+dnaB	replicative DNA helicase	ut76_03815	682431	683880	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_03820	684090	684633	Yes
+NA	Replicative DNA helicase	ut76_03825	684868	685000	Yes
+NA	DnaA N-terminal domain protein	ut76_03830	685023	685254	Yes
+NA	hypothetical protein	ut76_03835	685341	686112	Yes
+NA	hypothetical protein	ut76_03840	686153	686708	Yes
+NA	ATP-binding protein	ut76_03845	686983	687139	No
+NA	DDE superendonuclease family protein	ut76_03850	687167	687632	No
+NA	hypothetical protein	ut76_03855	688118	688280	Yes
+NA	Putative ompA-like autotransporter	ut76_03860	688434	688608	Yes
+NA	hypothetical protein	ut76_03865	689408	690200	No
+NA	Transposase	ut76_03870	691023	691512	No
+NA	Transposase	ut76_03875	691649	692042	No
+NA	Transposase	ut76_03880	692064	692295	No
+NA	DDE superendonuclease family protein	ut76_03885	692248	692545	No
+fdx	(2Fe-2S) ferredoxin	ut76_03890	692922	693267	Yes
+hscA	molecular chaperone HscA	ut76_03895	693283	695137	Yes
+hscB	co-chaperone HscB	ut76_03900	695123	695627	Yes
+iscA	iron-sulfur cluster assembly accessory protein	ut76_03905	695639	696014	Yes
+iscU	Fe-S cluster assembly scaffold IscU	ut76_03910	696023	696449	Yes
+sufS	cysteine desulfurase	ut76_03915	696488	697760	Yes
+nifS	aminotransferase class V-fold PLP-dependent enzyme	ut76_03920	697774	699061	Yes
+iscR	[Fe-S]-binding protein	ut76_03925	699072	699519	Yes
+NA	alpha/beta hydrolase	ut76_03930	699723	700425	No
+ftsA	cell division protein FtsA	ut76_03940	700730	701978	No
+NA	hypothetical protein	ut76_03945	701956	703267	No
+bcsA	glycosyl transferase	ut76_03950	703251	705003	No
+NA	hypothetical protein	ut76_03955	705045	705210	No
+NA	Transposase	ut76_03960	705401	705821	No
+tlc	ATP/ADP translocase	ut76_03965	706404	707937	No
+tlcC	AAA family ATPase	ut76_03970	708089	709634	No
+NA	hypothetical protein	ut76_03975	709633	711436	No
+ispB	octaprenyl-diphosphate synthase	ut76_03980	711455	712472	No
+NA	Conjugative transfer domain protein	ut76_03985	712631	712787	No
+NA	hypothetical protein	ut76_03990	713075	713243	No
+NA	Conjugal transfer protein TraG	ut76_03995	713483	713603	No
+traG	conjugal transfer protein TraG	ut76_04000	713590	713893	No
+NA	hypothetical protein	ut76_04005	714129	714324	No
+NA	TPR repeat-containing protein 08	ut76_04010	714591	714987	No
+NA	Conjugal transfer protein TraG	ut76_04015	715043	715160	No
+NA	Conjugal transfer protein	ut76_04020	715165	715360	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	ut76_04025	715405	716434	No
+NA	Ankyrin repeat-containing protein 09	ut76_04030	716675	717077	No
+NA	Conjugal transfer protein TraA	ut76_04035	717087	717606	Yes
+NA	hypothetical protein	ut76_04040	717955	718156	Yes
+NA	hypothetical protein	ut76_04045	718131	718242	Yes
+apaG	Co2+/Mg2+ efflux protein ApaG	ut76_04050	718553	718979	No
+pleD	PleD family two-component system response regulator	ut76_04055	719482	720952	Yes
+ubiX	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	ut76_04065	721421	721985	No
+mgtE	magnesium transporter	ut76_04070	722034	722949	Yes
+ybeY	rRNA maturation RNase YbeY	ut76_04075	722961	723465	Yes
+ftsY	signal recognition particle-docking protein FtsY	ut76_04080	726445	727387	Yes
+NA	DUF2660 domain-containing protein	ut76_04085	727498	727888	No
+virB9-1	P-type conjugative transfer protein VirB9	ut76_04090	728139	728904	Yes
+virB8-1	type VI secretion protein	ut76_04095	728893	729595	Yes
+thyA	thymidylate synthase (FAD)	ut76_04110	733159	734062	Yes
+cinA	Competence-damaged protein cinA	ut76_04115	734105	734609	Yes
+pgpA	phosphatidylglycerophosphatase A	ut76_04120	734668	735265	Yes
+perM	AI-2E family transporter	ut76_04125	735564	736617	No
+hemA	5-aminolevulinate synthase	ut76_04130	736626	737838	Yes
+ptrB	S9 family peptidase	ut76_04135	737899	739960	Yes
+rpsT	30S ribosomal protein S20	ut76_04140	740025	740298	Yes
+rplQ	50S ribosomal protein L17	ut76_04145	740379	740817	Yes
+rpoA	DNA-directed RNA polymerase subunit alpha	ut76_04150	740835	741864	Yes
+rpsK	30S ribosomal protein S11	ut76_04155	741912	742293	Yes
+rpsM	30S ribosomal protein S13	ut76_04160	742302	742680	Yes
+adk	adenylate kinase	ut76_04165	742759	743392	Yes
+secY	preprotein translocase subunit SecY	ut76_04170	743400	744708	Yes
+rplO	50S ribosomal protein L15	ut76_04175	744709	745201	Yes
+NA	hypothetical protein	ut76_04180	745299	745446	Yes
+rpsE	30S ribosomal protein S5	ut76_04185	745435	745954	Yes
+rplR	50S ribosomal protein L18	ut76_04190	745974	746349	Yes
+rplF	50S ribosomal protein L6	ut76_04195	746362	746896	Yes
+rpsH	30S ribosomal protein S8	ut76_04200	746923	747325	Yes
+rpsN	30S ribosomal protein S14	ut76_04205	747347	747653	Yes
+rplE	50S ribosomal protein L5	ut76_04210	747671	748241	Yes
+rplX	50S ribosomal protein L24	ut76_04215	748262	748583	Yes
+rplN	50S ribosomal protein L14	ut76_04220	748584	748953	Yes
+rpsQ	30S ribosomal protein S17	ut76_04225	749167	749407	Yes
+rpmC	50S ribosomal protein L29	ut76_04230	749407	749629	Yes
+rplP	50S ribosomal protein L16	ut76_04235	749621	750032	Yes
+rpsC	30S ribosomal protein S3	ut76_04240	750060	750720	Yes
+rplV	50S ribosomal protein L22	ut76_04245	750735	751086	Yes
+rpsS	30S ribosomal protein S19	ut76_04250	751087	751366	Yes
+rplB	50S ribosomal protein L2	ut76_04255	751389	752211	Yes
+rplW	50S ribosomal protein L23	ut76_04260	752211	752508	Yes
+rplD	50S ribosomal protein L4	ut76_04265	752504	753128	Yes
+rplC	50S ribosomal protein L3	ut76_04270	753142	753826	Yes
+rpsJ	30S ribosomal protein S10	ut76_04275	753809	754115	Yes
+tuf	elongation factor Tu	ut76_04280	754159	755344	Yes
+rlmB	23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB	ut76_04295	755807	756536	No
+recA	DNA recombination/repair protein RecA	ut76_04300	756631	757702	No
+fabG	3-oxoacyl-ACP reductase	ut76_04305	757695	758421	No
+acpP	acyl carrier protein	ut76_04310	758543	758930	No
+fabF	beta-ketoacyl-[acyl-carrier-protein] synthase II	ut76_04315	759016	760288	No
+NA	Transposase	ut76_04320	760892	761207	Yes
+NA	Transposase	ut76_04325	761234	761648	Yes
+rpmG	50S ribosomal protein L33	ut76_04330	762728	762899	No
+rpsP	30S ribosomal protein S16	ut76_04335	762907	763231	No
+NA	DDE superendonuclease family protein	ut76_04345	764753	764996	No
+NA	IS5 family transposase ISOt6	ut76_04350	765175	765523	No
+NA	hypothetical protein	ut76_04355	766294	766468	No
+rplT	50S ribosomal protein L20	ut76_04360	767027	767393	Yes
+rpmI	50S ribosomal protein L35	ut76_04365	767412	767619	Yes
+htpG	molecular chaperone HtpG	ut76_04370	768053	769946	No
+dapE	succinyl-diaminopimelate desuccinylase	ut76_04375	770110	771277	No
+tig	trigger factor	ut76_04385	771428	772919	No
+mdlB	multidrug resistance protein	ut76_04390	773422	774991	Yes
+ompR	two-component system response regulator	ut76_04395	775198	775948	Yes
+rpsF	30S ribosomal protein S6	ut76_04400	776226	776583	No
+rpsR	30S ribosomal protein S18	ut76_04405	776628	776937	No
+rplI	50S ribosomal protein L9	ut76_04410	776979	777507	No
+tlcC	AAA family ATPase	ut76_04415	777660	779136	No
+bcp	peroxiredoxin	ut76_04420	780505	780976	Yes
+NA	Integrase	ut76_04425	780984	781410	Yes
+NA	UN-NPL4 domain-containing protein	ut76_04430	781465	781690	Yes
+NA	Transposase	ut76_04435	782272	782773	No
+NA	hypothetical protein	ut76_04440	782952	783141	No
+NA	DUF2748 domain-containing protein	ut76_04455	784999	786343	No
+mnmA	tRNA 2-thiouridine(34) synthase MnmA	ut76_04460	786578	787688	Yes
+NA	Propionyl-CoA carboxylase beta chain	ut76_04465	788091	788229	No
+NA	Propionyl-CoA carboxylase beta chain	ut76_04470	788381	788525	No
+NA	Putative propionyl-CoA carboxylase beta chain 5	ut76_04475	788595	788970	No
+NA	hypothetical protein	ut76_04480	788977	789121	Yes
+NA	Acetyl-/propionyl-coenzyme A carboxylase alpha chain	ut76_04485	789799	790045	No
+NA	Biotin carboxylase	ut76_04490	790162	790720	No
+NA	ATP-binding protein	ut76_04495	790974	791190	No
+NA	ATP-binding protein	ut76_04500	791348	791645	No
+NA	Hydrolase	ut76_04505	791701	791875	No
+NA	Transposase	ut76_04510	792646	793033	Yes
+NA	IS982 family transposase	ut76_04515	793295	794171	Yes
+NA	IS5 family transposase ISOt6	ut76_04520	795210	795447	Yes
+NA	Putative transposase	ut76_04525	795458	795575	Yes
+NA	DDE superendonuclease family protein	ut76_04530	795652	795805	Yes
+hPt	Histidine phosphotransfer protein ChpT, HPt domain	ut76_04535	796006	796684	No
+fumC	class II fumarate hydratase	ut76_04540	796747	798148	No
+pTR2	MFS transporter	ut76_04545	798313	799792	Yes
+NA	hypothetical protein	ut76_04550	800783	801086	Yes
+NA	DnaA-N domain-containing protein	ut76_04560	803820	804738	No
+NA	DnaA-N domain-containing protein	ut76_04565	804840	805374	No
+dnaB	Replicative DNA helicase	ut76_04570	805382	805814	No
+NA	Integrase	ut76_04575	806246	806342	No
+NA	Integrase	ut76_04580	806326	806491	No
+NA	Integrase	ut76_04585	806506	807022	No
+xerD	Site-specific recombinase XerD	ut76_04590	807096	807483	No
+traL	conjugal transfer protein traL, complete TraL	ut76_04595	807535	807871	No
+NA	Conjugal transfer protein TraE	ut76_04600	807870	808266	No
+NA	Conjugal transfer protein TraE	ut76_04605	808269	808422	No
+NA	hypothetical protein	ut76_04610	808418	808655	No
+NA	hypothetical protein	ut76_04615	808715	808988	No
+NA	Conjugal transfer protein	ut76_04620	809025	809295	No
+NA	IS982 family transposase	ut76_04625	809286	810162	Yes
+NA	Conjugal transfer protein TraC	ut76_04630	810811	811354	No
+NA	hypothetical protein	ut76_04635	811473	811695	Yes
+NA	PRANC domain-containing protein	ut76_04640	811672	812662	Yes
+NA	conjugal transfer protein	ut76_04645	813226	813904	No
+traN	conjugal transfer protein TraN	ut76_04650	813944	815741	No
+NA	TPR repeat-containing protein 03	ut76_04655	815992	816481	No
+NA	DUF4065 domain-containing protein	ut76_04660	816591	817152	No
+NA	Conjugal transfer protein	ut76_04665	817163	817406	No
+rpnC	Recombination-promoting DNA endonuclease RpnC/YadD	ut76_04670	817363	817897	Yes
+NA	Conjugal transfer protein TraI	ut76_04675	817948	818206	Yes
+NA	Conjugal transfer protein TraI	ut76_04680	818216	819020	Yes
+NA	Conjugal transfer protein TraA	ut76_04685	819353	820136	Yes
+NA	Conjugal transfer protein TraA	ut76_04690	820192	821335	Yes
+NA	Conjugal transfer protein TraA	ut76_04695	821379	821556	Yes
+traD	conjugal transfer protein TraD, complete TraD	ut76_04700	821834	822293	No
+NA	hypothetical protein	ut76_04705	822365	823616	Yes
+NA	hypothetical protein	ut76_04710	823638	824058	Yes
+NA	transposase	ut76_04715	824292	825195	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_04720	825316	825904	Yes
+baeS	ATP-binding protein	ut76_04725	825945	826440	Yes
+NA	ATP-binding protein	ut76_04730	826436	827384	Yes
+baeS	sensor histidine kinase	ut76_04735	827400	827979	Yes
+baeS	histidine kinase	ut76_04740	828108	828810	Yes
+NA	ATP-binding protein	ut76_04745	828874	829153	Yes
+dam	DNA methyltransferase	ut76_04750	829518	830328	No
+NA	Membrane protein	ut76_04755	830331	830835	Yes
+aNKYR	Ankyrin repeat	ut76_04760	830881	831511	Yes
+NA	replicative DNA helicase	ut76_04765	831746	832829	Yes
+NA	DnaA-N domain-containing protein	ut76_04770	832964	834530	Yes
+bamD	outer membrane protein assembly factor BamD	ut76_04775	835499	836294	Yes
+lspA	Lipoprotein signal peptidase	ut76_04785	836588	837095	No
+NA	Conjugal transfer protein TraA	ut76_04790	837873	838197	No
+traA	conjugal transfer protein TraA	ut76_04795	838206	840507	No
+NA	IS630 family transposase	ut76_04800	840751	841105	Yes
+NA	Conjugal transfer protein TraI	ut76_04805	841788	842073	No
+NA	AAA domain protein	ut76_04810	842038	843121	Yes
+NA	Conjugative transfer protein	ut76_04815	843397	843751	No
+xthA2	exodeoxyribonuclease III	ut76_04820	843998	844784	Yes
+NA	Repeat-containing protein D	ut76_04825	845423	847808	Yes
+NA	IS5 family transposase ISOt6	ut76_04830	848588	848987	No
+NA	RNA-binding protein	ut76_04835	849239	851705	No
+dnaB	Replicative DNA helicase	ut76_04840	851830	852112	Yes
+NA	IS982 family transposase	ut76_04845	852248	852473	Yes
+NA	Transposase	ut76_04850	852599	853088	No
+NA	Transposase DDE domain protein	ut76_04855	853081	853474	No
+NA	hypothetical protein	ut76_04860	853665	853929	No
+xseB	exodeoxyribonuclease VII small subunit	ut76_04865	854904	855144	Yes
+NA	ETC complex I subunit	ut76_04870	855197	855479	No
+ffh	signal recognition particle protein	ut76_04875	856568	857921	No
+cutA	divalent-cation tolerance protein CutA	ut76_04880	857978	858335	No
+NA	hypothetical protein	ut76_04885	859089	859962	No
+gmk	guanylate kinase	ut76_04890	860169	860835	No
+NA	cell surface protein	ut76_04895	860969	863822	No
+NA	IS5 family transposase ISOt6	ut76_04900	864642	864855	No
+NA	IS5 family transposase ISOt6	ut76_04905	864886	865129	No
+argB	acetylglutamate kinase	ut76_04910	865335	866277	Yes
+yihA	YihA family ribosome biogenesis GTP-binding protein	ut76_04915	866224	866848	Yes
+yidC	membrane protein insertase YidC	ut76_04920	866844	868548	Yes
+NA	IS5 family transposase	ut76_04925	869713	870217	No
+NA	hypothetical protein	ut76_04930	870258	870486	Yes
+potE	amino acid permease	ut76_04940	870826	872245	Yes
+NA	hypothetical protein	ut76_04945	872547	873072	No
+gyrB	DNA gyrase subunit B	ut76_04950	873110	875534	Yes
+nagD	TIGR01459 family HAD-type hydrolase	ut76_04955	875648	876509	No
+NA	sodium:proton antiporter	ut76_04965	877064	877394	No
+mnhB	DUF4040 domain-containing protein	ut76_04970	877390	877981	No
+NA	Na(+)/H(+) antiporter subunit B	ut76_04975	878001	878436	No
+mnhC	cation:proton antiporter subunit C	ut76_04980	878419	878815	No
+hyfB	cation:proton antiporter	ut76_04985	878807	880298	No
+erhM	2-hydroxyacid dehydrogenase	ut76_04990	880307	881780	No
+NA	Putative membrane protein	ut76_04995	881848	882058	No
+NA	IS982 family transposase	ut76_05000	882972	883845	No
+mdlB	multidrug ABC transporter ATP-binding protein	ut76_05005	884107	885886	Yes
+pyrH	UMP kinase	ut76_05010	885935	886688	Yes
+mraY	phospho-N-acetylmuramoyl-pentapeptide- transferase	ut76_05015	886916	888008	Yes
+murF	UDP-N-acetylmuramoylalanyl-D-glutamyl-2, 6-diaminopimelate--D-alanyl-D-alanine ligase	ut76_05020	887997	889407	Yes
+murE	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-di aminopimelate ligase	ut76_05025	889403	890873	Yes
+pbpA2	penicillin-binding protein	ut76_05030	890859	892611	Yes
+ftsL	Cell division protein FtsL	ut76_05035	892811	893072	Yes
+rsmH	16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH	ut76_05040	893112	894051	Yes
+dnaJ	molecular chaperone DnaJ	ut76_05045	894119	895253	Yes
+dnaK	molecular chaperone DnaK	ut76_05050	895339	897268	Yes
+bolA	BolA family transcriptional regulator	ut76_05055	897648	897936	Yes
+fabI	enoyl-ACP reductase	ut76_05060	898142	898940	No
+NA	IS630 family transposase	ut76_05065	899143	899269	Yes
+NA	hypothetical protein	ut76_05070	899358	899526	Yes
+NA	Conjugative transfer protein	ut76_05075	900940	901234	No
+midA	SAM-dependent methyltransferase	ut76_05080	902685	903840	No
+NA	IS630 family transposase	ut76_05085	904806	905196	No
+NA	Transposase	ut76_05090	905137	905257	No
+NA	DDE superendonuclease family protein	ut76_05095	905359	905701	No
+tim44	transporter	ut76_05100	905951	906587	No
+glpE	Thiosulfate sulfurtransferase GlpE	ut76_05105	906698	907448	No
+NA	DnaA-N domain-containing protein	ut76_05110	908819	910172	No
+dnaB	replicative DNA helicase	ut76_05115	910180	911617	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_05120	912032	912428	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ut76_05125	912465	913110	No
+NA	Membrane protein	ut76_05130	913100	913658	No
+NA	DNA methyltransferase	ut76_05135	913661	913913	Yes
+dam	DNA methyltransferase	ut76_05140	913866	914241	Yes
+NA	ATP-binding protein	ut76_05145	914607	915105	No
+baeS	Signal transduction histidine kinase	ut76_05150	915207	915336	No
+NA	ATP-binding protein	ut76_05155	915357	915654	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_05160	916233	916746	No
+NA	hypothetical protein	ut76_05165	916896	917139	Yes
+NA	hypothetical protein	ut76_05170	917092	917476	Yes
+traD	conjugal transfer protein TraD, complete TraD	ut76_05175	917572	918028	Yes
+traA	conjugal transfer protein TraA, complete TraA	ut76_05180	918302	921119	No
+NA	Conjugal transfer protein TraI	ut76_05185	921623	922028	No
+NA	Conjugal transfer protein TraI	ut76_05190	922265	922523	No
+NA	transposase	ut76_05195	922574	923534	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	ut76_05200	923543	924578	Yes
+NA	IS982 family transposase	ut76_05205	924631	925507	No
+NA	Conjugal transfer protein	ut76_05210	925498	925786	Yes
+NA	Conjugal transfer protein	ut76_05215	925791	926292	Yes
+NA	TPR repeat-containing protein 08	ut76_05220	926295	927441	Yes
+traG	conjugal transfer protein TraG	ut76_05225	927463	929332	Yes
+traG	conjugal transfer protein TraG	ut76_05230	929392	930103	Yes
+NA	Conjugal transfer protein TraH	ut76_05235	930102	930615	Yes
+NA	Conjugal transfer protein TraH	ut76_05240	930776	931061	Yes
+NA	Conjugal transfer protein TraH	ut76_05245	931032	931392	Yes
+traF	conjugal transfer protein TraF, complete TraF	ut76_05250	931388	932072	Yes
+traN	conjugal transfer protein TraN, complete TraN	ut76_05255	932083	933775	Yes
+NA	Conjugal transfer protein TraC	ut76_05260	933771	935448	Yes
+NA	Conjugal transfer protein TraC	ut76_05265	935510	936407	Yes
+traV	conjugal transfer protein TraV, complete TraV	ut76_05270	936387	936708	Yes
+NA	Conjugal transfer protein	ut76_05275	936707	937169	Yes
+NA	hypothetical protein	ut76_05280	937280	937463	Yes
+NA	hypothetical protein	ut76_05285	937499	937682	Yes
+NA	Conjugal transfer protein TraE	ut76_05290	937678	937831	Yes
+NA	Conjugal transfer protein TraE	ut76_05295	937811	938126	Yes
+NA	hypothetical protein	ut76_05300	938291	938555	Yes
+NA	Site-specific integrase	ut76_05305	938670	939585	Yes
+NA	Integrase	ut76_05310	939749	939845	Yes
+NA	ATP-binding protein	ut76_05315	940277	940406	Yes
+pld	phospholipase D family protein	ut76_05320	940501	941092	No
+NA	IS630 family transposase	ut76_05325	941141	941360	Yes
+NA	Transposase family protein	ut76_05330	941578	941791	No
+NA	Transposase	ut76_05335	942301	942502	No
+NA	Transposase	ut76_05340	942695	942824	Yes
+uvrD	ATP-dependent DNA helicase UvrD	ut76_05345	943678	945829	No
+NA	Transposase	ut76_05350	945820	946138	Yes
+NA	Transposase	ut76_05355	946170	946425	Yes
+NA	Transposase	ut76_05360	946442	946664	Yes
+cysS	cysteine--tRNA ligase	ut76_05365	946811	948248	Yes
+gltX2	glutamate--tRNA ligase 2	ut76_05370	948312	949659	Yes
+mutL	DNA mismatch repair protein MutL	ut76_05375	949838	951881	Yes
+narK	MFS transporter	ut76_05380	951908	953162	Yes
+virB6-4	type VI secretion protein	ut76_05385	953198	955763	Yes
+virB6-3	type VI secretion protein	ut76_05390	955755	959028	Yes
+virB6-2	type VI secretion protein	ut76_05395	959081	962981	Yes
+virB6-1	type VI secretion protein	ut76_05400	963002	965450	Yes
+virB4-1	VirB4 family type IV secretion/conjugal transfer ATPase	ut76_05405	965449	967867	Yes
+virB3	type VI secretion protein	ut76_05410	967877	968165	Yes
+priA	primosomal protein N'	ut76_05415	968480	970421	Yes
+metG	methionine--tRNA ligase	ut76_05420	970607	972143	No
+tatD	DNA-binding protein	ut76_05425	972154	972943	No
+mscC	mechanosensitive ion channel protein MscS	ut76_05430	973891	974758	Yes
+NA	Putative integrase	ut76_05435	975011	975119	No
+NA	hypothetical protein	ut76_05440	975154	975253	No
+rlpA	septal ring lytic transglycosylase RlpA family lipoprotein	ut76_05445	975807	976473	No
+NA	Repeat-containing protein D	ut76_05450	977282	979157	Yes
+NA	hypothetical protein	ut76_05455	979652	979838	No
+NA	hypothetical protein	ut76_05460	979800	979911	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_05465	979995	980571	Yes
+NA	Replicative DNA helicase	ut76_05470	980807	981485	Yes
+NA	DNA helicase	ut76_05475	981487	982255	Yes
+NA	DnaA-N domain-containing protein	ut76_05480	982263	983817	Yes
+NA	hypothetical protein	ut76_05485	985011	985536	No
+tatA	twin-arginine translocase TatA/TatE family subunit	ut76_05490	986011	986170	Yes
+obgE	GTPase ObgE	ut76_05495	986400	987390	Yes
+nrfF	Cytochrome C biogenesis protein	ut76_05500	987409	987787	Yes
+NA	hypothetical protein	ut76_05505	987807	988149	Yes
+yccA	modulator of FtsH protease YccA	ut76_05510	988341	989082	Yes
+rpoZ	DNA-directed RNA polymerase subunit omega	ut76_05515	989398	989788	No
+spoT	bifunctional (p)ppGpp synthase/hydrolase SpoT	ut76_05520	989805	991941	No
+acpS	holo-ACP synthase	ut76_05525	991951	992347	No
+groEL	molecular chaperone GroEL	ut76_05530	993476	995144	Yes
+groES	Co-chaperonin GroES	ut76_05535	995216	995501	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ut76_05540	996435	997608	No
+dnaB	replicative DNA helicase	ut76_05545	998093	999548	Yes
+NA	hypothetical protein	ut76_05550	999981	1000179	Yes
+baeS	Signal transduction histidine kinase	ut76_05555	1000292	1001855	Yes
+raiA	Ribosome-associated translation inhibitor RaiA	ut76_05560	1002138	1002489	No
+NA	Replicative DNA helicase	ut76_05565	1003079	1003283	No
+NA	IS982 family transposase	ut76_05570	1003635	1004511	No
+acnA	Aconitate hydratase A	ut76_05575	1004536	1005322	No
+NA	Putative transposase	ut76_05580	1005791	1005941	No
+NA	Transposase	ut76_05585	1006375	1006690	Yes
+NA	IS982 family transposase	ut76_05590	1006717	1007248	Yes
+ccmA	cytochrome c biogenesis protein CcmA	ut76_05595	1007506	1008112	No
+ccmB	heme exporter protein B	ut76_05600	1008108	1008759	No
+NA	DUF2670 domain-containing protein	ut76_05605	1008904	1010044	No
+petA	ubiquinol-cytochrome c reductase iron-sulfur subunit	ut76_05610	1010155	1010821	No
+qcrB,petB	cytochrome b	ut76_05615	1010961	1012158	No
+NA	IS630 family transposase	ut76_05620	1012570	1012861	Yes
+NA	HTH cro/C1-type domain-containing protein	ut76_05625	1013293	1016227	No
+potE	Serine transporter YbeC, amino acid:H+ symporter family	ut76_05630	1016566	1017850	Yes
+ung	uracil-DNA glycosylase	ut76_05635	1019561	1020368	Yes
+NA	IS5 family transposase ISOt6	ut76_05640	1020692	1021034	No
+NA	IS5 family transposase ISOt6	ut76_05645	1021045	1021288	No
+tPR	Tetratricopeptide (TPR) repeat	ut76_05650	1021396	1021714	Yes
+NA	Transposase	ut76_05655	1021767	1021896	No
+NA	IS982 family transposase	ut76_05660	1022253	1022649	No
+NA	Conjugal transfer protein TraI	ut76_05665	1022640	1023852	Yes
+NA	Conjugal transfer protein TraA	ut76_05670	1024369	1025125	Yes
+NA	Conjugal transfer protein TraA	ut76_05675	1025181	1026324	Yes
+NA	Conjugal transfer protein TraA	ut76_05680	1026368	1026545	Yes
+traD	conjugal transfer protein TraD, complete TraD	ut76_05685	1026818	1027274	No
+NA	hypothetical protein	ut76_05690	1027370	1027754	No
+NA	hypothetical protein	ut76_05695	1027707	1027950	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_05700	1028100	1028613	Yes
+NA	ATP-binding protein	ut76_05705	1029192	1029489	Yes
+baeS	Signal transduction histidine kinase	ut76_05710	1029510	1029639	Yes
+NA	ATP-binding protein	ut76_05715	1029741	1030239	Yes
+dam	DNA methyltransferase	ut76_05720	1030605	1030980	No
+NA	DNA methyltransferase	ut76_05725	1030933	1031185	No
+NA	Membrane protein	ut76_05730	1031188	1031746	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ut76_05735	1031736	1032381	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_05740	1032418	1032814	Yes
+dnaB	replicative DNA helicase	ut76_05745	1033229	1034666	Yes
+NA	DnaA-N domain-containing protein	ut76_05750	1034674	1035106	Yes
+NA	DnaA-N domain-containing protein	ut76_05755	1035124	1036228	Yes
+NA	Conjugal transfer protein TraN	ut76_05760	1036392	1036737	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ut76_05765	1036746	1037118	Yes
+traU	conjugal transfer protein TraU, complete TraU	ut76_05770	1037140	1038085	Yes
+NA	hypothetical protein	ut76_05775	1038118	1038295	Yes
+traW	type-F conjugative transfer system protein TraW, complete TraW	ut76_05780	1038380	1039040	Yes
+NA	Conjugal transfer protein TraC	ut76_05785	1039036	1040554	Yes
+NA	Conjugal transfer protein	ut76_05790	1041135	1041480	Yes
+NA	hypothetical protein, complete TraK-1	ut76_05795	1041518	1042091	Yes
+NA	Conjugal transfer protein TraE	ut76_05800	1042087	1042240	Yes
+NA	Conjugative transfer protein	ut76_05805	1042324	1042585	Yes
+traL	conjugal transfer protein traL, complete TraL	ut76_05810	1042637	1042973	Yes
+bcp	peroxiredoxin	ut76_05815	1043040	1043511	Yes
+NA	Integrase	ut76_05820	1043513	1043675	Yes
+NA	DUF4102 domain-containing protein	ut76_05825	1043721	1043952	Yes
+NA	hypothetical protein	ut76_05830	1044406	1044664	Yes
+NA	hypothetical protein	ut76_05835	1044748	1044880	Yes
+NA	Integrase	ut76_05840	1044988	1045417	Yes
+NA	hypothetical protein	ut76_05845	1045489	1045849	No
+NA	Integrase	ut76_05850	1045837	1046194	Yes
+NA	hypothetical protein	ut76_05855	1047348	1047900	No
+gpsA	glycerol-3-phosphate dehydrogenase (NAD(P)(+))	ut76_05865	1048152	1049145	Yes
+mtaB	tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))- methylthiotransferase MtaB	ut76_05870	1049207	1050479	Yes
+NA	IS982 family transposase	ut76_05875	1050686	1051397	No
+NA	hypothetical protein	ut76_05880	1051757	1052600	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_05885	1053210	1053786	No
+NA	Ankyrin repeat family protein	ut76_05890	1053823	1054135	No
+NA	Ankyrin repeat family protein	ut76_05895	1054239	1054470	No
+NA	Membrane protein	ut76_05900	1054571	1055075	No
+dam	DNA methyltransferase	ut76_05905	1055078	1055888	Yes
+NA	ATP-binding protein	ut76_05910	1056260	1056443	No
+NA	ATP-binding protein	ut76_05915	1056590	1056989	No
+baeS	sensor histidine kinase	ut76_05920	1057109	1057868	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	ut76_05925	1057968	1058481	No
+NA	hypothetical protein	ut76_05930	1058631	1058874	Yes
+NA	hypothetical protein	ut76_05935	1058827	1059211	Yes
+traD	conjugal transfer protein TraD, complete TraD	ut76_05940	1059307	1059763	Yes
+NA	Conjugal transfer protein TraA	ut76_05945	1060036	1060213	No
+NA	Conjugal transfer protein TraA	ut76_05950	1060257	1061400	No
+NA	Conjugal transfer protein TraA	ut76_05955	1061456	1062212	No
+NA	Conjugal transfer protein TraI	ut76_05960	1062478	1063738	No
+NA	Conjugal transfer protein TraI	ut76_05965	1063698	1065147	No
+rpnC	transposase	ut76_05970	1065131	1066124	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	ut76_05975	1066133	1067381	Yes
+NA	Conjugal transfer protein	ut76_05980	1067395	1067887	Yes
+NA	TPR repeat-containing protein 08	ut76_05985	1067892	1069038	Yes
+NA	Putative traG protein	ut76_05990	1069053	1069248	Yes
+traG	conjugal transfer protein TraG, complete TraG	ut76_05995	1069248	1071690	Yes
+NA	Conjugal transfer protein TraH	ut76_06000	1071689	1072202	Yes
+NA	Conjugative relaxosome accessory transposon family protein	ut76_06005	1072363	1072993	Yes
+NA	Conjugal transfer protein	ut76_06010	1072989	1073223	Yes
+NA	Conjugal transfer protein	ut76_06015	1073264	1073675	Yes
+NA	conjugal transfer protein TraN	ut76_06020	1073686	1073800	Yes
+NA	Conjugal transfer protein TraN	ut76_06025	1073827	1074757	Yes
+NA	Conjugal transfer protein TraN	ut76_06030	1074808	1075381	Yes
+NA	Type-F conjugative transfer system pilin assembly protein TrbC	ut76_06035	1075377	1075596	Yes
+virB4	conjugal transfer protein TraC	ut76_06040	1075608	1077624	Yes
+NA	Conjugal transfer protein TraC	ut76_06045	1077660	1077996	Yes
+traV	conjugal transfer protein TraV, complete TraV	ut76_06050	1077976	1078297	Yes
+NA	Conjugal transfer protein	ut76_06055	1078296	1078479	Yes
+NA	conjugative transfer protein	ut76_06060	1078508	1078826	Yes
+NA	IS630 family transposase	ut76_06065	1078825	1078975	Yes
+NA	hypothetical protein	ut76_06070	1078986	1079160	Yes
+NA	Integrase	ut76_06075	1079285	1079462	Yes
+NA	Integrase	ut76_06080	1079506	1079710	Yes
+NA	Integrase	ut76_06085	1079675	1079837	Yes
+NA	Integrase	ut76_06090	1080049	1080517	Yes
+NA	hypothetical protein	ut76_06095	1080663	1080864	Yes
+putP	sodium:proline symporter	ut76_06100	1081162	1084600	Yes
+NA	IS630 family transposase	ut76_06105	1084918	1085125	Yes
+NA	IS630 family transposase	ut76_06110	1085197	1085458	Yes
+araJ	MFS transporter	ut76_06115	1086081	1087281	No
+NA	hypothetical protein	ut76_06120	1087666	1089808	No
+ruvA	Holliday junction branch migration protein RuvA	ut76_06125	1090052	1090670	No
+ruvB	Holliday junction branch migration DNA helicase RuvB	ut76_06130	1090669	1091647	No
+coxC	cytochrome c oxidase subunit III	ut76_06135	1091828	1092653	No
+yraN	Uncharacterised protein family UPF0102	ut76_06140	1093043	1093382	Yes
+NA	MFS transporter	ut76_06145	1093448	1094750	Yes
+NA	hypothetical protein	ut76_06150	1095042	1096521	Yes
+sucB	dihydrolipoamide succinyltransferase	ut76_06155	1096526	1097804	Yes
+sucA	2-oxoglutarate dehydrogenase E1 component	ut76_06160	1097803	1100695	Yes
+sodB	superoxide dismutase	ut76_06165	1100735	1101377	Yes
+NA	hypothetical protein	ut76_06170	1101476	1101647	Yes
+mgtE	magnesium transporter	ut76_06175	1102590	1103859	No
+ccmF	cytochrome C biogenesis protein	ut76_06180	1103848	1105735	No
+NA	hypothetical protein	ut76_06185	1106086	1106191	Yes
+NA	IS630 family transposase	ut76_06190	1107158	1107362	No
+NA	Transposase	ut76_06195	1107826	1108111	No
+NA	IS982 family transposase	ut76_06200	1108305	1108701	No
+NA	DnaA-N domain-containing protein	ut76_06205	1109997	1110498	No
+dnaB	Replicative DNA helicase	ut76_06210	1110539	1111451	No
+NA	Replicative DNA helicase	ut76_06215	1111416	1111593	No
+NA	hypothetical protein	ut76_06220	1111939	1113646	No
+NA	Replicative DNA helicase	ut76_06225	1113659	1113791	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_06230	1114024	1114600	No
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ut76_06235	1114634	1115279	No
+NA	Putative ompA-like autotransporter	ut76_06240	1115325	1115832	No
+dam	DNA-adenine methylase	ut76_06245	1115835	1116468	Yes
+NA	hypothetical protein	ut76_06250	1117197	1117914	No
+NA	hypothetical protein	ut76_06255	1118046	1118202	No
+NA	ATP-binding protein	ut76_06260	1118263	1118992	No
+baeS	sensor histidine kinase	ut76_06265	1119013	1119871	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	ut76_06270	1119971	1120547	No
+NA	hypothetical protein	ut76_06275	1120552	1121080	Yes
+NA	hypothetical protein	ut76_06280	1121232	1121856	Yes
+NA	hypothetical protein	ut76_06285	1121873	1122140	Yes
+aNKYR	Ankyrin repeat	ut76_06290	1122416	1123772	Yes
+NA	Preprotein translocase SecA subunit-like protein	ut76_06295	1124298	1126515	Yes
+traD	conjugal transfer protein TraD, complete TraD	ut76_06300	1126934	1127378	Yes
+NA	Conjugal transfer protein TraA	ut76_06305	1127653	1129000	No
+NA	Conjugal transfer protein TraA	ut76_06310	1128984	1129185	No
+NA	Conjugal transfer protein TraA	ut76_06315	1129218	1130385	No
+NA	Conjugal transfer protein TraA	ut76_06320	1130414	1130558	No
+NA	Conjugal transfer protein TraI	ut76_06325	1130888	1131959	No
+rpnC	transposase	ut76_06330	1131943	1132996	No
+traD	conjugal transfer protein TraD, complete TraD	ut76_06335	1133005	1134751	Yes
+traG	conjugal transfer protein TraG, complete TraG	ut76_06340	1134756	1137261	Yes
+NA	Conjugal transfer protein TraH	ut76_06345	1137260	1137716	Yes
+NA	Conjugal transfer protein TraH	ut76_06350	1137669	1138563	Yes
+NA	Conjugal transfer protein	ut76_06355	1138559	1138838	Yes
+NA	Conjugal transfer protein	ut76_06360	1138841	1139276	Yes
+gepA	DUF4065 domain-containing protein	ut76_06365	1139287	1139848	Yes
+NA	SycD/LcrH family type III secretion system chaperone	ut76_06370	1139958	1140855	Yes
+NA	Conjugative transfer protein	ut76_06375	1141106	1141724	Yes
+NA	Conjugal transfer protein TraN	ut76_06380	1141727	1142795	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ut76_06385	1142791	1143175	Yes
+traU	conjugal transfer protein TraU, complete TraU	ut76_06390	1143197	1144175	Yes
+NA	hypothetical protein	ut76_06395	1144175	1144382	Yes
+virB4	conjugal transfer protein	ut76_06400	1144395	1145481	Yes
+NA	Conjugal transfer protein TraC	ut76_06405	1145506	1146493	Yes
+traV	conjugal transfer protein TraV, complete TraV	ut76_06410	1146473	1146803	Yes
+traB	conjugal transfer protein TraB	ut76_06415	1146826	1147957	Yes
+traK2	conjugal transfer protein traK2, complete TraK-2	ut76_06420	1148085	1148412	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	ut76_06425	1148547	1149036	Yes
+traE	conjugal transfer protein TraE, complete TraE	ut76_06430	1149032	1149584	Yes
+traL	conjugal transfer protein traL, complete TraL	ut76_06435	1149583	1149919	Yes
+xerD	Site-specific recombinase XerD	ut76_06440	1149971	1150358	Yes
+NA	Putative integrase	ut76_06445	1150336	1150948	Yes
+NA	Integrase	ut76_06450	1151112	1151208	Yes
+dnaB	Replicative DNA helicase	ut76_06455	1151640	1152078	Yes
+NA	DnaA-N domain-containing protein	ut76_06460	1152086	1152620	Yes
+NA	hypothetical protein	ut76_06465	1152947	1153166	Yes
+NA	hypothetical protein	ut76_06470	1153494	1154265	No
+comEC	competence protein ComEC	ut76_06475	1154429	1156478	No
+NA	two-component sensor histidine kinase	ut76_06485	1157137	1158715	No
+atoC	sigma-54-dependent Fis family transcriptional regulator	ut76_06490	1158855	1160325	No
+NA	hypothetical protein	ut76_06495	1160361	1162194	No
+NA	Transposase	ut76_06500	1163701	1163893	No
+NA	Ankyrin repeat-containing protein 09	ut76_06505	1164166	1165435	Yes
+mreC	rod shape-determining protein MreC	ut76_06510	1166190	1167042	Yes
+mreB	rod shape-determining protein	ut76_06515	1167048	1168113	Yes
+aceF	dihydrolipoamide acetyltransferase	ut76_06520	1168213	1168516	Yes
+NA	2-oxoacid-dh domain-containing protein	ut76_06525	1168518	1168788	Yes
+NA	hypothetical protein	ut76_06530	1168907	1170887	Yes
+NA	RelA-SpoT domain-containing protein	ut76_06535	1171339	1175701	Yes
+cafA	ribonuclease E	ut76_06540	1176471	1178502	No
+NA	hypothetical protein	ut76_06545	1178551	1178671	No
+NA	hypothetical protein	ut76_06550	1178833	1178965	No
+NA	DnaA-N domain-containing protein	ut76_06555	1179380	1179914	No
+dnaB	replicative DNA helicase	ut76_06560	1179922	1181245	No
+NA	hypothetical protein	ut76_06565	1181209	1181713	Yes
+NA	hypothetical protein	ut76_06570	1183842	1184232	Yes
+NA	Replicative DNA helicase	ut76_06575	1184795	1185029	Yes
+ahpC	alkyl hydroperoxide reductase	ut76_06580	1185624	1186227	No
+dprA	DNA-processing protein DprA	ut76_06585	1186267	1187428	No
+NA	IS5 family transposase ISOt6	ut76_06590	1188056	1188299	No
+NA	Transposase	ut76_06595	1188377	1188551	No
+NA	IS5 family transposase ISOt6	ut76_06600	1188504	1188705	No
+dnaG	DNA primase	ut76_06605	1189144	1190920	No
+rpoD	RNA polymerase sigma factor RpoD	ut76_06610	1190903	1192748	No
+NA	Integrase	ut76_06615	1193800	1193965	No
+NA	Integrase	ut76_06620	1193981	1194263	No
+NA	Integrase	ut76_06625	1194440	1194806	No
+traL	conjugal transfer protein traL, complete TraL	ut76_06630	1195155	1195479	No
+NA	Conjugal transfer protein TraE	ut76_06635	1195478	1195898	No
+NA	Conjugal transfer protein TraE	ut76_06640	1195878	1196031	No
+traK1	conjugal transfer protein traK1	ut76_06645	1196027	1196429	No
+NA	Conjugal transfer protein	ut76_06650	1196540	1197002	No
+NA	Conjugative transfer protein	ut76_06655	1197001	1197238	No
+virB4	conjugal transfer protein TraC	ut76_06660	1197442	1197646	No
+NA	Conjugal transfer protein TraC	ut76_06665	1197682	1199170	No
+NA	Conjugal transfer protein TraC	ut76_06670	1199181	1199697	No
+NA	Type-F conjugative transfer system pilin assembly protein TrbC	ut76_06675	1199709	1199928	No
+NA	Conjugal transfer protein TraN	ut76_06680	1199924	1200497	No
+NA	Conjugal transfer protein TraN	ut76_06685	1200548	1201619	No
+NA	Ankyrin repeat-containing protein 16	ut76_06690	1201682	1202825	No
+NA	Conjugal transfer protein	ut76_06695	1203162	1203465	No
+NA	Conjugal transfer protein	ut76_06700	1203506	1203740	No
+NA	Conjugal transfer protein TraH	ut76_06705	1203736	1204366	No
+NA	Conjugal transfer protein TraH	ut76_06710	1204560	1205040	No
+traG	conjugal transfer protein TraG	ut76_06715	1205039	1205990	No
+NA	Conjugal transfer protein TraC	ut76_06720	1206112	1206529	No
+rmd1	ribonuclease D	ut76_06725	1207130	1208000	Yes
+NA	Conjugal transfer protein	ut76_06730	1208347	1208503	Yes
+NA	Conjugal transfer protein	ut76_06735	1208605	1209037	Yes
+NA	Conjugal transfer protein TraB	ut76_06740	1209012	1209246	Yes
+ctaA	Heme A synthase	ut76_06745	1210313	1211393	Yes
+NA	IS982 family transposase	ut76_06750	1212006	1212882	No
+NA	Conjugal transfer protein TraC	ut76_06755	1212873	1213125	Yes
+traV	conjugal transfer protein TraV, complete TraV	ut76_06760	1213105	1213435	Yes
+NA	Conjugal transfer protein	ut76_06765	1213434	1213617	Yes
+NA	Conjugal transfer protein	ut76_06770	1213725	1213917	Yes
+metL1	aspartate kinase	ut76_06775	1214690	1215905	Yes
+NA	hypothetical protein	ut76_06780	1216186	1216678	Yes
+kch	potassium transporter	ut76_06785	1216664	1218407	Yes
+ygfA	5-formyltetrahydrofolate cyclo-ligase	ut76_06790	1218579	1219152	No
+NA	Colicin V production protein	ut76_06795	1219148	1219763	No
+NA	Conjugal transfer protein TraC	ut76_06800	1219727	1219913	Yes
+tnp-IS630	IS630 family transposase	ut76_06805	1220009	1220384	No
+NA	Transposase	ut76_06810	1220370	1220538	No
+NA	IS630 family transposase	ut76_06815	1220534	1220786	No
+NA	Conjugal transfer protein TraC	ut76_06820	1221025	1221280	Yes
+NA	Conjugal transfer protein TraC	ut76_06825	1221331	1221682	Yes
+NA	DDE superendonuclease family protein	ut76_06830	1221901	1222339	No
+NA	DDE superendonuclease family protein	ut76_06835	1222350	1222725	No
+NA	hypothetical protein	ut76_06840	1222831	1225435	No
+cinB	hypothetical protein (cinB)	ut76_06845	1225475	1227962	No
+NA	Transposase	ut76_06850	1227941	1228373	Yes
+NA	Transposase	ut76_06855	1228372	1228648	Yes
+NA	Transposase DDE domain protein	ut76_06860	1228654	1228876	No
+NA	Conjugal transfer protein TraC	ut76_06865	1228918	1229242	No
+NA	Conjugal transfer protein TraC	ut76_06870	1229428	1230205	No
+NA	Conjugal transfer protein TraC	ut76_06875	1230209	1230479	No
+NA	Conjugal transfer protein TraN	ut76_06880	1230544	1231207	No
+NA	Conjugative transfer protein	ut76_06885	1231209	1231407	No
+NA	Conjugal transfer protein	ut76_06890	1231418	1231538	No
+NA	Conjugal transfer protein	ut76_06895	1231622	1232099	No
+NA	Conjugal transfer protein TraH	ut76_06900	1232099	1232729	No
+NA	Conjugal transfer protein TraH	ut76_06905	1232923	1233178	No
+NA	Conjugal transfer protein	ut76_06910	1233185	1233404	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	ut76_06915	1233502	1234750	No
+NA	transposase	ut76_06920	1234759	1235719	Yes
+NA	Conjugal transfer protein TraI	ut76_06925	1235770	1236670	Yes
+traA	conjugal transfer protein TraA, complete TraA	ut76_06930	1237174	1239994	Yes
+traD	conjugal transfer protein TraD	ut76_06935	1240276	1240651	No
+NA	transposase	ut76_06940	1240799	1241774	Yes
+NA	Hydrolase	ut76_06945	1241895	1242195	Yes
+NA	ATP-binding protein	ut76_06950	1242158	1243082	Yes
+NA	ATP-binding protein	ut76_06955	1243112	1243811	Yes
+NA	Membrane protein	ut76_06960	1244091	1244373	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ut76_06965	1244641	1245286	Yes
+NA	Putative spoT-like ppGpp hydrolase	ut76_06970	1245323	1245521	Yes
+NA	Reverse transcriptase	ut76_06975	1245916	1246228	No
+NA	Reverse transcriptase	ut76_06980	1246327	1246489	No
+lplB	lipoate-protein ligase B	ut76_06985	1247271	1247898	Yes
+murD	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase	ut76_06990	1247980	1249399	No
+ftsW	cell division protein FtsW	ut76_06995	1249405	1250533	No
+murG	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase	ut76_07000	1250536	1251616	No
+NA	Reverse transcriptase	ut76_07005	1252061	1252208	No
+NA	IS5 family transposase ISOt6	ut76_07010	1253643	1253874	Yes
+NA	Transposase	ut76_07015	1253885	1254242	Yes
+NA	hypothetical protein	ut76_07020	1255364	1255661	Yes
+NA	Conjugal transfer protein TraE	ut76_07025	1255657	1255810	Yes
+NA	Conjugative transfer protein	ut76_07030	1255895	1256147	Yes
+hemJ	Uncharacterised protein family (UPF0093)	ut76_07035	1257897	1258332	Yes
+hemH	ferrochelatase	ut76_07040	1258340	1259375	Yes
+hemE	uroporphyrinogen decarboxylase	ut76_07045	1259367	1260396	Yes
+rho	transcription termination factor Rho	ut76_07050	1261886	1263392	No
+NA	Integrase	ut76_07055	1264135	1264324	No
+NA	hypothetical protein	ut76_07060	1264369	1264756	Yes
+NA	Replicative DNA helicase	ut76_07065	1264794	1265073	No
+NA	hypothetical protein	ut76_07070	1265364	1266648	No
+mnmG	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG	ut76_07075	1267287	1269156	No
+tmk	thymidylate kinase	ut76_07080	1269295	1269949	Yes
+zapE	cell division protein ZapE	ut76_07085	1269941	1271015	Yes
+NA	hypothetical protein	ut76_07090	1271061	1271769	Yes
+der	ribosome biogenesis GTPase Der	ut76_07095	1271777	1273142	Yes
+polA	DNA polymerase I	ut76_07100	1273207	1275940	Yes
+panF	sodium:pantothenate symporter	ut76_07105	1276313	1277765	Yes
+dsbG	protein-disulfide isomerase	ut76_07110	1278585	1279416	No
+NA	Transposase family protein	ut76_07115	1279572	1280031	No
+NA	hypothetical protein	ut76_07120	1280027	1280195	No
+NA	Transposase	ut76_07125	1280237	1280450	Yes
+NA	IS982 family transposase	ut76_07130	1280901	1281777	No
+mdh	malate dehydrogenase	ut76_07135	1282796	1284098	Yes
+yfdV	AEC family transporter	ut76_07140	1284117	1285044	Yes
+NA	hypothetical protein	ut76_07145	1285348	1285948	No
+gltA	citrate synthase	ut76_07150	1286011	1286395	No
+NA	IS982 family transposase	ut76_07155	1286391	1286784	Yes
+NA	DnaA-N domain-containing protein	ut76_07160	1286990	1288544	No
+dnaB	replicative DNA helicase	ut76_07165	1288552	1289989	No
+aNKYR	Ankyrin repeat	ut76_07170	1290224	1290854	No
+NA	Membrane protein	ut76_07175	1290844	1291402	No
+NA	DNA methyltransferase	ut76_07180	1291405	1291657	Yes
+dam	DNA methyltransferase	ut76_07185	1291610	1291985	Yes
+NA	ATP-binding protein	ut76_07190	1292366	1292642	No
+baeS	Signal transduction histidine kinase	ut76_07195	1292712	1293276	No
+NA	ATP-binding protein	ut76_07200	1293306	1294242	No
+baeS	ATP-binding protein	ut76_07205	1294260	1294755	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_07210	1294796	1295384	No
+NA	transposase	ut76_07215	1295505	1296384	No
+NA	Conjugal transfer protein TraD	ut76_07220	1296451	1296622	Yes
+NA	IS110 family transposase	ut76_07225	1297052	1297517	Yes
+NA	Tetratricopeptide repeat protein	ut76_07230	1298027	1298153	Yes
+traD	conjugal transfer protein TraD	ut76_07235	1298476	1298872	Yes
+traA	conjugal transfer protein TraA, complete TraA	ut76_07240	1299215	1302035	No
+aNKYR	Ankyrin repeat	ut76_07245	1302113	1303769	Yes
+NA	Transposase	ut76_07250	1304005	1304182	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	ut76_07255	1304191	1305439	Yes
+NA	Conjugal transfer protein	ut76_07260	1305444	1305945	Yes
+NA	TPR repeat-containing protein 08	ut76_07265	1305948	1307094	Yes
+traG	conjugal transfer protein TraG	ut76_07270	1307116	1308985	Yes
+NA	IS982 family transposase	ut76_07275	1309187	1310063	Yes
+traG	conjugal transfer protein TraG	ut76_07280	1310157	1310751	Yes
+NA	Conjugal transfer protein TraH	ut76_07285	1310750	1311263	Yes
+NA	Conjugal transfer protein TraH	ut76_07290	1311424	1311709	Yes
+NA	Conjugal transfer protein TraH	ut76_07295	1311680	1312040	Yes
+NA	Conjugal transfer protein	ut76_07300	1312036	1312483	Yes
+NA	hypothetical protein	ut76_07305	1312840	1313188	Yes
+NA	hypothetical protein	ut76_07310	1313280	1314444	Yes
+NA	Conjugal transfer protein TraN	ut76_07315	1314579	1314960	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ut76_07320	1314956	1315238	Yes
+NA	Conjugal transfer protein	ut76_07325	1315361	1316033	Yes
+NA	hypothetical protein	ut76_07330	1316060	1316255	No
+NA	Transposase	ut76_07335	1316293	1316497	No
+NA	hypothetical protein	ut76_07340	1316579	1317395	Yes
+NA	Conjugal transfer protein TraC	ut76_07345	1317544	1317841	Yes
+NA	Conjugal transfer protein TraC	ut76_07350	1317853	1318213	Yes
+virB4	conjugal transfer protein	ut76_07355	1318238	1318535	Yes
+traV	conjugal transfer protein TraV, complete TraV	ut76_07360	1318515	1318845	Yes
+NA	Conjugal transfer protein	ut76_07365	1318844	1319318	Yes
+NA	Conjugal transfer protein	ut76_07370	1319518	1320172	Yes
+NA	SpoT ppGpp hydrolase	ut76_07375	1320214	1320466	Yes
+NA	hypothetical protein	ut76_07380	1320691	1320997	Yes
+NA	hypothetical protein	ut76_07385	1321096	1321228	Yes
+NA	Reverse transcriptase	ut76_07390	1321526	1321706	No
+NA	hypothetical protein	ut76_07395	1322765	1323278	Yes
+NA	Transposase	ut76_07400	1323806	1324208	No
+NA	hypothetical protein	ut76_07405	1324625	1324784	Yes
+NA	Tetratricopeptide and ankyrin rep with 1 trp repeats	ut76_07410	1324970	1327805	Yes
+NA	DDE superendonuclease family protein	ut76_07415	1328537	1328777	Yes
+NA	Transposase	ut76_07420	1329409	1329520	Yes
+NA	DDE superendonuclease family protein	ut76_07425	1329814	1330189	Yes
+NA	DDE superendonuclease family protein	ut76_07430	1330142	1330556	Yes
+ubiB	ubiquinone biosynthesis protein UbiB	ut76_07435	1330718	1332107	Yes
+coq7	ubiquinone biosynthesis protein	ut76_07440	1332103	1332877	Yes
+rimP	Ribosome maturation factor RimP	ut76_07445	1333405	1333888	No
+nusA	transcription termination/antitermination protein NusA	ut76_07450	1333903	1335406	No
+infB	translation initiation factor IF-2	ut76_07455	1335655	1338196	No
+rbfA	ribosome-binding factor A	ut76_07460	1338226	1338589	No
+NA	Putative transposase	ut76_07465	1338998	1339115	Yes
+NA	IS5 family transposase ISOt6	ut76_07470	1339256	1339439	Yes
+NA	hypothetical protein	ut76_07475	1340069	1340309	No
+NA	hypothetical protein	ut76_07480	1340284	1340812	No
+NA	hypothetical protein	ut76_07485	1340774	1341059	No
+NA	hypothetical protein	ut76_07490	1341143	1341317	No
+NA	Integrase	ut76_07495	1342169	1342331	No
+NA	Integrase	ut76_07500	1342296	1342479	No
+NA	Integrase	ut76_07505	1342475	1342721	No
+traL	conjugal transfer protein traL, complete TraL	ut76_07510	1342846	1343182	No
+NA	Conjugal transfer protein TraE	ut76_07515	1343181	1343364	No
+NA	Conjugal transfer protein	ut76_07520	1343528	1343711	No
+traV	conjugal transfer protein TraV, complete TraV	ut76_07525	1343710	1344031	No
+traC	conjugal transfer protein TraC, complete TraC	ut76_07530	1344011	1346504	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	ut76_07535	1346500	1347160	No
+NA	hypothetical protein	ut76_07540	1347243	1347417	No
+traU	conjugal transfer protein TraU, complete TraU	ut76_07545	1347450	1348395	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ut76_07550	1348417	1348801	No
+traN	conjugal transfer protein TraN	ut76_07555	1348797	1350348	No
+NA	conjugal transfer protein TraN	ut76_07560	1350375	1350489	No
+traF	conjugal transfer protein TraF, complete TraF	ut76_07565	1350500	1351190	No
+NA	Conjugal transfer protein TraH	ut76_07570	1351186	1351816	No
+NA	Conjugal transfer protein TraH	ut76_07575	1352010	1352490	No
+traG	conjugal transfer protein TraG, complete TraG	ut76_07580	1352489	1355141	No
+NA	Tetratricopeptide repeat family protein	ut76_07585	1355156	1356302	No
+traD	conjugal transfer protein TraD, complete TraD	ut76_07590	1356307	1358062	No
+NA	transposase	ut76_07595	1358071	1359055	Yes
+NA	Toprim domain protein	ut76_07600	1359106	1359658	Yes
+NA	Conjugal transfer protein TraI	ut76_07605	1359671	1361255	Yes
+traA	conjugal transfer protein TraA	ut76_07610	1361496	1363506	Yes
+traD	conjugal transfer protein TraD, complete TraD	ut76_07615	1363795	1364239	No
+NA	hypothetical protein	ut76_07620	1364322	1364520	No
+NA	Tetratricopeptide repeat protein	ut76_07625	1364558	1364840	No
+NA	hypothetical protein	ut76_07630	1365356	1366508	Yes
+NA	hypothetical protein	ut76_07635	1366812	1367217	Yes
+NA	Transposase	ut76_07640	1367460	1367580	Yes
+putP	sodium:proline symporter	ut76_07645	1368019	1371457	No
+NA	Transposase DDE domain protein	ut76_07650	1371915	1371990	Yes
+NA	IS5 family transposase ISOt6	ut76_07655	1371971	1372118	Yes
+NA	DDE superendonuclease family protein	ut76_07660	1372121	1372496	Yes
+NA	transposase	ut76_07665	1372581	1373556	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_07670	1373676	1374252	Yes
+NA	ATP-binding protein	ut76_07675	1374831	1375128	Yes
+baeS	Signal transduction histidine kinase	ut76_07680	1375149	1375278	Yes
+NA	ATP-binding protein	ut76_07685	1375380	1375878	Yes
+dam	DNA methyltransferase	ut76_07690	1376244	1376619	No
+NA	DNA methyltransferase	ut76_07695	1376572	1376824	No
+NA	Membrane protein	ut76_07700	1376827	1377385	Yes
+aNKYR	Ankyrin repeat	ut76_07705	1377375	1377876	Yes
+trpS	tryptophan--tRNA ligase	ut76_07710	1378011	1379019	Yes
+NA	DDE-3 domain-containing protein	ut76_07715	1379586	1379826	No
+NA	hypothetical protein	ut76_07720	1380112	1380385	No
+NA	DDE transposase family protein	ut76_07725	1381064	1381337	Yes
+kdpD	hybrid sensor histidine kinase/response regulator	ut76_07730	1381533	1384761	Yes
+NA	hypothetical protein	ut76_07735	1385808	1387203	Yes
+NA	Transposase	ut76_07740	1387540	1387669	Yes
+NA	DDE superendonuclease family protein	ut76_07745	1387672	1387915	Yes
+NA	Transposase	ut76_07750	1387868	1388042	Yes
+NA	IS982 family transposase	ut76_07755	1389173	1390046	Yes
+murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	ut76_07760	1390736	1392002	No
+ftsZ	cell division protein FtsZ	ut76_07765	1392206	1393568	No
+NA	hypothetical protein	ut76_07770	1393651	1394623	No
+gtaF	prohead protease	ut76_07775	1395300	1395855	No
+gtaC	phage major capsid protein	ut76_07780	1395866	1396982	No
+NA	hypothetical protein	ut76_07785	1397015	1397561	No
+NA	head-tail adaptor protein	ut76_07790	1397562	1397904	No
+NA	hypothetical protein	ut76_07795	1397903	1398329	No
+NA	TIGR02217 family protein	ut76_07800	1398321	1398924	No
+gtaA	DUF2163 domain-containing protein	ut76_07805	1398936	1399740	No
+NA	DUF2207 domain-containing protein	ut76_07810	1399837	1400266	No
+grxC	glutaredoxin	ut76_07815	1400473	1400857	No
+NA	hypothetical protein	ut76_07820	1401295	1402906	Yes
+NA	Conjugal transfer protein TraA	ut76_07825	1403561	1403756	Yes
+NA	Conjugal transfer protein TraA	ut76_07830	1403931	1404228	Yes
+NA	Conjugal transfer protein TraD	ut76_07835	1404544	1404637	No
+NA	Transposase	ut76_07840	1404844	1405237	Yes
+NA	DnaA-N domain-containing protein	ut76_07845	1405433	1406987	No
+NA	Replicative DNA helicase	ut76_07850	1407359	1407965	No
+NA	Replicative DNA helicase	ut76_07855	1407909	1408428	No
+NA	RNA-binding protein	ut76_07860	1408516	1408810	Yes
+NA	RNA-binding protein	ut76_07865	1409139	1409745	Yes
+leuS	leucine--tRNA ligase	ut76_07870	1410040	1410250	Yes
+yifB	AAA family ATPase	ut76_07875	1410582	1412094	Yes
+NA	IS110 family transposase	ut76_07880	1412502	1412607	No
+NA	DDE transposase family protein	ut76_07885	1412635	1412824	No
+NA	Ankyrin repeat protein with 8 ankyrin repeats	ut76_07890	1413257	1414742	No
+pepB	leucyl aminopeptidase	ut76_07895	1415547	1417200	No
+mipZ	ATPase MipZ family protein	ut76_07900	1417183	1418035	No
+rpsB	30S ribosomal protein S2	ut76_07905	1418360	1419239	No
+tsf	elongation factor Ts	ut76_07910	1419235	1420162	No
+pheT	phenylalanine--tRNA ligase subunit beta	ut76_07915	1420248	1422690	Yes
+pheS	phenylalanine--tRNA ligase subunit alpha	ut76_07920	1422686	1423721	Yes
+NA	hypothetical protein	ut76_07925	1424626	1424752	Yes
+csa3	IS630 family transposase	ut76_07930	1426599	1427454	No
+fabD	ACP S-malonyltransferase	ut76_07935	1428631	1429570	Yes
+mltE	murein transglycosylase	ut76_07940	1429611	1431609	No
+menH	alpha/beta hydrolase	ut76_07945	1432118	1432886	Yes
+capM	capsule biosynthesis protein CapM	ut76_07950	1432921	1434061	No
+atpB	ATP synthase subunit beta	ut76_07955	1434406	1435843	No
+atpC	ATP synthase subunit epsilon	ut76_07960	1435839	1436244	No
+NA	Transposase	ut76_07965	1436281	1436488	No
+NA	IS982 family transposase	ut76_07970	1436484	1437369	No
+NA	hypothetical protein	ut76_07975	1437618	1438308	No
+NA	IS110 family transposase	ut76_07985	1439591	1439744	Yes
+brkB	Virulence factor BrkB	ut76_07990	1440026	1440872	Yes
+NA	DDE superendonuclease family protein	ut76_07995	1441311	1441686	Yes
+NA	DDE superendonuclease family protein	ut76_08000	1441697	1441814	Yes
+NA	hypothetical protein	ut76_08005	1443477	1443696	Yes
+nuoA	NADH-quinone oxidoreductase subunit A	ut76_08010	1443912	1444284	No
+nuoB	NADH-quinone oxidoreductase subunit B	ut76_08015	1444296	1444812	No
+nuoC	NADH-quinone oxidoreductase subunit C	ut76_08020	1444822	1445413	No
+nuoD	NADH-quinone oxidoreductase subunit D	ut76_08025	1445424	1446615	No
+nuoE	NADH-quinone oxidoreductase subunit E	ut76_08030	1446611	1447166	No
+nuoF	NADH-quinone oxidoreductase subunit F	ut76_08035	1447183	1448452	No
+NA	hypothetical protein	ut76_08040	1448748	1449462	Yes
+NA	IS630 family transposase	ut76_08045	1449760	1450042	No
+tlc	ATP/ADP translocase	ut76_08050	1450594	1452094	No
+NA	TrbC/VIRB2 pilin	ut76_08055	1452342	1452699	No
+NA	TrbC/VIRB2 pilin	ut76_08060	1452769	1453123	No
+ruvC	crossover junction endodeoxyribonuclease RuvC	ut76_08065	1453226	1453778	No
+dusB	tRNA dihydrouridine synthase DusB	ut76_08070	1453833	1454802	No
+yggU	UPF0235 protein OTT_0925	ut76_08075	1454830	1455169	Yes
+ubiG	bifunctional 3-demethylubiquinone 3-O-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase	ut76_08080	1455307	1456048	No
+prmC	peptide chain release factor N(5)-glutamine methyltransferase	ut76_08085	1456034	1456901	Yes
+truA	tRNA pseudouridine(38-40) synthase TruA	ut76_08090	1456902	1457754	Yes
+rplM	50S ribosomal protein L13	ut76_08095	1457895	1458378	No
+rpsI	30S ribosomal protein S9	ut76_08100	1458381	1458873	No
+NA	hypothetical protein	ut76_08110	1459222	1459969	No
+NA	IS630 family transposase	ut76_08115	1463485	1463614	No
+NA	Integrase	ut76_08120	1464725	1465112	No
+NA	Integrase	ut76_08125	1465133	1465670	No
+NA	hypothetical protein	ut76_08130	1465761	1466088	Yes
+NA	Conjugal transfer protein TraE	ut76_08135	1466084	1466237	Yes
+NA	Conjugal transfer protein TraE	ut76_08140	1466217	1466637	Yes
+NA	hypothetical protein	ut76_08145	1466636	1466855	Yes
+NA	hypothetical protein	ut76_08150	1466858	1466960	Yes
+NA	Integrase	ut76_08155	1467097	1467523	Yes
+NA	Integrase	ut76_08160	1467488	1467791	Yes
+NA	Integrase	ut76_08165	1468180	1468324	Yes
+sco1	SCO family protein	ut76_08170	1468775	1469426	Yes
+NA	Transposase	ut76_08175	1470723	1470984	Yes
+NA	IS982 family transposase	ut76_08180	1470961	1471597	Yes
+spo0J	chromosome partitioning protein	ut76_08185	1471891	1472773	Yes
+parA	chromosome partitioning protein ParA	ut76_08190	1472784	1473582	Yes
+rsmG	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG	ut76_08195	1473588	1474185	Yes
+NA	hypothetical protein	ut76_08200	1474215	1474350	No
+tatC	twin-arginine translocase subunit TatC	ut76_08205	1474330	1475098	No
+serS	serine--tRNA ligase	ut76_08210	1475075	1476365	No
+rsmI	16S rRNA (cytidine(1402)-2'-O)-methyltransferase	ut76_08215	1476366	1477224	Yes
+tlc	ATP/ADP translocase	ut76_08225	1477589	1479122	No
+mutS	DNA mismatch repair protein MutS	ut76_08230	1479174	1481868	No
+secF	protein translocase subunit SecF	ut76_08235	1481928	1482855	No
+NA	Transposase	ut76_08240	1483271	1483664	Yes
+NA	Transposase	ut76_08245	1483858	1484143	Yes
+NA	HNH endonuclease	ut76_08250	1484656	1484776	Yes
+clpP	ATP-dependent Clp protease proteolytic subunit	ut76_08255	1485528	1486149	Yes
+NA	Transposase	ut76_08260	1486718	1486979	No
+tnp-IS630	IS630 family transposase	ut76_08265	1486927	1487434	Yes
+NA	Transposase	ut76_08270	1487540	1487798	Yes
+map	type I methionyl aminopeptidase	ut76_08275	1488132	1488927	Yes
+NA	Conjugal transfer protein	ut76_08280	1491134	1491407	Yes
+NA	hypothetical protein	ut76_08285	1492128	1492323	Yes
+NA	hypothetical protein	ut76_08290	1492319	1492484	Yes
+ctrA	DNA-binding response regulator	ut76_08300	1495469	1496207	No
+rnjA	RNase J family beta-CASP ribonuclease	ut76_08305	1496320	1498057	No
+gatC	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferasesubunit C	ut76_08310	1498139	1498439	No
+gatA	glutamyl-tRNA(Gln) amidotransferase subunit A	ut76_08315	1498438	1499917	No
+gatB	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B	ut76_08320	1499919	1501380	No
+NA	Transposase	ut76_08325	1501411	1501663	Yes
+NA	Ankyrin repeat-containing protein	ut76_08330	1502117	1504289	Yes
+NA	hypothetical protein	ut76_08335	1505779	1506475	No
+NA	IS982 family transposase	ut76_08340	1507151	1507547	No
+NA	Transposase	ut76_08345	1507612	1507807	No
+NA	hypothetical protein	ut76_08350	1508191	1509025	No
+ettA	energy-dependent translational throttle protein EttA	ut76_08355	1509163	1510831	No
+NA	DUF2672 domain-containing protein	ut76_08360	1510863	1511235	No
+ftsK	DNA translocase FtsK	ut76_08365	1511325	1513614	No
+NA	IS5 family transposase ISOt6	ut76_08370	1513895	1514270	Yes
+NA	DDE superendonuclease family protein	ut76_08375	1514476	1514719	Yes
+NA	ATP-binding protein	ut76_08380	1515027	1515264	Yes
+NA	IS5 family transposase ISOt6	ut76_08385	1515440	1515566	Yes
+NA	Transposase	ut76_08390	1515594	1515981	Yes
+atpF	ATP synthase subunit b	ut76_08395	1516345	1516810	Yes
+atpF	ATP synthase subunit B	ut76_08400	1516822	1517320	Yes
+atpE	ATP synthase subunit C	ut76_08405	1517327	1517552	Yes
+atpB	ATP synthase subunit A	ut76_08410	1517607	1518336	Yes
+NA	Transposase	ut76_08415	1519392	1519578	Yes
+vut1	queuosine precursor transporter	ut76_08420	1519695	1520370	No
+NA	hypothetical protein	ut76_08425	1520762	1520942	No
+ppdK	pyruvate, phosphate dikinase	ut76_08430	1521561	1524267	Yes
+NA	Transposase	ut76_08435	1525363	1525585	Yes
+NA	Repeat-containing protein D	ut76_08440	1525809	1527921	No
+NA	hypothetical protein	ut76_08445	1528088	1528274	Yes
+xthA2	exodeoxyribonuclease III	ut76_08450	1528535	1529321	No
+traD	conjugal transfer protein TraD, complete TraD	ut76_08455	1529362	1529806	Yes
+traA	conjugal transfer protein TraA	ut76_08460	1530095	1532105	No
+NA	Conjugal transfer protein TraI	ut76_08465	1532346	1533930	No
+NA	Toprim domain protein	ut76_08470	1533943	1534495	No
+NA	transposase	ut76_08475	1534546	1535542	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	ut76_08480	1535551	1536643	Yes
+NA	Transposase	ut76_08485	1537021	1537396	Yes
+NA	Transposase	ut76_08490	1537349	1537691	Yes
+tnp-IS630	IS630 family transposase	ut76_08495	1537691	1538198	Yes
+NA	IS5 family transposase ISOt6	ut76_08500	1538989	1539118	No
+NA	hypothetical protein	ut76_08505	1539237	1541709	Yes
+NA	Conjugal transfer protein TraD	ut76_08510	1542387	1542717	Yes
+NA	Conjugal transfer protein TraD	ut76_08515	1542777	1543122	Yes
+NA	TPR repeat-containing protein 01_02	ut76_08520	1543127	1543385	Yes
+NA	TPR repeat family protein	ut76_08525	1543481	1543793	Yes
+traG	conjugal transfer protein TraG	ut76_08530	1543833	1544619	Yes
+NA	Conjugal transfer protein TraH	ut76_08535	1544672	1544900	Yes
+NA	Conjugal transfer protein TraH	ut76_08540	1545088	1545718	Yes
+NA	Conjugal transfer protein	ut76_08545	1545714	1545948	Yes
+NA	Conjugal transfer protein	ut76_08550	1545989	1546292	Yes
+gepA	DUF4065 domain-containing protein	ut76_08555	1546580	1547006	Yes
+NA	TPR repeat-containing protein 03	ut76_08560	1547115	1547808	Yes
+NA	Conjugal transfer protein TraN	ut76_08565	1548059	1548170	Yes
+NA	Conjugal transfer protein TraN	ut76_08570	1548343	1549126	Yes
+NA	Conjugal transfer protein TraN	ut76_08575	1549177	1549750	Yes
+NA	Type-F conjugative transfer system pilin assembly protein TrbC	ut76_08580	1549746	1549965	Yes
+virB4	conjugal transfer protein TraC	ut76_08585	1549977	1551993	Yes
+NA	Conjugal transfer protein TraC	ut76_08590	1552029	1552365	Yes
+traV	conjugal transfer protein TraV, complete TraV	ut76_08595	1552345	1552666	Yes
+NA	Conjugal transfer protein	ut76_08600	1552665	1552848	Yes
+NA	conjugative transfer protein	ut76_08605	1552877	1553195	Yes
+NA	IS630 family transposase	ut76_08610	1553194	1553344	Yes
+NA	hypothetical protein	ut76_08615	1553355	1553529	Yes
+NA	Integrase	ut76_08620	1553654	1553831	Yes
+NA	Integrase	ut76_08625	1553875	1554079	Yes
+NA	Integrase	ut76_08630	1554044	1554206	Yes
+NA	Integrase	ut76_08635	1554418	1554886	Yes
+NA	hypothetical protein	ut76_08640	1555032	1555233	Yes
+putP	sodium:proline symporter	ut76_08645	1555531	1558969	Yes
+dnaQ	DNA polymerase III subunit epsilon	ut76_08650	1559722	1560391	No
+cdnL	CarD family transcriptional regulator	ut76_08655	1560609	1561119	No
+tsaD	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD	ut76_08660	1561142	1562177	No
+nadK	NAD kinase	ut76_08665	1562193	1562985	No
+NA	hypothetical protein	ut76_08670	1563084	1564305	Yes
+tolR	protein TolR	ut76_08675	1564291	1564750	Yes
+tolQ	protein TolQ	ut76_08680	1564755	1565445	Yes
+hemB	porphobilinogen synthase	ut76_08685	1565614	1566628	No
+NA	IS630 family transposase	ut76_08690	1566848	1567013	Yes
+NA	hypothetical protein	ut76_08695	1567323	1568007	No
+NA	hypothetical protein	ut76_08700	1568249	1569779	No
+prfA	peptide chain release factor 1	ut76_08705	1570096	1570960	Yes
+lepA	elongation factor 4	ut76_08710	1571351	1573157	No
+NA	hypothetical protein	ut76_08715	1573465	1573726	No
+NA	Conjugal transfer protein TraE	ut76_08720	1573725	1573938	No
+NA	peptidase	ut76_08725	1574748	1575609	Yes
+ssb	single-stranded DNA-binding protein	ut76_08730	1575687	1576155	Yes
+NA	Transposase	ut76_08735	1576423	1576906	No
+NA	Integrase	ut76_08740	1577284	1577449	No
+NA	Integrase	ut76_08745	1577465	1577759	No
+NA	Integrase	ut76_08750	1577971	1578133	No
+NA	Integrase	ut76_08755	1578098	1578302	No
+NA	Integrase	ut76_08760	1578346	1578523	No
+traL	conjugal transfer protein traL, complete TraL	ut76_08765	1578648	1578984	No
+traE	conjugal transfer protein TraE, complete TraE	ut76_08770	1578983	1579535	No
+NA	hypothetical protein	ut76_08775	1579531	1579858	No
+NA	Conjugal transfer protein	ut76_08780	1579932	1580091	No
+NA	Conjugal transfer protein TraI	ut76_08785	1580354	1580642	Yes
+NA	Repeat-containing protein E_01	ut76_08790	1580982	1581594	Yes
+NA	Conjugal transfer protein TraA	ut76_08795	1581760	1581904	Yes
+NA	Conjugal transfer protein TraA	ut76_08800	1581933	1583100	Yes
+NA	Conjugal transfer protein TraA	ut76_08805	1583133	1583334	Yes
+NA	Conjugal transfer protein TraA	ut76_08810	1583318	1584110	Yes
+NA	Conjugal transfer protein TraA	ut76_08815	1584207	1584504	Yes
+NA	hypothetical protein	ut76_08820	1584816	1586157	No
+traD	conjugal transfer protein TraD, complete TraD	ut76_08825	1586202	1586646	No
+NA	Preprotein translocase SecA subunit-like protein	ut76_08830	1587065	1589282	No
+NA	Ankyrin repeat-containing protein 14	ut76_08835	1589807	1591097	No
+NA	hypothetical protein	ut76_08840	1591661	1592285	No
+NA	hypothetical protein	ut76_08845	1592437	1592965	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_08850	1592970	1593390	Yes
+NA	ATP-binding protein	ut76_08855	1593866	1594028	Yes
+NA	ATP-binding protein	ut76_08860	1594208	1594505	Yes
+NA	ATP-binding protein	ut76_08865	1594526	1594655	Yes
+NA	ATP-binding protein	ut76_08870	1594757	1595255	Yes
+dam	DNA methyltransferase	ut76_08875	1595621	1595996	No
+NA	DNA methyltransferase	ut76_08880	1595949	1596201	No
+NA	Membrane protein	ut76_08885	1596204	1596762	Yes
+aNKYR	Ankyrin repeat	ut76_08890	1596752	1597382	Yes
+dnaB	replicative DNA helicase	ut76_08895	1597776	1599054	Yes
+NA	DnaA-N domain-containing protein	ut76_08900	1599062	1599740	Yes
+NA	hypothetical protein	ut76_08905	1600901	1602689	No
+gtaD	phage portal protein	ut76_08910	1602822	1604013	No
+NA	hypothetical protein	ut76_08915	1604031	1604298	No
+hipB	XRE family transcriptional regulator	ut76_08920	1604786	1605026	Yes
+scaC	ScaC autotransporter protein	ut76_08925	1605204	1606758	No
+NA	ankyrin repeat domain-containing protein	ut76_08935	1608563	1609250	No
+NA	hypothetical protein	ut76_08940	1609728	1610811	No
+NA	Conjugal transfer protein	ut76_08945	1611386	1611956	Yes
+NA	Type-F conjugative transfer system protein TraW	ut76_08950	1612250	1612565	Yes
+NA	hypothetical protein	ut76_08955	1613149	1613323	Yes
+NA	Transposase	ut76_08960	1614252	1614465	No
+cflA	Bcr/CflA family drug resistance efflux transporter	ut76_08965	1614629	1615811	Yes
+NA	DNA helicase	ut76_08970	1617106	1617709	No
+NA	Replicative DNA helicase	ut76_08975	1617954	1618143	No
+NA	(P)pGpp hydrolase	ut76_08980	1618430	1618847	No
+kdpD	K+-sensing histidine kinase KdpD	ut76_08985	1619030	1619699	No
+baeS	ATP-binding protein	ut76_08990	1619721	1620090	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	ut76_08995	1620199	1620988	No
+NA	hypothetical protein	ut76_09000	1621165	1622197	Yes
+NA	Conjugal transfer protein TraA	ut76_09005	1622393	1622597	No
+NA	Conjugal transfer protein TraA	ut76_09010	1622785	1623436	No
+NA	Conjugal transfer protein TraI	ut76_09015	1623766	1624534	No
+NA	transposase	ut76_09020	1624584	1625532	No
+NA	conjugal transfer protein	ut76_09025	1625541	1625751	Yes
+NA	Conjugal transfer protein	ut76_09030	1625847	1626807	Yes
+NA	Conjugal transfer protein	ut76_09035	1626782	1627112	Yes
+NA	Conjugal transfer protein TraH	ut76_09040	1627119	1627374	Yes
+NA	Conjugal transfer protein TraH	ut76_09045	1627568	1628198	Yes
+NA	Conjugal transfer protein	ut76_09050	1628194	1628428	Yes
+NA	Conjugal transfer protein	ut76_09055	1628469	1628880	Yes
+NA	Conjugal transfer protein TraN	ut76_09060	1628891	1629176	Yes
+NA	Integrase	ut76_09065	1629598	1630198	No
+NA	Integrase	ut76_09070	1630320	1630815	No
+traL	conjugal transfer protein traL, complete TraL	ut76_09075	1630935	1631271	No
+NA	Type-F conjugative transfer system protein TraW	ut76_09080	1631270	1631483	No
+NA	Conjugal transfer protein TraE	ut76_09085	1631498	1631663	No
+NA	Putative conjugative transfer protein TraE	ut76_09090	1631671	1631824	No
+traK1	conjugal transfer protein traK1, complete TraK-1	ut76_09095	1631820	1632297	No
+NA	Conjugative transfer domain protein	ut76_09100	1632443	1632695	No
+traK2	conjugal transfer protein traK2, complete TraK-2	ut76_09105	1632796	1633129	No
+NA	Conjugal transfer protein	ut76_09110	1633167	1633812	No
+NA	Conjugal transfer protein	ut76_09115	1634020	1634494	No
+traV	conjugal transfer protein TraV, complete TraV	ut76_09120	1634493	1634823	No
+virB4	conjugal transfer protein TraC	ut76_09125	1634803	1636522	No
+NA	Ankyrin repeat-containing protein	ut76_09130	1636502	1637492	Yes
+NA	Conjugative transfer protein	ut76_09135	1637658	1637883	No
+NA	Conjugative transfer protein	ut76_09140	1638003	1638231	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ut76_09145	1638253	1638637	No
+traN	conjugal transfer protein TraN, complete TraN	ut76_09150	1638633	1640247	No
+NA	Ankyrin repeat domain-containing protein	ut76_09155	1640487	1641252	No
+NA	Conjugal transfer protein	ut76_09160	1641544	1642078	No
+NA	Conjugal transfer protein	ut76_09165	1642029	1642263	No
+NA	IS5 family transposase ISOt6	ut76_09170	1642306	1642549	Yes
+NA	Transposase	ut76_09175	1642538	1642745	Yes
+NA	Membrane protein	ut76_09180	1642995	1643652	Yes
+NA	Ankyrin repeat family protein	ut76_09185	1643648	1644503	Yes
+NA	DnaA-N domain-containing protein	ut76_09190	1644728	1645595	Yes
+NA	hypothetical protein	ut76_09195	1646277	1646400	Yes
+NA	Conjugal transfer protein	ut76_09200	1646616	1647030	Yes
+NA	Reverse transcriptase	ut76_09205	1647450	1647585	Yes
+ypwA	carboxypeptidase M32	ut76_09210	1648373	1649864	No
+mgtE	magnesium transporter	ut76_09215	1649963	1651328	Yes
+holB2	DNA polymerase III subunit delta	ut76_09225	1651516	1652536	Yes
+leuS	leucine--tRNA ligase	ut76_09230	1652555	1655075	Yes
+pcaH	intradiol ring-cleavage dioxygenase	ut76_09235	1655679	1656411	Yes
+NA	hypothetical protein	ut76_09240	1656789	1656897	Yes
+ppx	exopolyphosphatase	ut76_09245	1657946	1659395	Yes
+NA	Transposase	ut76_09250	1660190	1660583	Yes
+NA	Transposase	ut76_09255	1660740	1661106	Yes
+NA	hypothetical protein	ut76_09260	1661733	1662177	Yes
+NA	Ankyrin repeat-containing protein 07_01	ut76_09265	1662160	1662547	Yes
+NA	Replicative DNA helicase	ut76_09270	1663430	1664102	Yes
+NA	DNA helicase	ut76_09275	1664197	1664497	Yes
+NA	DnaA-N domain-containing protein	ut76_09280	1664505	1665252	Yes
+NA	hypothetical protein	ut76_09285	1665538	1666072	Yes
+NA	Transposase	ut76_09290	1666279	1666672	No
+NA	Transposase	ut76_09295	1667336	1667450	No
+NA	Transposase	ut76_09300	1667415	1667601	No
+NA	Transposase	ut76_09305	1667601	1667811	No
+NA	DUF2659 domain-containing protein	ut76_09310	1668001	1668679	No
+bamB	outer membrane protein assembly factor BamB	ut76_09315	1668738	1670091	No
+NA	Transposase	ut76_09320	1670534	1670657	Yes
+tsaC	threonylcarbamoyl-AMP synthase	ut76_09325	1671994	1672951	Yes
+glyS	glycine--tRNA ligase subunit beta	ut76_09330	1672940	1674992	Yes
+glyQ	glycine--tRNA ligase subunit alpha	ut76_09335	1674984	1675863	Yes
+tsa56	type-specific antigen TSA56	ut76_09340	1676405	1678016	No
+NA	Type specific antigen	ut76_09345	1678245	1678977	No
+murC	UDP-N-acetylmuramate--L-alanine ligase	ut76_09350	1679145	1680654	No
+murB	UDP-N-acetylenolpyruvoylglucosamine reductase	ut76_09355	1680622	1681534	No
+ddl	D-alanine--D-alanine ligase	ut76_09360	1681511	1682486	No
+ftsQ	cell division protein FtsQ	ut76_09365	1682478	1683309	No
+recF	DNA replication/repair protein RecF	ut76_09370	1683326	1684466	No
+NA	Transposase	ut76_09375	1684618	1685032	Yes
+NA	Conjugal transfer protein TraH	ut76_09380	1685546	1685696	No
+NA	Transposase	ut76_09385	1685724	1685901	No
+NA	IS5 family transposase ISOt6	ut76_09390	1686044	1686161	No
+NA	IS5 family transposase ISOt6	ut76_09395	1686230	1686542	No
+NA	Ankyrin	ut76_09400	1686902	1687079	Yes
+NA	Ankyrin repeat family protein	ut76_09405	1687419	1687632	Yes
+NA	DnaA-N domain-containing protein	ut76_09410	1688359	1688761	Yes
+rppH	RNA pyrophosphohydrolase	ut76_09415	1689130	1689616	No
+NA	Conjugal transfer protein TraA	ut76_09420	1690680	1690800	No
+NA	Putative conjugative transfer protein TraA	ut76_09425	1690863	1690974	No
+traA	conjugal transfer protein TraA	ut76_09430	1691013	1693245	No
+secA	preprotein translocase subunit SecA	ut76_09435	1693736	1696379	Yes
+NA	peptidylprolyl isomerase	ut76_09440	1696624	1697656	No
+folC	bifunctional folylpolyglutamate synthase/dihydrofolate synthase	ut76_09445	1697756	1699088	Yes
+thrS	threonine--tRNA ligase	ut76_09450	1699345	1701292	No
+infC	translation initiation factor IF-3	ut76_09455	1701302	1701848	No
+dut	deoxyuridine 5'-triphosphate nucleotidohydrolase	ut76_09460	1702016	1702463	No
+atpH	ATP synthase subunit delta	ut76_09465	1702557	1703103	No
+atpA	ATP synthase subunit alpha	ut76_09470	1703145	1704684	No
+atpG	ATPase	ut76_09475	1704698	1705589	No
+NA	hypothetical protein	ut76_09480	1705599	1706232	Yes
+NA	hypothetical protein	ut76_09485	1706233	1707847	Yes
+alaS	alanine--tRNA ligase	ut76_09490	1707979	1710646	No
+gltX	glutamate--tRNA ligase	ut76_09495	1710820	1712278	No
+iscA	iron-sulfur cluster assembly accessory protein	ut76_09500	1712278	1712623	Yes
+argS	arginine--tRNA ligase	ut76_09505	1712787	1714560	No
+NA	SPOR domain-containing protein	ut76_09510	1714571	1715324	No
+NA	IS5 family transposase ISOt6	ut76_09515	1715386	1715731	No
+NA	Transposase DDE domain protein	ut76_09520	1715720	1716050	No
+NA	Transposase	ut76_09525	1716225	1716336	Yes
+NA	Transposase	ut76_09530	1716363	1716624	Yes
+NA	ATP-binding protein	ut76_09535	1716958	1717621	No
+NA	ATP-binding protein	ut76_09540	1717637	1718132	No
+NA	ATP-binding protein	ut76_09545	1718218	1718575	No
+baeS	ATP-binding protein	ut76_09550	1718593	1719088	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_09555	1719129	1719717	No
+NA	transposase	ut76_09560	1719838	1720789	No
+traD	conjugal transfer protein TraD, complete TraD	ut76_09565	1720856	1721312	Yes
+NA	Conjugal transfer protein TraA	ut76_09570	1721587	1722628	No
+NA	hypothetical protein	ut76_09575	1722961	1724770	No
+NA	transposase	ut76_09580	1725393	1726365	No
+traD	conjugal transfer protein TraD, complete TraD	ut76_09585	1726374	1728129	Yes
+NA	TPR repeat-containing protein 08	ut76_09590	1728134	1729274	Yes
+traG	conjugal transfer protein TraG, complete TraG	ut76_09595	1729286	1731944	Yes
+traH	conjugal transfer protein TraH, complete TraH	ut76_09600	1731943	1733245	Yes
+NA	Conjugal transfer protein	ut76_09605	1733241	1733475	Yes
+NA	Conjugal transfer protein	ut76_09610	1733516	1733966	Yes
+NA	Ankyrin repeat domain-containing protein	ut76_09615	1734159	1735395	Yes
+NA	Conjugal transfer protein TraN	ut76_09620	1735559	1735748	Yes
+NA	Conjugal transfer protein TraN	ut76_09625	1735782	1736739	Yes
+NA	Conjugal transfer protein TraN	ut76_09630	1736710	1737160	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ut76_09635	1737156	1737438	Yes
+NA	Conjugal transfer protein	ut76_09640	1737566	1738244	Yes
+NA	Ankyrin repeat-containing protein 01_02	ut76_09645	1738620	1739661	No
+NA	Conjugal transfer protein TraC	ut76_09650	1739568	1739961	Yes
+NA	Conjugative transfer protein TraC	ut76_09655	1740058	1740406	Yes
+traV	conjugal transfer protein TraV, complete TraV	ut76_09660	1740386	1740716	Yes
+NA	Conjugal transfer protein	ut76_09665	1740715	1741177	Yes
+NA	Integrase	ut76_09670	1741316	1742426	Yes
+NA	Ankyrin repeat family protein	ut76_09675	1743785	1745069	No
+NA	IS5 family transposase ISOt6	ut76_09680	1745709	1746084	Yes
+NA	Transposase	ut76_09685	1746095	1746452	Yes
+NA	IS5 family transposase ISOt6	ut76_09690	1746461	1746557	Yes
+NA	Reverse transcriptase	ut76_09695	1747972	1748239	No
+NA	Reverse transcriptase	ut76_09700	1748210	1748450	No
+NA	DUF3857 domain-containing protein	ut76_09705	1749484	1751413	Yes
+NA	DUF3857 domain-containing protein	ut76_09710	1751458	1753357	Yes
+rhaT	membrane protein	ut76_09715	1753506	1754427	No
+radA	DNA repair protein RadA	ut76_09720	1754464	1755820	Yes
+rsmD	16S rRNA (guanine(966)-N(2))-methyltransferase RsmD	ut76_09725	1755819	1756392	Yes
+fabZ	beta-hydroxyacyl-ACP dehydratase	ut76_09730	1756405	1756897	Yes
+surf1	surfeit locus protein 1	ut76_09735	1757138	1757861	No
+NA	conjugal transfer protein	ut76_09740	1757855	1758335	Yes
+xerD	site-specific tyrosine recombinase XerD	ut76_09745	1758665	1759595	Yes
+tolC	TolC family protein	ut76_09755	1759938	1761312	No
+popZ	Cell pole-organizing protein PopZ	ut76_09760	1761362	1761929	No
+NA	hypothetical protein	ut76_09765	1761930	1763775	No
+trmD	tRNA (guanine(37)-N(1))-methyltransferase	ut76_09770	1763822	1764587	No
+rplS	50S ribosomal protein L19	ut76_09775	1764583	1764958	No
+recD	ATP-dependent RecD-like DNA helicase	ut76_09780	1764984	1767180	No
+ilvE	branched chain amino acid aminotransferase	ut76_09785	1767801	1768704	No
+dapA	4-hydroxy-tetrahydrodipicolinate synthase	ut76_09790	1768684	1769581	No
+smpB	SsrA-binding protein SmpB	ut76_09795	1769583	1770045	No
+sppA	signal peptide peptidase SppA	ut76_09800	1770065	1770974	No
+lipA	lipoyl synthase	ut76_09805	1770984	1771893	No
+yfjG	ubiquinone-binding protein	ut76_09810	1771913	1772360	No
+NA	Phosphoribosylaminoimidazolesuccinocarboxamide synthase	ut76_09815	1772440	1772569	No
+NA	Phosphoribosylaminoimidazolesuccinocarboxamide synthase	ut76_09820	1772565	1772958	No
+NA	Integrase	ut76_09825	1774193	1774538	No
+NA	Integrase	ut76_09830	1774747	1775290	No
+traL	conjugal transfer protein traL, complete TraL	ut76_09835	1775573	1775909	No
+NA	Conjugal transfer protein TraE	ut76_09840	1775908	1776301	No
+NA	Conjugal transfer protein TraE	ut76_09845	1776309	1776462	No
+NA	hypothetical protein	ut76_09850	1776458	1776659	No
+NA	hypothetical protein	ut76_09855	1776628	1776859	No
+NA	Conjugal transfer protein	ut76_09860	1776958	1777441	No
+traV	conjugal transfer protein TraV, complete TraV	ut76_09865	1777440	1777770	No
+NA	Conjugal transfer protein TraC	ut76_09870	1777882	1778587	No
+NA	Ankyrin repeat-containing protein	ut76_09875	1778390	1778918	Yes
+NA	hypothetical protein	ut76_09880	1779146	1779344	Yes
+NA	Conjugal transfer protein TraD	ut76_09885	1779490	1779757	Yes
+NA	IS110 family transposase	ut76_09890	1780158	1780368	No
+tnp-IS630	IS630 family transposase	ut76_09895	1780513	1780795	No
+tnp-IS630	IS630 family transposase	ut76_09900	1780874	1781381	No
+NA	IS5 family transposase ISOt6	ut76_09905	1781396	1781666	No
+rpmJ	50S ribosomal protein L36	ut76_09910	1783242	1783368	Yes
+NA	Thioredoxin	ut76_09915	1784454	1784781	Yes
+bamA	outer membrane protein assembly factor BamA	ut76_09920	1784803	1787122	Yes
+rseP	RIP metalloprotease RseP	ut76_09925	1787134	1788196	Yes
+rmuC	DNA recombination protein RmuC	ut76_09930	1788305	1789655	Yes
+rsmA	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase	ut76_09935	1789715	1790537	Yes
+surA	Chaperone SurA	ut76_09940	1790656	1791532	Yes
+himA	Bacterial nucleoid DNA-binding protein IHF-alpha	ut76_09945	1791714	1792023	Yes
+znuA	zinc ABC transporter substrate-binding protein	ut76_09955	1792558	1793455	Yes
+pcnB	poly(A) polymerase	ut76_09960	1793451	1794660	Yes
+gltP	dicarboxylate/amino acid:cation symporter	ut76_09965	1794712	1795909	Yes
+uvrD	ATP-dependent DNA helicase UvrD	ut76_09970	1796089	1799557	Yes
+sixA	phosphohistidine phosphatase	ut76_09975	1799569	1800043	Yes
+dapB	dihydrodipicolinate reductase	ut76_09980	1800124	1800976	Yes
+hisJ	amino acid ABC transporter substrate-binding protein	ut76_09985	1800982	1801786	Yes
+coxW	cytochrome c oxidase assembly protein	ut76_09990	1802210	1802738	No
+rpmF	50S ribosomal protein L32	ut76_09995	1803013	1803220	Yes
+bamE	SmpA / OmlA family	ut76_10000	1803316	1803682	No
+era	GTPase Era	ut76_10005	1804041	1804962	Yes
+NA	Peptidylprolyl isomerase	ut76_10010	1804958	1805981	Yes
+prfA	peptide chain release factor 1	ut76_10015	1806185	1807265	Yes
+NA	IS982 family transposase	ut76_10020	1807659	1808532	Yes
+dam	DNA methyltransferase	ut76_10025	1809028	1809169	No
+NA	Transposase	ut76_10030	1809391	1809784	No
+pepA	aminopeptidase	ut76_10035	1810025	1811798	Yes
+ligA	DNA ligase (NAD(+)) LigA	ut76_10040	1811794	1813894	Yes
+tadA	tRNA-specific adenosine deaminase	ut76_10045	1813957	1814419	Yes
+fieF	Cation efflux family	ut76_10050	1814480	1815398	Yes
+NA	Helix-turn-helix family protein	ut76_10055	1815676	1816489	No
+nifU	NifU family protein	ut76_10060	1817634	1818183	Yes
+grxD	Grx4 family monothiol glutaredoxin	ut76_10065	1818241	1818595	Yes
+nth	endonuclease III	ut76_10070	1818670	1819309	No
+ypfH	esterase	ut76_10075	1819305	1819938	No
+menE,fadK	acyl-[ACP]--phospholipid O-acyltransferase	ut76_10080	1820257	1823731	No
+NA	DDE superendonuclease family protein	ut76_10085	1824489	1824666	No
+NA	Transposase	ut76_10090	1824706	1824910	No
+rnc	ribonuclease III	ut76_10095	1825095	1825836	Yes
+lepB	signal peptidase I	ut76_10100	1825890	1826631	Yes
+NA	IS982 family transposase	ut76_10105	1827176	1828052	No
+NA	Site-specific DNA-methyltransferase (adenine-specific)	ut76_10110	1828035	1828344	Yes
+NA	ATP-binding protein	ut76_10115	1828710	1829208	No
+baeS	Signal transduction histidine kinase	ut76_10120	1829310	1829439	No
+NA	ATP-binding protein	ut76_10125	1829460	1829757	No
+spoT	(p)ppGpp synthase/hydrolase, HD superfamily	ut76_10130	1830336	1830912	No
+NA	transposase	ut76_10135	1831033	1831948	No
+NA	Conjugal transfer protein TraD	ut76_10140	1832015	1832291	Yes
+NA	hypothetical protein	ut76_10145	1832592	1833600	No
+traD	conjugal transfer protein TraD, complete TraD	ut76_10150	1833618	1834074	Yes
+traA	conjugal transfer protein TraA	ut76_10155	1834352	1836563	No
+NA	SycD/LcrH family type III secretion system chaperone	ut76_10160	1836767	1838276	Yes
+NA	Conjugal transfer protein TraN	ut76_10165	1838527	1839595	Yes
+NA	Conjugal transfer protein TraN	ut76_10170	1839646	1840219	Yes
+NA	Type-F conjugative transfer system pilin assembly protein TrbC	ut76_10175	1840215	1840434	Yes
+virB4	conjugal transfer protein TraC	ut76_10180	1840446	1842462	Yes
+virB4	conjugal transfer protein TraC	ut76_10185	1842498	1842702	Yes
+traV	conjugal transfer protein TraV	ut76_10190	1842814	1843114	Yes
+NA	Phage integrase family protein, complete integrase	ut76_10195	1843550	1844834	No
+traL	conjugal transfer protein traL, complete TraL	ut76_10200	1844931	1845267	No
+traE	conjugal transfer protein TraE, complete TraE	ut76_10205	1845266	1845818	No
+traK1	conjugal transfer protein traK1, complete TraK-1	ut76_10210	1845814	1846303	No
+NA	Conjugative transfer domain protein	ut76_10215	1846468	1846690	No
+traK2	conjugal transfer protein traK2, complete TraK-2	ut76_10220	1846791	1847124	No
+NA	Conjugal transfer protein	ut76_10225	1847162	1847813	No
+NA	Conjugal transfer protein	ut76_10230	1848013	1848487	No
+traV	conjugal transfer protein TraV, complete TraV	ut76_10235	1848486	1848816	No
+traC	conjugal transfer protein TraC, complete TraC	ut76_10240	1848796	1851286	No
+traW	type-F conjugative transfer system protein TraW, complete TraW	ut76_10245	1851282	1851942	No
+NA	hypothetical protein	ut76_10250	1852025	1852199	No
+traU	conjugal transfer protein TraU, complete TraU	ut76_10255	1852232	1853177	No
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ut76_10260	1853199	1853583	No
+traN	conjugal transfer protein TraN	ut76_10265	1853579	1855130	No
+NA	conjugal transfer protein TraN	ut76_10270	1855157	1855271	No
+traF	conjugal transfer protein TraF, complete TraF	ut76_10275	1855282	1855972	No
+NA	Conjugal transfer protein TraH	ut76_10280	1855968	1856598	No
+NA	Conjugal transfer protein TraH	ut76_10285	1856647	1857271	No
+traG	conjugal transfer protein TraG, complete TraG	ut76_10290	1857270	1859928	No
+NA	TPR repeat-containing protein 08	ut76_10295	1859940	1861080	No
+NA	conjugal transfer protein	ut76_10300	1861085	1861409	No
+traD	conjugal transfer protein TraD	ut76_10305	1861457	1862840	No
+NA	transposase	ut76_10310	1862849	1863869	Yes
+traI	conjugal transfer protein TraI, complete TraI	ut76_10315	1863920	1866584	Yes
+traA	conjugal transfer protein TraA, complete TraA	ut76_10320	1866850	1869670	Yes
+NA	Conjugative transfer protein	ut76_10325	1869948	1870143	No
+NA	Conjugal transfer protein TraD	ut76_10330	1870235	1870406	No
+NA	hypothetical protein	ut76_10335	1870489	1870633	No
+pilW	type IV pilus biogenesis/stability protein PilW	ut76_10340	1870729	1871803	No
+NA	transposase	ut76_10345	1872124	1873123	Yes
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_10350	1873244	1873832	Yes
+baeS	ATP-binding protein	ut76_10355	1873873	1874368	Yes
+NA	ATP-binding protein	ut76_10360	1874386	1874743	Yes
+NA	ATP-binding protein	ut76_10365	1874829	1875324	Yes
+baeS	Signal transduction histidine kinase	ut76_10370	1875340	1875907	Yes
+baeS	histidine kinase	ut76_10375	1876035	1876737	Yes
+NA	ATP-binding protein	ut76_10380	1876801	1877080	Yes
+dam	DNA methyltransferase	ut76_10385	1877446	1878256	No
+NA	Putative ompA-like autotransporter	ut76_10390	1878259	1878763	Yes
+aNKYR	Ankyrin repeat protein with 5 ankyrin repeats	ut76_10395	1878865	1879510	Yes
+NA	(P)pGpp hydrolase	ut76_10400	1879787	1880270	Yes
+dnaB	replicative DNA helicase	ut76_10405	1880503	1881952	Yes
+NA	DnaA-N domain-containing protein	ut76_10410	1881960	1883508	Yes
+NA	Transposase	ut76_10415	1883715	1883928	No
+NA	hypothetical protein	ut76_10420	1884458	1885712	No
+NA	IS982 family transposase	ut76_10425	1886192	1886867	Yes
+NA	Putative transposase	ut76_10430	1887122	1887260	Yes
+NA	Integrase	ut76_10435	1888101	1888368	Yes
+NA	Integrase	ut76_10440	1888436	1888625	Yes
+NA	IS982 family transposase	ut76_10450	1890956	1891547	Yes
+NA	Transposase	ut76_10455	1891577	1891706	Yes
+NA	DDE transposase family protein	ut76_10460	1891770	1891983	Yes
+NA	IS982 family transposase	ut76_10465	1892189	1893065	No
+art	arginine ABC transporter permease	ut76_10470	1893647	1894265	No
+abcT	ABC transporter ATP-binding protein	ut76_10475	1894257	1894989	No
+eAL	EAL domain-containing protein	ut76_10480	1895177	1896410	No
+NA	cupredoxin domain-containing protein	ut76_10490	1896874	1897240	No
+fTR1	iron permease	ut76_10495	1897268	1898108	No
+yciB	septation protein A	ut76_10500	1898111	1898648	No
+recR	recombination protein RecR	ut76_10505	1898736	1899348	No
+NA	hypothetical protein	ut76_10510	1899344	1899434	No
+plsC	1-acyl-sn-glycerol-3-phosphate acyltransferase	ut76_10515	1899464	1900229	No
+tuf	elongation factor Tu	ut76_10520	1900401	1901586	No
+secE	preprotein translocase subunit SecE	ut76_10530	1901840	1902041	No
+nusG	transcription termination/antitermination factor NusG	ut76_10535	1902082	1902619	No
+rplK	50S ribosomal protein L11	ut76_10540	1902659	1903106	No
+rplA	50S ribosomal protein L1	ut76_10545	1903109	1903859	No
+rplJ	50S ribosomal protein L10	ut76_10550	1903862	1904372	No
+rplL	50S ribosomal protein L7/L12	ut76_10555	1904393	1904783	No
+rpoB	DNA-directed RNA polymerase subunit beta	ut76_10560	1905098	1909223	No
+rpoB	DNA-directed RNA polymerase subunit beta'	ut76_10565	1909337	1913528	No
+aspS	aspartate--tRNA(Asp/Asn) ligase	ut76_10570	1913806	1915600	No
+pBP4	penicillin-binding protein 4	ut76_10575	1915632	1916844	No
+NA	hypothetical protein	ut76_10580	1917096	1917861	Yes
+NA	MFS transporter	ut76_10585	1918459	1919716	Yes
+eamA	EamA family transporter	ut76_10590	1919733	1920606	Yes
+rpmB	50S ribosomal protein L28	ut76_10595	1920849	1921137	No
+rpmE	50S ribosomal protein L31	ut76_10600	1921148	1921373	No
+NA	hypothetical protein	ut76_10610	1921648	1921870	No
+trm112	tetraacyldisaccharide 4'-kinase	ut76_10615	1921999	1922167	No
+NA	Arm-DNA-bind-3 domain-containing protein	ut76_10620	1923042	1923375	No
+NA	Integrase	ut76_10625	1923403	1923838	No
+NA	hypothetical protein	ut76_10630	1923802	1924027	Yes
+xerD	Site-specific recombinase XerD	ut76_10635	1924135	1924345	Yes
+NA	Integrase	ut76_10640	1924700	1924970	Yes
+NA	Integrase	ut76_10645	1924944	1925241	Yes
+NA	hypothetical protein	ut76_10650	1925657	1925801	Yes
+NA	Transposase	ut76_10655	1926437	1926689	Yes
+NA	DUF2610 domain-containing protein	ut76_10660	1927264	1927606	Yes
+hemF	oxygen-dependent coproporphyrinogen oxidase	ut76_10665	1927745	1928582	Yes
+miaB	tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB	ut76_10670	1928750	1930106	Yes
+sppA	S49 family peptidase	ut76_10675	1930408	1931326	No
+NA	Conjugal transfer protein TraC	ut76_10680	1932745	1933039	Yes
+NA	Conjugative transfer protein	ut76_10685	1933248	1933482	Yes
+NA	hypothetical protein	ut76_10690	1933623	1933761	Yes
+NA	Conjugative transfer protein	ut76_10695	1933732	1933981	Yes
+tyrS	tyrosine--tRNA ligase	ut76_10700	1935276	1936518	No
+pipB2	Secreted effector protein PipB2	ut76_10705	1937465	1941092	Yes
+scaE	ScaE autotransporter protein	ut76_10710	1941608	1943864	Yes
+NA	IS5 family transposase ISOt6	ut76_10715	1944424	1944586	Yes
+NA	IS5 family transposase ISOt6	ut76_10720	1945139	1945274	No
+NA	IS5 family transposase ISOt6	ut76_10725	1945298	1945454	No
+pgsA	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	ut76_10730	1946038	1946587	No
+NA	Exodeoxyribonuclease III	ut76_10735	1947023	1947233	Yes
+NA	Exodeoxyribonuclease III	ut76_10740	1947283	1947535	Yes
+NA	(P)ppGpp synthetase	ut76_10745	1948181	1948586	Yes
+baeS	ATP-binding protein	ut76_10750	1949372	1949843	Yes
+NA	ATP-binding protein	ut76_10755	1950043	1950268	Yes
+NA	Conjugal transfer protein	ut76_10760	1950499	1950895	Yes
+traK1	conjugal transfer protein traK1, complete TraK-1	ut76_10765	1951237	1951705	Yes
+NA	hypothetical protein	ut76_10770	1951701	1951854	Yes
+NA	Conjugal transfer protein TraE	ut76_10775	1951834	1952254	Yes
+traL	conjugal transfer protein traL	ut76_10780	1952253	1952517	Yes
+NA	Integrase	ut76_10785	1952714	1953497	Yes
+NA	DDE superendonuclease family protein	ut76_10790	1953629	1953863	No
+NA	Transposase	ut76_10795	1953891	1954134	No
+NA	DDE transposase family protein	ut76_10805	1956384	1956609	No
+NA	Conjugal transfer protein TraA	ut76_10810	1956588	1956864	Yes
+NA	Conjugal transfer protein TraA	ut76_10815	1956860	1957022	Yes
+NA	Conjugal transfer protein TraA	ut76_10820	1957022	1957388	Yes
+NA	hypothetical protein	ut76_10825	1958075	1958207	No
+NA	Transposase	ut76_10830	1958368	1958572	Yes
+rpmA	50S ribosomal protein L27	ut76_10835	1960421	1960691	Yes
+rplU	50S ribosomal protein L21	ut76_10840	1960731	1961058	Yes
+NA	phospholipid phosphatase	ut76_10845	1961196	1961865	Yes
+phnP	MBL fold metallo-hydrolase	ut76_10850	1961970	1962720	No
+xseA	exodeoxyribonuclease VII large subunit	ut76_10855	1962938	1964309	No
+hisJ	PBPb domain-containing protein	ut76_10860	1964367	1965843	No
+scaD	ScaD autotransporter protein	ut76_10865	1965932	1969040	Yes
+dnaX	DNA polymerase III subunit gamma/tau	ut76_10875	1970096	1971776	No
+ybaB	Nucleoid-associated protein, YbaB/EbfC family	ut76_10880	1971787	1972348	No
+znuC	zinc ABC transporter ATP-binding protein	ut76_10885	1972556	1973330	No
+znuB	metal ABC transporter permease	ut76_10890	1973310	1974099	No
+NA	reverse transcriptase	ut76_10895	1974859	1975156	No
+NA	integrase	ut76_10900	1975738	1976131	No
+NA	Conjugal transfer protein TraH	ut76_10905	1976206	1976449	No
+NA	Conjugal transfer protein TraH	ut76_10910	1976438	1977002	No
+NA	hypothetical protein	ut76_10915	1977028	1977853	No
+NA	Replicative DNA helicase	ut76_10920	1977887	1978550	No
+NA	RNA-binding protein	ut76_10925	1978638	1979550	Yes
+NA	RNA-binding protein	ut76_10930	1979709	1980417	Yes
+NA	Site-specific DNA-methyltransferase (adenine-specific)	ut76_10935	1980679	1981384	Yes
+NA	ATP-binding protein	ut76_10940	1981750	1982029	No
+baeS	histidine kinase	ut76_10945	1982093	1982795	No
+baeS	Signal transduction histidine kinase	ut76_10950	1982923	1983490	No
+NA	ATP-binding protein	ut76_10955	1983506	1984001	No
+NA	ATP-binding protein	ut76_10960	1984087	1984444	No
+baeS	ATP-binding protein	ut76_10965	1984462	1984957	No
+spoT	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	ut76_10970	1984998	1985586	No
+NA	transposase	ut76_10975	1985707	1986706	No
+traD	conjugal transfer protein TraD, complete TraD	ut76_10980	1986773	1987229	Yes
+traA	conjugal transfer protein TraA	ut76_10985	1987503	1989489	No
+NA	hypothetical protein	ut76_10990	1989710	1991495	Yes
+NA	DDE superendonuclease family protein	ut76_10995	1991823	1991994	Yes
+NA	Conjugal transfer protein TraI	ut76_11000	1992130	1992637	No
+NA	Toprim domain protein	ut76_11005	1992650	1993202	No
+NA	transposase	ut76_11010	1993253	1994201	No
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	ut76_11015	1994210	1995458	Yes
+NA	Conjugal transfer protein	ut76_11020	1995556	1995775	Yes
+NA	Conjugal transfer protein TraH	ut76_11025	1995782	1996037	Yes
+NA	Conjugal transfer protein TraH	ut76_11030	1996231	1996861	Yes
+NA	Conjugal transfer protein	ut76_11035	1996857	1997109	Yes
+traK1	conjugal transfer protein traK1	ut76_11040	1997165	1997627	No
+NA	Conjugal transfer protein, complete TraB	ut76_11045	1997852	1999484	No
+traV	conjugal transfer protein TraV, complete TraV	ut76_11050	1999483	1999813	No
+traC	conjugal transfer protein TraC	ut76_11055	1999793	2002415	No
+traN	conjugal transfer protein TraN, complete TraN	ut76_11060	2002411	2004106	No
+traF	conjugal transfer protein TraF, complete TraF	ut76_11065	2004117	2004801	No
+NA	Conjugal transfer protein TraH	ut76_11070	2004797	2005157	No
+NA	Conjugal transfer protein TraH	ut76_11075	2005128	2005413	No
+NA	Conjugal transfer protein TraH	ut76_11080	2005574	2006087	No
+traG	conjugal transfer protein TraG	ut76_11085	2006086	2006797	No
+traG	conjugal transfer protein TraG	ut76_11090	2006857	2008078	No
+traD	conjugal transfer protein TraD, complete TraD	ut76_11095	2008081	2009836	No
+NA	transposase	ut76_11100	2009845	2010346	Yes
+dapD	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	ut76_11105	2010401	2011253	Yes
+NA	Znf/thioredoxin-put domain-containing protein	ut76_11110	2011352	2011997	No
+NA	hypothetical protein	ut76_11115	2012354	2012480	Yes
+NA	ATP-binding protein	ut76_11125	2013075	2013495	No
+NA	ATP-binding protein	ut76_11130	2013517	2014681	No
+pilW	type IV pilus biogenesis/stability protein PilW	ut76_11135	2014964	2016137	Yes
+NA	hypothetical protein	ut76_11140	2016193	2016337	Yes
+NA	hypothetical protein	ut76_11145	2016467	2016704	Yes
+fimB	Integrase/recombinase, includes phage integrase	ut76_11150	2016841	2017384	Yes
+NA	Integrase	ut76_11155	2017575	2017842	Yes
+NA	DUF2312 domain-containing protein	ut76_11160	2018126	2018372	Yes
+rnhB	ribonuclease HII	ut76_11165	2018938	2019556	Yes
+miaA	tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA	ut76_11170	2019625	2020663	No
+purF	amidophosphoribosyltransferase	ut76_11175	2020646	2021393	No
+dnaA	Chromosomal replication initiator protein DnaA	ut76_11180	2021522	2022173	No
+ycbZ	endopeptidase La	ut76_11185	2022236	2024609	Yes
+tdcB	threonine dehydratase	ut76_11190	2024725	2025739	No
+NA	hypothetical protein	ut76_11195	2026345	2028214	Yes
+NA	DUF1601 domain-containing protein	ut76_11200	2028768	2030538	Yes
+proP	proline/betaine transporter	ut76_11205	2030945	2032166	Yes
+hemC	hydroxymethylbilane synthase	ut76_11210	2032477	2033374	Yes
+icd	isocitrate dehydrogenase	ut76_11215	2033547	2035107	No
+putP	sodium:proline symporter	ut76_11225	2035853	2039291	No
+traG	conjugal transfer protein TraG	ut76_11230	2040448	2041063	Yes
+NA	Conjugal transfer protein	ut76_11235	2041062	2041356	Yes
+traN	conjugal transfer protein TraN, complete TraN	ut76_11240	2041367	2043065	Yes
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	ut76_11245	2043061	2043445	Yes
+NA	Conjugative transfer protein	ut76_11250	2043467	2043734	Yes
+NA	Conjugative transfer protein	ut76_11255	2043733	2044147	Yes
+NA	Conjugal transfer protein	ut76_11260	2044092	2044278	Yes
+NA	Ankyrin repeat-containing protein	ut76_11265	2044431	2045421	No
+virB4	conjugal transfer protein TraC	ut76_11270	2045401	2047123	Yes
+traV	conjugal transfer protein TraV, complete TraV	ut76_11275	2047103	2047433	Yes
+NA	Conjugal transfer protein	ut76_11280	2047432	2047615	Yes
+NA	conjugative transfer protein	ut76_11285	2047644	2047962	Yes
+traL	conjugal transfer protein traL, complete TraL	ut76_11290	2047961	2048297	Yes
+NA	Integrase	ut76_11295	2048422	2048608	Yes
+NA	Integrase	ut76_11300	2048652	2048856	Yes
+NA	Integrase	ut76_11305	2048821	2049247	Yes
+NA	Integrase	ut76_11310	2049355	2049646	Yes
+NA	hypothetical protein	ut76_11315	2050305	2050425	No
+secB	protein-export protein SecB	ut76_11320	2050600	2051083	Yes
+dcd	deoxycytidine triphosphate deaminase	ut76_11325	2051124	2051658	Yes
+NA	porin	ut76_11330	2052296	2053577	No
+frr	ribosome-recycling factor	ut76_11335	2053771	2054335	Yes
+nuoG	NADH-quinone oxidoreductase subunit G	ut76_11340	2054614	2056651	No
+nuoH	NADH:ubiquinone oxidoreductase subunit H	ut76_11345	2056710	2057754	No
+nuoI	NADH-quinone oxidoreductase subunit I	ut76_11350	2057805	2058291	No
+nuoJ	NADH:ubiquinone oxidoreductase subunit J	ut76_11355	2058294	2058903	No
+nuoK	NADH-quinone oxidoreductase subunit K	ut76_11360	2058886	2059210	No
+erhM	2-hydroxyacid dehydrogenase	ut76_11365	2059213	2061121	No
+nuoM	NADH-quinone oxidoreductase subunit M	ut76_11370	2061121	2062621	No
+nuoN	NADH-quinone oxidoreductase subunit N	ut76_11375	2062665	2064105	No
+tilS	tRNA lysidine(34) synthetase TilS	ut76_11380	2064435	2065761	No
+ftsH	ATP-dependent metalloprotease	ut76_11385	2065777	2067661	No
+alkA	3-methyladenine DNA glycosylase	ut76_11390	2067695	2068232	No
+tsaE	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE	ut76_11395	2068247	2068670	No
+rodA	rod shape-determining protein RodA	ut76_11400	2068840	2069968	No
+mreD	Rod shape-determining protein MreD	ut76_11405	2069979	2070465	No
+pBP2	penicillin-binding protein 2	ut76_11410	2070454	2072206	No
+ubiD	3-polyprenyl-4-hydroxybenzoate decarboxylase	ut76_11415	2072385	2073879	Yes
+ygaA	Uncharacterized membrane protein YqaA, VTT domain	ut76_11420	2074209	2074632	No
+aNKYR	Ankyrin repeat protein with 8 ankyrin repeats	ut76_11430	2075655	2077176	Yes
+sdhE	Succinate dehydrogenase flavin-adding protein, antitoxin component of the CptAB toxin-antitoxin module	ut76_11435	2077583	2077847	Yes
+NA	hypothetical protein	ut76_11440	2078116	2078191	Yes

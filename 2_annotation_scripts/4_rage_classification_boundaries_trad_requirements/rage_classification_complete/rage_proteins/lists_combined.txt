@@ -1,0 +1,171 @@
+hydrolase
+dnaa
+integrase
+spot
+pgpp
+#synthase. this needs to be made more specific
+synthase/hydrolase
+hydrolase
+dam
+methylase
+dnab
+replicative dna helicase
+helicase
+atp-binding
+hypothetical
+hnh
+endonuclease
+membrane protein
+ankyrin
+tetratricopeptide
+tpr repeat
+hatpase
+virb
+seca
+trbc
+uncharacterised
+uncharacterized
+methyltransferase
+baes
+atpase
+traa
+trab
+trac
+trad
+trae
+traf
+trag
+trah
+trai
+trak
+tral
+conjugal transfer protein tran
+conjugal transfer protein
+conjugative transfer protein
+trau
+trav
+traw
+transposase
+tnp-is630
+is630
+is110
+is5
+isot6
+### proteins added which may want validation
+exodeoxyribonuclease iii
+c48 family peptidase
+scaf
+# rna-binding protein # it seems this can be either
+conjugative transfer protein
+cold-shock protein
+toprim
+lipb
+ltra
+tpr repeat
+lipase-3
+#^ i think seems reasonable (but not really researched)
+putative ompa-like autotransporter
+scaa
+peroxiredoxin
+xtha2
+duf4065
+duf2659
+reverse transcriptase
+phospholipase
+vut1
+methionyl aminopeptidase
+putp
+# putp is found in both ir and rage, consider how to use
+phage portal protein
+scac
+cfla
+# histidine kinase seems to be found in ir and rage
+tryptophan--trna ligase
+duf3857
+ndk
+repeat-containing protein d
+### second round of additions
+vird4
+duf2610
+helix-turn-helix
+excinuclease abc subunit a
+uvra
+tyrs
+tyrosine--trna ligase
+laca
+ribose-5-phosphate isomerase
+# copper(i)-binding protein # this is a new annotation and replaces a hypothetical protein in a ihp region. may not belong in this list.
+znf/thioredoxin-put domain-containing protein
+# znf/thioredoxin-put domain-containing protein # replaces the zinc_ribbon_4 in karp
+conjugative transfer domain protein
+# rna-binding protein # this is pretty unspecific and can belong to ir or rage
+multidrug resistance protein mdtl
+mdtl
+# mfs transporter # almost always found in ir so not included
+# putative permease # replaces a transposase but most nearly all permeases are found in ir regions
+flih
+# flih probably shouldn't be annotated, i'm pretty sure this is an issue arrising from cog. replaces a transposase
+ssb
+single-stranded dna-binding protein
+# peptidase replaced a hypothetical protein # not included as too many other hits
+rna-binding protein
+# there may be issues with "rna-binding protein" as it seems to be present in both ir and rage
+phosphate dikinase
+ppdk
+pyruvate, phosphate dikinase
+vut1
+queuosine precursor transporter
+# colicin v production protein # replaces uncharacterised in karp isolated gene - probably doesn't really matter
+# ribonuclease d # replaces uncharacterised - exclude for now
+ctaa
+heme a synthase
+clpp
+atp-dependent clp protease
+hipb
+xre family transcriptional regulator
+# hipb	xre family transcriptional regulator # replaces transcriptional regulator in karp, probably reasonable to include
+# sco family protein # i think these may have been some dodgy cog annotations
+histidine kinase domain-containing protein
+# histidine kinase domain-containing protein # not certain if this should actually be included
+# 2-oxoacid-dh domain-containing protein # replaces hypothetical in ihp, so probably shouldn't be included
+cafa
+ribonuclease e
+dde-3 domain-containing protein
+kdpd
+hybrid sensor histidine kinase/response regulator
+brkb
+cyay
+iron donor protein cyay
+# hormone receptor domain-containing protein # replaces uncharacterised in karp, couldn't find in the others
+# xerd	site-specific recombinase xerd	karp_12445	2346860	2348000 # replaces an integrase - may be an issue
+# na	phage tail assembly chaperone protein, tac	karp_12720	2405671	2407051 # consider this one
+# boryong test additions
+dde tnp4 domain-containing protein
+conjugative pilus assembly protein
+conjugative transfer system
+sco family protein
+pranc
+putative signal transduction histidine kinase
+sycd
+lcrh
+# sycd/lcrh are probably tpr proteins which weren't overwritted
+aaa domain protein
+# aaa domain protein # might want to be checked
+rap domain-containing protein
+hd domain protein
+arm-dna-bind-3 domain-containing protein
+moba/mobl family protein
+ribonuclease d
+hypotheical
+# hypotheical # seems to be a spelling mistake in the database somewhere
+putative permease
+ott_1508-like deaminase
+duf2748
+scab autotransporter protein
+maturase-specific domain-containing protein
+autotransporter
+xerd
+thiosulfate sulfurtransferase
+outer membrane protein assembly factor
+bamb
+bacterial conjugation trbi-like family protein

@@ -1,0 +1,4 @@
+karp_73_integrase	Full-length_Karp_02484_integrase	100.000	379	0	0	1	379	1	379	0.0	771
+kato_02_integrase	Full-length_Karp_02484_integrase	98.681	379	5	0	1	379	1	379	0.0	763
+kato_00485_putative_integrase	Full-length_TA686_01845_integrase	69.620	79	24	0	2	80	110	188	1.72e-32	112
+kato_00540_complete_integrase	Full-length_KATO_00108_integrase	100.000	414	0	0	1	414	1	414	0.0	860
