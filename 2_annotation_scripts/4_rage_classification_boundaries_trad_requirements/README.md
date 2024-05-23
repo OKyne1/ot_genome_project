@@ -22,6 +22,7 @@ This list of RAGE genes was generated from the Karp, Gilliam and Boryong genomes
 ![kato rage derived regions](./diagrams/kato_rage_derived.png)
 This IGV image of the different boundaries shows that my script closely resembles the manual annotations (note manual annotations have additional breaks for boundaries between RAGEs). The 2 lines below the manual annotated boundaries shows the effects of allowing one or 2 mis-matched genes within a RAGE region.
 
+
 The effect here is not that large and so the current script only allows 1 non-match. However it can easily be modified to permit 2. The code was developed to permit this, and also not to allow these non-matches to be adjacent to eachother. 
 
 ### Rules for the RAGE derived regions
@@ -35,11 +36,7 @@ The effect here is not that large and so the current script only allows 1 non-ma
 <img src="https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/4_rage_classification/diagrams/rage_boundaries_conditions.png" width="500">
 The black lines mark the boundary, if a gene is not included in the boundary then the script will restart on this line to identify additional boundaries using this gene.
 
-### Edge case:
-<img src="https://github.com/OKyne1/ot_genome_project/blob/main/2_annotation_scripts/4_rage_classification/diagrams/edge_case.png" width="800">
-
-The script currently allows 2 RAGE regions to share a dnaA gene. This is unlikely to cause any issues as the chance of 2 complete RAGEs next to eachother is extremely unlikely and not problematic.
-
+Currently for the boundaries, genes can be shared from one RAGE to the next. In pactice this doesn't really happen, as the frequency of RAGEs is very low.
 
 ## Validating boundaries
 Boundaries identified are validated against the RAGE derived regions. Only those contained within this .bed file are kept for required gene testing. This step uses the package bed tools.
@@ -49,9 +46,8 @@ Boundaries identified are validated against the RAGE derived regions. Only those
 To be a complete RAGE, it must have the boundries (already identified), all tra genes, at least 1 transposase and at least 1 cargo gene (currently using those defined in the paper). The presence of these genes is tested on the validated boundaries and the regions which meet these criteria are outputted in a new .bed file.
 
 
-## Initial results
-These scripts identify **100%** of complete RAGEs (3/3) but it also identifies **17/52** of the complete RAGEs with truncated genes. This is probably better than underclassification, however, we need to find a way to identify which of these are not truncated.
-
+## Current results
+Currently identifying 5 complete rages (2 new and potentially complete, Karp_73 and UT76_10), is mis-hitting with kato_02 (not recognising a truncated integrase) and misses kato_59 (integrase not recoginsed as complete).
 
 ## RAGE gene completeness
 Overclassification of RAGEs, is a result of truncated or degraded genes not being identified. Using a Blast+ script 
@@ -65,9 +61,14 @@ This was successful in identifying >95% of all cases (when testing 7 genomes usi
 ## Handling Contigs
 I modified the script to handle contigs by spliting the input txt files and then joining the outputs. 
 ![kato rage derived regions](./diagrams/contig_vs_complete_rage_derived2.png)
-Note: this diagram is illustrative, but as the bed files here aren't perfect (adapted contig values to the reference genome imperfectly and unfortunately the rage regions bed for comparison is from an earlier itteration of the script).
+Note: this diagram is illustrative, but as the bed files here aren't perfect (the bed positions are slightly shifted due to wrong conversion from contig to genome positions).
 
 
 ## Current limitations
 - Bed files are currently indexed wrong. Need to -1 from all start entries. In reality this makes very little difference, hence hasn't yet been resolved.
-- Contig naming in bakta is different from the naming in the fasta file (input), this difference is continued into the bed files.
+- TraD - currently requires 2 copies of complete traD, this is done instead of identifying traDti and the other traD.
+- Include trbc gene in rage requirements
+
+Untested:
+- Changed the bakta parameter to keep the contig names. This should work but is untested.
+- 
