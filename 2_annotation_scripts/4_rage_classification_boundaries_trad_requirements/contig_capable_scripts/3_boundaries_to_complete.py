@@ -103,7 +103,7 @@ if __name__ == "__main__":
     result_dict = parse_txt_file(args.txt_file, bed_dict)
     
     # Example usage with dictionary data
-    tra_genes = ['complete traa', 'complete trab', 'complete trac', 'complete trad', 'complete trae', 'complete traf', 'complete trag', 'complete trai', 'complete trak', 'complete tral', 'complete tran', 'complete trau', 'complete trav', 'complete traw', 'complete integrase']
+    tra_genes = ['complete traa', 'complete trab', 'complete trac', 'complete trad', 'complete trae', 'complete traf', 'complete trag', 'complete trai', 'complete trak', 'complete tral', 'complete tran', 'complete trau', 'complete trav', 'complete traw', 'complete integrase', 'complete trbc']
     tran = ['complete tran\t', 'complete tran '] # Not contained in tra_genes as there are mishits otherwise
     trah = ['complete trah\t', 'complete trah '] # Not contained in tra_genes as there are mishits otherwise
     transposase = ['transposase', 'tpn', 'is630', 'is110', 'is5', 'isot6']

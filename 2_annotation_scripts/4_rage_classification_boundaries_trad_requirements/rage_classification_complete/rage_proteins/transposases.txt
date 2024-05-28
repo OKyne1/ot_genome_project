@@ -1,6 +1,0 @@
-transposase
-tnp-IS630
-is630
-is110
-is5
-isot6

@@ -1,0 +1,3 @@
+kato_02_integrase_tnk_misnamed_as_fl	Full-length_Karp_02484_integrase	99.474	1140	6	0	1	1140	1	1140	0.0	2073
+karp_73_integrase_fl	Full-length_Karp_02484_integrase	100.000	1140	0	0	1	1140	1	1140	0.0	2106
+kato_59_integrase_fl_misnammed_as_tnk	Full-length_KATO_01833_integrase	100.000	1320	0	0	1	1320	1	1320	0.0	2438
