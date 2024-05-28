@@ -43,7 +43,7 @@ Boundaries identified are validated against the RAGE derived regions. Only those
 
 
 ## Testing for required genes
-To be a complete RAGE, it must have the boundries (already identified), all tra genes, at least 1 transposase and at least 1 cargo gene (currently using those defined in the paper). The presence of these genes is tested on the validated boundaries and the regions which meet these criteria are outputted in a new .bed file.
+To be a complete RAGE, it must have the boundries (already identified), all tra genes (2x traD and trbC as well), at least 1 transposase and at least 1 cargo gene (currently using those defined in the paper). The presence of these genes is tested on the validated boundaries and the regions which meet these criteria are outputted in a new .bed file.
 
 
 ## Current results
