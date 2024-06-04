@@ -1,0 +1,2483 @@
+Gene	Start	End	Strand	Product	Locus Tag	Note
+dnaA	21	1431	1	none	boryong_00005	none
+virB7	1449	2748	1	none	boryong_00010	none
+virB8-2	2997	3678	1	none	boryong_00015	none
+virB9-2	3661	4099	1	none	boryong_00020	none
+virB10	4098	5628	1	none	boryong_00025	none
+virB11	5627	6617	1	none	boryong_00030	none
+virD4	6616	8389	1	none	boryong_00035	none
+Unknown Gene	8927	9221	1	none	boryong_00040	none
+Unknown Gene	9635	9854	1	none	boryong_00045	none
+Unknown Gene	10368	12168	1	none	boryong_00050	none
+Unknown Gene	12695	12821	1	none	boryong_00055	none
+Unknown Gene	14035	14188	1	none	boryong_00060	none
+Unknown Gene	14372	15593	1	none	boryong_00065	none
+phrB	16476	16620	1	none	boryong_00070	none
+phrB	16679	17318	1	none	boryong_00075	none
+Unknown Gene	17309	17684	-1	none	boryong_00080	none
+Unknown Gene	17695	18133	-1	none	boryong_00085	none
+phrB	18198	18378	1	none	boryong_00090	none
+phrB	18399	18657	1	none	boryong_00095	none
+trxB	18682	19633	-1	none	boryong_00100	none
+yfdV	19768	20692	-1	none	boryong_00105	none
+tolB	20867	22229	-1	none	boryong_00110	none
+lpd	22559	23987	-1	none	boryong_00115	none
+ubiE	24078	24882	-1	none	boryong_00120	none
+tsa22	25056	25662	1	none	boryong_00125	none
+Unknown Gene	25998	26826	-1	none	boryong_00130	none
+Unknown Gene	26899	27100	1	none	boryong_00135	none
+Unknown Gene	27276	27558	1	none	boryong_00140	none
+Unknown Gene	27881	28091	1	none	boryong_00145	none
+Unknown Gene	28059	28476	1	none	boryong_00150	none
+tnp-IS110	28784	29750	1	none	boryong_00155	none
+nrdA	30178	31996	1	none	boryong_00160	none
+nrdB	32018	33008	1	none	boryong_00165	none
+Unknown Gene	34185	34392	-1	none	boryong_00170	none
+Unknown Gene	34754	35036	-1	none	boryong_00175	none
+Unknown Gene	35330	35531	-1	none	boryong_00180	none
+Unknown Gene	35905	36058	1	none	boryong_00185	none
+Unknown Gene	36691	36844	1	none	boryong_00190	none
+Unknown Gene	36966	37977	1	none	boryong_00195	none
+traL	38068	38404	1	none	boryong_00200	none
+traE	38478	38955	1	none	boryong_00205	none
+Unknown Gene	38951	39353	1	none	boryong_00210	none
+Unknown Gene	39464	39929	1	none	boryong_00215	none
+traV	39928	40219	1	none	boryong_00220	none
+Unknown Gene	40411	41095	1	none	boryong_00225	none
+Unknown Gene	41113	41398	1	none	boryong_00230	none
+Unknown Gene	41505	42480	-1	none	boryong_00235	none
+spoT	42601	43189	-1	none	boryong_00240	none
+baeS	43230	43737	-1	none	boryong_00245	none
+Unknown Gene	44120	44345	-1	none	boryong_00250	none
+Unknown Gene	<44746	44944	-1	none	boryong_00255	none
+Unknown Gene	45112	45235	-1	none	boryong_00260	none
+Unknown Gene	45253	45475	-1	none	boryong_00265	none
+Unknown Gene	45428	45845	-1	none	boryong_00270	none
+Unknown Gene	45917	46319	1	none	boryong_00275	none
+Unknown Gene	46762	48487	-1	none	boryong_00280	none
+amiR	49163	50264	1	none	boryong_00285	none
+Unknown Gene	<51185	51302	1	none	boryong_00290	none
+Unknown Gene	51897	52512	1	none	boryong_00295	none
+Unknown Gene	52574	53012	1	none	boryong_00300	none
+Unknown Gene	53023	53398	1	none	boryong_00305	none
+Unknown Gene	54518	54737	1	none	boryong_00310	none
+lipB	55785	56679	1	none	boryong_00315	none
+Unknown Gene	57070	57187	-1	none	boryong_00320	none
+Unknown Gene	58157	58316	-1	none	boryong_00325	none
+ykfC	58563	59292	-1	none	boryong_00330	none
+Unknown Gene	59945	60320	-1	none	boryong_00335	none
+Unknown Gene	60331	60769	-1	none	boryong_00340	none
+Unknown Gene	60938	61682	1	none	boryong_00345	none
+traL	61807	62143	1	none	boryong_00350	none
+traE	62217	62694	1	none	boryong_00355	none
+Unknown Gene	62690	63092	1	none	boryong_00360	none
+Unknown Gene	63203	63668	1	none	boryong_00365	none
+traV	63667	63958	1	none	boryong_00370	none
+Unknown Gene	64150	64834	1	none	boryong_00375	none
+trbC	64852	65236	1	none	boryong_00380	none
+Unknown Gene	65232	65940	1	none	boryong_00385	none
+Unknown Gene	65905	>66238	1	none	boryong_00390	none
+Unknown Gene	66294	66942	1	none	boryong_00395	none
+Unknown Gene	67087	68359	1	none	boryong_00400	none
+Unknown Gene	68707	68926	1	none	boryong_00405	none
+Unknown Gene	68985	69432	1	none	boryong_00410	none
+Unknown Gene	69428	70130	1	none	boryong_00415	none
+Unknown Gene	70105	70729	1	none	boryong_00420	none
+Unknown Gene	70856	71303	1	none	boryong_00425	none
+Unknown Gene	71310	71748	1	none	boryong_00430	none
+Unknown Gene	71759	72134	1	none	boryong_00435	none
+Unknown Gene	72120	72387	1	none	boryong_00440	none
+Unknown Gene	72379	72910	1	none	boryong_00445	none
+Unknown Gene	72911	73979	-1	none	boryong_00450	none
+tnp-IS110	74291	75254	1	none	boryong_00455	none
+Unknown Gene	75303	75711	1	none	boryong_00460	none
+Unknown Gene	75770	75941	1	none	boryong_00465	none
+Unknown Gene	76111	78367	1	none	boryong_00470	none
+Unknown Gene	78492	78678	1	none	boryong_00475	none
+Unknown Gene	78693	80445	-1	none	boryong_00480	none
+Unknown Gene	80626	81823	-1	none	boryong_00485	none
+Unknown Gene	81807	82899	-1	none	boryong_00490	none
+Unknown Gene	82891	83107	-1	none	boryong_00495	none
+traD	83455	83854	1	none	boryong_00500	none
+Unknown Gene	83941	84520	1	none	boryong_00505	none
+spoT	84597	85173	-1	none	boryong_00510	none
+Unknown Gene	85306	86908	-1	none	boryong_00515	none
+Unknown Gene	87420	87972	-1	none	boryong_00520	none
+Unknown Gene	88448	88883	1	none	boryong_00525	none
+Unknown Gene	88955	89261	1	none	boryong_00530	none
+Unknown Gene	89264	89768	-1	none	boryong_00535	none
+Unknown Gene	89843	90065	-1	none	boryong_00540	none
+Unknown Gene	90292	91081	-1	none	boryong_00545	none
+dnaB	91231	91675	-1	none	boryong_00550	none
+Unknown Gene	91750	93301	-1	none	boryong_00555	none
+Unknown Gene	93715	94810	1	none	boryong_00560	none
+Unknown Gene	95038	95590	1	none	boryong_00565	none
+Unknown Gene	95523	95679	-1	none	boryong_00570	none
+Unknown Gene	95886	97053	-1	none	boryong_00575	none
+Unknown Gene	97332	98013	1	none	boryong_00580	none
+Unknown Gene	98046	98484	1	none	boryong_00585	none
+Unknown Gene	98495	98870	1	none	boryong_00590	none
+Unknown Gene	99504	103890	-1	none	boryong_00595	none
+Unknown Gene	105080	105407	1	none	boryong_00600	none
+tnp-IS5	105627	105735	1	none	boryong_00605	none
+Unknown Gene	106686	106971	-1	none	boryong_00610	none
+Unknown Gene	107368	107875	1	none	boryong_00615	none
+Unknown Gene	107895	108072	1	none	boryong_00620	none
+Unknown Gene	108138	108585	1	none	boryong_00625	none
+Unknown Gene	108581	109283	1	none	boryong_00630	none
+Unknown Gene	109258	109882	1	none	boryong_00635	none
+traG	110194	111625	1	none	boryong_00640	none
+Unknown Gene	111801	112524	1	none	boryong_00645	none
+traD	112523	114278	1	none	boryong_00650	none
+Unknown Gene	<114279	114456	-1	none	boryong_00655	none
+dapD	114516	115368	-1	none	boryong_00660	none
+Unknown Gene	115466	116111	1	none	boryong_00665	none
+Unknown Gene	116530	116650	-1	none	boryong_00670	none
+Thr_trna	116906	116981	1	none	boryong_00675	none
+Unknown Gene	117755	117974	1	none	boryong_00680	none
+Unknown Gene	118051	118648	-1	none	boryong_00685	none
+Unknown Gene	118668	118836	-1	none	boryong_00690	none
+Unknown Gene	119380	119551	-1	none	boryong_00695	none
+Unknown Gene	119562	119739	-1	none	boryong_00700	none
+Unknown Gene	119789	119915	-1	none	boryong_00705	none
+Unknown Gene	120180	121431	-1	none	boryong_00710	none
+Unknown Gene	121873	122116	-1	none	boryong_00715	none
+Unknown Gene	122115	122274	-1	none	boryong_00720	none
+Unknown Gene	122844	123216	1	none	boryong_00725	none
+Unknown Gene	123238	124120	1	none	boryong_00730	none
+Unknown Gene	124220	124595	-1	none	boryong_00735	none
+Unknown Gene	124646	125045	-1	none	boryong_00740	none
+Unknown Gene	125272	125656	-1	none	boryong_00745	none
+Unknown Gene	125974	126169	-1	none	boryong_00750	none
+Unknown Gene	126493	126775	-1	none	boryong_00755	none
+Unknown Gene	126950	127151	-1	none	boryong_00760	none
+Unknown Gene	127224	127707	1	none	boryong_00765	none
+Unknown Gene	127724	128537	1	none	boryong_00770	none
+Unknown Gene	128521	129220	1	none	boryong_00775	none
+Unknown Gene	129234	129639	1	none	boryong_00780	none
+Unknown Gene	130478	131486	1	none	boryong_00785	none
+Unknown Gene	132096	132699	1	none	boryong_00790	none
+Unknown Gene	132727	134185	-1	none	boryong_00795	none
+Unknown Gene	134192	134357	1	none	boryong_00800	none
+tpiA	134360	135110	1	none	boryong_00805	none
+secG	135115	135409	1	none	boryong_00810	none
+Arg_trna	135693	135770	1	none	boryong_00815	none
+lysS	135906	137487	-1	none	boryong_00820	none
+dsbB	137638	138187	1	none	boryong_00825	none
+ubiB	138149	138695	1	none	boryong_00830	none
+psd	138770	139463	1	none	boryong_00835	none
+pssA	139514	140288	1	none	boryong_00840	none
+mnhE	140334	140820	1	none	boryong_00845	none
+Unknown Gene	140816	141065	1	none	boryong_00850	none
+Unknown Gene	141100	143929	1	none	boryong_00855	none
+ndh	144105	145770	-1	none	boryong_00860	none
+sucD	145850	146729	-1	none	boryong_00865	none
+sucC	146743	147904	-1	none	boryong_00870	none
+ubiH	147960	149169	-1	none	boryong_00875	none
+Gln_trna	149379	149454	-1	none	boryong_00880	none
+trcR	149533	150118	-1	none	boryong_00885	none
+ileS	150259	153463	-1	none	boryong_00890	none
+Unknown Gene	153499	154105	-1	none	boryong_00895	none
+rpsU	154275	154482	1	none	boryong_00900	none
+holC	154510	155017	-1	none	boryong_00905	none
+Unknown Gene	155111	156374	1	none	boryong_00910	none
+Unknown Gene	156640	157192	1	none	boryong_00915	none
+Unknown Gene	157234	157942	1	none	boryong_00920	none
+Unknown Gene	158020	159256	1	none	boryong_00925	none
+pnp	159356	161579	-1	none	boryong_00930	none
+rpsO	161897	162167	-1	none	boryong_00935	none
+tru	162190	163099	-1	none	boryong_00940	none
+Unknown Gene	163558	163789	-1	none	boryong_00945	none
+hipB	164423	164864	-1	none	boryong_00950	none
+Unknown Gene	165476	165764	-1	none	boryong_00955	none
+Unknown Gene	166494	166680	1	none	boryong_00960	none
+Unknown Gene	166666	167182	1	none	boryong_00965	none
+Unknown Gene	167302	167401	-1	none	boryong_00970	none
+Unknown Gene	167445	167715	-1	none	boryong_00975	none
+Unknown Gene	167723	168449	-1	none	boryong_00980	none
+Unknown Gene	168599	169100	-1	none	boryong_00985	none
+Unknown Gene	169459	>169927	-1	none	boryong_00990	none
+Unknown Gene	170244	170547	1	none	boryong_00995	none
+tyrS	171792	173034	-1	none	boryong_01000	none
+Unknown Gene	173718	173889	1	none	boryong_01005	none
+Unknown Gene	174525	174816	1	none	boryong_01010	none
+Unknown Gene	174815	175049	1	none	boryong_01015	none
+Unknown Gene	175422	175584	1	none	boryong_01020	none
+Unknown Gene	175726	175864	1	none	boryong_01025	none
+Unknown Gene	175957	176185	1	none	boryong_01030	none
+sppA	176306	177224	-1	none	boryong_01035	none
+miaB	177508	178864	1	none	boryong_01040	none
+hemF	179027	179864	1	none	boryong_01045	none
+Unknown Gene	180004	180346	1	none	boryong_01050	none
+Unknown Gene	181604	181814	1	none	boryong_01055	none
+Unknown Gene	181890	182073	-1	none	boryong_01060	none
+Unknown Gene	182299	>182437	-1	none	boryong_01065	none
+Unknown Gene	182734	183097	-1	none	boryong_01070	none
+Unknown Gene	183225	183363	-1	none	boryong_01075	none
+Unknown Gene	183406	183496	-1	none	boryong_01080	none
+Unknown Gene	183492	183678	-1	none	boryong_01085	none
+trm112	184607	184775	-1	none	boryong_01090	none
+Unknown Gene	184911	185133	-1	none	boryong_01095	none
+fMet_trna	185252	185327	-1	none	boryong_01100	none
+rpmE	185410	185635	-1	none	boryong_01105	none
+rpmB	185644	185935	-1	none	boryong_01110	none
+eamA	186177	187050	1	none	boryong_01115	none
+Unknown Gene	187067	188324	1	none	boryong_01120	none
+Unknown Gene	189040	189793	1	none	boryong_01125	none
+pBP4	190157	191369	-1	none	boryong_01130	none
+aspS	191394	193188	-1	none	boryong_01135	none
+rpoB	193465	197656	-1	none	boryong_01140	none
+rpoB	197771	201905	-1	none	boryong_01145	none
+rplL	202220	202610	-1	none	boryong_01150	none
+rplJ	202631	203141	-1	none	boryong_01155	none
+rplA	203144	203891	-1	none	boryong_01160	none
+rplK	203894	204341	-1	none	boryong_01165	none
+nusG	204380	204917	-1	none	boryong_01170	none
+secE	204959	205160	-1	none	boryong_01175	none
+Trp_trna	205232	205307	-1	none	boryong_01180	none
+tuf	205418	206603	-1	none	boryong_01185	none
+plsC	206774	207539	-1	none	boryong_01190	none
+Unknown Gene	207569	207659	-1	none	boryong_01195	none
+recR	207655	208267	-1	none	boryong_01200	none
+yciB	208355	208892	-1	none	boryong_01205	none
+fTR1	208885	209734	-1	none	boryong_01210	none
+Unknown Gene	209762	210128	-1	none	boryong_01215	none
+Lys_trna	210494	210570	1	none	boryong_01220	none
+eAL	210593	211823	-1	none	boryong_01225	none
+abcT	212012	212744	-1	none	boryong_01230	none
+art	212736	213354	-1	none	boryong_01235	none
+Unknown Gene	214023	214161	1	none	boryong_01240	none
+Unknown Gene	214300	214501	1	none	boryong_01245	none
+Unknown Gene	214647	215322	1	none	boryong_01250	none
+Unknown Gene	215465	217892	-1	none	boryong_01255	none
+Unknown Gene	218378	218741	-1	none	boryong_01260	none
+traG	218917	220348	-1	none	boryong_01265	none
+Unknown Gene	220660	221284	-1	none	boryong_01270	none
+Unknown Gene	221259	221961	-1	none	boryong_01275	none
+Unknown Gene	221957	222404	-1	none	boryong_01280	none
+Unknown Gene	222470	222647	-1	none	boryong_01285	none
+traN	222667	224368	-1	none	boryong_01290	none
+Unknown Gene	224351	224633	-1	none	boryong_01295	none
+Unknown Gene	224752	225436	-1	none	boryong_01300	none
+Unknown Gene	225883	226870	1	none	boryong_01305	none
+Unknown Gene	226783	227149	-1	none	boryong_01310	none
+Unknown Gene	227400	228852	-1	none	boryong_01315	none
+Unknown Gene	228869	229352	-1	none	boryong_01320	none
+Unknown Gene	229425	229626	1	none	boryong_01325	none
+Unknown Gene	229683	229899	1	none	boryong_01330	none
+Unknown Gene	230271	232314	-1	none	boryong_01335	none
+Unknown Gene	232643	232925	1	none	boryong_01340	none
+Unknown Gene	232884	233241	-1	none	boryong_01345	none
+Unknown Gene	233689	235267	-1	none	boryong_01350	none
+Unknown Gene	235779	>236331	-1	none	boryong_01355	none
+dam	236806	237637	1	none	boryong_01360	none
+Unknown Gene	238024	238777	-1	none	boryong_01365	none
+Unknown Gene	238736	238859	-1	none	boryong_01370	none
+Unknown Gene	239072	240167	-1	none	boryong_01375	none
+Unknown Gene	240240	240774	-1	none	boryong_01380	none
+Unknown Gene	240952	241654	-1	none	boryong_01385	none
+Asn_trna	242225	242300	1	none	boryong_01390	none
+infA	242398	242623	1	none	boryong_01395	none
+maf	242660	243266	1	none	boryong_01400	none
+tACO1	243393	244143	1	none	boryong_01405	none
+gyrA	244243	246961	1	none	boryong_01410	none
+glyA	246994	248275	1	none	boryong_01415	none
+Unknown Gene	248658	248802	-1	none	boryong_01420	none
+Unknown Gene	248962	251455	-1	none	boryong_01425	none
+rnpA	251841	252381	-1	none	boryong_01430	none
+rpmH	252381	252516	-1	none	boryong_01435	none
+cYT1	253295	254090	1	none	boryong_01440	none
+rph	254598	255354	-1	none	boryong_01445	none
+grpE	255483	256080	1	none	boryong_01450	none
+Unknown Gene	256608	256725	1	none	boryong_01455	none
+Unknown Gene	256774	256864	1	none	boryong_01460	none
+Unknown Gene	257086	257230	1	none	boryong_01465	none
+rnd	257218	257851	-1	none	boryong_01470	none
+ftsB	257857	258157	-1	none	boryong_01475	none
+cdsA	258164	258815	-1	none	boryong_01480	none
+uppS	258817	259513	-1	none	boryong_01485	none
+abcT	259687	261493	1	none	boryong_01490	none
+Unknown Gene	261882	>261981	1	none	boryong_01495	none
+dnaE	262774	266479	-1	none	boryong_01500	none
+valS	266468	269033	-1	none	boryong_01505	none
+ubiA	269062	269941	1	none	boryong_01510	none
+Unknown Gene	270047	270776	-1	none	boryong_01515	none
+ldcA	271148	272147	1	none	boryong_01520	none
+Unknown Gene	272238	272337	-1	none	boryong_01525	none
+Unknown Gene	272982	273165	1	none	boryong_01530	none
+Unknown Gene	274212	>274329	-1	none	boryong_01535	none
+Unknown Gene	274325	274481	-1	none	boryong_01540	none
+Unknown Gene	274818	275049	-1	none	boryong_01545	none
+Unknown Gene	275035	275176	-1	none	boryong_01550	none
+Unknown Gene	275278	275380	-1	none	boryong_01555	none
+Unknown Gene	275379	275490	-1	none	boryong_01560	none
+Unknown Gene	275560	276760	-1	none	boryong_01565	none
+coxB	277192	277888	-1	none	boryong_01570	none
+Unknown Gene	278099	278576	-1	none	boryong_01575	none
+virB6-5	279440	281657	1	none	boryong_01580	none
+Unknown Gene	282619	283057	1	none	boryong_01585	none
+Unknown Gene	283179	283281	1	none	boryong_01590	none
+Unknown Gene	283314	283443	1	none	boryong_01595	none
+gepA	283402	283642	-1	none	boryong_01600	none
+Unknown Gene	283816	284191	-1	none	boryong_01605	none
+Unknown Gene	284498	284771	1	none	boryong_01610	none
+uvrA	285164	288041	-1	none	boryong_01615	none
+Unknown Gene	288469	288733	1	none	boryong_01620	none
+Unknown Gene	288739	288958	1	none	boryong_01625	none
+Unknown Gene	289140	289365	1	none	boryong_01630	none
+Unknown Gene	289415	290318	1	none	boryong_01635	none
+Unknown Gene	290396	290660	-1	none	boryong_01640	none
+Unknown Gene	290604	290790	-1	none	boryong_01645	none
+ykfC	290997	291933	-1	none	boryong_01650	none
+Unknown Gene	291929	292166	-1	none	boryong_01655	none
+Unknown Gene	292449	>292716	1	none	boryong_01660	none
+Unknown Gene	292822	292987	1	none	boryong_01665	none
+Unknown Gene	294197	294857	1	none	boryong_01670	none
+Unknown Gene	295068	295392	1	none	boryong_01675	none
+Unknown Gene	296217	296598	1	none	boryong_01680	none
+murJ	296634	298149	-1	none	boryong_01685	none
+Unknown Gene	298528	298678	-1	none	boryong_01690	none
+arpD	299469	301224	1	none	boryong_01695	none
+hlyD	301261	302806	1	none	boryong_01700	none
+Unknown Gene	303413	303788	-1	none	boryong_01705	none
+Unknown Gene	303741	304236	-1	none	boryong_01710	none
+Unknown Gene	304820	304988	-1	none	boryong_01715	none
+Unknown Gene	304988	>305138	-1	none	boryong_01720	none
+Unknown Gene	305110	305257	-1	none	boryong_01725	none
+Unknown Gene	305775	305952	1	none	boryong_01730	none
+Unknown Gene	306387	306813	1	none	boryong_01735	none
+Unknown Gene	306781	307147	1	none	boryong_01740	none
+tlc	307714	309190	1	none	boryong_01745	none
+tlcC	309344	310889	1	none	boryong_01750	none
+Unknown Gene	310888	312694	1	none	boryong_01755	none
+ispB	312713	313730	1	none	boryong_01760	none
+Unknown Gene	314295	314559	1	none	boryong_01765	none
+Unknown Gene	314894	315059	1	none	boryong_01770	none
+Unknown Gene	315144	315306	1	none	boryong_01775	none
+traG	315727	316036	1	none	boryong_01780	none
+Unknown Gene	316051	>316153	1	none	boryong_01785	none
+Unknown Gene	316115	316409	1	none	boryong_01790	none
+Unknown Gene	316610	316895	1	none	boryong_01795	none
+Unknown Gene	316900	317095	1	none	boryong_01800	none
+tnp-IS110	317481	318444	1	none	boryong_01805	none
+Unknown Gene	318502	318877	-1	none	boryong_01810	none
+Unknown Gene	318990	319428	1	none	boryong_01815	none
+Unknown Gene	319439	319814	1	none	boryong_01820	none
+Unknown Gene	320049	320238	-1	none	boryong_01825	none
+Unknown Gene	320721	321252	1	none	boryong_01830	none
+Unknown Gene	321629	321872	1	none	boryong_01835	none
+Unknown Gene	321910	322108	1	none	boryong_01840	none
+Unknown Gene	322228	322372	-1	none	boryong_01845	none
+Unknown Gene	322503	322971	-1	none	boryong_01850	none
+Unknown Gene	323051	323390	-1	none	boryong_01855	none
+Unknown Gene	323355	323823	-1	none	boryong_01860	none
+Unknown Gene	324003	>324126	-1	none	boryong_01865	none
+Unknown Gene	324101	324212	-1	none	boryong_01870	none
+apaG	324522	324948	1	none	boryong_01875	none
+pleD	325333	326803	-1	none	boryong_01880	none
+Ser_trna	327169	327258	1	none	boryong_01885	none
+ubiX	327284	327848	1	none	boryong_01890	none
+mgtE	327897	328812	-1	none	boryong_01895	none
+ybeY	328824	329328	-1	none	boryong_01900	none
+ftsY	330764	331703	-1	none	boryong_01905	none
+Unknown Gene	331812	332202	1	none	boryong_01910	none
+virB9-1	332461	333223	-1	none	boryong_01915	none
+virB8-1	333212	333914	-1	none	boryong_01920	none
+5S_rrna	334138	334252	-1	none	boryong_01925	none
+23S_rrna	334388	337204	-1	none	boryong_01930	none
+thyA	337491	338394	-1	none	boryong_01935	none
+cinA	338437	338941	-1	none	boryong_01940	none
+pgpA	339006	339609	-1	none	boryong_01945	none
+Unknown Gene	340688	340841	1	none	boryong_01950	none
+Unknown Gene	341181	341490	1	none	boryong_01955	none
+Unknown Gene	341392	341605	-1	none	boryong_01960	none
+perM	341833	342880	1	none	boryong_01965	none
+hemA	342889	344101	-1	none	boryong_01970	none
+ptrB	344133	346188	-1	none	boryong_01975	none
+rpsT	346253	346526	-1	none	boryong_01980	none
+rplQ	346607	347045	-1	none	boryong_01985	none
+rpoA	347063	348092	-1	none	boryong_01990	none
+rpsK	348140	348521	-1	none	boryong_01995	none
+rpsM	348530	348908	-1	none	boryong_02000	none
+adk	348987	349620	-1	none	boryong_02005	none
+secY	349628	350936	-1	none	boryong_02010	none
+rplO	350937	351429	-1	none	boryong_02015	none
+rpsE	351664	352183	-1	none	boryong_02020	none
+rplR	352203	352578	-1	none	boryong_02025	none
+rplF	352591	353125	-1	none	boryong_02030	none
+rpsH	353146	353548	-1	none	boryong_02035	none
+rpsN	353570	353876	-1	none	boryong_02040	none
+rplE	353894	354464	-1	none	boryong_02045	none
+rplX	354476	354797	-1	none	boryong_02050	none
+rplN	354798	355167	-1	none	boryong_02055	none
+rpsQ	355262	355502	-1	none	boryong_02060	none
+rpmC	355502	355724	-1	none	boryong_02065	none
+rplP	355716	356127	-1	none	boryong_02070	none
+rpsC	356155	356812	-1	none	boryong_02075	none
+rplV	356827	357178	-1	none	boryong_02080	none
+rpsS	357179	357458	-1	none	boryong_02085	none
+rplB	357481	358303	-1	none	boryong_02090	none
+rplW	358303	358600	-1	none	boryong_02095	none
+rplD	358596	359229	-1	none	boryong_02100	none
+rplC	359243	359927	-1	none	boryong_02105	none
+rpsJ	359910	360216	-1	none	boryong_02110	none
+tuf	360260	361445	-1	none	boryong_02115	none
+Gly_trna	361539	361613	-1	none	boryong_02120	none
+Tyr_trna	361631	361717	-1	none	boryong_02125	none
+rlmB	361909	362638	1	none	boryong_02130	none
+recA	362732	363803	1	none	boryong_02135	none
+fabG	363796	364522	1	none	boryong_02140	none
+acpP	364643	365030	1	none	boryong_02145	none
+fabF	365119	366391	1	none	boryong_02150	none
+Unknown Gene	366910	367144	-1	none	boryong_02155	none
+Unknown Gene	367287	367731	-1	none	boryong_02160	none
+purC	368210	368945	-1	none	boryong_02165	none
+yfjG	368928	369375	-1	none	boryong_02170	none
+lipA	369397	370306	-1	none	boryong_02175	none
+sppA	370316	371246	-1	none	boryong_02180	none
+smpB	371245	371707	-1	none	boryong_02185	none
+dapA	371709	372606	-1	none	boryong_02190	none
+ilvE	372586	373489	-1	none	boryong_02195	none
+recD	373702	375898	-1	none	boryong_02200	none
+rplS	375924	376299	-1	none	boryong_02205	none
+trmD	376295	377060	-1	none	boryong_02210	none
+Unknown Gene	377102	378953	-1	none	boryong_02215	none
+popZ	378954	379521	-1	none	boryong_02220	none
+tolC	379571	380948	-1	none	boryong_02225	none
+Cys_trna	381145	381220	1	none	boryong_02230	none
+xerD	381230	382220	1	none	boryong_02235	none
+Unknown Gene	382884	383355	1	none	boryong_02240	none
+surf1	383349	384072	-1	none	boryong_02245	none
+fabZ	384313	384817	1	none	boryong_02250	none
+rsmD	384820	385396	1	none	boryong_02255	none
+radA	385395	386751	1	none	boryong_02260	none
+rhaT	386789	387710	-1	none	boryong_02265	none
+Unknown Gene	387861	389760	1	none	boryong_02270	none
+Unknown Gene	389800	391729	1	none	boryong_02275	none
+Unknown Gene	392436	392616	-1	none	boryong_02280	none
+Unknown Gene	393092	393317	1	none	boryong_02285	none
+Unknown Gene	393709	393889	1	none	boryong_02290	none
+Unknown Gene	393974	394175	1	none	boryong_02295	none
+Unknown Gene	394305	395544	1	none	boryong_02300	none
+traL	395669	396005	1	none	boryong_02305	none
+Unknown Gene	396004	396337	1	none	boryong_02310	none
+Unknown Gene	396345	396462	1	none	boryong_02315	none
+Unknown Gene	397309	398254	1	none	boryong_02320	none
+Unknown Gene	398225	398969	1	none	boryong_02325	none
+Unknown Gene	399084	399789	-1	none	boryong_02330	none
+Unknown Gene	399730	>399856	-1	none	boryong_02335	none
+Unknown Gene	399855	400074	-1	none	boryong_02340	none
+Unknown Gene	400180	400492	-1	none	boryong_02345	none
+Unknown Gene	400699	400873	-1	none	boryong_02350	none
+Unknown Gene	401310	401823	1	none	boryong_02355	none
+Unknown Gene	401776	402004	1	none	boryong_02360	none
+Unknown Gene	402070	402256	1	none	boryong_02365	none
+Unknown Gene	402797	402965	-1	none	boryong_02370	none
+rpmJ	403331	403457	-1	none	boryong_02375	none
+Unknown Gene	403930	404104	1	none	boryong_02380	none
+Unknown Gene	404308	404458	1	none	boryong_02385	none
+Unknown Gene	404424	>404556	1	none	boryong_02390	none
+Unknown Gene	404500	404800	1	none	boryong_02395	none
+Unknown Gene	405119	405212	1	none	boryong_02400	none
+Unknown Gene	405381	405606	1	none	boryong_02405	none
+Unknown Gene	405913	406066	1	none	boryong_02410	none
+ykfC	406250	407351	1	none	boryong_02415	none
+Unknown Gene	407598	407706	1	none	boryong_02420	none
+Unknown Gene	407865	408192	-1	none	boryong_02425	none
+bamA	408210	410580	-1	none	boryong_02430	none
+rseP	410592	411654	-1	none	boryong_02435	none
+rmuC	411763	413104	-1	none	boryong_02440	none
+rsmA	413170	413992	-1	none	boryong_02445	none
+surA	414110	414986	-1	none	boryong_02450	none
+himA	415178	415487	-1	none	boryong_02455	none
+His_trna	415856	415933	-1	none	boryong_02460	none
+Unknown Gene	416060	416939	-1	none	boryong_02465	none
+pcnB	416935	418144	-1	none	boryong_02470	none
+gltP	418196	419393	-1	none	boryong_02475	none
+uvrD	419573	423038	-1	none	boryong_02480	none
+sixA	423049	423523	-1	none	boryong_02485	none
+dapB	423604	424456	-1	none	boryong_02490	none
+hisJ	424462	425266	-1	none	boryong_02495	none
+coxW	426075	426603	1	none	boryong_02500	none
+rpmF	427451	427658	-1	none	boryong_02505	none
+bamE	427754	428120	1	none	boryong_02510	none
+era	428647	429568	-1	none	boryong_02515	none
+Unknown Gene	429564	430584	-1	none	boryong_02520	none
+prfA	430787	431867	-1	none	boryong_02525	none
+Unknown Gene	432387	432645	-1	none	boryong_02530	none
+Unknown Gene	432951	>433194	1	none	boryong_02535	none
+Unknown Gene	<433190	>433478	1	none	boryong_02540	none
+Unknown Gene	433834	434236	1	none	boryong_02545	none
+Unknown Gene	434232	434493	1	none	boryong_02550	none
+dnaB	434568	435012	1	none	boryong_02555	none
+Unknown Gene	435199	435952	1	none	boryong_02560	none
+Unknown Gene	436306	436462	-1	none	boryong_02565	none
+Unknown Gene	436439	437612	-1	none	boryong_02570	none
+Unknown Gene	438287	438662	-1	none	boryong_02575	none
+Unknown Gene	438615	439110	-1	none	boryong_02580	none
+ppx	439910	441359	1	none	boryong_02585	none
+Unknown Gene	442373	442481	1	none	boryong_02590	none
+pcaH	442859	443591	1	none	boryong_02595	none
+leuS	444206	446723	1	none	boryong_02600	none
+holB2	446742	447762	1	none	boryong_02605	none
+Leu_trna	447828	447918	1	none	boryong_02610	none
+mgtE	447951	449316	1	none	boryong_02615	none
+ypwA	449413	450904	-1	none	boryong_02620	none
+Unknown Gene	451692	451827	1	none	boryong_02625	none
+Unknown Gene	452529	453063	1	none	boryong_02630	none
+Unknown Gene	453136	454225	1	none	boryong_02635	none
+dnaB	454300	454744	1	none	boryong_02640	none
+Unknown Gene	454931	455684	1	none	boryong_02645	none
+spoT	455918	456494	1	none	boryong_02650	none
+Unknown Gene	456531	457176	1	none	boryong_02655	none
+Unknown Gene	457993	458101	1	none	boryong_02660	none
+Unknown Gene	458720	459254	-1	none	boryong_02665	none
+Unknown Gene	459551	459674	-1	none	boryong_02670	none
+Unknown Gene	459971	460247	1	none	boryong_02675	none
+Unknown Gene	460604	460817	1	none	boryong_02680	none
+Unknown Gene	460915	461125	1	none	boryong_02685	none
+spoT	461166	461754	1	none	boryong_02690	none
+Unknown Gene	461875	462826	1	none	boryong_02695	none
+Unknown Gene	462904	463168	-1	none	boryong_02700	none
+Unknown Gene	463112	463298	-1	none	boryong_02705	none
+ykfC	463505	464642	-1	none	boryong_02710	none
+Unknown Gene	464826	464979	-1	none	boryong_02715	none
+Unknown Gene	465326	466304	1	none	boryong_02720	none
+Unknown Gene	466229	466799	-1	none	boryong_02725	none
+Unknown Gene	466845	467571	-1	none	boryong_02730	none
+traV	467551	467881	-1	none	boryong_02735	none
+Unknown Gene	467880	468258	-1	none	boryong_02740	none
+Unknown Gene	468331	468487	-1	none	boryong_02745	none
+Unknown Gene	468675	469404	-1	none	boryong_02750	none
+rpsD	470142	470766	-1	none	boryong_02755	none
+rsmE	470901	471654	1	none	boryong_02760	none
+mlaE	471950	472742	1	none	boryong_02765	none
+mlaF	472770	473526	1	none	boryong_02770	none
+recJ	473696	475457	-1	none	boryong_02775	none
+ruvX	475470	475944	-1	none	boryong_02780	none
+Unknown Gene	475940	476855	-1	none	boryong_02785	none
+ccmE	476881	477277	-1	none	boryong_02790	none
+curA	477576	478740	1	none	boryong_02795	none
+traL	479831	480167	-1	none	boryong_02800	none
+Unknown Gene	480258	480933	-1	none	boryong_02805	none
+Unknown Gene	480884	481271	-1	none	boryong_02810	none
+Unknown Gene	481393	481546	-1	none	boryong_02815	none
+Unknown Gene	482872	483172	-1	none	boryong_02820	none
+Unknown Gene	484210	484381	1	none	boryong_02825	none
+Unknown Gene	484723	485125	-1	none	boryong_02830	none
+Unknown Gene	485197	485614	1	none	boryong_02835	none
+Unknown Gene	485567	485789	1	none	boryong_02840	none
+Unknown Gene	485807	485930	1	none	boryong_02845	none
+traE	485916	486456	1	none	boryong_02850	none
+traK2	486589	486922	1	none	boryong_02855	none
+Unknown Gene	486928	487324	-1	none	boryong_02860	none
+Unknown Gene	487846	487972	-1	none	boryong_02865	none
+panF	489025	490429	-1	none	boryong_02870	none
+Unknown Gene	490444	491707	-1	none	boryong_02875	none
+Unknown Gene	492356	492509	1	none	boryong_02880	none
+Unknown Gene	492631	492760	1	none	boryong_02885	none
+Unknown Gene	492884	494363	-1	none	boryong_02890	none
+Unknown Gene	494347	495439	-1	none	boryong_02895	none
+Unknown Gene	495431	495647	-1	none	boryong_02900	none
+traD	495995	496394	1	none	boryong_02905	none
+Unknown Gene	496481	497054	1	none	boryong_02910	none
+Unknown Gene	497139	497358	-1	none	boryong_02915	none
+Unknown Gene	497485	497923	1	none	boryong_02920	none
+tnp-IS5	498201	498309	1	none	boryong_02925	none
+Unknown Gene	498403	498676	-1	none	boryong_02930	none
+Unknown Gene	498694	>498793	-1	none	boryong_02935	none
+Unknown Gene	498903	499596	-1	none	boryong_02940	none
+Unknown Gene	499848	500481	-1	none	boryong_02945	none
+Unknown Gene	500788	501559	-1	none	boryong_02950	none
+Unknown Gene	501542	501824	-1	none	boryong_02955	none
+Unknown Gene	501943	502627	-1	none	boryong_02960	none
+traV	502819	503110	-1	none	boryong_02965	none
+Unknown Gene	503109	503574	-1	none	boryong_02970	none
+Unknown Gene	503685	504087	-1	none	boryong_02975	none
+traE	504083	504560	-1	none	boryong_02980	none
+traL	504634	504970	-1	none	boryong_02985	none
+Unknown Gene	505061	505736	-1	none	boryong_02990	none
+Unknown Gene	505687	506074	-1	none	boryong_02995	none
+Unknown Gene	506196	506349	-1	none	boryong_03000	none
+Val_trna	506926	507002	-1	none	boryong_03005	none
+Gly_trna	507104	507176	-1	none	boryong_03010	none
+Unknown Gene	507892	508078	-1	none	boryong_03015	none
+Unknown Gene	508289	508397	-1	none	boryong_03020	none
+Unknown Gene	508604	509771	-1	none	boryong_03025	none
+Unknown Gene	510598	510868	-1	none	boryong_03030	none
+tnp-IS5	511263	511371	-1	none	boryong_03035	none
+Unknown Gene	511591	512086	-1	none	boryong_03040	none
+Unknown Gene	512226	512712	-1	none	boryong_03045	none
+Unknown Gene	512968	513382	1	none	boryong_03050	none
+Unknown Gene	513335	513710	1	none	boryong_03055	none
+Unknown Gene	513669	514098	-1	none	boryong_03060	none
+Unknown Gene	514638	515070	1	none	boryong_03065	none
+bcp	515072	515543	1	none	boryong_03070	none
+Unknown Gene	516161	516326	1	none	boryong_03075	none
+Unknown Gene	517115	517358	1	none	boryong_03080	none
+tlcC	517684	519160	-1	none	boryong_03085	none
+rplI	519313	519841	-1	none	boryong_03090	none
+rpsR	519883	520192	-1	none	boryong_03095	none
+rpsF	520239	520596	-1	none	boryong_03100	none
+ompR	520888	521638	1	none	boryong_03105	none
+mdlB	521743	523414	1	none	boryong_03110	none
+Unknown Gene	523543	>523738	1	none	boryong_03115	none
+tig	523914	525405	-1	none	boryong_03120	none
+Leu_trna	525454	525539	-1	none	boryong_03125	none
+dapE	525556	526723	-1	none	boryong_03130	none
+htpG	526885	528778	-1	none	boryong_03135	none
+rpmI	529223	529430	1	none	boryong_03140	none
+rplT	529449	529815	1	none	boryong_03145	none
+Unknown Gene	530407	>530539	-1	none	boryong_03150	none
+Unknown Gene	531688	531796	-1	none	boryong_03155	none
+Unknown Gene	532074	532449	-1	none	boryong_03160	none
+Unknown Gene	532460	532898	-1	none	boryong_03165	none
+Unknown Gene	532972	533287	-1	none	boryong_03170	none
+Unknown Gene	534389	534488	1	none	boryong_03175	none
+Thr_trna	535632	535707	-1	none	boryong_03180	none
+rpsP	535812	536139	-1	none	boryong_03185	none
+rpmG	536147	536315	-1	none	boryong_03190	none
+Unknown Gene	536890	536998	-1	none	boryong_03195	none
+Unknown Gene	537205	538372	-1	none	boryong_03200	none
+Unknown Gene	539482	540244	1	none	boryong_03205	none
+Unknown Gene	540298	540424	1	none	boryong_03210	none
+Unknown Gene	540448	541228	-1	none	boryong_03215	none
+argS	541224	542997	-1	none	boryong_03220	none
+iscA	543162	543507	1	none	boryong_03225	none
+gltX	543507	544944	-1	none	boryong_03230	none
+alaS	545283	547953	-1	none	boryong_03235	none
+Unknown Gene	548085	549699	1	none	boryong_03240	none
+Unknown Gene	549700	550330	1	none	boryong_03245	none
+atpG	550340	551231	-1	none	boryong_03250	none
+atpA	551245	552784	-1	none	boryong_03255	none
+atpH	552826	553372	-1	none	boryong_03260	none
+dut	553466	553913	-1	none	boryong_03265	none
+infC	554225	554768	-1	none	boryong_03270	none
+thrS	554781	556728	-1	none	boryong_03275	none
+folC	556978	558319	1	none	boryong_03280	none
+Unknown Gene	558421	559453	-1	none	boryong_03285	none
+secA	559698	562341	1	none	boryong_03290	none
+traA	563662	565894	-1	none	boryong_03295	none
+Unknown Gene	565933	566044	-1	none	boryong_03300	none
+Unknown Gene	566107	566227	-1	none	boryong_03305	none
+rppH	567295	567781	-1	none	boryong_03310	none
+Unknown Gene	568149	568551	1	none	boryong_03315	none
+Unknown Gene	568992	569118	-1	none	boryong_03320	none
+Unknown Gene	569131	569569	-1	none	boryong_03325	none
+Unknown Gene	569676	569811	-1	none	boryong_03330	none
+Unknown Gene	570018	570567	-1	none	boryong_03335	none
+Unknown Gene	570612	571185	-1	none	boryong_03340	none
+Unknown Gene	571653	571785	-1	none	boryong_03345	none
+Unknown Gene	571813	571963	-1	none	boryong_03350	none
+Unknown Gene	572477	572879	1	none	boryong_03355	none
+recF	573044	574184	-1	none	boryong_03360	none
+ftsQ	574201	575032	-1	none	boryong_03365	none
+ddl	575024	575999	-1	none	boryong_03370	none
+murB	575976	576879	-1	none	boryong_03375	none
+murC	576856	578365	-1	none	boryong_03380	none
+Unknown Gene	578540	579272	-1	none	boryong_03385	none
+tsa56	579499	581098	-1	none	boryong_03390	none
+glyQ	581645	582524	1	none	boryong_03395	none
+glyS	582516	584568	1	none	boryong_03400	none
+tsaC	584545	585514	1	none	boryong_03405	none
+Unknown Gene	586773	586926	1	none	boryong_03410	none
+ykfC	587110	588247	1	none	boryong_03415	none
+Unknown Gene	588454	588640	1	none	boryong_03420	none
+Unknown Gene	588584	588848	1	none	boryong_03425	none
+Unknown Gene	588926	589877	-1	none	boryong_03430	none
+spoT	589998	590478	-1	none	boryong_03435	none
+Unknown Gene	590902	591037	-1	none	boryong_03440	none
+Unknown Gene	591205	591463	1	none	boryong_03445	none
+Unknown Gene	591459	591726	1	none	boryong_03450	none
+dnaB	591801	592245	1	none	boryong_03455	none
+Unknown Gene	592432	593185	1	none	boryong_03460	none
+spoT	593412	593988	1	none	boryong_03465	none
+Unknown Gene	594027	594672	1	none	boryong_03470	none
+Unknown Gene	594774	595278	1	none	boryong_03475	none
+Unknown Gene	595790	596162	1	none	boryong_03480	none
+Unknown Gene	596184	597066	1	none	boryong_03485	none
+Unknown Gene	597166	597541	-1	none	boryong_03490	none
+Unknown Gene	597552	597990	-1	none	boryong_03495	none
+Unknown Gene	598132	598837	1	none	boryong_03500	none
+Unknown Gene	598859	599795	1	none	boryong_03505	none
+baeS	599800	600307	1	none	boryong_03510	none
+spoT	600348	600936	1	none	boryong_03515	none
+Unknown Gene	601057	601984	1	none	boryong_03520	none
+Unknown Gene	602062	602326	-1	none	boryong_03525	none
+Unknown Gene	602751	603240	1	none	boryong_03530	none
+Unknown Gene	603377	603560	1	none	boryong_03535	none
+Unknown Gene	604220	604820	-1	none	boryong_03540	none
+traD	604849	605290	-1	none	boryong_03545	none
+Unknown Gene	605624	606401	1	none	boryong_03550	none
+Unknown Gene	606481	606949	1	none	boryong_03555	none
+Unknown Gene	607080	607224	1	none	boryong_03560	none
+Unknown Gene	607258	608131	1	none	boryong_03565	none
+Unknown Gene	608312	610115	1	none	boryong_03570	none
+Unknown Gene	610165	611077	1	none	boryong_03575	none
+virD4	611078	612353	-1	none	boryong_03580	none
+Unknown Gene	612327	612834	-1	none	boryong_03585	none
+Unknown Gene	612833	613556	-1	none	boryong_03590	none
+traG	613732	615163	-1	none	boryong_03595	none
+Unknown Gene	615475	616099	-1	none	boryong_03600	none
+Unknown Gene	616074	616776	-1	none	boryong_03605	none
+Unknown Gene	616772	617219	-1	none	boryong_03610	none
+Unknown Gene	617285	617462	-1	none	boryong_03615	none
+traN	617482	619183	-1	none	boryong_03620	none
+Unknown Gene	619166	619448	-1	none	boryong_03625	none
+Unknown Gene	619567	620269	-1	none	boryong_03630	none
+Unknown Gene	620782	621598	-1	none	boryong_03635	none
+Unknown Gene	621713	622814	-1	none	boryong_03640	none
+Unknown Gene	622870	623053	-1	none	boryong_03645	none
+Unknown Gene	622991	623156	-1	none	boryong_03650	none
+Unknown Gene	623198	623600	-1	none	boryong_03655	none
+Unknown Gene	623605	624544	-1	none	boryong_03660	none
+traK2	624601	624904	-1	none	boryong_03665	none
+traK1	625069	625558	-1	none	boryong_03670	none
+Unknown Gene	625554	625707	-1	none	boryong_03675	none
+Unknown Gene	625687	626107	-1	none	boryong_03680	none
+traL	626106	626442	-1	none	boryong_03685	none
+xerD	626563	627136	-1	none	boryong_03690	none
+Unknown Gene	627186	627759	-1	none	boryong_03695	none
+Unknown Gene	628177	>628570	-1	none	boryong_03700	none
+Unknown Gene	629096	629279	-1	none	boryong_03705	none
+dnaB	629961	630909	1	none	boryong_03710	none
+Unknown Gene	631141	631294	1	none	boryong_03715	none
+Unknown Gene	631682	632687	1	none	boryong_03720	none
+Unknown Gene	632895	633573	-1	none	boryong_03725	none
+Unknown Gene	633668	633962	-1	none	boryong_03730	none
+Unknown Gene	634243	634504	-1	none	boryong_03735	none
+Unknown Gene	634670	634781	1	none	boryong_03740	none
+Unknown Gene	635349	635529	1	none	boryong_03745	none
+Unknown Gene	636217	636460	-1	none	boryong_03750	none
+Unknown Gene	636585	637098	-1	none	boryong_03755	none
+Unknown Gene	637581	637734	-1	none	boryong_03760	none
+Unknown Gene	638808	639009	1	none	boryong_03765	none
+Asp_trna	639438	639516	-1	none	boryong_03770	none
+Unknown Gene	639855	640038	-1	none	boryong_03775	none
+pTR2	641054	642533	1	none	boryong_03780	none
+fumC	642696	644097	-1	none	boryong_03785	none
+hPt	644160	644838	-1	none	boryong_03790	none
+Unknown Gene	645068	645395	1	none	boryong_03795	none
+Unknown Gene	645619	645994	-1	none	boryong_03800	none
+Unknown Gene	645947	646442	-1	none	boryong_03805	none
+Unknown Gene	646834	646972	1	none	boryong_03810	none
+Unknown Gene	647224	647989	1	none	boryong_03815	none
+Unknown Gene	648183	648393	-1	none	boryong_03820	none
+Unknown Gene	648591	648888	1	none	boryong_03825	none
+Unknown Gene	649004	649259	1	none	boryong_03830	none
+Unknown Gene	649914	651516	1	none	boryong_03835	none
+grxC	651949	652333	-1	none	boryong_03840	none
+Unknown Gene	652540	652969	-1	none	boryong_03845	none
+otGTA	653066	653870	-1	none	boryong_03850	none
+Unknown Gene	653882	654482	-1	none	boryong_03855	none
+Unknown Gene	654474	654900	-1	none	boryong_03860	none
+Unknown Gene	654899	655241	-1	none	boryong_03865	none
+Unknown Gene	655242	655788	-1	none	boryong_03870	none
+otGTA	655821	656937	-1	none	boryong_03875	none
+otGTA	656948	657503	-1	none	boryong_03880	none
+Unknown Gene	658426	>658552	1	none	boryong_03885	none
+Unknown Gene	<658641	658968	1	none	boryong_03890	none
+Unknown Gene	659416	659992	1	none	boryong_03895	none
+Unknown Gene	659951	660326	-1	none	boryong_03900	none
+Unknown Gene	660337	660775	-1	none	boryong_03905	none
+lacA	661215	661698	-1	none	boryong_03910	none
+Unknown Gene	661885	662098	1	none	boryong_03915	none
+Unknown Gene	662000	662309	-1	none	boryong_03920	none
+Unknown Gene	662649	662802	-1	none	boryong_03925	none
+Unknown Gene	663886	664051	1	none	boryong_03930	none
+Unknown Gene	664016	664211	1	none	boryong_03935	none
+Unknown Gene	664230	664332	1	none	boryong_03940	none
+Unknown Gene	664451	665486	-1	none	boryong_03945	none
+Unknown Gene	665856	666120	1	none	boryong_03950	none
+Unknown Gene	666766	667396	1	none	boryong_03955	none
+mdlB	667542	669324	-1	none	boryong_03960	none
+pyrH	669376	670126	-1	none	boryong_03965	none
+mraY	670351	671443	-1	none	boryong_03970	none
+murF	671432	672848	-1	none	boryong_03975	none
+murE	672844	674314	-1	none	boryong_03980	none
+pbpA2	674300	676052	-1	none	boryong_03985	none
+ftsL	676253	676562	-1	none	boryong_03990	none
+rsmH	676554	677469	-1	none	boryong_03995	none
+dnaJ	677561	678695	-1	none	boryong_04000	none
+dnaK	678782	680711	-1	none	boryong_04005	none
+bolA	681090	681378	-1	none	boryong_04010	none
+fabI	681584	682382	1	none	boryong_04015	none
+Unknown Gene	682580	682709	-1	none	boryong_04020	none
+ykfC	682796	683063	-1	none	boryong_04025	none
+Unknown Gene	683521	683788	1	none	boryong_04030	none
+Unknown Gene	684093	684294	1	none	boryong_04035	none
+Unknown Gene	684424	685015	1	none	boryong_04040	none
+Unknown Gene	684986	685664	1	none	boryong_04045	none
+traL	685789	686125	1	none	boryong_04050	none
+Unknown Gene	686199	686457	1	none	boryong_04055	none
+Unknown Gene	686465	686582	1	none	boryong_04060	none
+Unknown Gene	687429	688374	1	none	boryong_04065	none
+Unknown Gene	688345	689128	1	none	boryong_04070	none
+virB4	689149	689992	1	none	boryong_04075	none
+traW	689988	690648	1	none	boryong_04080	none
+Unknown Gene	690730	690919	1	none	boryong_04085	none
+Unknown Gene	691233	691917	1	none	boryong_04090	none
+Unknown Gene	692036	692318	1	none	boryong_04095	none
+Unknown Gene	692301	693072	1	none	boryong_04100	none
+Unknown Gene	693379	694006	1	none	boryong_04105	none
+Unknown Gene	694026	694203	1	none	boryong_04110	none
+Unknown Gene	694269	695271	1	none	boryong_04115	none
+Unknown Gene	695270	695786	1	none	boryong_04120	none
+Unknown Gene	695900	697220	-1	none	boryong_04125	none
+Unknown Gene	697164	697875	-1	none	boryong_04130	none
+Unknown Gene	698504	700055	-1	none	boryong_04135	none
+Unknown Gene	700039	700852	-1	none	boryong_04140	none
+Unknown Gene	700869	701352	-1	none	boryong_04145	none
+Unknown Gene	701425	701626	1	none	boryong_04150	none
+Unknown Gene	701734	701998	1	none	boryong_04155	none
+Unknown Gene	702004	702610	1	none	boryong_04160	none
+Unknown Gene	702946	704683	1	none	boryong_04165	none
+Unknown Gene	705668	705950	1	none	boryong_04170	none
+Unknown Gene	706052	706598	1	none	boryong_04175	none
+spoT	706665	707259	-1	none	boryong_04180	none
+Unknown Gene	707393	707774	-1	none	boryong_04185	none
+Unknown Gene	707800	708217	-1	none	boryong_04190	none
+baeS	708155	708983	-1	none	boryong_04195	none
+Unknown Gene	709674	711579	1	none	boryong_04200	none
+Unknown Gene	712063	712498	1	none	boryong_04205	none
+Unknown Gene	712570	712876	1	none	boryong_04210	none
+Unknown Gene	712996	713371	-1	none	boryong_04215	none
+Unknown Gene	713475	713874	1	none	boryong_04220	none
+Unknown Gene	713925	714222	1	none	boryong_04225	none
+atpC	715180	715585	-1	none	boryong_04230	none
+atpB	715581	717018	-1	none	boryong_04235	none
+capM	717367	718507	-1	none	boryong_04240	none
+menH	718542	719316	1	none	boryong_04245	none
+mltE	719705	721703	-1	none	boryong_04250	none
+fabD	721744	722683	1	none	boryong_04255	none
+Unknown Gene	723843	724122	-1	none	boryong_04260	none
+Unknown Gene	724246	724393	-1	none	boryong_04265	none
+Unknown Gene	724528	724723	-1	none	boryong_04270	none
+Unknown Gene	724871	725102	-1	none	boryong_04275	none
+Unknown Gene	725190	725373	-1	none	boryong_04280	none
+Unknown Gene	725550	725697	-1	none	boryong_04285	none
+Unknown Gene	725811	726024	1	none	boryong_04290	none
+Unknown Gene	725986	726238	1	none	boryong_04295	none
+Unknown Gene	726253	726409	1	none	boryong_04300	none
+Unknown Gene	726423	726792	1	none	boryong_04305	none
+Unknown Gene	727012	727249	1	none	boryong_04310	none
+Unknown Gene	728015	728891	-1	none	boryong_04315	none
+baeS	729182	729647	1	none	boryong_04320	none
+baeS	729652	730159	1	none	boryong_04325	none
+spoT	730200	730788	1	none	boryong_04330	none
+Unknown Gene	730909	731836	1	none	boryong_04335	none
+Unknown Gene	731914	732178	-1	none	boryong_04340	none
+Unknown Gene	732122	732308	-1	none	boryong_04345	none
+Unknown Gene	732515	733709	-1	none	boryong_04350	none
+Unknown Gene	733893	734046	-1	none	boryong_04355	none
+Unknown Gene	734073	734208	-1	none	boryong_04360	none
+Unknown Gene	734394	737169	-1	none	boryong_04365	none
+Unknown Gene	737907	738147	-1	none	boryong_04370	none
+Unknown Gene	738327	738702	-1	none	boryong_04375	none
+Unknown Gene	738753	739152	-1	none	boryong_04380	none
+trpS	739628	740636	1	none	boryong_04385	none
+Unknown Gene	741176	742421	-1	none	boryong_04390	none
+Unknown Gene	742553	742706	-1	none	boryong_04395	none
+ppdK	743708	746414	1	none	boryong_04400	none
+Unknown Gene	746921	747359	1	none	boryong_04405	none
+Unknown Gene	747370	747745	1	none	boryong_04410	none
+vut1	748149	748824	-1	none	boryong_04415	none
+Unknown Gene	748941	749133	1	none	boryong_04420	none
+Unknown Gene	749289	749400	-1	none	boryong_04425	none
+atpB	750180	750909	1	none	boryong_04430	none
+atpE	750964	751189	1	none	boryong_04435	none
+atpF	751196	751694	1	none	boryong_04440	none
+atpF	751848	752172	1	none	boryong_04445	none
+Unknown Gene	752901	753135	1	none	boryong_04450	none
+Unknown Gene	753223	753370	1	none	boryong_04455	none
+Unknown Gene	753329	753704	-1	none	boryong_04460	none
+Unknown Gene	753715	754153	-1	none	boryong_04465	none
+Unknown Gene	754261	754636	1	none	boryong_04470	none
+ftsK	754917	757206	-1	none	boryong_04475	none
+Unknown Gene	757296	757668	-1	none	boryong_04480	none
+ettA	757700	759368	-1	none	boryong_04485	none
+Unknown Gene	759508	760342	-1	none	boryong_04490	none
+Unknown Gene	760728	760923	-1	none	boryong_04495	none
+Unknown Gene	760988	761315	-1	none	boryong_04500	none
+Unknown Gene	761672	761894	-1	none	boryong_04505	none
+ffh	762806	764159	1	none	boryong_04510	none
+cutA	764214	764571	1	none	boryong_04515	none
+Unknown Gene	764586	764697	-1	none	boryong_04520	none
+Unknown Gene	765323	766154	1	none	boryong_04525	none
+gmk	766360	767026	1	none	boryong_04530	none
+Unknown Gene	767159	767534	1	none	boryong_04535	none
+Unknown Gene	767524	769804	1	none	boryong_04540	none
+Unknown Gene	<770122	>770230	1	none	boryong_04545	none
+Unknown Gene	770476	772030	1	none	boryong_04550	none
+Unknown Gene	772107	772239	1	none	boryong_04555	none
+Unknown Gene	772475	772628	1	none	boryong_04560	none
+Unknown Gene	773015	773285	1	none	boryong_04565	none
+Unknown Gene	773292	773787	1	none	boryong_04570	none
+Unknown Gene	773740	774115	1	none	boryong_04575	none
+Unknown Gene	774074	774257	-1	none	boryong_04580	none
+Unknown Gene	774241	774793	-1	none	boryong_04585	none
+Unknown Gene	775014	775377	-1	none	boryong_04590	none
+Unknown Gene	775363	776041	-1	none	boryong_04595	none
+Unknown Gene	776222	777419	-1	none	boryong_04600	none
+Unknown Gene	777403	778498	-1	none	boryong_04605	none
+Unknown Gene	778490	778706	-1	none	boryong_04610	none
+traD	779054	779453	1	none	boryong_04615	none
+Unknown Gene	779540	780119	1	none	boryong_04620	none
+spoT	780196	780772	-1	none	boryong_04625	none
+Unknown Gene	781006	781759	-1	none	boryong_04630	none
+dnaB	781946	782390	-1	none	boryong_04635	none
+Unknown Gene	782465	782726	-1	none	boryong_04640	none
+Unknown Gene	782722	783124	-1	none	boryong_04645	none
+Unknown Gene	783480	>784005	-1	none	boryong_04650	none
+Unknown Gene	784107	784326	-1	none	boryong_04655	none
+Unknown Gene	784400	784775	-1	none	boryong_04660	none
+Unknown Gene	784786	785224	-1	none	boryong_04665	none
+Unknown Gene	785412	785565	-1	none	boryong_04670	none
+glpE	785939	786689	-1	none	boryong_04675	none
+tim44	786801	787437	-1	none	boryong_04680	none
+Unknown Gene	787529	787733	1	none	boryong_04685	none
+Unknown Gene	787737	788052	-1	none	boryong_04690	none
+Unknown Gene	788014	788251	-1	none	boryong_04695	none
+Unknown Gene	788204	788582	-1	none	boryong_04700	none
+midA	789695	790850	-1	none	boryong_04705	none
+Unknown Gene	791441	791564	1	none	boryong_04710	none
+Unknown Gene	791717	791879	1	none	boryong_04715	none
+Unknown Gene	791981	792134	1	none	boryong_04720	none
+Unknown Gene	793440	794007	1	none	boryong_04725	none
+Unknown Gene	794048	795155	1	none	boryong_04730	none
+Unknown Gene	795885	798006	1	none	boryong_04735	none
+dam	798295	799102	-1	none	boryong_04740	none
+Unknown Gene	799819	800074	1	none	boryong_04745	none
+Unknown Gene	800150	801422	1	none	boryong_04750	none
+Unknown Gene	801555	802125	1	none	boryong_04755	none
+Unknown Gene	802148	802661	-1	none	boryong_04760	none
+Unknown Gene	802813	803089	-1	none	boryong_04765	none
+Unknown Gene	803349	803541	-1	none	boryong_04770	none
+Unknown Gene	803598	803799	-1	none	boryong_04775	none
+Unknown Gene	803872	804355	1	none	boryong_04780	none
+Unknown Gene	804372	805185	1	none	boryong_04785	none
+Unknown Gene	805169	806366	1	none	boryong_04790	none
+Unknown Gene	806547	807225	1	none	boryong_04795	none
+Unknown Gene	807211	807574	1	none	boryong_04800	none
+Unknown Gene	807795	808347	1	none	boryong_04805	none
+Unknown Gene	808331	808799	1	none	boryong_04810	none
+Unknown Gene	808788	809268	1	none	boryong_04815	none
+virD4	809269	810412	-1	none	boryong_04820	none
+Unknown Gene	810539	811163	-1	none	boryong_04825	none
+Unknown Gene	811138	811840	-1	none	boryong_04830	none
+Unknown Gene	811836	812283	-1	none	boryong_04835	none
+Unknown Gene	812342	812528	-1	none	boryong_04840	none
+Unknown Gene	812548	813175	-1	none	boryong_04845	none
+Unknown Gene	813231	813408	-1	none	boryong_04850	none
+Unknown Gene	813482	814253	-1	none	boryong_04855	none
+Unknown Gene	814236	814518	-1	none	boryong_04860	none
+Unknown Gene	814637	815321	-1	none	boryong_04865	none
+traV	815513	815804	-1	none	boryong_04870	none
+Unknown Gene	815803	816268	-1	none	boryong_04875	none
+Unknown Gene	816379	816781	-1	none	boryong_04880	none
+traE	816777	817254	-1	none	boryong_04885	none
+traL	817328	817664	-1	none	boryong_04890	none
+Unknown Gene	817789	819028	-1	none	boryong_04895	none
+Unknown Gene	819158	819359	-1	none	boryong_04900	none
+putP	819657	823095	-1	none	boryong_04905	none
+Ile2_trna	823506	823583	-1	none	boryong_04910	none
+icd	823733	825293	-1	none	boryong_04915	none
+hemC	825466	826363	1	none	boryong_04920	none
+proP	826663	827884	1	none	boryong_04925	none
+Unknown Gene	828845	829283	1	none	boryong_04930	none
+Unknown Gene	829294	829669	1	none	boryong_04935	none
+Unknown Gene	829655	829907	1	none	boryong_04940	none
+ykfC	829942	830770	1	none	boryong_04945	none
+Unknown Gene	830977	831085	1	none	boryong_04950	none
+Unknown Gene	831864	>832146	1	none	boryong_04955	none
+Unknown Gene	832138	833761	1	none	boryong_04960	none
+Unknown Gene	834315	836184	1	none	boryong_04965	none
+tdcB	836750	837764	-1	none	boryong_04970	none
+ycbZ	837880	840241	1	none	boryong_04975	none
+dnaA	840317	840968	-1	none	boryong_04980	none
+purF	841097	841844	-1	none	boryong_04985	none
+miaA	841827	842865	-1	none	boryong_04990	none
+rnhB	842935	843553	1	none	boryong_04995	none
+Unknown Gene	844115	844367	1	none	boryong_05000	none
+Unknown Gene	844843	845284	1	none	boryong_05005	none
+Unknown Gene	845275	845383	-1	none	boryong_05010	none
+Unknown Gene	845590	846613	-1	none	boryong_05015	none
+Unknown Gene	846640	847036	1	none	boryong_05020	none
+scaB	847164	849114	-1	none	boryong_05025	none
+Unknown Gene	849647	849854	-1	none	boryong_05030	none
+Unknown Gene	850852	851155	1	none	boryong_05035	none
+Unknown Gene	851114	851489	-1	none	boryong_05040	none
+Unknown Gene	851442	851937	-1	none	boryong_05045	none
+Unknown Gene	852261	854418	-1	none	boryong_05050	none
+Unknown Gene	855012	855150	-1	none	boryong_05055	none
+Unknown Gene	855154	855556	-1	none	boryong_05060	none
+Unknown Gene	<855559	>855970	-1	none	boryong_05065	none
+Unknown Gene	855962	856250	-1	none	boryong_05070	none
+Unknown Gene	856323	856866	-1	none	boryong_05075	none
+Unknown Gene	857140	857764	1	none	boryong_05080	none
+virD4	857765	858908	-1	none	boryong_05085	none
+Unknown Gene	859035	859659	-1	none	boryong_05090	none
+Unknown Gene	859634	860336	-1	none	boryong_05095	none
+Unknown Gene	860332	860779	-1	none	boryong_05100	none
+Unknown Gene	860845	861022	-1	none	boryong_05105	none
+traN	861042	862743	-1	none	boryong_05110	none
+Unknown Gene	862726	863008	-1	none	boryong_05115	none
+Unknown Gene	863127	863811	-1	none	boryong_05120	none
+traV	864003	864294	-1	none	boryong_05125	none
+Unknown Gene	864293	864758	-1	none	boryong_05130	none
+Unknown Gene	864869	865271	-1	none	boryong_05135	none
+traE	865267	865819	-1	none	boryong_05140	none
+traL	865818	866154	-1	none	boryong_05145	none
+Unknown Gene	866245	866920	-1	none	boryong_05150	none
+Unknown Gene	866871	867117	-1	none	boryong_05155	none
+Unknown Gene	867381	867534	-1	none	boryong_05160	none
+rpnC	867989	868163	-1	none	boryong_05165	none
+Unknown Gene	868331	868625	-1	none	boryong_05170	none
+Unknown Gene	868596	869778	-1	none	boryong_05175	none
+Unknown Gene	869774	869927	-1	none	boryong_05180	none
+Unknown Gene	870118	870775	-1	none	boryong_05185	none
+Unknown Gene	870918	872469	-1	none	boryong_05190	none
+Unknown Gene	872453	873548	-1	none	boryong_05195	none
+Unknown Gene	873540	873756	-1	none	boryong_05200	none
+traD	874104	874503	1	none	boryong_05205	none
+Unknown Gene	874576	875512	-1	none	boryong_05210	none
+Unknown Gene	876122	876455	-1	none	boryong_05215	none
+Unknown Gene	876812	877349	-1	none	boryong_05220	none
+kdpD	877371	877989	-1	none	boryong_05225	none
+Unknown Gene	878053	878743	-1	none	boryong_05230	none
+Unknown Gene	878839	879112	-1	none	boryong_05235	none
+Unknown Gene	879478	879682	1	none	boryong_05240	none
+Unknown Gene	879674	880280	1	none	boryong_05245	none
+Unknown Gene	880283	880814	-1	none	boryong_05250	none
+Unknown Gene	880987	881551	-1	none	boryong_05255	none
+Unknown Gene	881839	881962	1	none	boryong_05260	none
+raiA	882854	883205	-1	none	boryong_05265	none
+baeS	883450	884998	1	none	boryong_05270	none
+Unknown Gene	885398	885596	1	none	boryong_05275	none
+dnaB	886019	887483	1	none	boryong_05280	none
+Unknown Gene	887838	887994	-1	none	boryong_05285	none
+Unknown Gene	887971	889144	-1	none	boryong_05290	none
+Unknown Gene	889819	890194	-1	none	boryong_05295	none
+Unknown Gene	890147	890642	-1	none	boryong_05300	none
+groES	890986	891271	1	none	boryong_05305	none
+groEL	891343	893008	1	none	boryong_05310	none
+Unknown Gene	894009	894285	1	none	boryong_05315	none
+acpS	894158	894554	-1	none	boryong_05320	none
+spoT	894564	896700	-1	none	boryong_05325	none
+rpoZ	896717	897104	-1	none	boryong_05330	none
+yccA	897470	898211	1	none	boryong_05335	none
+Unknown Gene	898384	898714	1	none	boryong_05340	none
+nrfF	898736	899114	1	none	boryong_05345	none
+obgE	899130	900123	1	none	boryong_05350	none
+tatA	900643	900802	1	none	boryong_05355	none
+Unknown Gene	901226	901751	-1	none	boryong_05360	none
+Unknown Gene	903834	904044	1	none	boryong_05365	none
+tnp-IS110	904059	905022	-1	none	boryong_05370	none
+Unknown Gene	905593	906049	-1	none	boryong_05375	none
+Unknown Gene	906094	>906688	-1	none	boryong_05380	none
+Unknown Gene	906684	907167	-1	none	boryong_05385	none
+Unknown Gene	907147	>907267	-1	none	boryong_05390	none
+Unknown Gene	907471	908653	-1	none	boryong_05395	none
+Unknown Gene	908798	909446	-1	none	boryong_05400	none
+Unknown Gene	909753	910524	-1	none	boryong_05405	none
+Unknown Gene	910507	910789	-1	none	boryong_05410	none
+Unknown Gene	910908	911592	-1	none	boryong_05415	none
+traV	911784	912075	-1	none	boryong_05420	none
+Unknown Gene	912074	912539	-1	none	boryong_05425	none
+Unknown Gene	912650	913052	-1	none	boryong_05430	none
+traE	913048	913600	-1	none	boryong_05435	none
+traL	913599	913935	-1	none	boryong_05440	none
+Unknown Gene	914060	915299	-1	none	boryong_05445	none
+Unknown Gene	915429	915630	-1	none	boryong_05450	none
+tsaB	916175	916877	-1	none	boryong_05455	none
+suhB	916896	917682	-1	none	boryong_05460	none
+efp	917678	918248	-1	none	boryong_05465	none
+clpX	918453	919707	1	none	boryong_05470	none
+proS	919834	921136	-1	none	boryong_05475	none
+Unknown Gene	921149	921443	-1	none	boryong_05480	none
+pgk	921466	922678	-1	none	boryong_05485	none
+gapA	922759	923776	-1	none	boryong_05490	none
+virB4-2	924050	926504	1	none	boryong_05495	none
+Unknown Gene	926503	931030	1	none	boryong_05500	none
+Unknown Gene	932870	933011	-1	none	boryong_05505	none
+ykfC	933218	934328	-1	none	boryong_05510	none
+Unknown Gene	934493	935027	1	none	boryong_05515	none
+Unknown Gene	935100	936195	1	none	boryong_05520	none
+Unknown Gene	936435	937311	1	none	boryong_05525	none
+Unknown Gene	937371	937683	-1	none	boryong_05530	none
+Unknown Gene	937738	938173	-1	none	boryong_05535	none
+Unknown Gene	938524	940126	1	none	boryong_05540	none
+spoT	940226	940802	1	none	boryong_05545	none
+Unknown Gene	940879	941458	-1	none	boryong_05550	none
+traD	941545	941944	-1	none	boryong_05555	none
+Unknown Gene	942292	942508	1	none	boryong_05560	none
+Unknown Gene	942500	943595	1	none	boryong_05565	none
+Unknown Gene	943579	944242	1	none	boryong_05570	none
+Unknown Gene	944259	944634	-1	none	boryong_05575	none
+Unknown Gene	944587	945082	-1	none	boryong_05580	none
+Unknown Gene	945256	946039	1	none	boryong_05585	none
+Unknown Gene	946685	947258	1	none	boryong_05590	none
+Unknown Gene	947436	947583	1	none	boryong_05595	none
+Unknown Gene	947705	948239	-1	none	boryong_05600	none
+Unknown Gene	948444	949515	1	none	boryong_05605	none
+rpnC	949565	949739	1	none	boryong_05610	none
+Unknown Gene	949854	950478	1	none	boryong_05615	none
+Unknown Gene	950479	950689	-1	none	boryong_05620	none
+Unknown Gene	950870	951269	1	none	boryong_05625	none
+Unknown Gene	951320	951695	1	none	boryong_05630	none
+Unknown Gene	951654	951888	-1	none	boryong_05635	none
+Unknown Gene	952192	>952375	1	none	boryong_05640	none
+Unknown Gene	953038	>953566	1	none	boryong_05645	none
+Unknown Gene	953958	954174	1	none	boryong_05650	none
+Unknown Gene	954170	954689	1	none	boryong_05655	none
+Unknown Gene	954713	>954809	1	none	boryong_05660	none
+dnaB	<954825	>955068	1	none	boryong_05665	none
+Unknown Gene	955174	955570	1	none	boryong_05670	none
+Unknown Gene	956111	956657	1	none	boryong_05675	none
+Unknown Gene	956649	963549	1	none	boryong_05680	none
+Unknown Gene	964504	965257	-1	none	boryong_05685	none
+traG	965262	966645	-1	none	boryong_05690	none
+Unknown Gene	966957	967581	-1	none	boryong_05695	none
+Unknown Gene	967556	968258	-1	none	boryong_05700	none
+Unknown Gene	968254	968701	-1	none	boryong_05705	none
+Unknown Gene	968767	968944	-1	none	boryong_05710	none
+Unknown Gene	968964	969591	-1	none	boryong_05715	none
+Unknown Gene	969856	970666	-1	none	boryong_05720	none
+Unknown Gene	970649	970931	-1	none	boryong_05725	none
+Unknown Gene	971050	971734	-1	none	boryong_05730	none
+traV	971926	972217	-1	none	boryong_05735	none
+Unknown Gene	972216	972681	-1	none	boryong_05740	none
+Unknown Gene	972792	973194	-1	none	boryong_05745	none
+traE	973190	973742	-1	none	boryong_05750	none
+traL	973741	974077	-1	none	boryong_05755	none
+Unknown Gene	974168	974843	-1	none	boryong_05760	none
+Unknown Gene	974794	975040	-1	none	boryong_05765	none
+Unknown Gene	975304	975457	-1	none	boryong_05770	none
+Unknown Gene	976090	976243	-1	none	boryong_05775	none
+Unknown Gene	976370	976751	-1	none	boryong_05780	none
+Unknown Gene	976770	976947	-1	none	boryong_05785	none
+Unknown Gene	976946	977144	-1	none	boryong_05790	none
+mrp	977496	979233	-1	none	boryong_05795	none
+cyaY	979216	979549	-1	none	boryong_05800	none
+Unknown Gene	979839	980007	1	none	boryong_05805	none
+Unknown Gene	980452	984568	1	none	boryong_05810	none
+Unknown Gene	984777	985191	1	none	boryong_05815	none
+Unknown Gene	985285	985507	1	none	boryong_05820	none
+Unknown Gene	985554	986307	1	none	boryong_05825	none
+Unknown Gene	986344	>986440	1	none	boryong_05830	none
+Unknown Gene	986426	>986627	1	none	boryong_05835	none
+Unknown Gene	987030	987492	1	none	boryong_05840	none
+Unknown Gene	987456	>987960	-1	none	boryong_05845	none
+Unknown Gene	990099	990489	-1	none	boryong_05850	none
+Unknown Gene	<990819	990984	-1	none	boryong_05855	none
+ykfC	991449	992616	-1	none	boryong_05860	none
+Unknown Gene	992800	992953	-1	none	boryong_05865	none
+Unknown Gene	992980	993181	-1	none	boryong_05870	none
+hemJ	993558	993993	-1	none	boryong_05875	none
+hemH	994001	995036	-1	none	boryong_05880	none
+hemE	995028	996057	-1	none	boryong_05885	none
+rho	997543	999049	1	none	boryong_05890	none
+Unknown Gene	999790	999979	1	none	boryong_05895	none
+Unknown Gene	1000068	1000179	1	none	boryong_05900	none
+Unknown Gene	1000814	1001252	-1	none	boryong_05905	none
+Unknown Gene	1001544	1002828	1	none	boryong_05910	none
+mnmG	1003488	1005357	1	none	boryong_05915	none
+tmk	1005496	1006150	-1	none	boryong_05920	none
+zapE	1006142	1007216	-1	none	boryong_05925	none
+Unknown Gene	1007286	1007970	-1	none	boryong_05930	none
+der	1007978	1009343	-1	none	boryong_05935	none
+polA	1009403	1012136	-1	none	boryong_05940	none
+panF	1012520	1013960	-1	none	boryong_05945	none
+Unknown Gene	1014639	1015014	-1	none	boryong_05950	none
+Unknown Gene	1015025	1015463	-1	none	boryong_05955	none
+dsbG	1015689	1016520	1	none	boryong_05960	none
+Unknown Gene	1017029	1017488	1	none	boryong_05965	none
+Unknown Gene	1017489	1017654	1	none	boryong_05970	none
+Unknown Gene	1018355	1018865	1	none	boryong_05975	none
+Unknown Gene	1018882	1019215	-1	none	boryong_05980	none
+Unknown Gene	1019226	1019664	-1	none	boryong_05985	none
+Unknown Gene	1019824	1020133	1	none	boryong_05990	none
+secF	1020493	1021420	-1	none	boryong_05995	none
+mutS	1021503	1024173	-1	none	boryong_06000	none
+tlc	1024225	1025758	-1	none	boryong_06005	none
+Arg_trna	1025863	1025940	-1	none	boryong_06010	none
+rsmI	1026122	1026980	1	none	boryong_06015	none
+serS	1026981	1028271	-1	none	boryong_06020	none
+tatC	1028248	1029007	-1	none	boryong_06025	none
+Unknown Gene	1028996	1029131	-1	none	boryong_06030	none
+rsmG	1029161	1029758	1	none	boryong_06035	none
+parA	1029764	1030562	1	none	boryong_06040	none
+spo0J	1030573	1031455	1	none	boryong_06045	none
+Unknown Gene	1031865	1032249	1	none	boryong_06050	none
+Unknown Gene	1032277	1032457	1	none	boryong_06055	none
+Unknown Gene	1032600	1032780	1	none	boryong_06060	none
+Unknown Gene	1032733	1032970	1	none	boryong_06065	none
+Unknown Gene	1033000	1033108	1	none	boryong_06070	none
+ykfC	1033259	1033355	1	none	boryong_06075	none
+Unknown Gene	1033372	1033480	1	none	boryong_06080	none
+Unknown Gene	1033624	1033906	-1	none	boryong_06085	none
+xseB	1033959	1034199	1	none	boryong_06090	none
+Unknown Gene	1034309	1034405	-1	none	boryong_06095	none
+Unknown Gene	1035079	1035517	1	none	boryong_06100	none
+Unknown Gene	1035528	1035903	1	none	boryong_06105	none
+Unknown Gene	1036199	1036646	-1	none	boryong_06110	none
+Unknown Gene	1036967	1038692	1	none	boryong_06115	none
+Unknown Gene	1038913	1039786	1	none	boryong_06120	none
+Unknown Gene	1039885	1040383	1	none	boryong_06125	none
+Unknown Gene	1040606	1040879	1	none	boryong_06130	none
+Unknown Gene	1040973	1041312	1	none	boryong_06135	none
+Unknown Gene	1042425	1042653	1	none	boryong_06140	none
+Unknown Gene	1042664	1043039	1	none	boryong_06145	none
+Unknown Gene	1043522	1045349	-1	none	boryong_06150	none
+Unknown Gene	1045806	>1045920	1	none	boryong_06155	none
+Unknown Gene	1045988	1046309	1	none	boryong_06160	none
+Unknown Gene	1046292	1046463	1	none	boryong_06165	none
+Unknown Gene	1046483	1046720	1	none	boryong_06170	none
+Unknown Gene	1046695	1047793	1	none	boryong_06175	none
+Unknown Gene	1047777	1048257	1	none	boryong_06180	none
+Unknown Gene	1048222	1048870	-1	none	boryong_06185	none
+Unknown Gene	1049243	1049474	-1	none	boryong_06190	none
+Unknown Gene	1049454	1049748	-1	none	boryong_06195	none
+Unknown Gene	1049761	1050232	-1	none	boryong_06200	none
+Unknown Gene	1050647	1051220	1	none	boryong_06205	none
+Unknown Gene	1051265	1051814	1	none	boryong_06210	none
+tnp-IS630	1052148	1053015	1	none	boryong_06215	none
+dam	1053120	1053924	-1	none	boryong_06220	none
+Unknown Gene	1054399	1055116	1	none	boryong_06225	none
+baeS	1055467	1056211	1	none	boryong_06230	none
+baeS	1056218	1057076	1	none	boryong_06235	none
+spoT	1057176	1057752	1	none	boryong_06240	none
+Unknown Gene	1057788	1058322	-1	none	boryong_06245	none
+traD	1058415	1058871	-1	none	boryong_06250	none
+Unknown Gene	1058872	1059073	-1	none	boryong_06255	none
+Unknown Gene	1059146	1060727	1	none	boryong_06260	none
+Unknown Gene	1060761	1061634	1	none	boryong_06265	none
+Unknown Gene	1061815	1063618	1	none	boryong_06270	none
+Unknown Gene	1063668	1064580	1	none	boryong_06275	none
+virD4	1064581	1065856	-1	none	boryong_06280	none
+Unknown Gene	1065830	1066337	-1	none	boryong_06285	none
+Unknown Gene	1066336	1067059	-1	none	boryong_06290	none
+traG	1067235	1068666	-1	none	boryong_06295	none
+Unknown Gene	1068978	1069602	-1	none	boryong_06300	none
+Unknown Gene	1069577	1070279	-1	none	boryong_06305	none
+Unknown Gene	1070275	1070722	-1	none	boryong_06310	none
+Unknown Gene	1070788	1070965	-1	none	boryong_06315	none
+traN	1070985	1072686	-1	none	boryong_06320	none
+Unknown Gene	1072669	1072951	-1	none	boryong_06325	none
+Unknown Gene	1073070	1073754	-1	none	boryong_06330	none
+traV	1073946	1074237	-1	none	boryong_06335	none
+Unknown Gene	1074236	1074701	-1	none	boryong_06340	none
+Unknown Gene	1074812	1075214	-1	none	boryong_06345	none
+traE	1075210	1075762	-1	none	boryong_06350	none
+traL	1075761	1076097	-1	none	boryong_06355	none
+Unknown Gene	1076188	1077058	-1	none	boryong_06360	none
+Unknown Gene	1077322	1077475	-1	none	boryong_06365	none
+Unknown Gene	1078512	1078917	1	none	boryong_06370	none
+Unknown Gene	1079221	1080373	1	none	boryong_06375	none
+Unknown Gene	1080615	1080843	-1	none	boryong_06380	none
+Unknown Gene	1080839	1081013	-1	none	boryong_06385	none
+Unknown Gene	1081464	1082064	1	none	boryong_06390	none
+fdx	1082855	1083200	-1	none	boryong_06395	none
+hscA	1083216	1085067	-1	none	boryong_06400	none
+hscB	1085053	1085557	-1	none	boryong_06405	none
+iscA	1085568	1085943	-1	none	boryong_06410	none
+iscU	1085955	1086381	-1	none	boryong_06415	none
+sufS	1086422	1087694	-1	none	boryong_06420	none
+nifS	1087708	1089004	-1	none	boryong_06425	none
+iscR	1089004	1089418	-1	none	boryong_06430	none
+Unknown Gene	1089655	1090357	1	none	boryong_06435	none
+Ser_trna	1090385	1090476	-1	none	boryong_06440	none
+ftsA	1090650	1091898	1	none	boryong_06445	none
+Unknown Gene	1091876	1093178	1	none	boryong_06450	none
+bcsA	1093162	1094914	1	none	boryong_06455	none
+Unknown Gene	1094955	1095120	1	none	boryong_06460	none
+Unknown Gene	1096065	1096224	1	none	boryong_06465	none
+Unknown Gene	1096515	1096626	-1	none	boryong_06470	none
+Unknown Gene	1096792	1097053	1	none	boryong_06475	none
+Unknown Gene	1097334	1097628	1	none	boryong_06480	none
+Unknown Gene	1097723	1098401	1	none	boryong_06485	none
+Unknown Gene	1098609	1099614	-1	none	boryong_06490	none
+Unknown Gene	1100185	1100575	-1	none	boryong_06495	none
+rpoD	1100844	1102689	-1	none	boryong_06500	none
+dnaG	1102672	1104448	-1	none	boryong_06505	none
+dprA	1105367	1106528	-1	none	boryong_06510	none
+ahpC	1106568	1107171	-1	none	boryong_06515	none
+Unknown Gene	1107945	1108098	1	none	boryong_06520	none
+Unknown Gene	1108283	1109450	1	none	boryong_06525	none
+Unknown Gene	1109657	1109765	1	none	boryong_06530	none
+Ile_trna	1111945	1112022	-1	none	boryong_06535	none
+ykfC	1113359	1114526	1	none	boryong_06540	none
+Unknown Gene	1114733	1114841	1	none	boryong_06545	none
+Unknown Gene	1115279	1116767	1	none	boryong_06550	none
+pepB	1117554	1119207	1	none	boryong_06555	none
+mipZ	1119190	1120042	1	none	boryong_06560	none
+rpsB	1120316	1121243	1	none	boryong_06565	none
+tsf	1121239	1122169	1	none	boryong_06570	none
+pheT	1122248	1124687	-1	none	boryong_06575	none
+pheS	1124683	1125718	-1	none	boryong_06580	none
+Unknown Gene	1127405	1127531	-1	none	boryong_06585	none
+Unknown Gene	1128686	1129430	1	none	boryong_06590	none
+traL	1129555	1129891	1	none	boryong_06595	none
+traE	1129890	1130442	1	none	boryong_06600	none
+Unknown Gene	1130438	1130840	1	none	boryong_06605	none
+Unknown Gene	1130951	1131416	1	none	boryong_06610	none
+traV	1131415	1131706	1	none	boryong_06615	none
+Unknown Gene	1131898	1132582	1	none	boryong_06620	none
+Unknown Gene	1132701	1132983	1	none	boryong_06625	none
+Unknown Gene	1132966	1133737	1	none	boryong_06630	none
+Unknown Gene	1133811	1134018	1	none	boryong_06635	none
+Unknown Gene	1134049	1135396	1	none	boryong_06640	none
+Unknown Gene	1135389	1135866	1	none	boryong_06645	none
+Unknown Gene	1135859	1136192	1	none	boryong_06650	none
+Unknown Gene	1136170	1136356	1	none	boryong_06655	none
+Unknown Gene	1136806	1137253	1	none	boryong_06660	none
+Unknown Gene	1137249	1137936	1	none	boryong_06665	none
+Unknown Gene	1137911	1138535	1	none	boryong_06670	none
+traG	1138662	1139817	1	none	boryong_06675	none
+Unknown Gene	1139836	1140061	1	none	boryong_06680	none
+Unknown Gene	1140457	1141180	1	none	boryong_06685	none
+Unknown Gene	1141179	1142001	1	none	boryong_06690	none
+tnp-IS110	1142240	1143203	1	none	boryong_06695	none
+Unknown Gene	1143329	1143548	-1	none	boryong_06700	none
+Unknown Gene	1143599	1143905	-1	none	boryong_06705	none
+baeS	1144005	1144863	-1	none	boryong_06710	none
+baeS	1144867	1145614	-1	none	boryong_06715	none
+Unknown Gene	1145962	1146175	1	none	boryong_06720	none
+Unknown Gene	1146266	1146791	-1	none	boryong_06725	none
+Unknown Gene	1147126	1147354	1	none	boryong_06730	none
+Unknown Gene	1147455	1148076	1	none	boryong_06735	none
+Unknown Gene	1148092	1148614	-1	none	boryong_06740	none
+Unknown Gene	1148715	1149054	-1	none	boryong_06745	none
+Unknown Gene	1149606	1149858	1	none	boryong_06750	none
+ltrA	1149814	1150828	1	none	boryong_06755	none
+Unknown Gene	1150828	1151320	1	none	boryong_06760	none
+Unknown Gene	1151441	1151714	-1	none	boryong_06765	none
+spoT	1151753	1152329	-1	none	boryong_06770	none
+Unknown Gene	1152556	1153345	-1	none	boryong_06775	none
+dnaB	1153495	1153939	-1	none	boryong_06780	none
+Unknown Gene	1154014	1154281	-1	none	boryong_06785	none
+Unknown Gene	1154277	1154679	-1	none	boryong_06790	none
+Unknown Gene	1155035	>1155560	-1	none	boryong_06795	none
+Unknown Gene	1155732	1155975	1	none	boryong_06800	none
+Unknown Gene	1156396	1157488	-1	none	boryong_06805	none
+Unknown Gene	1157678	1157987	-1	none	boryong_06810	none
+Unknown Gene	1158059	>1158362	-1	none	boryong_06815	none
+baeS	1158844	1159591	1	none	boryong_06820	none
+baeS	1159595	1160453	1	none	boryong_06825	none
+Unknown Gene	1160553	1160859	1	none	boryong_06830	none
+Unknown Gene	1160910	1161129	1	none	boryong_06835	none
+tnp-IS110	1161255	1162218	-1	none	boryong_06840	none
+Unknown Gene	1162457	1163279	-1	none	boryong_06845	none
+Unknown Gene	1163278	1164001	-1	none	boryong_06850	none
+Unknown Gene	1164397	1164622	-1	none	boryong_06855	none
+traG	1164641	1165796	-1	none	boryong_06860	none
+Unknown Gene	1165923	1166547	-1	none	boryong_06865	none
+Unknown Gene	1166522	1167209	-1	none	boryong_06870	none
+Unknown Gene	1167205	1167652	-1	none	boryong_06875	none
+Unknown Gene	1167718	1167961	-1	none	boryong_06880	none
+Unknown Gene	1167935	1168091	-1	none	boryong_06885	none
+Unknown Gene	1168112	1168502	-1	none	boryong_06890	none
+Unknown Gene	1168611	1168920	-1	none	boryong_06895	none
+Unknown Gene	1169073	1169367	-1	none	boryong_06900	none
+Unknown Gene	1169666	1170698	1	none	boryong_06905	none
+Unknown Gene	1171007	1171445	1	none	boryong_06910	none
+Unknown Gene	1171456	1171831	1	none	boryong_06915	none
+tnp-IS110	1171955	1172918	-1	none	boryong_06920	none
+Unknown Gene	1173751	1174384	-1	none	boryong_06925	none
+Unknown Gene	1174440	1174617	-1	none	boryong_06930	none
+Unknown Gene	1174691	1175462	-1	none	boryong_06935	none
+Unknown Gene	1175445	1175727	-1	none	boryong_06940	none
+Unknown Gene	1175846	1176530	-1	none	boryong_06945	none
+Unknown Gene	1176775	1177012	-1	none	boryong_06950	none
+Unknown Gene	1177011	1177476	-1	none	boryong_06955	none
+Unknown Gene	1177587	1177989	-1	none	boryong_06960	none
+traE	1177985	1178537	-1	none	boryong_06965	none
+traL	1178536	1178872	-1	none	boryong_06970	none
+Unknown Gene	1178997	1180236	-1	none	boryong_06975	none
+sco1	1180686	1181337	-1	none	boryong_06980	none
+Unknown Gene	1182871	1183447	-1	none	boryong_06985	none
+putP	1183385	1186340	-1	none	boryong_06990	none
+Unknown Gene	1186375	1186822	-1	none	boryong_06995	none
+dnaQ	1187568	1188237	1	none	boryong_07000	none
+cdnL	1188456	1188966	1	none	boryong_07005	none
+tsaD	1188989	1190024	1	none	boryong_07010	none
+nadK	1190036	1190828	1	none	boryong_07015	none
+Unknown Gene	1190929	1192153	-1	none	boryong_07020	none
+tolR	1192139	1192598	-1	none	boryong_07025	none
+tolQ	1192603	1193293	-1	none	boryong_07030	none
+hemB	1193456	1194470	1	none	boryong_07035	none
+Unknown Gene	1194690	1194855	-1	none	boryong_07040	none
+Unknown Gene	1195180	1197637	1	none	boryong_07045	none
+prfA	1197953	1198625	-1	none	boryong_07050	none
+lepA	1199208	1201014	1	none	boryong_07055	none
+Unknown Gene	1201832	1201952	1	none	boryong_07060	none
+ykfC	1202654	1203791	-1	none	boryong_07065	none
+Unknown Gene	1204383	1204821	1	none	boryong_07070	none
+Unknown Gene	1204832	1205207	1	none	boryong_07075	none
+Unknown Gene	1205767	1206028	-1	none	boryong_07080	none
+tnp-IS5	1206864	1206972	-1	none	boryong_07085	none
+Unknown Gene	1207036	1207240	-1	none	boryong_07090	none
+Unknown Gene	1207251	1207689	-1	none	boryong_07095	none
+Unknown Gene	1207880	1208741	-1	none	boryong_07100	none
+ssb	1208819	1209287	-1	none	boryong_07105	none
+Unknown Gene	1209507	1209645	1	none	boryong_07110	none
+Unknown Gene	1209922	1210075	1	none	boryong_07115	none
+ykfC	1210259	1211426	1	none	boryong_07120	none
+Unknown Gene	1211722	1212280	-1	none	boryong_07125	none
+Unknown Gene	1212368	1212506	-1	none	boryong_07130	none
+Unknown Gene	1212510	1212912	-1	none	boryong_07135	none
+Unknown Gene	<1212915	>1213326	-1	none	boryong_07140	none
+Unknown Gene	1213318	1213606	-1	none	boryong_07145	none
+Unknown Gene	1213679	1214222	-1	none	boryong_07150	none
+Unknown Gene	1214687	1215080	1	none	boryong_07155	none
+greA	1215704	1216184	1	none	boryong_07160	none
+rpoH	1216230	1217130	1	none	boryong_07165	none
+Unknown Gene	1217490	1217787	1	none	boryong_07170	none
+Unknown Gene	1218093	1218636	-1	none	boryong_07175	none
+Unknown Gene	1218918	1219107	1	none	boryong_07180	none
+Unknown Gene	1220701	1221085	-1	none	boryong_07185	none
+Unknown Gene	1221117	1221678	-1	none	boryong_07190	none
+Unknown Gene	1221692	1222094	-1	none	boryong_07195	none
+Unknown Gene	1222053	1222197	-1	none	boryong_07200	none
+Unknown Gene	1222432	1222801	-1	none	boryong_07205	none
+traV	1222781	1223111	-1	none	boryong_07210	none
+Unknown Gene	1223110	1223575	-1	none	boryong_07215	none
+Unknown Gene	1223686	1224088	-1	none	boryong_07220	none
+traE	1224084	1224561	-1	none	boryong_07225	none
+traL	1224635	1224971	-1	none	boryong_07230	none
+Unknown Gene	1225096	1226335	-1	none	boryong_07235	none
+Unknown Gene	1226465	1226666	-1	none	boryong_07240	none
+Unknown Gene	<1226750	1226975	-1	none	boryong_07245	none
+Unknown Gene	1226984	>1227377	-1	none	boryong_07250	none
+Unknown Gene	1227414	1228197	-1	none	boryong_07255	none
+Unknown Gene	1228822	1229017	1	none	boryong_07260	none
+Unknown Gene	1229192	1230953	-1	none	boryong_07265	none
+atoC	1231060	1232530	-1	none	boryong_07270	none
+Unknown Gene	1232670	1234257	-1	none	boryong_07275	none
+Phe_trna	1234812	1234887	1	none	boryong_07280	none
+comEC	1234920	1236969	-1	none	boryong_07285	none
+Unknown Gene	1237128	1237878	-1	none	boryong_07290	none
+Unknown Gene	1238199	>1238724	1	none	boryong_07295	none
+Unknown Gene	1239080	1239482	1	none	boryong_07300	none
+Unknown Gene	1239478	1239745	1	none	boryong_07305	none
+dnaB	1239820	1240264	1	none	boryong_07310	none
+Unknown Gene	1240414	1241203	1	none	boryong_07315	none
+Unknown Gene	1241430	1241652	1	none	boryong_07320	none
+Unknown Gene	1241727	1242231	1	none	boryong_07325	none
+Unknown Gene	1242234	1242540	-1	none	boryong_07330	none
+Unknown Gene	1242612	>1242867	-1	none	boryong_07335	none
+Unknown Gene	1243649	1244240	1	none	boryong_07340	none
+Unknown Gene	1244598	1244853	1	none	boryong_07345	none
+Unknown Gene	1244929	1246201	1	none	boryong_07350	none
+Unknown Gene	1246335	1246818	1	none	boryong_07355	none
+Unknown Gene	1246789	1246918	1	none	boryong_07360	none
+Unknown Gene	1247088	1247238	-1	none	boryong_07365	none
+Unknown Gene	1247224	1248436	-1	none	boryong_07370	none
+traD	1248760	1249216	-1	none	boryong_07375	none
+Unknown Gene	1249217	1249418	-1	none	boryong_07380	none
+Unknown Gene	1249491	1249974	1	none	boryong_07385	none
+Unknown Gene	1249991	1250264	1	none	boryong_07390	none
+Unknown Gene	1250344	1250812	1	none	boryong_07395	none
+Unknown Gene	1250943	1251087	1	none	boryong_07400	none
+Unknown Gene	1251121	1251994	1	none	boryong_07405	none
+Unknown Gene	1252175	1252853	1	none	boryong_07410	none
+Unknown Gene	1252839	1253202	1	none	boryong_07415	none
+Unknown Gene	1253423	1253975	1	none	boryong_07420	none
+Unknown Gene	1253959	1254427	1	none	boryong_07425	none
+Unknown Gene	1254416	1254896	1	none	boryong_07430	none
+virD4	1254897	1256040	-1	none	boryong_07435	none
+Unknown Gene	1256167	1256794	-1	none	boryong_07440	none
+Unknown Gene	1256769	1257471	-1	none	boryong_07445	none
+Unknown Gene	1257467	1257914	-1	none	boryong_07450	none
+Unknown Gene	1257980	1258157	-1	none	boryong_07455	none
+traN	1258177	1259878	-1	none	boryong_07460	none
+Unknown Gene	1259861	1260143	-1	none	boryong_07465	none
+Unknown Gene	1260262	1260946	-1	none	boryong_07470	none
+Unknown Gene	1260990	1261242	-1	none	boryong_07475	none
+Unknown Gene	1261259	1261448	-1	none	boryong_07480	none
+traW	1261530	1262190	-1	none	boryong_07485	none
+virB4	1262186	1263029	-1	none	boryong_07490	none
+Unknown Gene	1263050	1263833	-1	none	boryong_07495	none
+Unknown Gene	1263804	1264749	-1	none	boryong_07500	none
+Unknown Gene	1265596	1265713	-1	none	boryong_07505	none
+Unknown Gene	1265721	1265979	-1	none	boryong_07510	none
+traL	1266053	1266389	-1	none	boryong_07515	none
+Unknown Gene	1266514	1267258	-1	none	boryong_07520	none
+Unknown Gene	1267427	1267922	1	none	boryong_07525	none
+Unknown Gene	1267875	1268250	1	none	boryong_07530	none
+ykfC	1268903	1269668	1	none	boryong_07535	none
+Unknown Gene	1269875	1269983	1	none	boryong_07540	none
+Unknown Gene	<1270171	1270741	1	none	boryong_07545	none
+tnp-IS110	1270918	1271839	1	none	boryong_07550	none
+Unknown Gene	1272813	1272942	1	none	boryong_07555	none
+Unknown Gene	1273098	1273650	1	none	boryong_07560	none
+Thr_trna	1273751	1273824	1	none	boryong_07565	none
+gpsA	1273902	1274895	-1	none	boryong_07570	none
+mtaB	1274957	1276229	-1	none	boryong_07575	none
+Unknown Gene	1276726	1276975	1	none	boryong_07580	none
+Unknown Gene	1277038	1277305	1	none	boryong_07585	none
+Unknown Gene	1277573	1277684	-1	none	boryong_07590	none
+Unknown Gene	1277747	1278356	-1	none	boryong_07595	none
+yfdV	1278671	1279598	1	none	boryong_07600	none
+mdh	1279617	1280919	1	none	boryong_07605	none
+Unknown Gene	1281568	1281745	1	none	boryong_07610	none
+Unknown Gene	1282044	1282269	-1	none	boryong_07615	none
+Unknown Gene	1282497	1282914	-1	none	boryong_07620	none
+dam	1283280	1284090	1	none	boryong_07625	none
+Unknown Gene	1284093	1284603	-1	none	boryong_07630	none
+Unknown Gene	1284780	1285134	-1	none	boryong_07635	none
+Unknown Gene	1285099	1285348	-1	none	boryong_07640	none
+Unknown Gene	1285417	1285855	1	none	boryong_07645	none
+Unknown Gene	1285866	1286241	1	none	boryong_07650	none
+Unknown Gene	1286227	1286689	1	none	boryong_07655	none
+Unknown Gene	1286789	1287164	-1	none	boryong_07660	none
+Unknown Gene	1287215	1287614	-1	none	boryong_07665	none
+Unknown Gene	1287841	1288225	-1	none	boryong_07670	none
+Unknown Gene	1288441	1288636	-1	none	boryong_07675	none
+traD	1288960	1289359	-1	none	boryong_07680	none
+Unknown Gene	1289707	1289923	1	none	boryong_07685	none
+Unknown Gene	1289915	1291010	1	none	boryong_07690	none
+Unknown Gene	1290994	1292545	1	none	boryong_07695	none
+Unknown Gene	1293174	1293885	1	none	boryong_07700	none
+Unknown Gene	1293829	1295149	1	none	boryong_07705	none
+Unknown Gene	1295263	1295779	-1	none	boryong_07710	none
+Unknown Gene	1295778	1296471	-1	none	boryong_07715	none
+Unknown Gene	1296458	1296782	-1	none	boryong_07720	none
+Unknown Gene	1296848	1297025	-1	none	boryong_07725	none
+Unknown Gene	1297045	1297672	-1	none	boryong_07730	none
+Unknown Gene	1297979	1298750	-1	none	boryong_07735	none
+Unknown Gene	1298733	1299015	-1	none	boryong_07740	none
+Unknown Gene	1299134	1299818	-1	none	boryong_07745	none
+traV	1300010	1300301	-1	none	boryong_07750	none
+Unknown Gene	1300300	1300765	-1	none	boryong_07755	none
+Unknown Gene	1300876	1301278	-1	none	boryong_07760	none
+traE	1301274	1301826	-1	none	boryong_07765	none
+traL	1301825	1302161	-1	none	boryong_07770	none
+Unknown Gene	1302286	1303525	-1	none	boryong_07775	none
+Unknown Gene	1303655	1303856	-1	none	boryong_07780	none
+Unknown Gene	1304308	1304725	1	none	boryong_07785	none
+Unknown Gene	1304684	1305059	-1	none	boryong_07790	none
+Unknown Gene	1305070	1305508	-1	none	boryong_07795	none
+Unknown Gene	1306422	1306713	1	none	boryong_07800	none
+Unknown Gene	1306775	1307600	1	none	boryong_07805	none
+mreC	1307955	1308807	-1	none	boryong_07810	none
+mreB	1308813	1309881	-1	none	boryong_07815	none
+aceF	1309981	1310212	-1	none	boryong_07820	none
+aceF	1310181	1310802	-1	none	boryong_07825	none
+ykfC	1311081	1312248	1	none	boryong_07830	none
+Unknown Gene	1312455	1312563	1	none	boryong_07835	none
+clpP	1312936	1313557	-1	none	boryong_07840	none
+Unknown Gene	1314126	1314297	1	none	boryong_07845	none
+Unknown Gene	1314449	1314623	1	none	boryong_07850	none
+Unknown Gene	1314714	1315206	1	none	boryong_07855	none
+Unknown Gene	1315159	1315534	1	none	boryong_07860	none
+Unknown Gene	1315622	1315829	-1	none	boryong_07865	none
+map	1316093	1316900	-1	none	boryong_07870	none
+Unknown Gene	1319410	1319620	-1	none	boryong_07875	none
+Unknown Gene	1319606	1319981	-1	none	boryong_07880	none
+Unknown Gene	1319992	1320430	-1	none	boryong_07885	none
+Unknown Gene	1321592	1321730	-1	none	boryong_07890	none
+Unknown Gene	1321793	1321982	-1	none	boryong_07895	none
+16S_rrna	1322606	1324110	1	none	boryong_07900	none
+ctrA	1324958	1325696	1	none	boryong_07905	none
+rnjA	1325831	1327568	1	none	boryong_07910	none
+gatC	1327650	1327950	1	none	boryong_07915	none
+gatA	1327949	1329428	1	none	boryong_07920	none
+gatB	1329430	1330891	1	none	boryong_07925	none
+Unknown Gene	1330900	1331173	-1	none	boryong_07930	none
+Unknown Gene	1331736	1332552	-1	none	boryong_07935	none
+Unknown Gene	1332822	1333791	-1	none	boryong_07940	none
+Unknown Gene	1334269	1334464	1	none	boryong_07945	none
+Unknown Gene	1335616	1336312	1	none	boryong_07950	none
+Unknown Gene	1336795	1337212	1	none	boryong_07955	none
+Unknown Gene	1338608	1338782	1	none	boryong_07960	none
+Unknown Gene	1338735	1338978	1	none	boryong_07965	none
+Unknown Gene	1338981	1339110	1	none	boryong_07970	none
+Unknown Gene	1339445	1340840	1	none	boryong_07975	none
+kdpD	1341885	1345143	1	none	boryong_07980	none
+Unknown Gene	1345413	1345962	-1	none	boryong_07985	none
+Unknown Gene	1346007	1346715	-1	none	boryong_07990	none
+Unknown Gene	1346899	1347052	-1	none	boryong_07995	none
+Unknown Gene	1347303	1347741	1	none	boryong_08000	none
+Unknown Gene	1347752	1348127	1	none	boryong_08005	none
+Unknown Gene	1348667	1348898	1	none	boryong_08010	none
+Unknown Gene	1349195	1349324	1	none	boryong_08015	none
+Unknown Gene	1349680	1349797	1	none	boryong_08020	none
+Unknown Gene	1350174	1350447	-1	none	boryong_08025	none
+Unknown Gene	1350987	1351302	1	none	boryong_08030	none
+Unknown Gene	1351881	1352040	-1	none	boryong_08035	none
+acnA	1352509	1353229	-1	none	boryong_08040	none
+Unknown Gene	1353254	1353356	-1	none	boryong_08045	none
+Unknown Gene	1353395	>1353635	-1	none	boryong_08050	none
+ccmA	1353711	1354317	1	none	boryong_08055	none
+ccmB	1354313	1354964	1	none	boryong_08060	none
+Unknown Gene	1355117	1356257	1	none	boryong_08065	none
+petA	1356368	1357034	1	none	boryong_08070	none
+qcrB,petB	1357188	1358385	1	none	boryong_08075	none
+Unknown Gene	1359936	1362366	1	none	boryong_08080	none
+potE	1362705	1363989	-1	none	boryong_08085	none
+Unknown Gene	1365057	1365294	1	none	boryong_08090	none
+ung	1365613	1366420	-1	none	boryong_08095	none
+Unknown Gene	1366615	1366723	-1	none	boryong_08100	none
+ykfC	1366970	1367699	-1	none	boryong_08105	none
+Unknown Gene	1368399	1369638	1	none	boryong_08110	none
+Unknown Gene	1369869	1370544	-1	none	boryong_08115	none
+Unknown Gene	1370495	1370882	-1	none	boryong_08120	none
+Unknown Gene	1371004	1371157	-1	none	boryong_08125	none
+Unknown Gene	<1371934	1372027	1	none	boryong_08130	none
+argB	1372233	1373175	-1	none	boryong_08135	none
+yihA	1373122	1373746	-1	none	boryong_08140	none
+yidC	1373742	1375446	-1	none	boryong_08145	none
+Val_trna	1377105	1377182	-1	none	boryong_08150	none
+potE	1377192	1378611	-1	none	boryong_08155	none
+Unknown Gene	1378902	1379427	1	none	boryong_08160	none
+gyrB	1379456	1381880	-1	none	boryong_08165	none
+nagD	1381996	1382857	1	none	boryong_08170	none
+Glu_trna	1383216	1383291	1	none	boryong_08175	none
+Unknown Gene	1383419	1383749	1	none	boryong_08180	none
+mnhB	1383745	1384336	1	none	boryong_08185	none
+Unknown Gene	1384356	1384791	1	none	boryong_08190	none
+mnhC	1384774	1385170	1	none	boryong_08195	none
+hyfB	1385162	1386653	1	none	boryong_08200	none
+erhM	1386662	1388135	1	none	boryong_08205	none
+Unknown Gene	1389858	1390233	-1	none	boryong_08210	none
+Unknown Gene	1390186	1390684	-1	none	boryong_08215	none
+Unknown Gene	1390847	1391243	1	none	boryong_08220	none
+Unknown Gene	1391244	1391685	1	none	boryong_08225	none
+Unknown Gene	1391974	1394113	-1	none	boryong_08230	none
+Unknown Gene	1394707	1394845	-1	none	boryong_08235	none
+Unknown Gene	1394849	1395251	-1	none	boryong_08240	none
+Unknown Gene	<1395254	>1395665	-1	none	boryong_08245	none
+Unknown Gene	1395657	1395945	-1	none	boryong_08250	none
+Unknown Gene	1396273	1396561	-1	none	boryong_08255	none
+Unknown Gene	1397175	1397328	1	none	boryong_08260	none
+Unknown Gene	1397450	1398461	1	none	boryong_08265	none
+traL	1398552	1398888	1	none	boryong_08270	none
+traE	1398887	1399358	1	none	boryong_08275	none
+Unknown Gene	1399305	1399440	1	none	boryong_08280	none
+Unknown Gene	1399436	1399838	1	none	boryong_08285	none
+Unknown Gene	1399949	1400414	1	none	boryong_08290	none
+traV	1400413	1400704	1	none	boryong_08295	none
+Unknown Gene	1400896	1401580	1	none	boryong_08300	none
+Unknown Gene	1401699	1401981	1	none	boryong_08305	none
+Unknown Gene	1401964	1402735	1	none	boryong_08310	none
+Unknown Gene	1403042	1403669	1	none	boryong_08315	none
+traF	1403689	1404379	1	none	boryong_08320	none
+Unknown Gene	1404375	1405077	1	none	boryong_08325	none
+Unknown Gene	1405052	1405676	1	none	boryong_08330	none
+virD4	1405803	1406946	1	none	boryong_08335	none
+Unknown Gene	1406947	1407859	-1	none	boryong_08340	none
+Unknown Gene	1407909	1409712	-1	none	boryong_08345	none
+Unknown Gene	1409893	1411090	-1	none	boryong_08350	none
+Unknown Gene	1411074	1412166	-1	none	boryong_08355	none
+Unknown Gene	1412158	1412374	-1	none	boryong_08360	none
+traD	1412722	1413121	1	none	boryong_08365	none
+Unknown Gene	1413208	1413787	1	none	boryong_08370	none
+spoT	1413864	1414440	-1	none	boryong_08375	none
+Unknown Gene	1414540	1416142	-1	none	boryong_08380	none
+Unknown Gene	1417305	1419174	1	none	boryong_08385	none
+Unknown Gene	1419417	1419594	-1	none	boryong_08390	none
+Unknown Gene	1420143	1420578	1	none	boryong_08395	none
+Unknown Gene	1420650	1420956	1	none	boryong_08400	none
+Unknown Gene	1420959	1421463	-1	none	boryong_08405	none
+Unknown Gene	1421538	1421760	-1	none	boryong_08410	none
+Unknown Gene	1421987	1422776	-1	none	boryong_08415	none
+dnaB	1422926	1423370	-1	none	boryong_08420	none
+Unknown Gene	1423445	1423712	-1	none	boryong_08425	none
+Unknown Gene	1423708	1424110	-1	none	boryong_08430	none
+Unknown Gene	<1424466	>1424754	-1	none	boryong_08435	none
+Unknown Gene	1424750	>1424993	-1	none	boryong_08440	none
+Unknown Gene	1425095	1425314	-1	none	boryong_08445	none
+Unknown Gene	1425490	1425643	-1	none	boryong_08450	none
+Unknown Gene	1426772	1427291	-1	none	boryong_08455	none
+Unknown Gene	<1427287	1427422	-1	none	boryong_08460	none
+Unknown Gene	1427439	1427862	-1	none	boryong_08465	none
+Unknown Gene	1427878	1428193	1	none	boryong_08470	none
+bamB	1428461	1429814	-1	none	boryong_08475	none
+Unknown Gene	1429873	1430554	-1	none	boryong_08480	none
+Unknown Gene	1430692	1430911	-1	none	boryong_08485	none
+Unknown Gene	1430913	1431225	-1	none	boryong_08490	none
+Unknown Gene	1431921	1432125	1	none	boryong_08495	none
+Unknown Gene	1432253	1432628	-1	none	boryong_08500	none
+Unknown Gene	1432679	1433078	-1	none	boryong_08505	none
+Unknown Gene	1433272	1433647	1	none	boryong_08510	none
+Unknown Gene	1433606	1434485	-1	none	boryong_08515	none
+Unknown Gene	1434612	1435236	-1	none	boryong_08520	none
+Unknown Gene	1435211	1435913	-1	none	boryong_08525	none
+Unknown Gene	1435909	1436356	-1	none	boryong_08530	none
+Unknown Gene	1436422	1436599	-1	none	boryong_08535	none
+traN	1436619	1438320	-1	none	boryong_08540	none
+Unknown Gene	1438303	1438585	-1	none	boryong_08545	none
+Unknown Gene	1438704	1439388	-1	none	boryong_08550	none
+Unknown Gene	1439432	1439684	-1	none	boryong_08555	none
+Unknown Gene	1439701	1439890	-1	none	boryong_08560	none
+traW	1439972	1440632	-1	none	boryong_08565	none
+virB4	1440628	1441471	-1	none	boryong_08570	none
+Unknown Gene	1441492	1442275	-1	none	boryong_08575	none
+Unknown Gene	1442246	1443185	-1	none	boryong_08580	none
+Unknown Gene	1444165	1444270	1	none	boryong_08585	none
+ccmF	1444618	1446505	-1	none	boryong_08590	none
+mgtE	1446494	1447763	-1	none	boryong_08595	none
+Unknown Gene	1448696	1448840	1	none	boryong_08600	none
+Unknown Gene	1448952	1449192	1	none	boryong_08605	none
+sodB	1449291	1449933	1	none	boryong_08610	none
+sucA	1449973	1452865	1	none	boryong_08615	none
+sucB	1452864	1454142	1	none	boryong_08620	none
+Unknown Gene	1454147	1455626	1	none	boryong_08625	none
+Unknown Gene	1455918	1457220	1	none	boryong_08630	none
+yraN	1457377	1457626	1	none	boryong_08635	none
+coxC	1458093	1458918	-1	none	boryong_08640	none
+ruvB	1459099	1460077	-1	none	boryong_08645	none
+ruvA	1460076	1460694	-1	none	boryong_08650	none
+Unknown Gene	1460938	1463080	-1	none	boryong_08655	none
+araJ	1463463	1464663	-1	none	boryong_08660	none
+Unknown Gene	1465062	1465248	1	none	boryong_08665	none
+Unknown Gene	1466017	1466263	1	none	boryong_08670	none
+putP	1466524	1469962	1	none	boryong_08675	none
+Unknown Gene	1470260	1470461	1	none	boryong_08680	none
+Unknown Gene	1470591	1471830	1	none	boryong_08685	none
+traL	1471955	1472291	1	none	boryong_08690	none
+traE	1472290	1472842	1	none	boryong_08695	none
+Unknown Gene	1472838	1473240	1	none	boryong_08700	none
+Unknown Gene	1473351	1473816	1	none	boryong_08705	none
+traV	1473815	1474106	1	none	boryong_08710	none
+Unknown Gene	1474298	1474982	1	none	boryong_08715	none
+Unknown Gene	1475101	1475383	1	none	boryong_08720	none
+Unknown Gene	1475366	1476137	1	none	boryong_08725	none
+Unknown Gene	1476211	1476388	1	none	boryong_08730	none
+Unknown Gene	1476444	1477071	1	none	boryong_08735	none
+Unknown Gene	1477091	1477277	1	none	boryong_08740	none
+Unknown Gene	1477336	1477783	1	none	boryong_08745	none
+Unknown Gene	1477779	1478481	1	none	boryong_08750	none
+Unknown Gene	1478456	1479080	1	none	boryong_08755	none
+virD4	1479207	1480350	1	none	boryong_08760	none
+Unknown Gene	1480351	1481263	-1	none	boryong_08765	none
+Unknown Gene	1481313	1481724	-1	none	boryong_08770	none
+Unknown Gene	1481695	1482385	-1	none	boryong_08775	none
+Unknown Gene	1482595	1484236	1	none	boryong_08780	none
+Unknown Gene	1484316	1485867	-1	none	boryong_08785	none
+Unknown Gene	1485851	1486946	-1	none	boryong_08790	none
+Unknown Gene	1486938	1487154	-1	none	boryong_08795	none
+traD	1487504	1487903	1	none	boryong_08800	none
+Unknown Gene	1488227	1488422	1	none	boryong_08805	none
+Unknown Gene	1488740	1489124	1	none	boryong_08810	none
+Unknown Gene	1489351	1489789	1	none	boryong_08815	none
+Unknown Gene	1489800	1490004	1	none	boryong_08820	none
+lplB	1491107	1491734	-1	none	boryong_08825	none
+murD	1491816	1493235	1	none	boryong_08830	none
+ftsW	1493241	1494369	1	none	boryong_08835	none
+murG	1494372	1495452	1	none	boryong_08840	none
+Unknown Gene	1497344	1497719	-1	none	boryong_08845	none
+Unknown Gene	1497730	1497847	-1	none	boryong_08850	none
+Unknown Gene	1497935	1498088	-1	none	boryong_08855	none
+metL1	1498588	1499803	-1	none	boryong_08860	none
+Unknown Gene	1500083	1500578	-1	none	boryong_08865	none
+kch	1500561	1502304	-1	none	boryong_08870	none
+ygfA	1502476	1503049	1	none	boryong_08875	none
+Unknown Gene	1503045	1503657	1	none	boryong_08880	none
+Unknown Gene	1503852	1504656	-1	none	boryong_08885	none
+traV	1504636	1504966	-1	none	boryong_08890	none
+Unknown Gene	1505035	1505188	1	none	boryong_08895	none
+cinA	1505208	1507800	1	none	boryong_08900	none
+cinB	1507834	1510324	1	none	boryong_08905	none
+Unknown Gene	1511732	1511852	-1	none	boryong_08910	none
+Unknown Gene	1512188	1512341	1	none	boryong_08915	none
+Unknown Gene	1512396	1512879	-1	none	boryong_08920	none
+Unknown Gene	1513009	1513210	-1	none	boryong_08925	none
+Unknown Gene	1514476	1514596	-1	none	boryong_08930	none
+cafA	1514645	1516673	-1	none	boryong_08935	none
+Unknown Gene	1517443	1521610	1	none	boryong_08940	none
+Unknown Gene	1522063	1524043	1	none	boryong_08945	none
+ykfC	1524474	1525548	-1	none	boryong_08950	none
+Unknown Gene	1525732	1525885	-1	none	boryong_08955	none
+Unknown Gene	1525912	1526047	-1	none	boryong_08960	none
+Unknown Gene	1526233	1527127	-1	none	boryong_08965	none
+Unknown Gene	1527113	1527488	-1	none	boryong_08970	none
+Unknown Gene	1527441	1527615	-1	none	boryong_08975	none
+ubiB	1528127	1529507	-1	none	boryong_08980	none
+coq7	1529503	1530277	-1	none	boryong_08985	none
+rimP	1530870	1531353	1	none	boryong_08990	none
+nusA	1531368	1532871	1	none	boryong_08995	none
+infB	1533117	1535664	1	none	boryong_09000	none
+rbfA	1535694	1536057	1	none	boryong_09005	none
+ykfC	1536468	1537197	-1	none	boryong_09010	none
+Unknown Gene	1537239	1537452	-1	none	boryong_09015	none
+Unknown Gene	1537479	1537890	1	none	boryong_09020	none
+Unknown Gene	1538063	1538438	-1	none	boryong_09025	none
+Unknown Gene	1538546	1538984	1	none	boryong_09030	none
+Unknown Gene	1538995	1539370	1	none	boryong_09035	none
+Unknown Gene	1539329	1539476	-1	none	boryong_09040	none
+Unknown Gene	1539564	1539798	-1	none	boryong_09045	none
+glnA	1539921	1540752	-1	none	boryong_09050	none
+yfiH	1540918	1541482	1	none	boryong_09055	none
+ccmC	1541474	1542185	1	none	boryong_09060	none
+fdxA	1542190	1542511	1	none	boryong_09065	none
+dsbA	1542646	1543471	1	none	boryong_09070	none
+sspB2	1543599	1544127	1	none	boryong_09075	none
+rnhA	1544126	1544633	1	none	boryong_09080	none
+nuo	1544604	1544967	1	none	boryong_09085	none
+mlaD	1544971	1545457	1	none	boryong_09090	none
+hisS	1545459	1546731	1	none	boryong_09095	none
+nusB	1546754	1547231	1	none	boryong_09100	none
+gst	1548215	1548884	-1	none	boryong_09105	none
+RNaseP_bact_a	1548903	1549288	-1	none	boryong_09110	none
+Unknown Gene	1549379	1549487	1	none	boryong_09115	none
+Unknown Gene	1549526	1549718	1	none	boryong_09120	none
+Unknown Gene	1549859	1549988	1	none	boryong_09125	none
+Unknown Gene	1549974	1550535	1	none	boryong_09130	none
+Unknown Gene	1550612	1551182	-1	none	boryong_09135	none
+traD	1551278	1551677	-1	none	boryong_09140	none
+Unknown Gene	1552025	1552238	1	none	boryong_09145	none
+tnp-IS5	1552491	1553316	-1	none	boryong_09150	none
+Unknown Gene	1553378	1553537	-1	none	boryong_09155	none
+Unknown Gene	1553992	1554709	-1	none	boryong_09160	none
+dam	1555183	1555990	1	none	boryong_09165	none
+Unknown Gene	1556279	1558448	-1	none	boryong_09170	none
+Unknown Gene	1559183	1560278	-1	none	boryong_09175	none
+Unknown Gene	1560351	1560885	-1	none	boryong_09180	none
+ykfC	1561050	1562190	1	none	boryong_09185	none
+Unknown Gene	1562397	1562505	1	none	boryong_09190	none
+yifB	1563111	1564623	-1	none	boryong_09195	none
+Unknown Gene	1564624	1564771	-1	none	boryong_09200	none
+Unknown Gene	1565032	1565137	1	none	boryong_09205	none
+Unknown Gene	1565425	1565605	1	none	boryong_09210	none
+Unknown Gene	1566091	1566244	1	none	boryong_09215	none
+ykfC	1566428	1567556	1	none	boryong_09220	none
+Unknown Gene	1567776	1567884	1	none	boryong_09225	none
+Unknown Gene	1568543	1569515	-1	none	boryong_09230	none
+ftsZ	1569597	1570959	-1	none	boryong_09235	none
+murA	1571164	1572430	-1	none	boryong_09240	none
+Unknown Gene	1573379	1574075	1	none	boryong_09245	none
+Leu_trna	1574589	1574675	1	none	boryong_09250	none
+Unknown Gene	1575331	1575457	1	none	boryong_09255	none
+Unknown Gene	1575736	1575889	-1	none	boryong_09260	none
+brkB	1576172	1577018	-1	none	boryong_09265	none
+Unknown Gene	1577457	1577565	-1	none	boryong_09270	none
+Unknown Gene	1577844	1577961	-1	none	boryong_09275	none
+Unknown Gene	1578049	1578280	-1	none	boryong_09280	none
+Unknown Gene	1579643	1579862	-1	none	boryong_09285	none
+nuoA	1580079	1580451	1	none	boryong_09290	none
+nuoB	1580463	1580979	1	none	boryong_09295	none
+nuoC	1580989	1581577	1	none	boryong_09300	none
+nuoD	1581602	1582793	1	none	boryong_09305	none
+nuoE	1582789	1583368	1	none	boryong_09310	none
+nuoF	1583361	1584630	1	none	boryong_09315	none
+Unknown Gene	1585033	1585747	-1	none	boryong_09320	none
+tlc	1586873	1588373	1	none	boryong_09325	none
+virB2-1	1588619	1588979	1	none	boryong_09330	none
+virB2-2	1589038	1589395	1	none	boryong_09335	none
+ruvC	1589520	1590036	1	none	boryong_09340	none
+dusB	1590091	1591060	1	none	boryong_09345	none
+yggU	1591088	1591427	-1	none	boryong_09350	none
+ubiG	1591588	1592329	1	none	boryong_09355	none
+prmC	1592315	1593182	-1	none	boryong_09360	none
+truA	1593183	1594038	-1	none	boryong_09365	none
+rplM	1594179	1594662	1	none	boryong_09370	none
+rpsI	1594665	1595157	1	none	boryong_09375	none
+Met_trna	1595285	1595362	1	none	boryong_09380	none
+Unknown Gene	1595486	1596233	1	none	boryong_09385	none
+Unknown Gene	1598640	1598769	1	none	boryong_09390	none
+Unknown Gene	1598814	1599189	-1	none	boryong_09395	none
+Unknown Gene	1599142	1599316	-1	none	boryong_09400	none
+Unknown Gene	1599393	1599636	-1	none	boryong_09405	none
+Unknown Gene	1599931	1601248	1	none	boryong_09410	none
+Unknown Gene	1601251	1601665	1	none	boryong_09415	none
+Unknown Gene	1602389	1604540	1	none	boryong_09420	none
+dam	1604829	1605636	-1	none	boryong_09425	none
+Unknown Gene	1606353	1606608	1	none	boryong_09430	none
+Unknown Gene	1606684	1607956	1	none	boryong_09435	none
+spoT	1608089	1608665	1	none	boryong_09440	none
+Unknown Gene	1609057	1610296	1	none	boryong_09445	none
+Unknown Gene	1610752	1611022	1	none	boryong_09450	none
+Unknown Gene	1611247	1611475	1	none	boryong_09455	none
+xthA2	1611637	1612423	1	none	boryong_09460	none
+traD	1612464	1612863	-1	none	boryong_09465	none
+Unknown Gene	1613211	1613427	1	none	boryong_09470	none
+Unknown Gene	1613419	1614514	1	none	boryong_09475	none
+Unknown Gene	1614498	1616049	1	none	boryong_09480	none
+Unknown Gene	1616678	1617389	1	none	boryong_09485	none
+Unknown Gene	1617333	1618653	1	none	boryong_09490	none
+Unknown Gene	1618767	1619283	-1	none	boryong_09495	none
+Unknown Gene	1619282	1620284	-1	none	boryong_09500	none
+Unknown Gene	1620350	1620527	-1	none	boryong_09505	none
+Unknown Gene	1620547	1621174	-1	none	boryong_09510	none
+Unknown Gene	1621230	1621407	-1	none	boryong_09515	none
+Unknown Gene	1621481	1622252	-1	none	boryong_09520	none
+Unknown Gene	1622235	1622517	-1	none	boryong_09525	none
+Unknown Gene	1622636	1623320	-1	none	boryong_09530	none
+traV	1623512	1623803	-1	none	boryong_09535	none
+Unknown Gene	1623802	1624267	-1	none	boryong_09540	none
+Unknown Gene	1624378	1624780	-1	none	boryong_09545	none
+traE	1624776	1625328	-1	none	boryong_09550	none
+traL	1625327	1625663	-1	none	boryong_09555	none
+Unknown Gene	1625788	1626532	-1	none	boryong_09560	none
+Unknown Gene	1626701	1627196	1	none	boryong_09565	none
+Unknown Gene	1627149	1627524	1	none	boryong_09570	none
+Unknown Gene	1628199	1629372	1	none	boryong_09575	none
+Unknown Gene	1629349	1629505	1	none	boryong_09580	none
+Unknown Gene	1629859	1630612	-1	none	boryong_09585	none
+dnaB	1630799	1631243	-1	none	boryong_09590	none
+Unknown Gene	1631318	1631585	-1	none	boryong_09595	none
+Unknown Gene	1631581	1631983	-1	none	boryong_09600	none
+Unknown Gene	1633155	1634943	1	none	boryong_09605	none
+otGTA	1635073	1636264	1	none	boryong_09610	none
+Unknown Gene	1636282	1636549	1	none	boryong_09615	none
+hipB	1636969	1637209	-1	none	boryong_09620	none
+scaC	1637387	1638968	1	none	boryong_09625	none
+Arg_trna	1640003	1640080	-1	none	boryong_09630	none
+Unknown Gene	1640705	1641392	1	none	boryong_09635	none
+Unknown Gene	1641870	1642935	1	none	boryong_09640	none
+Unknown Gene	1643027	1643252	-1	none	boryong_09645	none
+Unknown Gene	1643584	1644751	-1	none	boryong_09650	none
+Unknown Gene	1644935	1645088	-1	none	boryong_09655	none
+Unknown Gene	1645574	1645691	-1	none	boryong_09660	none
+Unknown Gene	1646155	1646308	1	none	boryong_09665	none
+Unknown Gene	1646941	1647094	1	none	boryong_09670	none
+Unknown Gene	1647216	1648227	1	none	boryong_09675	none
+Unknown Gene	1648458	1649697	-1	none	boryong_09680	none
+sdhC	1650325	1650676	1	none	boryong_09685	none
+sdhD	1650706	1651096	1	none	boryong_09690	none
+sdhA	1651290	1653078	1	none	boryong_09695	none
+sdhB	1653112	1653898	1	none	boryong_09700	none
+Unknown Gene	1654342	1654720	1	none	boryong_09705	none
+Unknown Gene	1654750	1654987	1	none	boryong_09710	none
+lepB	1655796	1656537	1	none	boryong_09715	none
+rnc	1656577	1657333	1	none	boryong_09720	none
+Unknown Gene	1657522	1657882	-1	none	boryong_09725	none
+Unknown Gene	1657960	1658275	1	none	boryong_09730	none
+menE,fadK	1659052	1662526	-1	none	boryong_09735	none
+ypfH	1662844	1663477	-1	none	boryong_09740	none
+nth	1663473	1664112	-1	none	boryong_09745	none
+grxD	1664187	1664541	1	none	boryong_09750	none
+nifU	1664601	1665150	1	none	boryong_09755	none
+Unknown Gene	1665414	1665618	1	none	boryong_09760	none
+Unknown Gene	1666413	1667214	-1	none	boryong_09765	none
+fieF	1667483	1668401	1	none	boryong_09770	none
+tadA	1668456	1668924	1	none	boryong_09775	none
+ligA	1669001	1671098	1	none	boryong_09780	none
+pepA	1671104	1672877	1	none	boryong_09785	none
+Unknown Gene	1673119	1673512	-1	none	boryong_09790	none
+Unknown Gene	1673511	1673658	-1	none	boryong_09795	none
+Unknown Gene	1673752	1674073	-1	none	boryong_09800	none
+Unknown Gene	1674050	1674557	-1	none	boryong_09805	none
+Unknown Gene	1674694	1674919	1	none	boryong_09810	none
+Unknown Gene	1674941	1675877	1	none	boryong_09815	none
+Unknown Gene	1675882	1676239	1	none	boryong_09820	none
+Unknown Gene	1676247	1676430	1	none	boryong_09825	none
+Unknown Gene	1676820	1678059	1	none	boryong_09830	none
+traL	1678184	1678520	1	none	boryong_09835	none
+traE	1678519	1679071	1	none	boryong_09840	none
+Unknown Gene	1679067	1679469	1	none	boryong_09845	none
+Unknown Gene	1679580	1680045	1	none	boryong_09850	none
+traV	1680044	1680335	1	none	boryong_09855	none
+Unknown Gene	1680527	1681211	1	none	boryong_09860	none
+Unknown Gene	1681330	1681612	1	none	boryong_09865	none
+Unknown Gene	1681595	1682366	1	none	boryong_09870	none
+Unknown Gene	1682440	1682617	1	none	boryong_09875	none
+Unknown Gene	1682673	1683300	1	none	boryong_09880	none
+Unknown Gene	1683320	1683497	1	none	boryong_09885	none
+Unknown Gene	1683563	1684010	1	none	boryong_09890	none
+Unknown Gene	1684006	1684708	1	none	boryong_09895	none
+Unknown Gene	1684683	1685307	1	none	boryong_09900	none
+virD4	1685434	1686577	1	none	boryong_09905	none
+Unknown Gene	1686578	1687490	-1	none	boryong_09910	none
+Unknown Gene	1687540	1689343	-1	none	boryong_09915	none
+traA	1689524	1692011	-1	none	boryong_09920	none
+Unknown Gene	1692084	1692285	1	none	boryong_09925	none
+traD	1692286	1692742	1	none	boryong_09930	none
+Unknown Gene	1692836	1693385	1	none	boryong_09935	none
+Unknown Gene	1693465	1694350	-1	none	boryong_09940	none
+spoT	1694483	1695059	-1	none	boryong_09945	none
+Unknown Gene	1695159	1696761	-1	none	boryong_09950	none
+Unknown Gene	1697924	1699793	1	none	boryong_09955	none
+Unknown Gene	1700036	1700213	-1	none	boryong_09960	none
+Unknown Gene	1700762	1701197	1	none	boryong_09965	none
+Unknown Gene	1701269	1701575	1	none	boryong_09970	none
+Unknown Gene	1701578	1702082	-1	none	boryong_09975	none
+Unknown Gene	1702182	1702827	-1	none	boryong_09980	none
+Unknown Gene	1702864	1703089	-1	none	boryong_09985	none
+Unknown Gene	1703556	1705512	-1	none	boryong_09990	none
+Unknown Gene	1705999	1706356	-1	none	boryong_09995	none
+Unknown Gene	1706638	1707028	1	none	boryong_10000	none
+Unknown Gene	1707458	1707770	1	none	boryong_10005	none
+yajC	1708149	1708530	1	none	boryong_10010	none
+secD	1708526	1710089	1	none	boryong_10015	none
+Unknown Gene	1710878	1711253	-1	none	boryong_10020	none
+Unknown Gene	1711206	1711380	-1	none	boryong_10025	none
+Unknown Gene	1711445	1711928	1	none	boryong_10030	none
+Unknown Gene	1712197	1712305	-1	none	boryong_10035	none
+aatA	1712684	1713887	-1	none	boryong_10040	none
+ubiG	1713995	1715033	1	none	boryong_10045	none
+mlaA	1715092	1715926	1	none	boryong_10050	none
+mlaC	1715928	1716513	1	none	boryong_10055	none
+hemW	1716540	1717761	1	none	boryong_10060	none
+Unknown Gene	1717782	1718295	1	none	boryong_10065	none
+recO	1718352	1719078	1	none	boryong_10070	none
+Unknown Gene	1719459	1719588	-1	none	boryong_10075	none
+Unknown Gene	1719710	1719884	1	none	boryong_10080	none
+Unknown Gene	1719895	1720276	1	none	boryong_10085	none
+Unknown Gene	1720797	1720986	-1	none	boryong_10090	none
+Unknown Gene	1721827	1721980	-1	none	boryong_10095	none
+Unknown Gene	1722050	1722374	-1	none	boryong_10100	none
+radC	1722412	1723093	-1	none	boryong_10105	none
+rpsL	1723344	1723716	1	none	boryong_10110	none
+rpsG	1723739	1724261	1	none	boryong_10115	none
+fusA	1724264	1726385	1	none	boryong_10120	none
+rpsA	1726593	1728117	1	none	boryong_10125	none
+Unknown Gene	1728577	1728697	-1	none	boryong_10130	none
+Unknown Gene	1728833	1729010	-1	none	boryong_10135	none
+tnp-IS630	1729525	1730392	-1	none	boryong_10140	none
+cspC	1731237	1731459	-1	none	boryong_10145	none
+gcvT	1733206	1734073	1	none	boryong_10150	none
+Unknown Gene	1734250	1734466	-1	none	boryong_10155	none
+Unknown Gene	1734774	1734984	1	none	boryong_10160	none
+Unknown Gene	1735014	1736625	1	none	boryong_10165	none
+hinT	1736860	1737232	1	none	boryong_10170	none
+asd	1737279	1738329	1	none	boryong_10175	none
+cyoB	1738457	1739399	-1	none	boryong_10180	none
+ctaD	1739410	1740997	-1	none	boryong_10185	none
+otGTA	1741188	1742610	-1	none	boryong_10190	none
+ctc	1742935	1743559	1	none	boryong_10195	none
+arfB	1743558	1744119	1	none	boryong_10200	none
+ychF	1744128	1745229	1	none	boryong_10205	none
+Unknown Gene	1745276	1745438	-1	none	boryong_10210	none
+xthA2	1746365	1747160	1	none	boryong_10215	none
+Unknown Gene	1747651	1747774	1	none	boryong_10220	none
+Unknown Gene	1748207	1748513	1	none	boryong_10225	none
+Unknown Gene	1748655	1748859	1	none	boryong_10230	none
+Unknown Gene	1748986	1749139	1	none	boryong_10235	none
+ykfC	1749323	1750490	1	none	boryong_10240	none
+Unknown Gene	1750697	1750805	1	none	boryong_10245	none
+Unknown Gene	1750796	1751309	-1	none	boryong_10250	none
+cyc7	1752134	1752683	-1	none	boryong_10255	none
+hflC	1752931	1753882	1	none	boryong_10260	none
+Unknown Gene	1753874	1754003	1	none	boryong_10265	none
+Unknown Gene	<1753964	1754513	-1	none	boryong_10270	none
+Unknown Gene	1754844	1755246	-1	none	boryong_10275	none
+Unknown Gene	1755602	>1756127	-1	none	boryong_10280	none
+Unknown Gene	1756299	1756743	1	none	boryong_10285	none
+Unknown Gene	1756922	1757075	1	none	boryong_10290	none
+Unknown Gene	1757259	1757685	1	none	boryong_10295	none
+Unknown Gene	1757828	1758428	1	none	boryong_10300	none
+trpS	1758968	1759976	-1	none	boryong_10305	none
+Unknown Gene	1760452	1760851	1	none	boryong_10310	none
+Unknown Gene	1760902	1761277	1	none	boryong_10315	none
+Unknown Gene	1761602	1761881	-1	none	boryong_10320	none
+Unknown Gene	1762005	1762152	-1	none	boryong_10325	none
+Unknown Gene	1762287	1762482	-1	none	boryong_10330	none
+Unknown Gene	1762632	1762863	-1	none	boryong_10335	none
+Unknown Gene	1762951	1763134	-1	none	boryong_10340	none
+Unknown Gene	1763311	1763458	-1	none	boryong_10345	none
+Unknown Gene	1763572	1763785	1	none	boryong_10350	none
+Unknown Gene	1763747	1763999	1	none	boryong_10355	none
+ykfC	1764014	1764563	1	none	boryong_10360	none
+mrp	1766602	1767616	-1	none	boryong_10365	none
+hflK	1767799	1768849	1	none	boryong_10370	none
+hflC	1768872	1769739	1	none	boryong_10375	none
+tsa47	1769756	1771157	1	none	boryong_10380	none
+ompA	1771364	1771973	1	none	boryong_10385	none
+otGTA	1772227	1775020	-1	none	boryong_10390	none
+fpr	1775218	1776235	1	none	boryong_10395	none
+folD	1776231	1777137	1	none	boryong_10400	none
+Unknown Gene	1777071	1778457	-1	none	boryong_10405	none
+topA	1778456	1780823	-1	none	boryong_10410	none
+mdh	1780915	1781872	-1	none	boryong_10415	none
+rimM	1782099	1782594	-1	none	boryong_10420	none
+Unknown Gene	1782762	1785294	1	none	boryong_10425	none
+fmt	1785593	1786517	-1	none	boryong_10430	none
+def	1786513	1787059	-1	none	boryong_10435	none
+Unknown Gene	1787344	>1787869	1	none	boryong_10440	none
+Unknown Gene	1788224	1788887	1	none	boryong_10445	none
+dnaB	1788962	1789406	1	none	boryong_10450	none
+Unknown Gene	1789556	1790345	1	none	boryong_10455	none
+Unknown Gene	1790578	1790800	1	none	boryong_10460	none
+Unknown Gene	1790876	1791263	1	none	boryong_10465	none
+Unknown Gene	1791761	>1792082	-1	none	boryong_10470	none
+Unknown Gene	1792549	1792804	1	none	boryong_10475	none
+Unknown Gene	1792866	1793241	-1	none	boryong_10480	none
+Unknown Gene	1793252	1793690	-1	none	boryong_10485	none
+Unknown Gene	1793917	1794301	-1	none	boryong_10490	none
+Unknown Gene	1794619	1794814	-1	none	boryong_10495	none
+Unknown Gene	1795138	1795420	-1	none	boryong_10500	none
+Unknown Gene	1795595	1795796	-1	none	boryong_10505	none
+Unknown Gene	1795869	1796352	1	none	boryong_10510	none
+Unknown Gene	1796369	1797902	1	none	boryong_10515	none
+Unknown Gene	<1797932	1798361	1	none	boryong_10520	none
+Unknown Gene	1798542	1798806	1	none	boryong_10525	none
+Unknown Gene	1798795	1799221	1	none	boryong_10530	none
+Unknown Gene	1799207	1799570	1	none	boryong_10535	none
+Unknown Gene	1799791	1800343	1	none	boryong_10540	none
+Unknown Gene	1800327	1800795	1	none	boryong_10545	none
+Unknown Gene	1800784	1801264	1	none	boryong_10550	none
+ndk	1801775	1802195	-1	none	boryong_10555	none
+Ser_trna	1802953	1803046	-1	none	boryong_10560	none
+Unknown Gene	1804127	1804529	1	none	boryong_10565	none
+Unknown Gene	1804525	1804792	1	none	boryong_10570	none
+dnaB	1804867	1805263	1	none	boryong_10575	none
+Unknown Gene	1805680	1805833	1	none	boryong_10580	none
+Unknown Gene	1805955	1806966	1	none	boryong_10585	none
+traL	1807057	1807393	1	none	boryong_10590	none
+traE	1807467	1807944	1	none	boryong_10595	none
+Unknown Gene	1807940	1808342	1	none	boryong_10600	none
+Unknown Gene	1808453	1808918	1	none	boryong_10605	none
+traV	1808917	1809208	1	none	boryong_10610	none
+Unknown Gene	1809400	1810084	1	none	boryong_10615	none
+Unknown Gene	1810203	1810485	1	none	boryong_10620	none
+Unknown Gene	1810468	1811239	1	none	boryong_10625	none
+Unknown Gene	1811546	1812173	1	none	boryong_10630	none
+traF	1812193	1812883	1	none	boryong_10635	none
+Unknown Gene	1812879	1813581	1	none	boryong_10640	none
+Unknown Gene	1813556	1813892	1	none	boryong_10645	none
+traG	1813927	1814197	1	none	boryong_10650	none
+Unknown Gene	1814319	1814739	1	none	boryong_10655	none
+Unknown Gene	1814690	1814978	1	none	boryong_10660	none
+Unknown Gene	1815030	1815333	1	none	boryong_10665	none
+rmd1	1815418	1816288	-1	none	boryong_10670	none
+Unknown Gene	1817226	1817421	-1	none	boryong_10675	none
+Unknown Gene	1817422	1817668	-1	none	boryong_10680	none
+Unknown Gene	1818341	1818461	-1	none	boryong_10685	none
+ctaA	1818941	1820021	-1	none	boryong_10690	none
+Unknown Gene	1820687	1820861	-1	none	boryong_10695	none
+Unknown Gene	1821169	1821277	-1	none	boryong_10700	none
+Unknown Gene	1821484	1822651	-1	none	boryong_10705	none
+Unknown Gene	1822835	1822988	-1	none	boryong_10710	none
+Unknown Gene	1823560	1823803	1	none	boryong_10715	none
+cflA	1823966	1825148	-1	none	boryong_10720	none
+Unknown Gene	1825570	1825663	-1	none	boryong_10725	none
+Unknown Gene	1825756	>1825906	-1	none	boryong_10730	none
+Unknown Gene	1826351	1826552	1	none	boryong_10735	none
+Unknown Gene	1826682	1827921	1	none	boryong_10740	none
+traL	1828046	1828382	1	none	boryong_10745	none
+traE	1828381	1828933	1	none	boryong_10750	none
+traK1	1828929	1829406	1	none	boryong_10755	none
+traK2	1829579	1829840	1	none	boryong_10760	none
+Unknown Gene	1829938	1830466	1	none	boryong_10765	none
+Unknown Gene	1830558	1831275	1	none	boryong_10770	none
+Unknown Gene	1831295	1831670	-1	none	boryong_10775	none
+Unknown Gene	1831681	1832119	-1	none	boryong_10780	none
+traL	1832432	1832768	-1	none	boryong_10785	none
+Unknown Gene	1832859	1833870	-1	none	boryong_10790	none
+Unknown Gene	1833992	1834145	-1	none	boryong_10795	none
+Unknown Gene	1834936	1835125	1	none	boryong_10800	none
+Unknown Gene	1835258	1835375	1	none	boryong_10805	none
+Unknown Gene	1835386	1835761	1	none	boryong_10810	none
+znuB	1836544	1837333	-1	none	boryong_10815	none
+znuC	1837313	1838027	-1	none	boryong_10820	none
+ybaB	1838294	1838855	-1	none	boryong_10825	none
+dnaX	1838866	1840546	-1	none	boryong_10830	none
+Bacteria_small_SRP	1840598	1840696	-1	none	boryong_10835	none
+Unknown Gene	1841600	1844597	1	none	boryong_10840	none
+hisJ	1844688	1846164	-1	none	boryong_10845	none
+xseA	1846221	1847592	-1	none	boryong_10850	none
+phnP	1847827	1848577	-1	none	boryong_10855	none
+Unknown Gene	1848680	1849349	1	none	boryong_10860	none
+rplU	1849485	1849812	1	none	boryong_10865	none
+rpmA	1849855	1850125	1	none	boryong_10870	none
+Unknown Gene	1852253	1852457	1	none	boryong_10875	none
+tnp-ISOt6	1852613	1853438	-1	none	boryong_10880	none
+Unknown Gene	1853529	1853661	-1	none	boryong_10885	none
+Unknown Gene	1854348	1854693	1	none	boryong_10890	none
+Unknown Gene	1854715	1854877	1	none	boryong_10895	none
+Unknown Gene	1854873	1855149	1	none	boryong_10900	none
+Unknown Gene	1855145	1855355	-1	none	boryong_10905	none
+Unknown Gene	1855597	1855762	-1	none	boryong_10910	none
+Ala_trna	1856191	1856267	1	none	boryong_10915	none
+xthA2	1856742	1857075	1	none	boryong_10920	none
+pgsA	1857452	1858001	-1	none	boryong_10925	none
+Unknown Gene	1858645	1858960	-1	none	boryong_10930	none
+Unknown Gene	1859099	1859711	1	none	boryong_10935	none
+Unknown Gene	1859729	1860173	1	none	boryong_10940	none
+Unknown Gene	1860210	1860492	1	none	boryong_10945	none
+Unknown Gene	1861278	1861779	1	none	boryong_10950	none
+Unknown Gene	1862117	1862708	1	none	boryong_10955	none
+spoT	1862941	1863517	1	none	boryong_10960	none
+Unknown Gene	1863603	1863714	-1	none	boryong_10965	none
+Unknown Gene	1863676	1863862	-1	none	boryong_10970	none
+Unknown Gene	1864352	1864493	1	none	boryong_10975	none
+Unknown Gene	1864452	1864827	-1	none	boryong_10980	none
+Unknown Gene	1864940	1865378	1	none	boryong_10985	none
+Unknown Gene	1865389	1865764	1	none	boryong_10990	none
+Unknown Gene	1865781	1866186	-1	none	boryong_10995	none
+Unknown Gene	1866227	1867013	1	none	boryong_11000	none
+Unknown Gene	1867104	1867380	1	none	boryong_11005	none
+rlpA	1868399	1869065	-1	none	boryong_11010	none
+Unknown Gene	1869756	1869864	-1	none	boryong_11015	none
+mscC	1870096	1870963	1	none	boryong_11020	none
+tatD	1871911	1872700	-1	none	boryong_11025	none
+metG	1872712	1874248	-1	none	boryong_11030	none
+priA	1874432	1876373	1	none	boryong_11035	none
+virB3	1876747	1877035	1	none	boryong_11040	none
+virB4-1	1877045	1879463	1	none	boryong_11045	none
+virB6-1	1879462	1881910	1	none	boryong_11050	none
+virB6-2	1881931	1885804	1	none	boryong_11055	none
+virB6-3	1885857	1889133	1	none	boryong_11060	none
+virB6-4	1889125	1891693	1	none	boryong_11065	none
+narK	1891729	1892983	1	none	boryong_11070	none
+mutL	1893011	1895054	1	none	boryong_11075	none
+gltX2	1895179	1896580	1	none	boryong_11080	none
+cysS	1896644	1898081	1	none	boryong_11085	none
+Unknown Gene	1898229	1898448	1	none	boryong_11090	none
+Unknown Gene	1898511	1899072	1	none	boryong_11095	none
+uvrD	1899063	1901214	-1	none	boryong_11100	none
+Unknown Gene	1901528	1901966	1	none	boryong_11105	none
+Unknown Gene	1901977	1902352	1	none	boryong_11110	none
+Unknown Gene	1902549	1902750	-1	none	boryong_11115	none
+Unknown Gene	1903171	1903480	-1	none	boryong_11120	none
+pld	1903968	1904559	-1	none	boryong_11125	none
+Unknown Gene	1904654	1904807	1	none	boryong_11130	none
+Unknown Gene	1904876	1905035	1	none	boryong_11135	none
+Unknown Gene	1905383	1905905	1	none	boryong_11140	none
+Unknown Gene	1906037	1906292	-1	none	boryong_11145	none
+Unknown Gene	1906297	1906645	1	none	boryong_11150	none
+Unknown Gene	1906680	1906893	1	none	boryong_11155	none
+Unknown Gene	1907042	1907555	1	none	boryong_11160	none
+spoT	1907578	1908148	-1	none	boryong_11165	none
+baeS	1908248	1909106	-1	none	boryong_11170	none
+baeS	1909113	1909857	-1	none	boryong_11175	none
+Unknown Gene	1910208	1910925	-1	none	boryong_11180	none
+dam	1911400	1912207	1	none	boryong_11185	none
+Unknown Gene	1912234	1912771	-1	none	boryong_11190	none
+Unknown Gene	1912796	1913741	-1	none	boryong_11195	none
+Unknown Gene	1913969	1915064	-1	none	boryong_11200	none
+Unknown Gene	1915181	1915391	-1	none	boryong_11205	none
+Unknown Gene	1916164	1916959	1	none	boryong_11210	none
+Unknown Gene	1918371	1918572	1	none	boryong_11215	none
+Unknown Gene	1918702	1919941	1	none	boryong_11220	none
+traL	1920066	1920402	1	none	boryong_11225	none
+traE	1920401	1920953	1	none	boryong_11230	none
+Unknown Gene	1920949	1921351	1	none	boryong_11235	none
+Unknown Gene	1921462	1921927	1	none	boryong_11240	none
+traV	1921926	1922217	1	none	boryong_11245	none
+Unknown Gene	1922409	1923093	1	none	boryong_11250	none
+Unknown Gene	1923212	1923494	1	none	boryong_11255	none
+Unknown Gene	1923490	1924246	1	none	boryong_11260	none
+Unknown Gene	1924320	1924527	1	none	boryong_11265	none
+Unknown Gene	1924558	1925905	1	none	boryong_11270	none
+Unknown Gene	1925898	1926375	1	none	boryong_11275	none
+Unknown Gene	1926368	1926701	1	none	boryong_11280	none
+Unknown Gene	1926679	1926865	1	none	boryong_11285	none
+Unknown Gene	1927315	1927762	1	none	boryong_11290	none
+Unknown Gene	1927758	1928460	1	none	boryong_11295	none
+Unknown Gene	1928435	1929059	1	none	boryong_11300	none
+traG	1929186	1930938	1	none	boryong_11305	none
+Unknown Gene	1931186	1931696	1	none	boryong_11310	none
+Unknown Gene	1931708	1932848	1	none	boryong_11315	none
+traD	1932917	1934609	1	none	boryong_11320	none
+Unknown Gene	1934610	1935654	-1	none	boryong_11325	none
+Unknown Gene	1935638	1937441	-1	none	boryong_11330	none
+traA	1937622	1940109	-1	none	boryong_11335	none
+Unknown Gene	1940182	1940383	1	none	boryong_11340	none
+traD	1940384	1940840	1	none	boryong_11345	none
+Unknown Gene	1940933	1941467	1	none	boryong_11350	none
+spoT	1941503	1942079	-1	none	boryong_11355	none
+baeS	1942179	1943037	-1	none	boryong_11360	none
+baeS	1943044	1943788	-1	none	boryong_11365	none
+Unknown Gene	1944139	1944454	-1	none	boryong_11370	none
+Unknown Gene	1945117	1947091	1	none	boryong_11375	none
+dam	1947705	1948518	1	none	boryong_11380	none
+Unknown Gene	1948713	1949814	-1	none	boryong_11385	none
+Unknown Gene	1949875	1950013	-1	none	boryong_11390	none
+Unknown Gene	1950243	1951938	-1	none	boryong_11395	none
+Unknown Gene	1952639	1952975	1	none	boryong_11400	none
+Unknown Gene	1952971	1953076	1	none	boryong_11405	none
+Unknown Gene	1953087	1953462	1	none	boryong_11410	none
+Unknown Gene	1953448	1953958	1	none	boryong_11415	none
+Unknown Gene	1954026	1954464	1	none	boryong_11420	none
+Unknown Gene	1954475	1954850	1	none	boryong_11425	none
+Unknown Gene	1954809	1955226	-1	none	boryong_11430	none
+Unknown Gene	1955678	1955879	1	none	boryong_11435	none
+Unknown Gene	1956009	1957248	1	none	boryong_11440	none
+traL	1957373	1957709	1	none	boryong_11445	none
+traE	1957708	1958260	1	none	boryong_11450	none
+Unknown Gene	1958256	1958658	1	none	boryong_11455	none
+Unknown Gene	1958769	1959234	1	none	boryong_11460	none
+traV	1959233	1959524	1	none	boryong_11465	none
+Unknown Gene	1959716	1960400	1	none	boryong_11470	none
+Unknown Gene	1960519	1960801	1	none	boryong_11475	none
+Unknown Gene	1960784	1961555	1	none	boryong_11480	none
+Unknown Gene	1961862	1962489	1	none	boryong_11485	none
+Unknown Gene	1962509	1962686	1	none	boryong_11490	none
+Unknown Gene	1962752	1963199	1	none	boryong_11495	none
+Unknown Gene	1963195	1963897	1	none	boryong_11500	none
+Unknown Gene	1963872	1964496	1	none	boryong_11505	none
+Unknown Gene	1964623	1965070	1	none	boryong_11510	none
+Unknown Gene	1965077	1965515	1	none	boryong_11515	none
+Unknown Gene	1965526	1965901	1	none	boryong_11520	none
+Unknown Gene	1965887	1966154	1	none	boryong_11525	none
+Unknown Gene	1966146	1966677	1	none	boryong_11530	none
+Unknown Gene	1966678	1967302	-1	none	boryong_11535	none
+rpnC	1967417	1967591	-1	none	boryong_11540	none
+Unknown Gene	1967641	1968712	-1	none	boryong_11545	none
+Unknown Gene	1968917	1969451	1	none	boryong_11550	none
+Unknown Gene	1969573	1969720	-1	none	boryong_11555	none
+Unknown Gene	1969898	1970471	-1	none	boryong_11560	none
+Unknown Gene	1971100	1972651	-1	none	boryong_11565	none
+Unknown Gene	1972635	1973727	-1	none	boryong_11570	none
+lspA	1974503	1975013	-1	none	boryong_11575	none
+Leu_trna	1975167	1975253	1	none	boryong_11580	none
+bamD	1975307	1976102	1	none	boryong_11585	none
+Unknown Gene	1976406	1976559	1	none	boryong_11590	none
+Unknown Gene	1976735	1976954	1	none	boryong_11595	none
+Unknown Gene	1977056	>1977581	1	none	boryong_11600	none
+Unknown Gene	1977937	1978339	1	none	boryong_11605	none
+Unknown Gene	1978335	1978602	1	none	boryong_11610	none
+dnaB	1978677	1979121	1	none	boryong_11615	none
+Unknown Gene	1979271	1980060	1	none	boryong_11620	none
+Unknown Gene	1980287	1980509	1	none	boryong_11625	none
+Unknown Gene	1980584	1981088	1	none	boryong_11630	none
+Unknown Gene	1981091	1981397	-1	none	boryong_11635	none
+Unknown Gene	1981469	1981904	-1	none	boryong_11640	none
+aNKYR	1982495	1983443	1	none	boryong_11645	none
+Unknown Gene	1983435	1984470	1	none	boryong_11650	none
+baeS	1985014	1985842	1	none	boryong_11655	none
+Unknown Gene	1985780	1986197	1	none	boryong_11660	none
+Unknown Gene	1986223	1986604	1	none	boryong_11665	none
+spoT	1986738	1987332	1	none	boryong_11670	none
+Unknown Gene	1987399	1987945	-1	none	boryong_11675	none
+Unknown Gene	1988047	1988329	-1	none	boryong_11680	none
+Unknown Gene	1989314	1991051	-1	none	boryong_11685	none
+Unknown Gene	1991386	1991992	-1	none	boryong_11690	none
+Unknown Gene	1991998	1992262	-1	none	boryong_11695	none
+Unknown Gene	1992370	1992571	-1	none	boryong_11700	none
+Unknown Gene	1992644	1994222	1	none	boryong_11705	none
+Unknown Gene	1994256	1995129	1	none	boryong_11710	none
+Unknown Gene	1995310	1997113	1	none	boryong_11715	none
+Unknown Gene	1997163	1998075	1	none	boryong_11720	none
+virD4	1998076	1999351	-1	none	boryong_11725	none
+Unknown Gene	1999325	1999832	-1	none	boryong_11730	none
+Unknown Gene	1999831	2000554	-1	none	boryong_11735	none
+traG	2000730	2002347	-1	none	boryong_11740	none
+Unknown Gene	2002474	2003098	-1	none	boryong_11745	none
+Unknown Gene	2003073	2003760	-1	none	boryong_11750	none
+Unknown Gene	2003756	2004203	-1	none	boryong_11755	none
+Unknown Gene	2004269	2004446	-1	none	boryong_11760	none
+traN	2004466	2006167	-1	none	boryong_11765	none
+Unknown Gene	2006150	2006432	-1	none	boryong_11770	none
+Unknown Gene	2006551	2007235	-1	none	boryong_11775	none
+Unknown Gene	2007279	2007531	-1	none	boryong_11780	none
+Unknown Gene	2007548	2007737	-1	none	boryong_11785	none
+traW	2007819	2008479	-1	none	boryong_11790	none
+virB4	2008475	2009318	-1	none	boryong_11795	none
+Unknown Gene	2009339	2010122	-1	none	boryong_11800	none
+Unknown Gene	2010093	2010966	-1	none	boryong_11805	none
+traV	2010946	2011276	-1	none	boryong_11810	none
+traB	2011275	2012607	-1	none	boryong_11815	none
+traK2	2012660	2012993	-1	none	boryong_11820	none
+traK1	2013136	2013613	-1	none	boryong_11825	none
+traE	2013609	2014086	-1	none	boryong_11830	none
+traL	2014160	2014496	-1	none	boryong_11835	none
+Unknown Gene	2014551	2015871	-1	none	boryong_11840	none
+Unknown Gene	2016278	2016638	-1	none	boryong_11845	none
+Unknown Gene	2017063	2017624	1	none	boryong_11850	none
+Unknown Gene	2017637	2018918	1	none	boryong_11855	none
+Unknown Gene	2018931	2019063	1	none	boryong_11860	none
+spoT	2019297	2019873	1	none	boryong_11865	none
+Unknown Gene	2019909	2020026	1	none	boryong_11870	none
+Unknown Gene	2020054	2020357	1	none	boryong_11875	none
+Unknown Gene	2020460	2020613	-1	none	boryong_11880	none
+Unknown Gene	2021023	2022367	1	none	boryong_11885	none
+mnmA	2022979	2024089	-1	none	boryong_11890	none
+Unknown Gene	2024671	2024845	1	none	boryong_11895	none
+Unknown Gene	2024939	2025098	1	none	boryong_11900	none
+Unknown Gene	2025232	2025538	1	none	boryong_11905	none
+Unknown Gene	2025550	2025766	-1	none	boryong_11910	none
+Unknown Gene	2025774	2026974	1	none	boryong_11915	none
+Unknown Gene	2026978	2027155	1	none	boryong_11920	none
+tnp-IS110	2027272	2028235	-1	none	boryong_11925	none
+Unknown Gene	2028460	2028718	1	none	boryong_11930	none
+Unknown Gene	2029124	2029985	-1	none	boryong_11935	none
+Unknown Gene	2030580	2030841	1	none	boryong_11940	none
+Unknown Gene	2030852	2031476	-1	none	boryong_11945	none
+Unknown Gene	2031577	2031805	-1	none	boryong_11950	none
+Unknown Gene	2032140	2032665	1	none	boryong_11955	none
+Unknown Gene	2032756	2032969	-1	none	boryong_11960	none
+baeS	2033317	2034064	1	none	boryong_11965	none
+baeS	2034068	2034926	1	none	boryong_11970	none
+Unknown Gene	2035026	2035332	1	none	boryong_11975	none
+Unknown Gene	2035383	2035617	1	none	boryong_11980	none
+Unknown Gene	2035591	2035717	1	none	boryong_11985	none
+Unknown Gene	2035744	2035897	1	none	boryong_11990	none
+Unknown Gene	2036081	2036192	1	none	boryong_11995	none
+Unknown Gene	2036282	2037158	1	none	boryong_12000	none
+Unknown Gene	2037633	2044533	-1	none	boryong_12005	none
+Unknown Gene	2044525	2045071	-1	none	boryong_12010	none
+Unknown Gene	2045633	2046953	-1	none	boryong_12015	none
+Unknown Gene	2047426	2047864	1	none	boryong_12020	none
+Unknown Gene	2047875	2048250	1	none	boryong_12025	none
+Unknown Gene	2048311	2048578	-1	none	boryong_12030	none
+Unknown Gene	2049030	2049807	1	none	boryong_12035	none
+Unknown Gene	2049887	2050355	1	none	boryong_12040	none
+Unknown Gene	2050486	2050630	1	none	boryong_12045	none
+Unknown Gene	2050664	2051891	1	none	boryong_12050	none
+Unknown Gene	2052520	2053231	1	none	boryong_12055	none
+Unknown Gene	2053175	2054678	1	none	boryong_12060	none
+Unknown Gene	2054705	2054858	1	none	boryong_12065	none
+ykfC	2055042	2056146	1	none	boryong_12070	none
+Unknown Gene	2056393	2056501	1	none	boryong_12075	none
+Unknown Gene	<2056524	2056770	-1	none	boryong_12080	none
+Unknown Gene	2056774	2057128	-1	none	boryong_12085	none
+Unknown Gene	2058029	2058200	1	none	boryong_12090	none
+xthA2	2058241	2059027	-1	none	boryong_12095	none
+Unknown Gene	2059189	2059417	-1	none	boryong_12100	none
+Unknown Gene	2059642	2059912	-1	none	boryong_12105	none
+Unknown Gene	2060024	2060462	1	none	boryong_12110	none
+Unknown Gene	2060473	2060848	1	none	boryong_12115	none
+Unknown Gene	2060907	2062164	-1	none	boryong_12120	none
+Unknown Gene	2062843	2063044	-1	none	boryong_12125	none
+Unknown Gene	2063180	2063402	-1	none	boryong_12130	none
+Unknown Gene	2063482	2063620	1	none	boryong_12135	none
+Pro_trna	2064456	2064533	1	none	boryong_12140	none
+pipB2	2066335	2069986	-1	none	boryong_12145	none
+scaE	2070431	2072705	-1	none	boryong_12150	none
+Unknown Gene	2073375	2073657	1	none	boryong_12155	none
+Unknown Gene	2073924	2074185	1	none	boryong_12160	none
+Unknown Gene	2074247	2074421	1	none	boryong_12165	none
+Unknown Gene	2074528	2074666	1	none	boryong_12170	none
+Unknown Gene	2075054	2075228	1	none	boryong_12175	none
+Unknown Gene	2075249	2075726	1	none	boryong_12180	none
+Unknown Gene	2075850	2076102	1	none	boryong_12185	none
+Unknown Gene	2076165	2076603	1	none	boryong_12190	none
+Unknown Gene	2076614	2076989	1	none	boryong_12195	none
+Unknown Gene	2076948	2077437	-1	none	boryong_12200	none
+Unknown Gene	2078247	2078454	1	none	boryong_12205	none
+scaB	2078987	2080937	1	none	boryong_12210	none
+Unknown Gene	2081065	2081461	-1	none	boryong_12215	none
+Unknown Gene	2081488	2082511	1	none	boryong_12220	none
+Unknown Gene	2082718	2082826	1	none	boryong_12225	none
+Unknown Gene	2082950	2083310	1	none	boryong_12230	none
+Unknown Gene	2083346	2083694	1	none	boryong_12235	none
+Unknown Gene	2084359	2084677	-1	none	boryong_12240	none
+rluC	2085576	2086515	-1	none	boryong_12245	none
+holB	2086498	2087371	-1	none	boryong_12250	none
+ppa	2087394	2087922	-1	none	boryong_12255	none
+dksA	2088004	2088436	-1	none	boryong_12260	none
+xerC	2088469	2089408	-1	none	boryong_12265	none
+mnmE	2089433	2090777	-1	none	boryong_12270	none
+gdhA	2090857	2095783	1	none	boryong_12275	none
+Unknown Gene	2096365	2096698	1	none	boryong_12280	none
+Unknown Gene	2096715	2097090	-1	none	boryong_12285	none
+Unknown Gene	2097101	2097539	-1	none	boryong_12290	none
+secB	2099141	2099624	-1	none	boryong_12295	none
+dcd	2099666	2100233	-1	none	boryong_12300	none
+Unknown Gene	2100867	2102148	1	none	boryong_12305	none
+frr	2102311	2102875	-1	none	boryong_12310	none
+nuoG	2103154	2105194	1	none	boryong_12315	none
+nuoH	2105250	2106321	1	none	boryong_12320	none
+nuoI	2106346	2106832	1	none	boryong_12325	none
+nuoJ	2106835	2107444	1	none	boryong_12330	none
+nuoK	2107427	2107751	1	none	boryong_12335	none
+erhM	2107754	2109662	1	none	boryong_12340	none
+nuoM	2109662	2111159	1	none	boryong_12345	none
+nuoN	2111203	2112640	1	none	boryong_12350	none
+tilS	2112724	2114050	1	none	boryong_12355	none
+ftsH	2114066	2115950	1	none	boryong_12360	none
+alkA	2115984	2116521	1	none	boryong_12365	none
+tsaE	2116536	2116959	1	none	boryong_12370	none
+rodA	2117173	2118256	1	none	boryong_12375	none
+mreD	2118267	2118753	1	none	boryong_12380	none
+pBP2	2118742	2120491	1	none	boryong_12385	none
+ubiD	2120647	2122141	-1	none	boryong_12390	none
+ygaA	2122473	2122896	1	none	boryong_12395	none
+Ala_trna	2123748	2123823	-1	none	boryong_12400	none
+Unknown Gene	2124559	2126086	-1	none	boryong_12405	none
+sdhE	2126470	2126734	-1	none	boryong_12410	none
