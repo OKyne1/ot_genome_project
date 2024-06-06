@@ -15,6 +15,9 @@ echo "username="`whoami`
 
 # This code takes a single fastq.gz file and runs kraken2 on it, the specific db needs to be specified
 
+source /well/moru-batty/users/vhs789/miniforge/etc/profile.d/conda.sh
+conda activate kraken
+
 rootdir="/well/moru-batty/projects/ot"
 #db="/well/moru-batty/projects/krakendb/standard-plus-mouse"
 db="/well/moru-batty/projects/krakendb/standard"
