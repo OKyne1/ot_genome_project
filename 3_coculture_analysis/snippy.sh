@@ -1,8 +1,8 @@
 #!/bin/bash
 #SBATCH -A moru-batty.prj
 #SBATCH -J kraken2
-#SBATCH --output=%j.out
-#SBATCH --error=%j.err
+#SBATCH --output=snippy_%j.out
+#SBATCH --error=snippy_%j.err
 #SBATCH --cpus-per-task 4
 #SBATCH --mem-per-cpu=8G
 #SBATCH -p short
@@ -26,4 +26,4 @@ reads="$2"
 genome="$1"
 output="$3"
 
-snippy --cpus 4 --reference genome --se reads --output output
+snippy --cpus 4 --reference genome --se reads --outdir output
