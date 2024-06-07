@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH -A moru-batty.prj
-#SBATCH -J kraken2
+#SBATCH -J snippy
 #SBATCH --output=snippy_%j.out
 #SBATCH --error=snippy_%j.err
 #SBATCH --cpus-per-task 4
@@ -14,7 +14,7 @@ echo "OS="`uname -s`
 echo "username="`whoami`
 
 source /well/moru-batty/users/vhs789/miniforge/etc/profile.d/conda.sh
-conda activate qc
+conda activate snippy
 
 if [ "$#" -ne 3 ]; then
     echo "Usage: $0 <genome><reads><output>"
