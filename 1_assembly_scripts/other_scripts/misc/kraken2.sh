@@ -13,6 +13,8 @@ echo "hostname="`hostname`
 echo "OS="`uname -s`
 echo "username="`whoami`
 
+# Need to remove mouse reads first! otherwise mis-hits will occur. Should ideally also remove lambda phage.
+
 # This code takes a single fastq.gz file and runs kraken2 on it, the specific db needs to be specified
 
 source /well/moru-batty/users/vhs789/miniforge/etc/profile.d/conda.sh
