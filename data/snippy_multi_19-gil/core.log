@@ -1,0 +1,102 @@
+### echo snippy 4.6.0
+### cd /well/moru-batty/projects/ot/assembly/240530_ot_samples/coculturing
+
+### /usr/local/bin/snippy --outdir snippy_multi_19-gil --se kato/ot_and_unmapped_kato.fastq.gz --ref data/Ot_gilliam_SAMEA104570318.fasta --prefix core --minfrac 0.05
+
+### samtools faidx reference/ref.fa
+
+
+### bwa index reference/ref.fa
+
+[bwa_index] Pack FASTA... 0.02 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.43 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.22 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index reference/ref.fa
+[main] Real time: 0.700 sec; CPU: 0.685 sec
+
+### mkdir -p reference/genomes && cp -f reference/ref.fa reference/genomes/ref.fa
+
+
+### ln -sf reference/ref.fa .
+
+
+### ln -sf reference/ref.fa.fai .
+
+
+### mkdir -p reference/ref && gzip -c reference/ref.gff > reference/ref/genes.gff.gz
+
+
+### bwa mem  -Y -M -R '@RG\tID:snippy_multi_19-gil\tSM:snippy_multi_19-gil' -t 8 reference/ref.fa /well/moru-batty/projects/ot/assembly/240530_ot_samples/coculturing/kato/ot_and_unmapped_kato.fastq.gz | samclip --max 10 --ref reference/ref.fa.fai | samtools sort -n -l 0 -T /tmp --threads 3 -m 2000M | samtools fixmate -m --threads 3 - - | samtools sort -l 0 -T /tmp --threads 3 -m 2000M | samtools markdup -T /tmp --threads 3 -r -s - - > core.bam
+
+samtools markdup: warning, unable to calculate estimated library size. Read pairs 0 should be greater than duplicate pairs 0, which should both be non zero.
+
+COMMAND: samtools markdup -T /tmp --threads 3 -r -s - -
+READ: 45489
+WRITTEN: 44814
+EXCLUDED: 9859
+EXAMINED: 35630
+PAIRED: 0
+SINGLE: 35630
+DUPLICATE PAIR: 0
+DUPLICATE SINGLE: 675
+DUPLICATE PAIR OPTICAL: 0
+DUPLICATE SINGLE OPTICAL: 0
+DUPLICATE NON PRIMARY: 0
+DUPLICATE NON PRIMARY OPTICAL: 0
+DUPLICATE PRIMARY TOTAL: 675
+DUPLICATE TOTAL: 675
+ESTIMATED_LIBRARY_SIZE: 0
+
+
+### samtools index core.bam
+
+
+### fasta_generate_regions.py reference/ref.fa.fai 167078 > reference/ref.txt
+
+
+### freebayes-parallel reference/ref.txt 8 -p 2 -P 0 -C 2 -F 0.05 --min-coverage 10 --min-repeat-entropy 1.0 -q 13 -m 60 --strict-vcf   -f reference/ref.fa core.bam > core.raw.vcf
+
+
+### bcftools view --include 'FMT/GT="1/1" && QUAL>=100 && FMT/DP>=10 && (FMT/AO)/(FMT/DP)>=0.05' core.raw.vcf  | vt normalize -r reference/ref.fa - | bcftools annotate --remove '^INFO/TYPE,^INFO/DP,^INFO/RO,^INFO/AO,^INFO/AB,^FORMAT/GT,^FORMAT/DP,^FORMAT/RO,^FORMAT/AO,^FORMAT/QR,^FORMAT/QA,^FORMAT/GL' > core.filt.vcf
+
+
+### cp core.filt.vcf core.vcf
+
+
+### /usr/local/bin/snippy-vcf_to_tab --gff reference/ref.gff --ref reference/ref.fa --vcf core.vcf > core.tab
+
+Loading reference: reference/ref.fa
+Loaded 1 sequences.
+Loading features: reference/ref.gff
+Parsing variants: core.vcf
+Converted 13244 SNPs to TAB format.
+
+### /usr/local/bin/snippy-vcf_extract_subs core.filt.vcf > core.subs.vcf
+
+
+### bcftools convert -Oz -o core.vcf.gz core.vcf
+
+
+### bcftools index -f core.vcf.gz
+
+
+### bcftools consensus --sample snippy_multi_19-gil -f reference/ref.fa -o core.consensus.fa core.vcf.gz
+
+Applied 13244 variants
+
+### bcftools convert -Oz -o core.subs.vcf.gz core.subs.vcf
+
+
+### bcftools index -f core.subs.vcf.gz
+
+
+### bcftools consensus --sample snippy_multi_19-gil -f reference/ref.fa -o core.consensus.subs.fa core.subs.vcf.gz
+
+Applied 16428 variants
+
+### rm -f core.subs.vcf.gz core.subs.vcf.gz.csi core.subs.vcf.gz.tbi
+

@@ -1,0 +1,11 @@
+DateTime	2024-06-10T08:23:12
+ReadFiles	/well/moru-batty/projects/ot/assembly/240530_ot_samples/coculturing/kato/ot_and_unmapped_kato.fastq.gz
+Reference	/well/moru-batty/projects/ot/assembly/240530_ot_samples/coculturing/data/Ot_gilliam_SAMEA104570318.fasta
+ReferenceSize	2465012
+Software	snippy 4.6.0
+Variant-COMPLEX	2261
+Variant-DEL	254
+Variant-INS	217
+Variant-MNP	117
+Variant-SNP	10395
+VariantTotal	13244
