@@ -22,8 +22,8 @@ if [ "$#" -ne 3 ]; then
     exit 1
 fi
 
-reads="$2"
 genome="$1"
+reads="$2"
 output="$3"
 
 singularity	run snippy.sif snippy --cpus 4 --reference genome --se reads --outdir output

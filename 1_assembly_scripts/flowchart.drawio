@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" modified="2024-06-10T04:20:13.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="JOCC3FDxAP5gvAu-55hf" version="24.3.0" type="device">
+  <diagram name="Page-1" id="b45FouUc8lXgY42eX1oL">
+    <mxGraphModel dx="794" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QN6HMjbdbFKfMCH5CalK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QN6HMjbdbFKfMCH5CalK-2" target="QN6HMjbdbFKfMCH5CalK-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QN6HMjbdbFKfMCH5CalK-2" value="Passed&lt;div&gt;fastq.gz files&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="330" y="90" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QN6HMjbdbFKfMCH5CalK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QN6HMjbdbFKfMCH5CalK-6" target="QN6HMjbdbFKfMCH5CalK-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QN6HMjbdbFKfMCH5CalK-6" value="Cluster Transfer" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="330" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QN6HMjbdbFKfMCH5CalK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QN6HMjbdbFKfMCH5CalK-7" target="QN6HMjbdbFKfMCH5CalK-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QN6HMjbdbFKfMCH5CalK-7" value="fastq.gz merging" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="330" y="230" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QN6HMjbdbFKfMCH5CalK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QN6HMjbdbFKfMCH5CalK-9" target="QN6HMjbdbFKfMCH5CalK-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QN6HMjbdbFKfMCH5CalK-9" value="Removal of Reads &amp;lt;5000bp" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="330" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QN6HMjbdbFKfMCH5CalK-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QN6HMjbdbFKfMCH5CalK-11" target="QN6HMjbdbFKfMCH5CalK-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QN6HMjbdbFKfMCH5CalK-11" value="Flye Assembly" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="330" y="430" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QN6HMjbdbFKfMCH5CalK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QN6HMjbdbFKfMCH5CalK-12" target="QN6HMjbdbFKfMCH5CalK-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QN6HMjbdbFKfMCH5CalK-12" value="Medaka&lt;div&gt;Polishing&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="330" y="490" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QN6HMjbdbFKfMCH5CalK-13" value="Genome Assembly" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="330" y="560" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QN6HMjbdbFKfMCH5CalK-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QN6HMjbdbFKfMCH5CalK-14" target="QN6HMjbdbFKfMCH5CalK-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QN6HMjbdbFKfMCH5CalK-14" value="Host Read Removal" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="330" y="290" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

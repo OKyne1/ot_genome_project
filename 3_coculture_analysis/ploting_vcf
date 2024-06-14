@@ -1,0 +1,27 @@
+import os
+import sys
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+def process_file(file_path):
+    # Read the file into a pandas DataFrame
+    df = pd.read_csv(file_path, sep='\t', header=None)
+    
+    # Scatter plot for columns 11 (index 10) vs 13 (index 12)
+    plt.figure(figsize=(10, 6))
+    plt.scatter(df.iloc[:, 10], df.iloc[:, 12], alpha=0.5)
+    plt.xlabel('Column 11 (Index 10)')
+    plt.ylabel('Column 13 (Index 12)')
+    plt.title(f'{os.path.basename(file_path)} - AO vs DP')
+    scatter_ao_vs_dp_filename = f"{os.path.basename(file_path).split('.')[0]}_AOvsDP.png"
+    plt.savefig(scatter_ao_vs_dp_filename)
+    plt.close()
+
+    # Scatter plot for columns 9 (index 8) vs 13 (index 12)
+    plt.figure(figsize=(10, 6))
+    plt.scatter(df.iloc[:, 8], df.iloc[:, 12], alpha=0.5)
+    plt.xlabel('Column 9 (Index 8)')
+    plt.ylabel('Column 13 (Index 12)')
+    plt.title(f'{os.path.basename(file_path)} - AB vs DP')
+    scatter_ab_vs_dp_filename = f"{os.path.basename(file_path
