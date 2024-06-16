@@ -26,7 +26,7 @@ genome="$1"
 reads="$2"
 output="$3"
 
-singularity	run snippy.sif snippy --cpus 4 --reference genome --se reads --outdir output
+singularity run snippy.sif snippy --cpus 4 --ref genome --se reads --outdir output
 
 # Need to add in the singularity run stuff to this command
 # singularity run snippy.sif snippy ..........
