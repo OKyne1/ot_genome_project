@@ -35,7 +35,7 @@ Needs to be run from an environment with pycoQC installed
 ```
 Barcode_split --summary_file path/to/file/sequencing_summary.txt --output_dir OUTPUT_DIR --output_unclassified
 ```
-This will produce separate files for each barcode, these then need to be run with pycoQC to generate an output (e.g. [pycoqc_barcode_12](../ 
+This will produce separate files for each barcode, these then need to be run with pycoQC to generate an output (e.g. [pycoqc_barcode_12.html](./pycoqc12.html)
 
 #### Splitting the summary file:
 ```
