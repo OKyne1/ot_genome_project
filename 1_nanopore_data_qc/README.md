@@ -23,9 +23,9 @@ Methods to maximise output:
 
 
 #### Software version
-Talks with nanopore representatives made it clear the importance of using up-to-date basecalling software to maximise the read classification. At the time of writing this is "Dorado 7.3.9", and the software should be frequently updated.
+Talks with nanopore representatives made it clear the importance of using up-to-date basecalling software to maximise the read classification. At the time of writing this is "**Dorado 7.3.9**", and the software should be frequently updated.
 #### Basecalling settings
-Multiple tests showed Super-accurate basecalling (AKA super high accuracy). This can result in lower amounts of data being classified but accuracy base calling. As read accuracy is crucial to assembly of RAGEs we deamed this an important parameter to use.
+Multiple tests showed **Super-accurate basecalling** (AKA super high accuracy). This can result in lower amounts of data being classified but accuracy base calling. As read accuracy is crucial to assembly of RAGEs we deamed this an important parameter to use.
 
 ### PycoQC
 [PycoQC]([https://pages.github.com/](https://github.com/a-slide/pycoQC)) "computes metrics and generates interactive QC plots for Oxford Nanopore technologies sequencing data" and is used as an initial check of data quality from a sequencing run.
