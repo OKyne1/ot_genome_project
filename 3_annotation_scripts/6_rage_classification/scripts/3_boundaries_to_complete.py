@@ -102,3 +102,4 @@ if __name__ == "__main__":
     with open(output_file_name, "w") as bed_output:
         for region in passed_regions:
             bed_output.write(region + "\n")
+    print(f"Output written to {output_file_name}")
