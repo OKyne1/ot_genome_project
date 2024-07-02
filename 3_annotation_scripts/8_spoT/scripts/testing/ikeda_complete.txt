@@ -1,0 +1,16 @@
+ikeda_00725|Percent Match: 0.2443820224719101|truncated|TA686_02046_SpoT_Full
+ikeda_01495|Percent Match: 0.9985955056179775|complete|Ikeda_00298_SpoT_Full
+ikeda_01665|Percent Match: 0.4592696629213483|truncated|Ikeda_00298_SpoT_Full
+ikeda_01860|Percent Match: 0.2443820224719101|truncated|TA686_02046_SpoT_Full
+ikeda_01985|Percent Match: 0.24719101123595505|truncated|KATO_01297_SpoT_Full
+ikeda_03795|Percent Match: 0.2552594670406732|truncated|UT176_01039_SpoT_Full
+ikeda_04330|Percent Match: 0.24719101123595505|truncated|TA686_02046_SpoT_Full
+ikeda_05860|Percent Match: 0.24719101123595505|truncated|KATO_01297_SpoT_Full
+ikeda_06465|Percent Match: 0.2443820224719101|truncated|TA686_02046_SpoT_Full
+ikeda_07025|Percent Match: 0.24719101123595505|truncated|TA686_02046_SpoT_Full
+ikeda_08275|Percent Match: 0.24719101123595505|truncated|TA686_02046_SpoT_Full
+ikeda_09385|Percent Match: 0.20365168539325842|truncated|TA686_02046_SpoT_Full
+ikeda_09785|Percent Match: 0.24719101123595505|truncated|TA686_02046_SpoT_Full
+ikeda_10010|Percent Match: 0.2443820224719101|truncated|TA686_02046_SpoT_Full
+ikeda_10485|Percent Match: 0.2443820224719101|truncated|TA686_02046_SpoT_Full
+ikeda_10925|Percent Match: 0.24684431977559607|truncated|UT176_01039_SpoT_Full
