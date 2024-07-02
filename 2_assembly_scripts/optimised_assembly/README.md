@@ -1,16 +1,18 @@
 # Pipeline for Assembly of Highly Repetitive Intracellular Bacteria Using Nanopore Reads
 ## File pre-processing
 1. Files are first uploaded to the cluster e.g. using `scp -r sequencing_fastq_files username@cluster1.bmrc.ox.ac.uk:/well/moru-batty/projects/ot/rawdata/sequencing_name`
-2. For each barcode, passed files are joined using `cat *.fastq.gz > barcode.fastq.gz`
-3. If the flowcell was washed, then files for 'run' are combined (same as above)
-4. This produces a single fastq.gz file per barcode
+2. For each barcode, passed files are joined using `cat *.fastq.gz > barcode.fastq.gz` (this assumes you are joining files in the same directory)
+3. If the flowcell was washed, then files for each 'run' are combined (washing the flow cell is **highly recommended**)
+4. Files should be joined so there is a single .fastq.gz file per barcode used
 
 ## Read Filtering
-Due to high amount of host (mouse) DNA pre-filtering is required before assembly. 
+Due to high amount of host (mouse/L929 cells) DNA pre-filtering is required before assembly. 
 
 Filtering method:
-1. Map reads to host (mouse) genome and known *O. tsutsugamushi* genomes.
+1. Map reads to host (mouse) genome and known *O. tsutsugamushi* genome(s).
 2. Extract *O. tsutsugamushi* mapped reads and unmapped reads for later processing.
+
+**Currently, this doesn't remove the lambda phage sequences. So the genome file should probably have this added, however the impact of the results is likely to be minimal. It will just make metagenomic stuff look neater.**
 
 ## Initial Optimisation Tests
 ### Different Assemblers
@@ -33,14 +35,14 @@ Assembly of barcode 05 and the combined barcodes was tested with min read length
 Figure 2: These plots show the effect of min read length on the number and length of contigs, assembly size and genome coverage. Overall, the number of contigs is lower when there is a higher threshold, however this can result in a slightly lower assembly size. Generally 4000-6000 bp seems optimal for these data structures.
 
 ### Flye Assembly Method
-Currently this is the method used for flye assembly (2_flye_with_minlength.sh):
+Currently this is the method used for flye assembly (2_flye_with_minlength.sh) with prefiltered reads (using only those >5000bp):
 ```
 flye --nano-hq reads.fastq --threads 6 --out-dir output
 ```
-Despite testing different flye parameters, no specific ones are used. This is because reads are prefiltered to remove reads below 5000 bp.
+Despite testing different flye parameters, no specific ones are used. This is because reads are prefiltered to remove reads below 5000 bp. Due to differences in read length distributions it is suggested to try a number of different read length thresholds, it is likely the best performing one will be around 5000 bp.
 
 ## Medaka polishing with ONT reads
-Unlike flye assembly this step uses all passed mapped reads. Polishing tests show this resolves most of the "errors" (it is hard to validate what are real errors).
+Unlike flye assembly this step uses all passed mapped reads. Polishing tests show this resolves most of the "errors" compared to prior assemblies.
 
 ## Illumina polishing (Optional)
 The importance of this step in currently being tested. We need to decide if we will use this in future work.
@@ -56,7 +58,7 @@ Changing the file permisions:
 ```
 chmod -wx file_name
 ```
-This is used to protect the file from being overwritten. Ideally it should be applied to all raw data to avoid overwriting (my code won't do this, but it is best practice).
+This is used to protect the file from being overwritten. This should be done to all the raw data.
 
 Joining files from washed flowcells:
 ```
@@ -70,9 +72,7 @@ Read mapping:
 mkdir barcodexx
 # Move into the directory
 cd barcodexx
-
-# I can't remember if steps from here on can process .gz files. It may be required to unzip them using gunzip file.fastq.gz.
-
+# These scripts are capable of using fastq.gz files or fastq files, however kraken2 needs the files unzipped.
 # read mapping
 sbatch path/to/code/1_minimap2_competitive_mapping.sh path/reference.fasta path/barcode.fastq
 ## The number at the end of this line can be changed, this is just the minimum read length we determined to be optimal for flye assembly.
@@ -89,8 +89,7 @@ Medaka polishing:
 ```
 sbatch path/to/code/3_medaka_polishing.sh assembly.fna reads.fastq
 ```
-The reads used here should be from the mapping output (AKA with the short reads as well). The assembly will probably be located in the flye_5000 directory. 
+The reads used here should be from the mapping output (AKA with the short reads as well).
 
 Illumina polishing(?):
-```
-```
+We may want to perform this on the data as well. The jury is currently out.
