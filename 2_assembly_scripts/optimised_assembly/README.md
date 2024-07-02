@@ -1,7 +1,7 @@
 # Pipeline for Assembly of Highly Repetitive Intracellular Bacteria Using Nanopore Reads
 ## File pre-processing
 1. Files are first uploaded to the cluster e.g. using `scp -r sequencing_fastq_files username@cluster1.bmrc.ox.ac.uk:/well/moru-batty/projects/ot/rawdata/sequencing_name`
-2. For each barcode, passed files are joined using `cat *.fastq.gz > barcode.fastq.gz`
+2. For each barcode, passed files are joined using `cat *.fastq.gz > barcode.fastq.gz` (this assumes you are joining files in the same directory)
 3. If the flowcell was washed, then files for 'run' are combined (same as above)
 4. This produces a single fastq.gz file per barcode
 
