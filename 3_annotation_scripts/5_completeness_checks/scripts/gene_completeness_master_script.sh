@@ -1,9 +1,11 @@
 #!/bin/bash
-# Activate the correct environment
-# Requires biopython, blast and their dependents. 
-# The exact versions used can be found in the yml file, however, it should just work in an environment with these installed.
-# Usage: bash path/gene_completeness_master_script.sh *.gbff (currently this MUST be run from the directory containing the gbff files)
-#script_dir=$(dirname "$(realpath "$0")") # Stopped using this, as dropbox messed up my file paths
+
+################################################## completeness annotation main script ############################################################################
+# Environment: rage
+# Usage: bash path/gene_completeness_master_script.sh *.gbff
+# Currently this MUST be run from the directory containing the gbff files
+###################################################################################################################################################################
+
 script_dir2=$(dirname "$BASH_SOURCE") # Had to use the relative path not the real path as dropbox is f**king up the paths.
 echo "$script_dir2"
 current_dir=$(pwd)

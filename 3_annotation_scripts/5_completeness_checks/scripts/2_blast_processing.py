@@ -1,13 +1,13 @@
 import sys
 import os
 
-# Blast commands: blastp -query genome.fna -db path/to/rage_complete_db/complete_rage -out genome_name.txt -outfmt 6 -num_alignments 1 -evalue 1e-30
-
+####################################################### blast processing #####################################################################
 # Usage: python3 blast_processing.py blast_outputs.txt (any number)
-
-# Currently I've used a slightly dirty method to ensure their is no double counting. We want to know the amount of positions aligned. 
-# My method uses the alignment of sequences and then using the amount of these sequences aligned as a percentage of the query (excluding bits of the subject which are longer than the query and aligned).
+# The method uses the alignment of sequences and then using the amount of these sequences aligned as a percentage of the query 
+# This exclude bits of the subject which are longer than the query and aligned but in tests this didn't affect the results
 # Functionally this makes little difference and is deemed acceptable. But ideally, the number of positions alignmed would be calcated instead.
+# The list is a bit long, but it doesn't really matter, it makes it slightly better than just setting a single length for many of the genes.
+##############################################################################################################################################
 
 def process_blast_output(blast_file):
     # Extracting this info from a fasta: awk '/^>/ {header = "\"" substr($0, 2) "\""; getline; print header ": " length($0)","}' all_full_tra_proteins.fna # code used to make the dict
@@ -1324,7 +1324,6 @@ def process_blast_output(blast_file):
         "Full-length_Karp_00556_integrase": 407,
         "Full-length_Karp_01036_integrase": 440,
         "Full-length_Karp_01659_integrase": 410,
-##        "Full-length_Karp_02484_integrase": 380, ## Removed as it is now considered truncated
         "Full-length_KATO_00108_integrase": 415,
         "Full-length_KATO_00582_integrase": 400,
         "Full-length_KATO_01270_integrase": 400,
@@ -1340,7 +1339,6 @@ def process_blast_output(blast_file):
         "Full-length_TA686_01585_integrase": 447,
         "Full-length_TA686_01845_integrase": 409,
         "Full-length_TA686_02000_integrase": 409,
-##        "Full-length_TA686_02355_integrase": 393,  ## On the short side and enables pretty short integrases to be removed. Test to verify this is ok.
         "Full-length_TA686_02427_integrase": 440,
         "Full-length_UT176_00191_integrase": 440,
         "Full-length_UT176_00584_integrase": 440,

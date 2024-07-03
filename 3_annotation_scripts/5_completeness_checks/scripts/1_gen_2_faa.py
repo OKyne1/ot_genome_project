@@ -4,7 +4,10 @@ import re
 import argparse
 import os
 
-# Dependencies; re, argparse and os. I think these are normally installed but check.
+#################################### Generate an faa file for processing ###################################################
+# Function: This code processes bakta outputs into an .faa file with the locus tag and coding sequence.
+# usage: python 1_gen_2_faa.py input_file1.gbff input_file2.gbff ... input_fileN.gbff
+############################################################################################################################
 
 def extract_locus_translation(input_file):
     """

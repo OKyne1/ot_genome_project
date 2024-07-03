@@ -1,13 +1,9 @@
 #!/bin/bash
 
-
-# Will want to make is cluster compatable - do i have to do this, if its being called inside a different script?
-# May want to modify the parameters
-# May want to give it multiple cpus
-# Dependencies: hmmer (and its dependencies)
-# Check if at least one HMM and one FAA file are provided
-
-# May need to give a coverage requirement for the hmmsearch, some things are recognised as anks but may be a bit short
+################################## hmmer search ##############################################
+# This script is used to run faa files against hmmer files to identify tpr and ank domains
+# The rage environment is used for this script
+##############################################################################################
 
 if [ "$#" -lt 2 ]; then
     echo "Usage: $0 <hmm_files...> <faa_files...>"  # Display usage message
