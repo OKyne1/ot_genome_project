@@ -16,4 +16,4 @@ These were selected based on poor annotation with bakta with the Giengkam annota
 The minimum identity was reduced from 90% to 80% for some genes; scaA, scaC, tsa22 and tsa56. This was deemed reasonable due to the high sequence varaibility for these genes likely due to selection pressure for diversity.
 
 ### New Names
-As bakta requires a gene name and the gene transfer agents identified in Orientia, do not have names, I called these otGTA in the file supplied to bakta.
+As bakta requires a gene name and the gene transfer agents identified in Orientia, do not have names, I called these otgtaA-G in the file supplied to bakta.

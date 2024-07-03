@@ -15,10 +15,12 @@ echo "username=$(whoami)"
 echo "Usage: $0 $@"
 
 #################################################### Mouse removal code #################################################################################################
+# Usage: $0 <reference.fasta> <ONT_reads.fastq> ### accepts fastq or fastq.gz
 # This code filters out reads that map to the mouse genome and not the karp genome. Future use of this code may want to change the reference doc to include more Ot diversity and also get reads mapped to all of these different genomes.
 # Lines 2-15 are specific to the slurm computing cluster (BMRC cluster). If running locally, remove these, threading may need to be changed in some of the lines.
 # The environment activation stuff will need to be modified for the user, minimap2 and samtools should be present in the environment.
 # Genomes used for this competitive mapping is found in ./genomes_for_mapping/ relative to this script and contains karp, mouse genome and the dilute control sequence (positive control)
+# The genome described above is zipped!!! --> unzip it first!!! (gunzip genome.fna.gz)
 #########################################################################################################################################################################
 
 # conda environment activation
