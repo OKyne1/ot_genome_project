@@ -4,23 +4,43 @@ import os
 # Inputs: .bed and xxx.txt
 # Outputs: xxx_complete_RAGEs.bed
 
+################################################## Identification of Complete RAGEs #################################################################
+# Usage: python 3_boundaries_to_complete.py input_file.bed input_file.txt
+# Environment: rage
+#
+# Uses regions defined by an input bed file
+# Then checks if the corresponding regions in the txt file (generated from the gbff file) contain the required genes to be defined as a complete RAGE
+#
+# Possible modifications: 
+# Gene requirements can be changed --> tra_genes is a list of genes that are required once in each complete RAGE (one day may want to add non-tra genes to this list)
+# Number of traD required --> modify this "specific_count_required = 2" (though I can't see why you'd want to)
+# Adding transposases or cargo genes --> modify transposase or cargo lists respectively
+#####################################################################################################################################################
+
+
 def parse_bed_file(bed_file):
     bed_dict = {}
+    # Open the BED file and read line by line
     with open(bed_file, 'r') as bed:
         for line in bed:
+            # Split each line into fields
             fields = line.strip().split('\t')
             bed_line = line.strip()  # Entire line as key
             region_id = fields[0]  # Assuming the first field is a unique identifier
+            # Store the region ID and coordinates in the dictionary
             bed_dict[bed_line] = (region_id, int(fields[1]), int(fields[2]))
     return bed_dict
 
 def parse_txt_file(txt_file, bed_dict):
     result_dict = {}
+    # Open the TXT file and read line by line
     with open(txt_file, 'r') as txt:
         for line in txt:
+            # Split each line into fields
             fields = line.strip().split('\t')
             start_txt = int(fields[3])
             end_txt = int(fields[4])
+            # Compare TXT coordinates with BED coordinates
             for bed_line, (region_id, start_bed, end_bed) in bed_dict.items():
                 if start_bed <= start_txt <= end_bed and start_bed <= end_txt <= end_bed:
                     region = (fields[0], fields[1], fields[2], fields[3], fields[4], fields[5])
@@ -38,6 +58,7 @@ def check_files_for_strings(file_data, tra_genes, transposase, cargo):
     
     # Define the specific string and the required count
     specific_string = 'complete trad'.lower()
+    # Seting the threshold of traD requirement as >=2 (due to the 2 traD genes required for a complete RAGE)
     specific_count_required = 2
 
     passed_regions = []
@@ -82,17 +103,21 @@ if __name__ == "__main__":
     parser.add_argument("txt_file", help="Input TXT file")
     args = parser.parse_args()
 
-    # Parse bed file
+    # Parse BED file
     bed_dict = parse_bed_file(args.bed_file)
     
-    # Parse txt file
+    # Parse TXT file
     result_dict = parse_txt_file(args.txt_file, bed_dict)
     
-    # Example usage with dictionary data
+    # Gene lists
+    # tra_genes required once in each complete rage (with the exception of traD which requires 2 copies)
     tra_genes = ['complete traa', 'complete trab', 'complete trac', 'complete trad', 'complete trae', 'complete traf', 'complete trag', 'complete trah', 'complete trai', 'complete trak', 'complete tral', 'complete tran', 'complete trau', 'complete trav', 'complete traw', 'complete integrase', 'complete trbc']
+    # complete RAGEs require at least one of these transposases
     transposase = ['transposase', 'tpn', 'is630', 'is110', 'is5', 'isot6']
-    cargo = ['spot', 'ppGpp', 'synthetase', 'hydrolase', 'methyltransferase', 'helicase', 'histidine kinase', 'mrp', 'atp-binding', 'endonuclease', 'hnh', 'membrane protein', 'ankyrin', 'ank', 'tetratricopeptide', 'tpr', 'hypothetical'] # Initially just going to take the proteins from Jeanne's paper - may add more from the list_combined file in the future
+    # RAGE cargo genes, 1 is required per complete RAGE
+    cargo = ['spot', 'ppGpp', 'synthetase', 'hydrolase', 'methyltransferase', 'helicase', 'histidine kinase', 'mrp', 'atp-binding', 'endonuclease', 'hnh', 'membrane protein', 'ankyrin', 'ank', 'tetratricopeptide', 'tpr', 'hypothetical']  # Initially just going to take the proteins from Jeanne's paper - may add more from the list_combined file in the future
     
+    # Check if strings are present in the regions
     passed_regions = check_files_for_strings(result_dict, tra_genes, transposase, cargo)
     
     # Extract base name of the TXT file and append "_complete_RAGEs.bed" to it

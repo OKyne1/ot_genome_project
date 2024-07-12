@@ -3,23 +3,40 @@ import argparse
 import os
 
 ################################################ rage derived regions ###############################################################################
-#Matching Items in List Data:
-#The region (line) from the table file must contain an item from the list_data in either the first or second column (cols[0] or cols[1]). The item comparison is case-insensitive, and any single quotes in the list items are ignored.
+# Usage: python 2_rage_derived_regions.py -tab <table_file1> <table_file2> ... -list <list_file> -exclusion <exclusion_file>
+#### list_file is the file of RAGE proteins
+#### exclusion_file is the protein which aren't contained within RAGEs
+# Environment: rage
+# Outputs: bed file of rage derived regions
+####################################################################################################################################################
+
+################################################ Overview of code ##################################################################################
+# Matching Items in List Data:
+### The region (line) from the table file must contain an item from the list_data in either the first or second column (cols[0] or cols[1] - gene name or product). 
+### The item comparison is case-insensitive, and any single quotes in the list items are ignored.
 #
-#No Matching Items in Exclusion Data:
+# No Matching Items in Exclusion Data:
 ### The region must not contain any item from the exclusion_data in either the first or second column. This exclusion check is also case-insensitive.
+### This was implemented due to pattern matching issues where things like traN (case independent) can be found in interrage genes like "16S rRNA (guanine(966)-N(2))-methyltransferase"
 #
-#Region Boundaries:
+# Region Boundaries:
 ### If the above conditions are met, the code collects boundary information from the region and subsequent regions until it reaches a stopping condition:
 ### It skips lines that do not match any items in the list_data or that match items in the exclusion_data.
 ### It continues to collect boundaries from matching lines until either:
-### A line is found that matches an exclusion item.
-### A line is found that does not match any list item.
-### The code reaches a limit of skipping one unmatched line before stopping the boundary collection.
+###### A line is found that matches an exclusion item.
+###### A line is found that does not match any list item.
+### The code allows the skipping of one unmatched line before stopping the boundary collection (AKA rage regions can contain a single non-rage gene)
 #
-#Sufficient Boundary Data:
-#The boundaries list must contain more than four elements before it is considered valid for writing to the BED file. This ensures that both start and end positions are captured adequately.
+# Sufficient Boundary Data:
+### The boundaries list must contain more than four elements before it is considered valid for writing to the BED file. This ensures that both start and end positions are captured adequately.
 ####################################################################################################################################################
+
+############################################ Possible modifications ################################################################################
+# 1. Changing the RAGE proteins --> modify the lists_combined.txt file
+# 2. To change the proteins not present in RAGEs --> modify this file: exclusion_list.txt
+# 3. Changing number of permitted mis-hit/non-rage proteins in a region --> Change this code "if skip_count < 1 and not line_skipped"
+####################################################################################################################################################
+
 
 # Function to read the list file and return its contents as a list
 def read_list_file(list_file):
@@ -60,6 +77,7 @@ def process_table_file(table_file, list_data, exclusion_data, output_file, name_
                                             line_skipped = True
                                         break
                                 else:
+                                    # If you want to permit more unmatched/non-rage genes in the region then skip coupt can be increased. Currently it only permits 1.
                                     if skip_count < 1 and not line_skipped:
                                         skip_count += 1
                                     else:

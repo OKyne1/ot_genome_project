@@ -28,10 +28,10 @@ bash "$SCRIPT_DIR/5_completeness_checks/scripts/gene_completeness_master_script.
 # Create directory for complete RAGEs and move files
 mkdir -p processing_outputs
 mv modified_*_anked_completeness_checked.gbff processing_outputs/
-rm modified_*
-rm -r hmmer_outputs 
-rm -r faa_files
+#rm modified_*
+#rm -r hmmer_outputs 
+#rm -r faa_files
 # Change directory and run RAGE classification
 cd processing_outputs
 bash "$SCRIPT_DIR/../6_rage_classification/scripts/main.sh" modified_*_anked_completeness_checked.gbff
-rm *.txt *.bed
+#rm *.txt *.bed
