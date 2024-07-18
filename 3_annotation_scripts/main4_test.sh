@@ -1,15 +1,20 @@
 #!/bin/bash
 
+############################################################################################################################################################
 # This script needs to be run from a directory containing only the gbff files.
-# The ank and tpr stuff is still a bit messy as it doesn't try to match files. This isn't an issue, it just adds ~3 min to the run time (with 8 gbff files).
+#
+# The ank and tpr stuff is still a bit messy as it doesn't try to match files. This isn't an issue, it just adds ~1 min to the run time (with 8 gbff files).
+# This also results in some error messages in the annotation.out file (file xxxx not found) this generatlly isn't an issue in this specific case.
 # *******This script does not work if files have names with "-" in******* due to the way it handles contigs.
+#
+############################################################################################################################################################
 
 # Get the directory of the current script
 SCRIPT_DIR=$(dirname "$0")
 
-# Activate conda environment and run cog removal
-# conda activate rage
-python "$SCRIPT_DIR/2_cog_removal/scripts/1_cog_removal.py" *.gbff >> output.out 2>&1
+# run cog removal
+echo "################################################################ COG removal messages ########################################################" >> annotation.out 2>&1
+python "$SCRIPT_DIR/2_cog_removal/scripts/1_cog_removal.py" *.gbff >> annotation.out
 
 echo "script 1 of 6 complete (cog removal)"
 
@@ -23,20 +28,24 @@ for file in *.gbff; do
     fi
 done
 
-# Activate conda environment and run domain annotation
-conda activate hmmer >> output.out 2>&1
-bash "$SCRIPT_DIR/3_domain_annotation/domain_annotation_package/scripts/domain_annotation.sh" modified*.gbff >> output.out 2>&1
+# run domain annotation
+echo "
+
+
+######################################################## domain annotation ########################################################" >> annotation.out 2>&1
+
+bash "$SCRIPT_DIR/3_domain_annotation/domain_annotation_package/scripts/domain_annotation.sh" modified*.gbff >> annotation.out 2>&1
 
 echo "script 2 of 6 complete (domain_annotation.sh)"
 
-# Clean up hmmer and faa files if necessary
-# rm *.hmmer *.faa
+echo "
 
-# Reactivate rage environment and run Ankyrin ID
-# conda activate rage
-bash "$SCRIPT_DIR/4_ank_annotation/scripts/gene_completeness_master_script.sh" modified*.gbff >> output.out 2>&1
 
-echo "script 3 of 6 complete (ank annotation script (gene_completeness_master_script.sh))"
+######################################################## ank protein annotation ########################################################" >> annotation.out 2>&1
+
+bash "$SCRIPT_DIR/4_ank_annotation/scripts/gene_completeness_master_script.sh" modified*.gbff >> annotation.out 2>&1
+
+echo "script 3 of 6 complete (ank annotation script)"
 
 # Remove files matching modified_*.gbff but not modified_*_anked.gbff
 found=false
@@ -53,22 +62,31 @@ if ! $found; then
 fi
 
 # Run completeness checks
-bash "$SCRIPT_DIR/5_completeness_checks/scripts/gene_completeness_master_script.sh" modified*anked.gbff >> output.out 2>&1
+echo "
 
-echo "script 4 of 6 complete (rage protein completeness checks (gene_completeness_master_script.sh))"
 
-###################################### Add in spoT!!! ######################################
+######################################################## RAGE protein completeness checks ########################################################" >> annotation.out 2>&1
+
+bash "$SCRIPT_DIR/5_completeness_checks/scripts/gene_completeness_master_script.sh" modified*anked.gbff >> annotation.out 2>&1
+
+echo "script 4 of 6 complete (rage protein completeness checks)"
+
 rm *.txt
 
-for file in *; do
-    if [[ ! $file == modified_*_anked_completeness_checked.gbff && $file != output.out ]]; then
+for file in *.*; do
+    if [[ ! $file == modified_*_anked_completeness_checked.gbff && $file != annotation.out ]]; then
         rm "$file"
     fi
 done
 
-bash "$SCRIPT_DIR/8_spoT/scripts/spot_script.sh" modified_*_anked_completeness_checked.gbff >> output.out 2>&1
+echo "
 
-echo "script 5 of 6 complete (spoT annotation script (spot_script.sh))"
+
+######################################################## spoT annotation ########################################################" >> annotation.out 2>&1
+
+bash "$SCRIPT_DIR/8_spoT/scripts/spot_script.sh" modified_*_anked_completeness_checked.gbff >> annotation.out 2>&1
+
+echo "script 5 of 6 complete (spot_script.sh)"
 
 # Create directory for complete RAGEs and move files
 mkdir -p processing_outputs
@@ -103,19 +121,22 @@ if ls processing_outputs/modified_*_anked_completeness_checked_spotted.gbff 1> /
         echo "main.sh script is not executable or not found."
         exit 1
     fi
+    echo "
+
+
+    ######################################################## RAGE classification ########################################################" >> annotation.out 2>&1
 
     # Run RAGE classification
     for file in modified_*_anked_completeness_checked_spotted.gbff; do
-        bash "$SCRIPT_DIR/../6_rage_classification/scripts/main.sh" $file >> ../bed.out 2>&1
+        bash "$SCRIPT_DIR/../6_rage_classification/scripts/main.sh" $file >> ../annotation.out 2>&1
         rm *.txt *.bed
     done
-    #bash "$SCRIPT_DIR/../6_rage_classification/scripts/main.sh" modified_*_anked_completeness_checked_spotted.gbff >> output.out 2>&1
     echo "script 6 of 6 complete (6_rage_classification/scripts/main.sh)"
 else
     echo "Failed to move files to processing_outputs."
     exit 1
 fi
 
-rm *.txt *.bed
+#rm *.txt *.bed
 # Remove intermediate files if necessary
 # rm *.txt *.bed
