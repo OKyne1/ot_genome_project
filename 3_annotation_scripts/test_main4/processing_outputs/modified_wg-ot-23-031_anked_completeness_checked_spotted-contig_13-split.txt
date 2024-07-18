@@ -1,0 +1,41 @@
+NA	hypothetical protein	wg-ot-23-031_01380	492	1005	No	contig_13
+NA	Reverse transcriptase	wg-ot-23-031_01385	2062	2242	Yes	contig_13
+NA	DnaA-N domain-containing protein	wg-ot-23-031_01390	3088	3622	No	contig_13
+dnaB	replicative DNA helicase	wg-ot-23-031_01395	3630	5019	No	contig_13
+NA	HD domain protein	wg-ot-23-031_01400	5479	5620	No	contig_13
+NA	Ankyrin repeat protein with 4 ankyrin repeats	wg-ot-23-031_01405	5574	6051	Yes	contig_13
+trpS	tryptophan--tRNA ligase	wg-ot-23-031_01410	6187	7195	Yes	contig_13
+NA	DDE transposase family protein	wg-ot-23-031_01415	8728	9001	Yes	contig_13
+kdpD	hybrid sensor histidine kinase/response regulator	wg-ot-23-031_01420	9182	12410	Yes	contig_13
+NA	hypothetical protein	wg-ot-23-031_01425	13458	14856	Yes	contig_13
+NA	hypothetical protein	wg-ot-23-031_01430	15225	15324	Yes	contig_13
+NA	IS5 family transposase ISOt6	wg-ot-23-031_01435	15435	15570	Yes	contig_13
+NA	Transposase	wg-ot-23-031_01440	16763	17156	Yes	contig_13
+NA	hypothetical protein	wg-ot-23-031_01445	17363	17489	No	contig_13
+NA	DnaA-N domain-containing protein	wg-ot-23-031_01450	17653	19042	No	contig_13
+dnaB	replicative DNA helicase	wg-ot-23-031_01455	19050	20382	No	contig_13
+NA	RNA-binding protein	wg-ot-23-031_01460	20558	22223	Yes	contig_13
+NA	DDE superendonuclease family protein	wg-ot-23-031_01465	22836	23211	Yes	contig_13
+NA	DDE superendonuclease family protein	wg-ot-23-031_01470	23222	23660	Yes	contig_13
+NA	DDE superendonuclease family protein	wg-ot-23-031_01475	24320	24695	Yes	contig_13
+NA	DDE superendonuclease family protein	wg-ot-23-031_01480	24706	25144	Yes	contig_13
+NA	Site-specific DNA-methyltransferase (adenine-specific)	wg-ot-23-031_01485	25189	25489	Yes	contig_13
+NA	ATP-binding protein	wg-ot-23-031_01490	25626	25842	No	contig_13
+NA	Putative signal transduction histidine kinase	wg-ot-23-031_01495	26006	26441	No	contig_13
+NA	Putative permease	wg-ot-23-031_01500	26418	26946	No	contig_13
+traD	conjugal transfer protein TraD, complete TraD	wg-ot-23-031_01505	27013	27469	Yes	contig_13
+ltrA	group II intron reverse transcriptase/maturase	wg-ot-23-031_01510	27677	28055	Yes	contig_13
+ltrA	group II intron reverse transcriptase/maturase	wg-ot-23-031_01515	28169	29393	Yes	contig_13
+NA	hypothetical protein	wg-ot-23-031_01520	29650	29755	Yes	contig_13
+traA	conjugal transfer protein TraA, complete TraA	wg-ot-23-031_01525	30073	32941	No	contig_13
+NA	Conjugal transfer protein TraI	wg-ot-23-031_01530	33204	34419	No	contig_13
+strB	streptomycin-6-phosphotransferase	wg-ot-23-031_01535	34853	35756	No	contig_13
+NA	dienelactone hydrolase	wg-ot-23-031_01540	35724	36438	Yes	contig_13
+NA	putative ester cyclase	wg-ot-23-031_01545	36516	37047	Yes	contig_13
+NA	Bacterial regulatory helix-turn-helix s, AraC family protein	wg-ot-23-031_01550	37191	37755	Yes	contig_13
+NA	hypothetical protein	wg-ot-23-031_01555	38576	38807	Yes	contig_13
+NA	Methyltransf-25 domain-containing protein	wg-ot-23-031_01560	38929	39328	Yes	contig_13
+NA	APH domain-containing protein	wg-ot-23-031_01565	39723	40200	Yes	contig_13
+NA	hypothetical protein	wg-ot-23-031_01570	40202	40589	Yes	contig_13
+fosA	Glutathione transferase FosA	wg-ot-23-031_01575	40905	41046	Yes	contig_13
+NA	Putative acetyltransferase	wg-ot-23-031_01580	41042	41201	Yes	contig_13

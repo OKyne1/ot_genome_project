@@ -1,0 +1,22 @@
+NA	hypothetical protein	wg-ot-23-031_14445	0	528	No	contig_8
+NA	RibD-C domain-containing protein	wg-ot-23-031_14450	532	1063	No	contig_8
+NA	Aminoglycoside N (6')-acetyltransferase domain protein	wg-ot-23-031_14455	1059	1314	No	contig_8
+NA	hypothetical protein	wg-ot-23-031_14460	1373	1574	No	contig_8
+traG	conjugal transfer protein TraG	wg-ot-23-031_14465	1694	3362	No	contig_8
+NA	TPR repeat family protein	wg-ot-23-031_14470	3374	3629	No	contig_8
+NA	Tetratricopeptide repeat protein	wg-ot-23-031_14475	3912	4074	No	contig_8
+NA	DDE superendonuclease family protein	wg-ot-23-031_14480	4119	4557	No	contig_8
+NA	DDE superendonuclease family protein	wg-ot-23-031_14485	4568	4943	No	contig_8
+NA	Tetratricopeptide repeat protein	wg-ot-23-031_14490	5032	5719	No	contig_8
+NA	Type IV secretory system Conjugative DNA transfer family protein	wg-ot-23-031_14495	5722	7057	No	contig_8
+NA	Type IV secretion-system coupling DNA-binding domain protein	wg-ot-23-031_14500	7081	7477	No	contig_8
+NA	Recombination-promoting DNA endonuclease RpnC/YadD	wg-ot-23-031_14505	7486	8482	Yes	contig_8
+NA	Uncharacterized domain associated with phage/plasmid primase	wg-ot-23-031_14510	8533	9085	Yes	contig_8
+ykfC	reverse transcriptase	wg-ot-23-031_14515	9271	10600	Yes	contig_8
+NA	hypothetical protein	wg-ot-23-031_14520	10809	10938	Yes	contig_8
+NA	Conjugal transfer protein TraI	wg-ot-23-031_14525	11070	13128	Yes	contig_8
+traA	conjugal transfer protein TraA, complete TraA	wg-ot-23-031_14530	13399	16249	Yes	contig_8
+NA	hypothetical protein	wg-ot-23-031_14535	16567	16672	No	contig_8
+ltrA	group II intron reverse transcriptase/maturase	wg-ot-23-031_14540	16929	18153	No	contig_8
+NA	HNH endonuclease family protein	wg-ot-23-031_14545	18267	18645	No	contig_8
+traD	conjugal transfer protein TraD	wg-ot-23-031_14550	18853	19285	No	contig_8

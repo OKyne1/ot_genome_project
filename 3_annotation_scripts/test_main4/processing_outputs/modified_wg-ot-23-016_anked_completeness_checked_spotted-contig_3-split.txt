@@ -1,0 +1,1236 @@
+traU	conjugal transfer protein TraU, complete TraU	wg-ot-23-016_06275	1	970	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_06280	970	1174	Yes	contig_3
+traW	type-F conjugative transfer system protein TraW, complete TraW	wg-ot-23-016_06285	1259	1919	Yes	contig_3
+traC	conjugal transfer protein TraC, complete TraC	wg-ot-23-016_06290	1915	4408	Yes	contig_3
+traV	conjugal transfer protein TraV, complete TraV	wg-ot-23-016_06295	4388	4718	Yes	contig_3
+traB	conjugal transfer protein TraB, complete TraB	wg-ot-23-016_06300	4717	6046	Yes	contig_3
+traK2	conjugal transfer protein traK2, complete TraK-2	wg-ot-23-016_06305	6084	6420	Yes	contig_3
+traK1	conjugal transfer protein traK1, complete TraK-1	wg-ot-23-016_06310	6837	7314	Yes	contig_3
+traE	conjugal transfer protein TraE, complete TraE	wg-ot-23-016_06315	7310	7862	Yes	contig_3
+traL	conjugal transfer protein traL, complete TraL	wg-ot-23-016_06320	7861	8197	Yes	contig_3
+NA	Phage integrase family protein, complete integrase	wg-ot-23-016_06325	8322	9567	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_06330	9700	9901	Yes	contig_3
+gdhA	NAD-glutamate dehydrogenase	wg-ot-23-016_06335	10970	15896	Yes	contig_3
+mnmE	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE	wg-ot-23-016_06340	15977	17321	No	contig_3
+xerC	recombinase XerC	wg-ot-23-016_06345	17346	18285	No	contig_3
+dksA	RNA polymerase-binding protein DksA	wg-ot-23-016_06350	18319	18751	No	contig_3
+ppa	inorganic pyrophosphatase	wg-ot-23-016_06355	18859	19387	No	contig_3
+holB	DNA polymerase III subunit delta'	wg-ot-23-016_06360	19410	20283	No	contig_3
+rluC	ribosomal large subunit pseudouridine synthase	wg-ot-23-016_06365	20266	21205	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_06370	21708	21828	No	contig_3
+NA	Transposase	wg-ot-23-016_06375	22056	22350	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_06380	22629	23895	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_06385	24029	24842	Yes	contig_3
+NA	Ankyrin repeat-containing protein	wg-ot-23-016_06390	25806	25908	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_06395	26910	27063	No	contig_3
+NA	Transposase	wg-ot-23-016_06400	27797	28022	Yes	contig_3
+NA	IS630 family transposase	wg-ot-23-016_06405	28048	28909	Yes	contig_3
+NA	Putative transposase	wg-ot-23-016_06410	29615	29753	Yes	contig_3
+NA	Transposase	wg-ot-23-016_06415	30163	30310	No	contig_3
+NA	Integrase	wg-ot-23-016_06420	30595	30862	Yes	contig_3
+art	arginine ABC transporter permease	wg-ot-23-016_06430	33811	34429	No	contig_3
+abcT	ABC transporter ATP-binding protein	wg-ot-23-016_06435	34421	35153	No	contig_3
+eAL	EAL domain-containing protein	wg-ot-23-016_06440	35342	36572	No	contig_3
+NA	cupredoxin domain-containing protein	wg-ot-23-016_06450	37040	37406	No	contig_3
+fTR1	iron permease	wg-ot-23-016_06455	37434	38274	No	contig_3
+yciB	septation protein A	wg-ot-23-016_06460	38277	38814	No	contig_3
+recR	recombination protein RecR	wg-ot-23-016_06465	38902	39514	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_06470	39510	39600	No	contig_3
+plsC	1-acyl-sn-glycerol-3-phosphate acyltransferase	wg-ot-23-016_06475	39630	40395	No	contig_3
+tuf	elongation factor Tu	wg-ot-23-016_06480	40567	41752	No	contig_3
+secE	preprotein translocase subunit SecE	wg-ot-23-016_06490	42014	42215	No	contig_3
+nusG	transcription termination/antitermination factorNusG	wg-ot-23-016_06495	42256	42793	No	contig_3
+rplK	50S ribosomal protein L11	wg-ot-23-016_06500	42832	43279	No	contig_3
+rplA	50S ribosomal protein L1	wg-ot-23-016_06505	43282	44032	No	contig_3
+rplJ	50S ribosomal protein L10	wg-ot-23-016_06510	44035	44545	No	contig_3
+rplL	50S ribosomal protein L7/L12	wg-ot-23-016_06515	44566	44956	No	contig_3
+rpoB	DNA-directed RNA polymerase subunit beta	wg-ot-23-016_06520	45271	49396	No	contig_3
+rpoB	DNA-directed RNA polymerase subunit beta'	wg-ot-23-016_06525	49510	53701	No	contig_3
+aspS	aspartate--tRNA(Asp/Asn) ligase	wg-ot-23-016_06530	53974	55768	No	contig_3
+pBP4	penicillin-binding protein 4	wg-ot-23-016_06535	55793	57005	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_06540	57322	58075	Yes	contig_3
+NA	MFS transporter	wg-ot-23-016_06545	58803	60060	Yes	contig_3
+eamA	EamA family transporter	wg-ot-23-016_06550	60077	60950	Yes	contig_3
+rpmB	50S ribosomal protein L28	wg-ot-23-016_06555	61193	61481	No	contig_3
+rpmE	50S ribosomal protein L31	wg-ot-23-016_06560	61490	61715	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_06570	61990	62212	No	contig_3
+trm112	tetraacyldisaccharide 4'-kinase	wg-ot-23-016_06575	62341	62509	No	contig_3
+NA	Putative integrase	wg-ot-23-016_06580	63437	64361	No	contig_3
+NA	Putative integrase	wg-ot-23-016_06585	64525	64735	Yes	contig_3
+NA	Integrase	wg-ot-23-016_06590	64873	65053	Yes	contig_3
+NA	Putative integrase	wg-ot-23-016_06595	65089	65635	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_06600	66048	66192	Yes	contig_3
+NA	Transposase	wg-ot-23-016_06605	66643	67075	No	contig_3
+NA	DUF2610 domain-containing protein	wg-ot-23-016_06610	67662	68004	Yes	contig_3
+hemF	oxygen-dependent coproporphyrinogen oxidase	wg-ot-23-016_06615	68143	68980	Yes	contig_3
+miaB	tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB	wg-ot-23-016_06620	69148	70504	Yes	contig_3
+sppA	S49 family peptidase	wg-ot-23-016_06625	70788	71706	No	contig_3
+NA	IS5 family transposase ISOt6	wg-ot-23-016_06630	71831	72140	Yes	contig_3
+NA	Conjugal transfer protein TraC	wg-ot-23-016_06635	73081	73426	Yes	contig_3
+NA	Conjugative transfer protein	wg-ot-23-016_06640	73635	73851	Yes	contig_3
+tyrS	tyrosine--tRNA ligase	wg-ot-23-016_06645	74150	75392	No	contig_3
+pipB2	Secreted effector protein PipB2	wg-ot-23-016_06650	76339	79972	Yes	contig_3
+NA	ScaE autotransporter protein	wg-ot-23-016_06655	80489	82727	Yes	contig_3
+NA	DDE superendonuclease family protein	wg-ot-23-016_06660	83829	84267	No	contig_3
+pgsA	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	wg-ot-23-016_06665	84829	85378	No	contig_3
+xthA2	exodeoxyribonuclease III	wg-ot-23-016_06670	85817	86330	Yes	contig_3
+NA	truncated RelA/SpoT homolog (RSH) protein	wg-ot-23-016_06675	86832	87420	Yes	contig_3
+NA	IS110-like element ISOt5 family transposase	wg-ot-23-016_06680	87546	88509	Yes	contig_3
+NA	Signal transduction histidine kinase	wg-ot-23-016_06685	88685	89201	Yes	contig_3
+NA	ATP-binding protein	wg-ot-23-016_06690	89408	89792	Yes	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_06695	89885	90278	Yes	contig_3
+traK2	conjugal transfer protein traK2, complete TraK-2	wg-ot-23-016_06700	90316	90643	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_06705	90787	90967	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_06710	90966	91263	Yes	contig_3
+NA	Conjugal transfer protein TraE	wg-ot-23-016_06715	91259	91412	Yes	contig_3
+NA	Conjugal transfer protein TraE	wg-ot-23-016_06720	91420	91813	Yes	contig_3
+traL	conjugal transfer protein traL, complete TraL	wg-ot-23-016_06725	91812	92148	Yes	contig_3
+NA	Phage integrase family protein	wg-ot-23-016_06730	92271	92622	Yes	contig_3
+NA	Integrase	wg-ot-23-016_06735	92709	92928	Yes	contig_3
+NA	IS5 family transposase ISOt6	wg-ot-23-016_06740	93186	93303	No	contig_3
+NA	DDE superendonuclease family protein	wg-ot-23-016_06745	93510	93627	No	contig_3
+NA	Conjugal transfer protein TraC	wg-ot-23-016_06750	94271	94424	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_06760	96240	96405	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_06765	97016	97148	No	contig_3
+NA	Transposase	wg-ot-23-016_06770	97310	97514	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_06775	98087	98198	No	contig_3
+rpmA	50S ribosomal protein L27	wg-ot-23-016_06780	100217	100487	Yes	contig_3
+rplU	50S ribosomal protein L21	wg-ot-23-016_06785	100527	100854	Yes	contig_3
+NA	phospholipid phosphatase	wg-ot-23-016_06790	100991	101660	Yes	contig_3
+phnP	MBL fold metallo-hydrolase	wg-ot-23-016_06795	101764	102514	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_06800	102434	102614	Yes	contig_3
+xseA	exodeoxyribonuclease VII large subunit	wg-ot-23-016_06805	102706	104077	No	contig_3
+NA	PBPb domain-containing protein	wg-ot-23-016_06810	104135	105608	No	contig_3
+scaD	ScaD autotransporter protein	wg-ot-23-016_06815	105697	108250	Yes	contig_3
+dnaX	DNA polymerase III subunit gamma/tau	wg-ot-23-016_06825	109319	110999	No	contig_3
+ybaB	Nucleoid-associated protein, YbaB/EbfC family	wg-ot-23-016_06830	111010	111571	No	contig_3
+znuC	zinc ABC transporter ATP-binding protein	wg-ot-23-016_06835	111837	112551	No	contig_3
+znuB	metal ABC transporter permease	wg-ot-23-016_06840	112531	113320	No	contig_3
+NA	reverse transcriptase	wg-ot-23-016_06845	114078	114375	No	contig_3
+NA	Arm-DNA-bind-3 domain-containing protein	wg-ot-23-016_06850	115071	115353	No	contig_3
+NA	Conjugal transfer protein TraF	wg-ot-23-016_06855	115324	115432	No	contig_3
+NA	Conjugal transfer protein TraH	wg-ot-23-016_06860	115428	115521	No	contig_3
+NA	Conjugal transfer protein TraH	wg-ot-23-016_06865	115524	116220	No	contig_3
+NA	DnaA-N domain-containing protein	wg-ot-23-016_06870	116279	116756	No	contig_3
+NA	DnaA-N domain-containing protein	wg-ot-23-016_06875	116810	117137	No	contig_3
+NA	DnaA-N domain-containing protein	wg-ot-23-016_06880	117140	117485	No	contig_3
+dnaB	replicative DNA helicase	wg-ot-23-016_06885	117493	118894	No	contig_3
+NA	Ankyrin repeat protein with 5 ankyrin repeats	wg-ot-23-016_06890	119302	119803	No	contig_3
+NA	Putative ompA-like autotransporter	wg-ot-23-016_06895	119849	120230	No	contig_3
+NA	Conjugal transfer protein TraC	wg-ot-23-016_06900	120644	121928	Yes	contig_3
+traV	conjugal transfer protein TraV	wg-ot-23-016_06905	121908	122208	Yes	contig_3
+NA	Phage integrase family protein, complete integrase	wg-ot-23-016_06910	122645	123929	No	contig_3
+traL	conjugal transfer protein traL, complete TraL	wg-ot-23-016_06915	124020	124356	No	contig_3
+traE	conjugal transfer protein TraE, complete TraE	wg-ot-23-016_06920	124355	124907	No	contig_3
+traK1	conjugal transfer protein traK1, complete TraK-1	wg-ot-23-016_06925	124903	125392	No	contig_3
+NA	Conjugative transfer domain protein	wg-ot-23-016_06930	125527	125779	No	contig_3
+traK2	conjugal transfer protein traK2, complete TraK-2	wg-ot-23-016_06935	125880	126210	No	contig_3
+NA	Conjugative pilus assembly domain protein	wg-ot-23-016_06940	126252	126360	No	contig_3
+traB	conjugal transfer protein TraB	wg-ot-23-016_06945	126420	127581	No	contig_3
+traV	conjugal transfer protein TraV, complete TraV	wg-ot-23-016_06950	127580	127910	No	contig_3
+virB4	Type IV secretory pathway, VirB4 component	wg-ot-23-016_06955	127890	129693	No	contig_3
+NA	Ankyrin repeat protein with 4 ankyrin repeats	wg-ot-23-016_06960	129591	130482	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_06965	130810	131023	No	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_06970	131079	131832	No	contig_3
+trbC	type-F conjugative transfer system pilin assembly protein TrbC, complete trbC	wg-ot-23-016_06975	131854	132238	No	contig_3
+traN	conjugal transfer protein TraN, complete TraN	wg-ot-23-016_06980	132234	133926	No	contig_3
+traF	conjugal transfer protein TraF, complete TraF	wg-ot-23-016_06985	133937	134621	No	contig_3
+traH	conjugal transfer protein TraH, complete TraH	wg-ot-23-016_06990	134617	135919	No	contig_3
+traG	conjugal transfer protein TraG	wg-ot-23-016_06995	135918	136254	No	contig_3
+NA	IS110-like element ISOt5 family transposase	wg-ot-23-016_07000	136430	137393	No	contig_3
+NA	transposase	wg-ot-23-016_07005	137408	137969	Yes	contig_3
+NA	Conjugal transfer protein TraI	wg-ot-23-016_07010	138020	138611	Yes	contig_3
+ykfC	reverse transcriptase	wg-ot-23-016_07015	138759	140088	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_07020	140297	140426	Yes	contig_3
+NA	Conjugal transfer protein TraI	wg-ot-23-016_07025	140558	142616	Yes	contig_3
+traA	conjugal transfer protein TraA, complete TraA	wg-ot-23-016_07030	142881	145701	Yes	contig_3
+traD	conjugal transfer protein TraD, complete TraD	wg-ot-23-016_07035	145977	146433	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_07040	146516	146660	No	contig_3
+NA	Tetratricopeptide repeat protein	wg-ot-23-016_07045	146756	147038	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_07050	147617	148769	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_07055	149074	149479	Yes	contig_3
+NA	sodium:proline symporter	wg-ot-23-016_07060	150250	153688	No	contig_3
+NA	Transposase DDE domain protein	wg-ot-23-016_07065	154163	154238	Yes	contig_3
+NA	DDE superendonuclease family protein	wg-ot-23-016_07070	154316	154622	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_07075	154829	155816	Yes	contig_3
+NA	truncated RelA/SpoT homolog (RSH) protein	wg-ot-23-016_07080	155936	156524	Yes	contig_3
+NA	ATP-binding protein	wg-ot-23-016_07085	156575	156752	Yes	contig_3
+NA	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase family protein	wg-ot-23-016_07090	156767	157070	Yes	contig_3
+NA	ATP-binding protein	wg-ot-23-016_07095	157088	158021	Yes	contig_3
+NA	ATP-binding protein	wg-ot-23-016_07100	158037	158268	Yes	contig_3
+NA	Site-specific DNA-methyltransferase (adenine-specific)	wg-ot-23-016_07105	158405	158705	No	contig_3
+NA	Putative signal transduction histidine kinase	wg-ot-23-016_07110	159257	159809	Yes	contig_3
+NA	ATP-binding protein	wg-ot-23-016_07115	159873	160152	Yes	contig_3
+dam	DNA methyltransferase	wg-ot-23-016_07120	160525	161335	No	contig_3
+NA	Putative ompA-like autotransporter	wg-ot-23-016_07125	161338	161887	Yes	contig_3
+NA	Ankyrin repeat protein with 6 ankyrin repeats, Ank03	wg-ot-23-016_07130	161934	162579	Yes	contig_3
+NA	truncated RelA/SpoT homolog (RSH) protein	wg-ot-23-016_07135	162613	162838	Yes	contig_3
+NA	(P)pGpp hydrolase	wg-ot-23-016_07140	163079	163187	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_07145	163200	163359	No	contig_3
+NA	Replicative DNA helicase	wg-ot-23-016_07150	163420	163639	Yes	contig_3
+NA	Replicative DNA helicase	wg-ot-23-016_07155	163996	164212	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_07160	164273	164420	No	contig_3
+NA	Putative replicative DNA helicase	wg-ot-23-016_07165	164362	164542	Yes	contig_3
+NA	DNA helicase	wg-ot-23-016_07170	164632	164959	Yes	contig_3
+NA	DnaA-N domain-containing protein	wg-ot-23-016_07175	164967	165678	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_07180	165732	166206	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_07185	166174	166693	Yes	contig_3
+NA	Bacterial conjugation TrbI-like family protein	wg-ot-23-016_07190	166901	167375	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_07195	167474	167579	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_07200	167578	167881	Yes	contig_3
+NA	TraE protein	wg-ot-23-016_07205	167877	168204	Yes	contig_3
+NA	Conjugal transfer protein TraE	wg-ot-23-016_07210	168287	168431	Yes	contig_3
+traL	conjugal transfer protein traL, complete TraL	wg-ot-23-016_07215	168430	168766	Yes	contig_3
+NA	Putative integrase	wg-ot-23-016_07220	169089	169569	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_07225	170762	170924	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_07230	171108	171456	No	contig_3
+NA	DDE transposase family protein	wg-ot-23-016_07235	171626	171845	No	contig_3
+NA	Putative transposase	wg-ot-23-016_07240	171938	172076	No	contig_3
+NA	IS982 family transposase	wg-ot-23-016_07245	172213	172930	No	contig_3
+yajC	preprotein translocase subunit YajC	wg-ot-23-016_07250	173458	173839	No	contig_3
+secD	protein translocase subunit SecD	wg-ot-23-016_07255	173835	175398	No	contig_3
+NA	Transposase	wg-ot-23-016_07260	175520	175694	Yes	contig_3
+NA	DDE superendonuclease family protein	wg-ot-23-016_07265	175741	176200	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_07270	176371	177511	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_07275	177524	177959	Yes	contig_3
+aatA	aspartate aminotransferase	wg-ot-23-016_07280	178192	179395	Yes	contig_3
+ubiG	Ubiquinone biosynthesis O-methyltransferase	wg-ot-23-016_07285	179501	180539	No	contig_3
+NA	ABC transporter	wg-ot-23-016_07290	180598	181432	No	contig_3
+mlaC	MlaC protein	wg-ot-23-016_07295	181434	182019	No	contig_3
+hemW	radical SAM family heme chaperone HemW	wg-ot-23-016_07300	182046	183264	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_07305	183285	183798	No	contig_3
+recO	DNA repair protein RecO	wg-ot-23-016_07310	183857	184583	No	contig_3
+NA	Transposase	wg-ot-23-016_07315	184966	185095	Yes	contig_3
+NA	Transposase	wg-ot-23-016_07320	185148	185451	No	contig_3
+NA	Transposase	wg-ot-23-016_07325	185404	185785	No	contig_3
+NA	Putative integrase	wg-ot-23-016_07330	186334	186496	Yes	contig_3
+NA	Integrase	wg-ot-23-016_07335	186667	186832	Yes	contig_3
+NA	DUF721 domain-containing protein	wg-ot-23-016_07340	187549	187873	Yes	contig_3
+radC	DNA repair protein RadC	wg-ot-23-016_07345	187911	188592	Yes	contig_3
+rpsL	30S ribosomal protein S12	wg-ot-23-016_07350	188841	189213	No	contig_3
+rpsG	30S ribosomal protein S7	wg-ot-23-016_07355	189237	189759	No	contig_3
+fusA	elongation factor G	wg-ot-23-016_07360	189762	191889	No	contig_3
+rpsA	30S ribosomal protein S1	wg-ot-23-016_07365	192150	193626	No	contig_3
+NA	Transposase	wg-ot-23-016_07370	194802	194976	No	contig_3
+NA	IS5 family transposase ISOt6	wg-ot-23-016_07375	194929	195058	No	contig_3
+NA	IS5 family transposase ISOt6	wg-ot-23-016_07380	195949	196114	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_07385	196644	196770	No	contig_3
+cspC	cold-shock protein	wg-ot-23-016_07390	197338	197560	Yes	contig_3
+tnp-IS630	IS630 family transposase	wg-ot-23-016_07395	198405	198912	Yes	contig_3
+tnp-IS630	IS630 family transposase	wg-ot-23-016_07400	198898	199273	Yes	contig_3
+NA	DDE-3 domain-containing protein	wg-ot-23-016_07405	199461	199656	Yes	contig_3
+gcvT	aminomethyltransferase	wg-ot-23-016_07410	200265	201132	No	contig_3
+NA	Transposase	wg-ot-23-016_07415	201309	201525	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_07420	201833	203693	No	contig_3
+hinT	Purine nucleoside phosphoramidase	wg-ot-23-016_07425	203930	204302	No	contig_3
+asd	aspartate-semialdehyde dehydrogenase	wg-ot-23-016_07430	204361	205399	No	contig_3
+cyoB	protoheme IX farnesyltransferase	wg-ot-23-016_07435	205539	206478	Yes	contig_3
+ctaD	cytochrome c oxidase subunit I	wg-ot-23-016_07440	206488	208075	Yes	contig_3
+otGTA	phage terminase large subunit	wg-ot-23-016_07445	208267	209689	Yes	contig_3
+ctc	50S ribosomal protein L25/general stress protein Ctc	wg-ot-23-016_07450	210020	210644	No	contig_3
+arfB	aminoacyl-tRNA hydrolase	wg-ot-23-016_07455	210643	211204	No	contig_3
+ychF	GTP-binding protein YchF	wg-ot-23-016_07460	211213	212314	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_07465	212361	212502	Yes	contig_3
+xthA2	exodeoxyribonuclease III	wg-ot-23-016_07470	213467	214262	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_07475	214751	214874	No	contig_3
+NA	Membrane protein	wg-ot-23-016_07480	215426	215738	No	contig_3
+NA	DDE Tnp4 domain-containing protein	wg-ot-23-016_07485	215697	215853	Yes	contig_3
+NA	IS5 family transposase ISOt6	wg-ot-23-016_07490	215839	216058	Yes	contig_3
+NA	IS5 family transposase ISOt6	wg-ot-23-016_07495	216235	216418	Yes	contig_3
+NA	Conjugal transfer protein TraA	wg-ot-23-016_07500	216900	217716	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_07505	218170	218647	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_07510	219150	219327	Yes	contig_3
+NA	cytochrome c family protein	wg-ot-23-016_07515	219580	220129	Yes	contig_3
+hflC	paraslipin	wg-ot-23-016_07520	220376	221336	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_07525	221801	221924	Yes	contig_3
+NA	Transposase	wg-ot-23-016_07530	222301	222655	No	contig_3
+NA	IS630 family transposase	wg-ot-23-016_07535	222633	223164	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_07540	223148	223727	Yes	contig_3
+mrp	ATP-binding protein	wg-ot-23-016_07545	225371	226388	Yes	contig_3
+hflK	FtsH protease activity modulator HflK	wg-ot-23-016_07550	226567	227623	No	contig_3
+hflC	protease modulator HflC	wg-ot-23-016_07555	227646	228513	No	contig_3
+tsa47	Type surface antigen 47 (47 kDa/htrA)	wg-ot-23-016_07560	228530	229931	No	contig_3
+ompA	peptidoglycan-associated lipoprotein	wg-ot-23-016_07565	230145	230760	No	contig_3
+otGTA	glycoside hydrolase TIM-barrel-like domain-containing protein	wg-ot-23-016_07570	231037	233821	Yes	contig_3
+fpr	ferredoxin--NADP(+) reductase	wg-ot-23-016_07575	234019	235036	No	contig_3
+folD	bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase	wg-ot-23-016_07580	235032	235938	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_07585	235872	237258	Yes	contig_3
+topA	DNA topoisomerase I	wg-ot-23-016_07590	237257	239624	Yes	contig_3
+mdh	malate dehydrogenase	wg-ot-23-016_07595	239716	240673	Yes	contig_3
+rimM	ribosome maturation factor RimM	wg-ot-23-016_07600	240892	241387	Yes	contig_3
+NA	AsmA-like C-terminal region	wg-ot-23-016_07605	241556	244088	No	contig_3
+fmt	methionyl-tRNA formyltransferase	wg-ot-23-016_07610	244316	245240	Yes	contig_3
+def	peptide deformylase	wg-ot-23-016_07615	245236	245782	Yes	contig_3
+NA	Conjugal transfer protein TraI	wg-ot-23-016_07620	245965	247825	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_07625	247957	248086	No	contig_3
+ykfC	reverse transcriptase	wg-ot-23-016_07630	248295	249624	No	contig_3
+NA	Conjugal transfer protein TraI	wg-ot-23-016_07635	249772	250363	No	contig_3
+NA	transposase	wg-ot-23-016_07640	250415	250976	No	contig_3
+NA	IS110-like element ISOt5 family transposase	wg-ot-23-016_07645	250991	251954	Yes	contig_3
+NA	Putative transposase	wg-ot-23-016_07650	252182	252572	No	contig_3
+NA	Conjugative transfer protein	wg-ot-23-016_07655	252581	253310	Yes	contig_3
+NA	Type II/IV secretion system family protein	wg-ot-23-016_07660	253299	253959	Yes	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_07665	253933	254251	Yes	contig_3
+NA	Conjugal transfer protein TraH	wg-ot-23-016_07670	254258	254513	Yes	contig_3
+NA	Conjugative transfer protein TraH	wg-ot-23-016_07675	254707	255115	Yes	contig_3
+NA	Putative conjugative transfer protein TraN	wg-ot-23-016_07680	255118	255301	Yes	contig_3
+NA	Conjugative transfer protein	wg-ot-23-016_07685	255367	255874	Yes	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_07690	256035	256122	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_07695	256304	256535	Yes	contig_3
+rpsD	30S ribosomal protein S4	wg-ot-23-016_07700	256597	257221	Yes	contig_3
+rsmE	Ribosomal RNA small subunit methyltransferase E	wg-ot-23-016_07705	257348	258113	No	contig_3
+mlaE	Permease subunit MlaE of the ABC-type intermembrane phospholipid transporter Mla	wg-ot-23-016_07710	258131	259034	No	contig_3
+NA	ABC transporter ATP-binding protein	wg-ot-23-016_07715	259062	259818	No	contig_3
+recJ	single-stranded-DNA-specific exonuclease RecJ	wg-ot-23-016_07720	260142	261906	Yes	contig_3
+ruvX	Holliday junction resolvase RuvX	wg-ot-23-016_07725	261919	262393	Yes	contig_3
+NA	DUF1189 domain-containing protein	wg-ot-23-016_07730	262389	263304	Yes	contig_3
+ccmE	cytochrome c biogenesis protein CcmE	wg-ot-23-016_07735	263334	263730	Yes	contig_3
+curA	NADP-dependent oxidoreductase	wg-ot-23-016_07740	264040	265186	No	contig_3
+NA	Conjugal transfer protein TraE	wg-ot-23-016_07745	265809	265929	No	contig_3
+NA	Conjugative transfer protein	wg-ot-23-016_07750	265908	266127	Yes	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_07755	266126	266516	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_07760	266709	267111	Yes	contig_3
+NA	Conjugal transfer protein TraE	wg-ot-23-016_07765	267107	267260	Yes	contig_3
+NA	Conjugal transfer protein TraE	wg-ot-23-016_07770	267240	267660	Yes	contig_3
+traL	conjugal transfer protein traL, complete TraL	wg-ot-23-016_07775	267659	267995	Yes	contig_3
+NA	Integrase	wg-ot-23-016_07780	268278	268557	Yes	contig_3
+NA	Putative integrase	wg-ot-23-016_07785	268537	269101	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_07790	270576	270876	Yes	contig_3
+NA	Integrase	wg-ot-23-016_07795	271779	271950	No	contig_3
+NA	Conjugative transfer protein	wg-ot-23-016_07800	272175	272415	No	contig_3
+NA	Conjugal transfer protein TraE	wg-ot-23-016_07805	272500	272656	No	contig_3
+traK2	conjugal transfer protein traK2, complete TraK-2	wg-ot-23-016_07810	272789	273116	No	contig_3
+NA	Putative conjugative transfer TraB domain protein	wg-ot-23-016_07815	273158	273269	No	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_07820	273325	273739	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_07825	273964	274090	Yes	contig_3
+panF	sodium:pantothenate symporter	wg-ot-23-016_07830	274992	276396	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_07835	276411	276903	Yes	contig_3
+NA	MFS transporter	wg-ot-23-016_07840	276989	277685	Yes	contig_3
+NA	Integrase	wg-ot-23-016_07845	278235	278349	No	contig_3
+NA	Putative integrase	wg-ot-23-016_07850	278451	278643	No	contig_3
+NA	Conjugal transfer protein TraA	wg-ot-23-016_07855	278828	279017	Yes	contig_3
+NA	Conjugal transfer protein TraA	wg-ot-23-016_07860	279095	279623	Yes	contig_3
+NA	DNA helicase	wg-ot-23-016_07865	280057	280273	No	contig_3
+NA	truncated RelA/SpoT homolog (RSH) protein	wg-ot-23-016_07870	280616	280904	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_07875	280975	281146	No	contig_3
+NA	Conjugal transfer protein TraA	wg-ot-23-016_07880	281306	281768	No	contig_3
+NA	Conjugal transfer protein TraA	wg-ot-23-016_07885	281739	282603	No	contig_3
+NA	Conjugal transfer protein TraC	wg-ot-23-016_07890	282552	282693	Yes	contig_3
+NA	Putative transposase	wg-ot-23-016_07895	282827	283187	Yes	contig_3
+uvrA	excinuclease ABC subunit A	wg-ot-23-016_07900	283586	286460	No	contig_3
+NA	Tetratricopeptide repeat protein	wg-ot-23-016_07905	286824	287208	No	contig_3
+NA	DUF4065 domain-containing protein	wg-ot-23-016_07910	287409	287571	No	contig_3
+virB6-5	conjugal transfer protein	wg-ot-23-016_07915	289124	291341	Yes	contig_3
+NA	RDD family protein	wg-ot-23-016_07920	292507	292984	No	contig_3
+coxB	cytochrome c oxidase subunit II	wg-ot-23-016_07925	293195	293891	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_07930	294211	294685	No	contig_3
+NA	IS5 family transposase ISOt6	wg-ot-23-016_07935	295125	295452	No	contig_3
+NA	Transposase	wg-ot-23-016_07940	295405	295780	No	contig_3
+NA	Putative integrase	wg-ot-23-016_07945	295837	296125	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_07950	297242	297380	No	contig_3
+NA	LD-carboxypeptidase	wg-ot-23-016_07955	297468	298467	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_07960	298818	299589	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_07965	299756	299942	No	contig_3
+ubiA	4-hydroxybenzoate octaprenyltransferase	wg-ot-23-016_07970	299860	300736	Yes	contig_3
+valS	valine--tRNA ligase	wg-ot-23-016_07975	300767	303332	No	contig_3
+dnaE	DNA polymerase III subunit alpha	wg-ot-23-016_07980	303321	307026	No	contig_3
+abcT	ABC transporter ATP-binding protein	wg-ot-23-016_07985	307108	308914	Yes	contig_3
+uppS	polyprenyl diphosphate synthase	wg-ot-23-016_07990	309089	309785	No	contig_3
+cdsA	phosphatidate cytidylyltransferase	wg-ot-23-016_07995	309787	310438	No	contig_3
+ftsB	Cell division protein FtsB	wg-ot-23-016_08000	310445	310745	No	contig_3
+rnd	ribonuclease D	wg-ot-23-016_08005	310751	311384	No	contig_3
+NA	IS5 family transposase ISOt6	wg-ot-23-016_08010	311736	311826	Yes	contig_3
+NA	IS630 family transposase	wg-ot-23-016_08015	312204	312339	No	contig_3
+grpE	nucleotide exchange factor GrpE	wg-ot-23-016_08020	312662	313259	Yes	contig_3
+rph	ribonuclease PH	wg-ot-23-016_08025	313388	314144	No	contig_3
+NA	Cytochrome c1	wg-ot-23-016_08030	314732	315527	Yes	contig_3
+rpmH	50S ribosomal protein L34	wg-ot-23-016_08035	316308	316443	No	contig_3
+rnpA	ribonuclease P	wg-ot-23-016_08040	316443	316983	No	contig_3
+NA	DUF3971 domain-containing protein	wg-ot-23-016_08045	317221	319714	No	contig_3
+glyA	serine hydroxymethyltransferase	wg-ot-23-016_08050	320469	321750	Yes	contig_3
+gyrA	DNA gyrase subunit A	wg-ot-23-016_08055	321783	324501	Yes	contig_3
+NA	YebC/PmpR family DNA-binding transcriptional regulator	wg-ot-23-016_08060	324602	325352	Yes	contig_3
+maf	septum formation inhibitor Maf	wg-ot-23-016_08065	325478	326084	Yes	contig_3
+infA	translation initiation factor IF-1	wg-ot-23-016_08070	326117	326342	Yes	contig_3
+NA	Conjugal transfer protein TraH	wg-ot-23-016_08080	327075	327969	No	contig_3
+traG	conjugal transfer protein TraG	wg-ot-23-016_08085	328172	328811	No	contig_3
+NA	Tetratricopeptide repeat protein	wg-ot-23-016_08090	328998	329385	No	contig_3
+NA	TPR repeat-containing protein 01_02	wg-ot-23-016_08095	329416	329674	No	contig_3
+NA	F sex factor N terminal family protein	wg-ot-23-016_08100	329709	330024	No	contig_3
+NA	Conjugal transfer protein TraD	wg-ot-23-016_08105	330084	330444	No	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_08110	330409	330685	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_08115	330662	330992	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_08120	331146	331287	No	contig_3
+hipB	XRE family transcriptional regulator	wg-ot-23-016_08125	331588	332029	No	contig_3
+tru	tRNA pseudouridine(55) synthase	wg-ot-23-016_08130	333056	333965	No	contig_3
+rpsO	30S ribosomal protein S15	wg-ot-23-016_08135	333988	334258	No	contig_3
+pnp	polyribonucleotide nucleotidyltransferase	wg-ot-23-016_08140	334505	336719	No	contig_3
+NA	Ankyrin repeat domain-containing protein	wg-ot-23-016_08145	336815	338102	Yes	contig_3
+NA	Ankyrin repeat protein with 1d ankyrin repeats	wg-ot-23-016_08150	338190	339429	Yes	contig_3
+NA	DUF5394 domain-containing protein	wg-ot-23-016_08155	339520	340201	Yes	contig_3
+NA	Proline/betaine transporter	wg-ot-23-016_08160	340386	341640	Yes	contig_3
+holC	DNA polymerase III subunit chi	wg-ot-23-016_08165	341734	342256	No	contig_3
+rpsU	30S ribosomal protein S21	wg-ot-23-016_08170	342282	342489	Yes	contig_3
+NA	Ubiquinone biosynthesis protein COQ9	wg-ot-23-016_08175	342661	343267	No	contig_3
+ileS	isoleucine--tRNA ligase	wg-ot-23-016_08180	343303	346507	No	contig_3
+trcR	cell cycle transcriptional regulator TrcR	wg-ot-23-016_08185	346634	347222	No	contig_3
+ubiH	2-polyprenyl-6-methoxyphenol 4-hydroxylase	wg-ot-23-016_08195	347576	348839	No	contig_3
+sucC	succinyl-CoA ligase subunit beta	wg-ot-23-016_08200	348895	350056	No	contig_3
+sucD	succinyl-CoA synthetase subunit alpha	wg-ot-23-016_08205	350070	350949	No	contig_3
+ndh	NADH dehydrogenase	wg-ot-23-016_08210	351029	352691	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_08215	352761	352959	No	contig_3
+NA	PDDEXK-1 domain-containing protein	wg-ot-23-016_08220	352867	355696	Yes	contig_3
+NA	Multiple resistance and pH regulation F family protein	wg-ot-23-016_08225	355724	355979	Yes	contig_3
+mnhE	sodium:proton antiporter	wg-ot-23-016_08230	355975	356497	Yes	contig_3
+pssA	CDP-diacylglycerol--serine O-phosphatidyltransferase	wg-ot-23-016_08235	356508	357282	Yes	contig_3
+psd	phosphatidylserine decarboxylase	wg-ot-23-016_08240	357333	358026	Yes	contig_3
+ubiB	ubiquinone biosynthesis protein UbiB	wg-ot-23-016_08245	358102	358648	Yes	contig_3
+dsbB	disulfide bond formation protein B	wg-ot-23-016_08250	358610	359159	Yes	contig_3
+lysS	lysine--tRNA ligase	wg-ot-23-016_08255	359297	360878	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_08265	361464	361560	Yes	contig_3
+secG	preprotein translocase subunit SecG	wg-ot-23-016_08270	361639	361933	Yes	contig_3
+tpiA	triose-phosphate isomerase	wg-ot-23-016_08275	361938	362688	Yes	contig_3
+NA	peptidylprolyl isomerase	wg-ot-23-016_08280	362862	364320	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_08285	364359	364965	Yes	contig_3
+NA	IS630 family transposase	wg-ot-23-016_08290	365056	365323	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_08295	365488	366517	Yes	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_08300	367197	367728	No	contig_3
+NA	Putative transposase	wg-ot-23-016_08305	367737	368175	Yes	contig_3
+NA	IS110-like element ISOt5 family transposase	wg-ot-23-016_08310	368403	369366	No	contig_3
+NA	transposase	wg-ot-23-016_08315	369381	369942	Yes	contig_3
+NA	Toprim domain protein	wg-ot-23-016_08320	369993	370545	Yes	contig_3
+ykfC	reverse transcriptase	wg-ot-23-016_08325	370731	372060	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_08330	372269	372398	Yes	contig_3
+NA	Toprim domain protein	wg-ot-23-016_08335	372530	373001	Yes	contig_3
+NA	truncated RelA/SpoT homolog (RSH) protein	wg-ot-23-016_08340	373156	373390	Yes	contig_3
+NA	Transposase	wg-ot-23-016_08345	373919	374309	No	contig_3
+nrdA	ribonucleotide-diphosphate reductase subunit alpha	wg-ot-23-016_08350	375138	376953	No	contig_3
+nrdB	ribonucleotide-diphosphate reductase subunit beta	wg-ot-23-016_08355	376975	377968	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_08360	378460	378757	No	contig_3
+NA	Arm DNA-binding domain-containing protein	wg-ot-23-016_08365	379178	379460	No	contig_3
+abcT	ABC transporter ATP-binding protein	wg-ot-23-016_08370	379695	380445	No	contig_3
+NA	IS110-like element ISOt5 family transposase	wg-ot-23-016_08375	380660	381623	No	contig_3
+abcT	ABC transporter ATP-binding protein	wg-ot-23-016_08380	381672	382455	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_08385	382414	382669	No	contig_3
+prmA	Ribosomal protein L11 methyltransferase	wg-ot-23-016_08390	382895	383099	No	contig_3
+NA	Replicative DNA helicase	wg-ot-23-016_08395	383727	383856	No	contig_3
+NA	DNA helicase	wg-ot-23-016_08400	383869	384238	No	contig_3
+NA	DNA helicase	wg-ot-23-016_08405	384520	384625	No	contig_3
+NA	Replicative DNA helicase	wg-ot-23-016_08410	384972	385128	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_08415	385136	385388	No	contig_3
+NA	Ankyrin repeat protein with 4 ankyrin repeats	wg-ot-23-016_08420	385384	386188	Yes	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_08425	386955	387639	No	contig_3
+NA	Type-F conjugative transfer system pilin assembly protein TrbC	wg-ot-23-016_08430	387661	387901	No	contig_3
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	wg-ot-23-016_08435	387873	388083	No	contig_3
+NA	ATP-binding protein	wg-ot-23-016_08440	388375	388591	No	contig_3
+NA	ATP-binding protein	wg-ot-23-016_08445	388621	389554	No	contig_3
+NA	ATP-binding protein	wg-ot-23-016_08450	389572	390325	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_08455	390445	391294	No	contig_3
+NA	transposase	wg-ot-23-016_08460	391463	392426	Yes	contig_3
+NA	ATP-binding protein	wg-ot-23-016_08465	392664	393297	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_08470	393542	393692	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_08475	393693	393918	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_08480	393926	394064	Yes	contig_3
+amiR	N-acetylmuramoyl-L-alanine amidase	wg-ot-23-016_08485	395266	396364	Yes	contig_3
+NA	Repeat-containing protein D	wg-ot-23-016_08490	397142	398888	No	contig_3
+NA	Transposase	wg-ot-23-016_08495	399699	400056	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_08500	400216	400597	Yes	contig_3
+NA	Conjugative transfer protein	wg-ot-23-016_08505	400826	401072	Yes	contig_3
+lipB	lipase LipB	wg-ot-23-016_08510	402890	403784	No	contig_3
+NA	Integrase	wg-ot-23-016_08515	404177	404294	Yes	contig_3
+NA	Putative integrase	wg-ot-23-016_08520	404352	404613	Yes	contig_3
+NA	Reverse transcriptase	wg-ot-23-016_08525	406054	406273	Yes	contig_3
+NA	Ankyrin repeat-containing protein 18	wg-ot-23-016_08530	406631	406850	Yes	contig_3
+NA	Ankyrin repeat protein with 5 ankyrin repeats	wg-ot-23-016_08535	407078	407498	Yes	contig_3
+NA	Ankyrin repeat-containing protein	wg-ot-23-016_08540	407515	407680	Yes	contig_3
+NA	Conjugal transfer protein TraI	wg-ot-23-016_08545	408016	408403	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_08550	408526	409195	No	contig_3
+NA	Conjugal transfer protein TraA	wg-ot-23-016_08555	409410	410973	Yes	contig_3
+NA	Conjugal transfer protein TraA	wg-ot-23-016_08560	410957	411185	Yes	contig_3
+NA	Conjugal transfer protein TraA	wg-ot-23-016_08565	411474	411627	Yes	contig_3
+traD	conjugal transfer protein TraD, complete TraD	wg-ot-23-016_08570	411904	412369	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_08575	412372	413938	Yes	contig_3
+dnaB	Replicative DNA helicase	wg-ot-23-016_08580	414647	414980	Yes	contig_3
+NA	DnaA N-terminal domain protein	wg-ot-23-016_08585	415043	415886	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_08590	415861	416101	Yes	contig_3
+NA	ATP-binding protein	wg-ot-23-016_08595	416544	416694	No	contig_3
+NA	DDE superendonuclease family protein	wg-ot-23-016_08600	416722	416965	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_08605	417519	417801	No	contig_3
+NA	Putative ompA-like autotransporter	wg-ot-23-016_08610	417961	418360	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_08615	419137	419929	No	contig_3
+NA	Putative transposase	wg-ot-23-016_08620	420761	421055	No	contig_3
+NA	truncated RelA/SpoT homolog (RSH) protein	wg-ot-23-016_08625	421268	421493	No	contig_3
+NA	transposase	wg-ot-23-016_08630	421598	422477	No	contig_3
+NA	Conjugative transfer protein	wg-ot-23-016_08635	422569	422713	Yes	contig_3
+NA	IS110 family transposase	wg-ot-23-016_08640	423146	423611	Yes	contig_3
+NA	Tetratricopeptide repeat protein	wg-ot-23-016_08645	423969	424245	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_08650	424341	424485	Yes	contig_3
+NA	Putative conjugative transfer protein TraD	wg-ot-23-016_08655	424568	424739	Yes	contig_3
+NA	Conjugal transfer TraD family protein	wg-ot-23-016_08660	424790	425024	Yes	contig_3
+NA	Conjugal transfer protein TraA	wg-ot-23-016_08665	425301	426477	No	contig_3
+NA	Sta22 protein	wg-ot-23-016_08670	426580	427198	Yes	contig_3
+ubiE	SAM-dependent methyltransferase	wg-ot-23-016_08675	427373	428177	No	contig_3
+lpd	dihydrolipoyl dehydrogenase	wg-ot-23-016_08680	428268	429696	No	contig_3
+tolB	translocation protein TolB	wg-ot-23-016_08685	430011	431373	No	contig_3
+NA	AEC family transporter	wg-ot-23-016_08690	431549	432473	No	contig_3
+trxB	thioredoxin-disulfide reductase	wg-ot-23-016_08695	432602	433565	No	contig_3
+phrB	deoxyribodipyrimidine photo-lyase	wg-ot-23-016_08700	433585	435094	Yes	contig_3
+NA	Reverse transcriptase family protein	wg-ot-23-016_08705	436012	436612	Yes	contig_3
+NA	IS110-like element ISOt5 family transposase	wg-ot-23-016_08710	436816	437779	Yes	contig_3
+NA	Reverse transcriptase family protein	wg-ot-23-016_08715	437971	438199	Yes	contig_3
+NA	Putative rNA-directed DNA polymerase	wg-ot-23-016_08720	438161	438335	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_08725	439144	440944	Yes	contig_3
+NA	DDE superendonuclease family protein	wg-ot-23-016_08730	441351	441600	Yes	contig_3
+virD4	type IV secretion system protein VirD4	wg-ot-23-016_08735	441696	443469	Yes	contig_3
+virB11	type VI secretion protein	wg-ot-23-016_08740	443468	444458	Yes	contig_3
+virB10	type VI secretion protein	wg-ot-23-016_08745	444457	445987	Yes	contig_3
+virB9-2	P-type conjugative transfer protein VirB9	wg-ot-23-016_08750	445986	446424	Yes	contig_3
+virB8-2	type VI secretion protein	wg-ot-23-016_08755	446407	447088	Yes	contig_3
+virB7	DNA polymerase III subunit beta	wg-ot-23-016_08760	447326	448625	Yes	contig_3
+dnaA	chromosomal replication initiation protein DnaA	wg-ot-23-016_08765	448643	450053	Yes	contig_3
+sdhE	Succinate dehydrogenase flavin-adding protein, antitoxin component of the CptAB toxin-antitoxin module	wg-ot-23-016_08770	450398	450662	No	contig_3
+NA	Ankyrin repeat protein with 9 ankyrin repeats, Ank20	wg-ot-23-016_08775	451085	452612	No	contig_3
+NA	Uncharacterized membrane protein YqaA, VTT domain	wg-ot-23-016_08785	453794	454217	Yes	contig_3
+ubiD	3-polyprenyl-4-hydroxybenzoate decarboxylase	wg-ot-23-016_08790	454547	456041	No	contig_3
+pBP2	penicillin-binding protein 2	wg-ot-23-016_08795	456163	457915	Yes	contig_3
+mreD	Rod shape-determining protein MreD	wg-ot-23-016_08800	457904	458390	Yes	contig_3
+rodA	rod shape-determining protein RodA	wg-ot-23-016_08805	458401	459529	Yes	contig_3
+tsaE	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE	wg-ot-23-016_08810	459699	460122	Yes	contig_3
+alkA	3-methyladenine DNA glycosylase	wg-ot-23-016_08815	460137	460674	Yes	contig_3
+ftsH	ATP-dependent metalloprotease	wg-ot-23-016_08820	460708	462592	Yes	contig_3
+tilS	tRNA lysidine(34) synthetase TilS	wg-ot-23-016_08825	462608	463934	Yes	contig_3
+nuoN	NADH-quinone oxidoreductase subunit N	wg-ot-23-016_08830	464018	465458	Yes	contig_3
+nuoM	NADH-quinone oxidoreductase subunit M	wg-ot-23-016_08835	465502	467002	Yes	contig_3
+erhM	2-hydroxyacid dehydrogenase	wg-ot-23-016_08840	467002	468910	Yes	contig_3
+nuoK	NADH-quinone oxidoreductase subunit K	wg-ot-23-016_08845	468913	469237	Yes	contig_3
+nuoJ	NADH:ubiquinone oxidoreductase subunit J	wg-ot-23-016_08850	469220	469829	Yes	contig_3
+nuoI	NADH-quinone oxidoreductase subunit I	wg-ot-23-016_08855	469832	470318	Yes	contig_3
+nuoH	NADH:ubiquinone oxidoreductase subunit H	wg-ot-23-016_08860	470371	471415	Yes	contig_3
+nuoG	NADH-quinone oxidoreductase subunit G	wg-ot-23-016_08865	471474	473511	Yes	contig_3
+frr	ribosome-recycling factor	wg-ot-23-016_08870	473790	474354	No	contig_3
+NA	porin	wg-ot-23-016_08875	474529	475810	Yes	contig_3
+dcd	deoxycytidine triphosphate deaminase	wg-ot-23-016_08880	476409	476976	No	contig_3
+secB	protein-export protein SecB	wg-ot-23-016_08885	477017	477512	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_08890	477686	477806	Yes	contig_3
+NA	Phage integrase family protein	wg-ot-23-016_08895	478467	479154	No	contig_3
+tnp-IS630	IS630 family transposase	wg-ot-23-016_08900	479178	479685	Yes	contig_3
+tnp-IS630	IS630 family transposase	wg-ot-23-016_08905	479671	480046	Yes	contig_3
+NA	Integrase/recombinase, includes phage integrase	wg-ot-23-016_08910	480079	480640	No	contig_3
+traL	conjugal transfer protein traL, complete TraL	wg-ot-23-016_08915	480777	481101	No	contig_3
+NA	Conjugal transfer protein TraE	wg-ot-23-016_08920	481100	481493	No	contig_3
+NA	Conjugal transfer protein TraE	wg-ot-23-016_08925	481501	481654	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_08930	481811	482006	No	contig_3
+virB4	Type IV secretory pathway, VirB4 component	wg-ot-23-016_08935	482246	484181	No	contig_3
+NA	Ankyrin repeat protein with 5 ankyrin repeats	wg-ot-23-016_08940	484079	485084	Yes	contig_3
+NA	Putative conjugative transfer protein TraU	wg-ot-23-016_08945	485252	485744	No	contig_3
+trbC	type-F conjugative transfer system pilin assembly protein TrbC, complete trbC	wg-ot-23-016_08950	485847	486231	No	contig_3
+traN	conjugal transfer protein TraN, complete TraN	wg-ot-23-016_08955	486227	487919	No	contig_3
+traF	conjugal transfer protein TraF, complete TraF	wg-ot-23-016_08960	487930	488614	No	contig_3
+NA	Conjugal transfer protein TraH	wg-ot-23-016_08965	488610	489240	No	contig_3
+NA	Conjugal transfer protein TraH	wg-ot-23-016_08970	489289	489688	No	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_08975	489695	490187	No	contig_3
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	wg-ot-23-016_08980	490273	491260	No	contig_3
+NA	Putative transposase	wg-ot-23-016_08985	491269	491578	Yes	contig_3
+dapD	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	wg-ot-23-016_08990	491835	492687	Yes	contig_3
+NA	Znf/thioredoxin-put domain-containing protein	wg-ot-23-016_08995	492786	493431	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_09000	493792	493912	Yes	contig_3
+NA	ATP-binding protein	wg-ot-23-016_09010	494507	494927	No	contig_3
+NA	Histidine kinase	wg-ot-23-016_09015	494986	495487	No	contig_3
+NA	truncated RelA/SpoT homolog (RSH) protein	wg-ot-23-016_09020	495509	495953	No	contig_3
+NA	Tetratricopeptide repeat protein	wg-ot-23-016_09025	496576	496936	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_09030	497032	497176	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_09035	497306	497543	Yes	contig_3
+NA	Integrase/recombinase, includes phage integrase	wg-ot-23-016_09040	497680	498223	Yes	contig_3
+NA	Integrase	wg-ot-23-016_09045	498517	498679	Yes	contig_3
+NA	DUF2312 domain-containing protein	wg-ot-23-016_09050	498963	499209	Yes	contig_3
+rnhB	ribonuclease HII	wg-ot-23-016_09055	499775	500393	Yes	contig_3
+miaA	tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA	wg-ot-23-016_09060	500462	501500	No	contig_3
+purF	amidophosphoribosyltransferase	wg-ot-23-016_09065	501483	502230	No	contig_3
+hda	DnaA regulatory inactivator Hda	wg-ot-23-016_09070	502359	503010	No	contig_3
+ycbZ	endopeptidase La	wg-ot-23-016_09075	503073	505446	Yes	contig_3
+tdcB	threonine dehydratase	wg-ot-23-016_09080	505562	506576	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_09085	507185	509072	Yes	contig_3
+NA	DUF1601 domain-containing protein	wg-ot-23-016_09090	509624	511397	Yes	contig_3
+proP	proline/betaine transporter	wg-ot-23-016_09095	512465	513686	Yes	contig_3
+hemC	hydroxymethylbilane synthase	wg-ot-23-016_09100	513997	514894	Yes	contig_3
+icd	isocitrate dehydrogenase	wg-ot-23-016_09105	515067	516627	No	contig_3
+NA	Transposase	wg-ot-23-016_09115	517123	517270	Yes	contig_3
+NA	Putative membrane protein	wg-ot-23-016_09120	517760	517991	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_09125	518149	518260	No	contig_3
+NA	Phage integrase family protein	wg-ot-23-016_09130	518469	518904	No	contig_3
+NA	Integrase	wg-ot-23-016_09135	519009	519204	No	contig_3
+traL	conjugal transfer protein traL, complete TraL	wg-ot-23-016_09140	519295	519631	No	contig_3
+NA	Conjugal transfer protein TraE	wg-ot-23-016_09145	519630	520050	No	contig_3
+NA	Putative conjugative transfer protein TraE	wg-ot-23-016_09150	520030	520183	No	contig_3
+traK1	conjugal transfer protein traK1, complete TraK-1	wg-ot-23-016_09155	520179	520656	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_09160	520887	521019	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_09165	521135	521315	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_09170	521314	521617	Yes	contig_3
+NA	TraE protein	wg-ot-23-016_09175	521613	521940	Yes	contig_3
+NA	Conjugal transfer protein TraE	wg-ot-23-016_09180	522023	522167	Yes	contig_3
+traL	conjugal transfer protein traL, complete TraL	wg-ot-23-016_09185	522166	522502	Yes	contig_3
+NA	Putative integrase	wg-ot-23-016_09190	522785	523328	Yes	contig_3
+NA	Arm-DNA-bind-3 domain-containing protein	wg-ot-23-016_09195	523470	523881	Yes	contig_3
+NA	Transposase, YhgA-like family protein	wg-ot-23-016_09200	524308	524512	Yes	contig_3
+NA	Toprim domain protein	wg-ot-23-016_09205	524563	525115	Yes	contig_3
+ykfC	reverse transcriptase	wg-ot-23-016_09210	525301	526630	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_09215	526839	526968	Yes	contig_3
+NA	Toprim domain protein	wg-ot-23-016_09220	527100	527571	Yes	contig_3
+NA	Conjugal transfer protein TraA	wg-ot-23-016_09225	527904	529467	Yes	contig_3
+NA	Conjugal transfer protein TraA	wg-ot-23-016_09230	529463	529679	Yes	contig_3
+NA	Conjugal transfer protein TraA	wg-ot-23-016_09235	530039	530339	Yes	contig_3
+traD	conjugal transfer protein TraD, complete TraD	wg-ot-23-016_09240	530615	531071	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_09245	531129	532095	Yes	contig_3
+NA	truncated RelA/SpoT homolog (RSH) protein	wg-ot-23-016_09250	532461	533076	Yes	contig_3
+NA	Transposase DDE domain protein	wg-ot-23-016_09255	533359	533587	Yes	contig_3
+NA	Transposase DDE domain protein	wg-ot-23-016_09260	533625	533754	Yes	contig_3
+NA	Transposase	wg-ot-23-016_09265	533848	534220	Yes	contig_3
+traL	conjugal transfer protein traL, complete TraL	wg-ot-23-016_09270	534661	534997	No	contig_3
+NA	Conjugal transfer protein TraE	wg-ot-23-016_09275	534996	535413	No	contig_3
+NA	truncated RelA/SpoT homolog (RSH) protein	wg-ot-23-016_09280	535354	535534	No	contig_3
+NA	transposase	wg-ot-23-016_09285	535654	536569	No	contig_3
+NA	OTT_1508-like deaminase	wg-ot-23-016_09290	536864	537914	Yes	contig_3
+aNKYR	ankyrin repeat domain-containing protein	wg-ot-23-016_09295	537906	538836	Yes	contig_3
+NA	IS5 family transposase ISOt6	wg-ot-23-016_09300	539621	539750	Yes	contig_3
+NA	DDE superendonuclease family protein	wg-ot-23-016_09305	539797	539995	Yes	contig_3
+NA	DDE superendonuclease family protein	wg-ot-23-016_09310	540100	540364	Yes	contig_3
+NA	IS630 family transposase	wg-ot-23-016_09315	540452	540740	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_09320	540784	541036	No	contig_3
+putP	sodium:proline symporter	wg-ot-23-016_09325	541501	544936	Yes	contig_3
+NA	Transposase	wg-ot-23-016_09330	545375	545495	No	contig_3
+NA	Putative conjugative transfer protein TraD	wg-ot-23-016_09335	545813	545999	Yes	contig_3
+NA	Integrase	wg-ot-23-016_09340	546703	546871	No	contig_3
+bcp	peroxiredoxin	wg-ot-23-016_09345	546867	547338	No	contig_3
+NA	Conjugal transfer protein TraA	wg-ot-23-016_09350	547415	547586	Yes	contig_3
+traD	conjugal transfer protein TraD, complete TraD	wg-ot-23-016_09355	547858	548314	No	contig_3
+xthA2	exodeoxyribonuclease III	wg-ot-23-016_09360	548355	549141	Yes	contig_3
+NA	Repeat-containing protein F	wg-ot-23-016_09365	549754	551902	Yes	contig_3
+NA	truncated RelA/SpoT homolog (RSH) protein	wg-ot-23-016_09370	552651	553227	Yes	contig_3
+NA	DNA helicase	wg-ot-23-016_09375	553461	554226	Yes	contig_3
+NA	Integrase	wg-ot-23-016_09380	555063	555234	No	contig_3
+NA	Transposase	wg-ot-23-016_09385	555762	556176	Yes	contig_3
+NA	Integrase	wg-ot-23-016_09390	556866	557007	No	contig_3
+NA	Integrase	wg-ot-23-016_09395	556982	557201	No	contig_3
+NA	Integrase	wg-ot-23-016_09400	557226	557433	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_09405	557521	557698	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_09410	557682	557859	No	contig_3
+NA	OmpA-like, putative autotransporter	wg-ot-23-016_09415	558845	563366	Yes	contig_3
+NA	Tetratricopeptide repeat protein	wg-ot-23-016_09420	565398	565989	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_09425	566128	566455	Yes	contig_3
+NA	IS110-like element ISOt5 family transposase	wg-ot-23-016_09430	566798	567761	No	contig_3
+NA	Putative integrase	wg-ot-23-016_09435	567776	568361	Yes	contig_3
+NA	Integrase	wg-ot-23-016_09440	568376	568619	Yes	contig_3
+NA	ATP-binding protein	wg-ot-23-016_09445	569050	569152	Yes	contig_3
+dam	DNA methyltransferase	wg-ot-23-016_09450	569525	570335	No	contig_3
+NA	Putative ompA-like autotransporter	wg-ot-23-016_09455	570338	570845	Yes	contig_3
+NA	Ankyrin repeat protein with 5 ankyrin repeats	wg-ot-23-016_09460	570891	571398	Yes	contig_3
+NA	Replicative DNA helicase	wg-ot-23-016_09465	571755	572547	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_09470	572608	572755	No	contig_3
+NA	DnaB-like helicase N terminal domain protein	wg-ot-23-016_09475	572697	573192	Yes	contig_3
+NA	DnaA-N domain-containing protein	wg-ot-23-016_09480	573200	574760	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_09485	575372	575549	No	contig_3
+NA	DUF4102 domain-containing protein	wg-ot-23-016_09490	575565	575793	No	contig_3
+NA	Putative integrase	wg-ot-23-016_09495	575856	576600	No	contig_3
+traL	conjugal transfer protein traL, complete TraL	wg-ot-23-016_09500	576729	577065	No	contig_3
+NA	conjugative transfer protein	wg-ot-23-016_09505	577064	577382	No	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_09510	577411	577594	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_09515	577593	577776	No	contig_3
+NA	Conjugal transfer protein TraC	wg-ot-23-016_09520	578021	578741	No	contig_3
+NA	Ankyrin repeat-containing protein	wg-ot-23-016_09525	578544	579069	Yes	contig_3
+NA	ankyrin repeat domain-containing protein	wg-ot-23-016_09530	579108	579501	Yes	contig_3
+NA	Conjugal transfer protein TraD	wg-ot-23-016_09535	579647	579914	Yes	contig_3
+NA	Transposase	wg-ot-23-016_09540	580842	581196	No	contig_3
+NA	Transposase	wg-ot-23-016_09545	581207	581336	No	contig_3
+NA	Transposase	wg-ot-23-016_09550	581498	581684	No	contig_3
+rpmJ	50S ribosomal protein L36	wg-ot-23-016_09555	582768	582894	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_09560	583630	583732	No	contig_3
+NA	Thioredoxin	wg-ot-23-016_09565	583980	584307	Yes	contig_3
+bamA	outer membrane protein assembly factor BamA	wg-ot-23-016_09570	584329	586648	Yes	contig_3
+rseP	RIP metalloprotease RseP	wg-ot-23-016_09575	586660	587722	Yes	contig_3
+rmuC	DNA recombination protein RmuC	wg-ot-23-016_09580	587831	589181	Yes	contig_3
+rsmA	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase	wg-ot-23-016_09585	589241	590063	Yes	contig_3
+surA	Chaperone SurA	wg-ot-23-016_09590	590181	591057	Yes	contig_3
+himA	Bacterial nucleoid DNA-binding protein IHF-alpha	wg-ot-23-016_09595	591239	591548	Yes	contig_3
+znuA	zinc ABC transporter substrate-binding protein	wg-ot-23-016_09605	592083	592980	Yes	contig_3
+pcnB	poly(A) polymerase	wg-ot-23-016_09610	592976	594185	Yes	contig_3
+gltP	dicarboxylate/amino acid:cation symporter	wg-ot-23-016_09615	594238	595438	Yes	contig_3
+uvrD	ATP-dependent DNA helicase UvrD	wg-ot-23-016_09620	595615	599083	Yes	contig_3
+sixA	phosphohistidine phosphatase	wg-ot-23-016_09625	599095	599566	Yes	contig_3
+dapB	dihydrodipicolinate reductase	wg-ot-23-016_09630	599647	600499	Yes	contig_3
+NA	amino acid ABC transporter substrate-binding protein	wg-ot-23-016_09635	600505	601309	Yes	contig_3
+coxW	cytochrome c oxidase assembly protein	wg-ot-23-016_09640	601737	602265	No	contig_3
+rpmF	50S ribosomal protein L32	wg-ot-23-016_09645	602547	602754	Yes	contig_3
+bamE	SmpA / OmlA family	wg-ot-23-016_09650	602850	603216	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_09655	603253	603376	No	contig_3
+era	GTPase Era	wg-ot-23-016_09660	603593	604514	Yes	contig_3
+NA	Peptidylprolyl isomerase	wg-ot-23-016_09665	604510	605530	Yes	contig_3
+prfA	peptide chain release factor 1	wg-ot-23-016_09670	605734	606814	Yes	contig_3
+NA	Transposase	wg-ot-23-016_09675	607208	607523	Yes	contig_3
+tsaB	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB	wg-ot-23-016_09680	608050	608752	Yes	contig_3
+suhB	extragenic suppressor protein SuhB	wg-ot-23-016_09685	608771	609557	Yes	contig_3
+efp	elongation factor P	wg-ot-23-016_09690	609553	610123	Yes	contig_3
+clpX	ATP-dependent Clp protease ATP-binding subunit ClpX	wg-ot-23-016_09695	610328	611582	No	contig_3
+proS	proline--tRNA ligase	wg-ot-23-016_09700	611809	613111	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_09705	613124	613418	Yes	contig_3
+pgk	phosphoglycerate kinase	wg-ot-23-016_09710	613431	614652	Yes	contig_3
+gapA	type I glyceraldehyde-3-phosphate dehydrogenase	wg-ot-23-016_09715	614732	615749	Yes	contig_3
+virB4-2	virB4 protein precursor	wg-ot-23-016_09720	616023	618477	No	contig_3
+NA	Hormone receptor domain-containing protein	wg-ot-23-016_09725	618476	622994	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_09730	624189	624321	No	contig_3
+NA	DDE superendonuclease family protein	wg-ot-23-016_09735	624351	624726	Yes	contig_3
+NA	IS5 family transposase ISOt6	wg-ot-23-016_09740	624737	625046	Yes	contig_3
+mdlB	ATP-binding protein	wg-ot-23-016_09745	625370	627122	Yes	contig_3
+cyaY	iron donor protein CyaY	wg-ot-23-016_09750	627114	627447	Yes	contig_3
+NA	C48 family peptidase	wg-ot-23-016_09755	628586	632702	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_09760	632911	633313	No	contig_3
+NA	DnaA-N domain-containing protein	wg-ot-23-016_09765	633504	634032	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_09770	634032	634218	No	contig_3
+NA	Transposase and inactivated derivative	wg-ot-23-016_09775	634551	635604	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_09780	636246	636381	No	contig_3
+sdhC	succinate dehydrogenase, cytochrome b556 subunit	wg-ot-23-016_09785	636792	637176	No	contig_3
+sdhD	succinate dehydrogenase, hydrophobic membrane anchor protein	wg-ot-23-016_09790	637206	637596	No	contig_3
+sdhA	succinate dehydrogenase flavoprotein subunit	wg-ot-23-016_09795	637790	639578	No	contig_3
+sdhB	succinate dehydrogenase iron-sulfur subunit	wg-ot-23-016_09800	639612	640398	No	contig_3
+NA	IS630 family transposase	wg-ot-23-016_09805	640424	640706	Yes	contig_3
+NA	IS982 family transposase	wg-ot-23-016_09810	641009	641885	Yes	contig_3
+lepB	signal peptidase I	wg-ot-23-016_09815	642432	643173	No	contig_3
+rnc	ribonuclease III	wg-ot-23-016_09820	643227	643968	No	contig_3
+NA	Transposase	wg-ot-23-016_09825	644157	644361	Yes	contig_3
+NA	DDE superendonuclease family protein	wg-ot-23-016_09830	644910	645027	No	contig_3
+dnaB	Replicative DNA helicase	wg-ot-23-016_09835	645067	645439	No	contig_3
+NA	(P)pGpp hydrolase	wg-ot-23-016_09840	645673	645820	No	contig_3
+NA	acyl-[ACP]--phospholipid O-acyltransferase	wg-ot-23-016_09845	646332	649806	Yes	contig_3
+NA	esterase	wg-ot-23-016_09850	650124	650757	Yes	contig_3
+nth	endonuclease III	wg-ot-23-016_09855	650753	651392	Yes	contig_3
+grxD	Grx4 family monothiol glutaredoxin	wg-ot-23-016_09860	651468	651822	No	contig_3
+nifU	NifU family protein	wg-ot-23-016_09865	651859	652408	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_09870	652664	652868	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_09875	653073	653226	Yes	contig_3
+NA	Helix-turn-helix family protein	wg-ot-23-016_09880	653516	654329	Yes	contig_3
+NA	Cation efflux family	wg-ot-23-016_09885	654608	655526	No	contig_3
+tadA	tRNA-specific adenosine deaminase	wg-ot-23-016_09890	655566	656034	No	contig_3
+ligA	DNA ligase (NAD(+)) LigA	wg-ot-23-016_09895	656097	658197	No	contig_3
+pepA	aminopeptidase	wg-ot-23-016_09900	658193	659966	No	contig_3
+NA	Transposase	wg-ot-23-016_09905	660208	660517	Yes	contig_3
+NA	Transposase	wg-ot-23-016_09910	660494	660602	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_09915	660601	660748	Yes	contig_3
+NA	Ankyrin repeat protein with 3 ankyrin repeats	wg-ot-23-016_09920	661867	663124	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_09925	663142	663358	No	contig_3
+NA	OTT_1508-like deaminase	wg-ot-23-016_09930	663339	664308	No	contig_3
+NA	IS982 family transposase	wg-ot-23-016_09935	664415	665291	No	contig_3
+NA	Site-specific DNA-methyltransferase (adenine-specific)	wg-ot-23-016_09940	665700	666000	Yes	contig_3
+NA	ATP-binding protein	wg-ot-23-016_09945	666366	667095	No	contig_3
+NA	ATP-binding protein	wg-ot-23-016_09950	667116	667359	No	contig_3
+NA	ATP-binding protein	wg-ot-23-016_09955	667362	667515	No	contig_3
+NA	truncated RelA/SpoT homolog (RSH) protein	wg-ot-23-016_09960	667535	668111	No	contig_3
+NA	Ankyrin repeat protein with 4 ankyrin repeats	wg-ot-23-016_09965	668265	669153	No	contig_3
+traD	conjugal transfer protein TraD, complete TraD	wg-ot-23-016_09970	669223	669679	Yes	contig_3
+traA	conjugal transfer protein TraA, complete TraA	wg-ot-23-016_09975	669955	672814	No	contig_3
+NA	Conjugal transfer protein TraI	wg-ot-23-016_09980	673077	675138	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_09985	675270	675426	No	contig_3
+ykfC	reverse transcriptase	wg-ot-23-016_09990	675610	676939	No	contig_3
+NA	Conjugal transfer protein TraI	wg-ot-23-016_09995	677087	677678	No	contig_3
+NA	transposase	wg-ot-23-016_10000	677729	678365	No	contig_3
+NA	Putative integrase	wg-ot-23-016_10005	678336	678864	Yes	contig_3
+NA	Integrase	wg-ot-23-016_10010	678879	679122	Yes	contig_3
+NA	Ankyrin repeat family protein	wg-ot-23-016_10015	680481	681771	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_10020	682031	682193	No	contig_3
+NA	IS5 family transposase ISOt6	wg-ot-23-016_10025	682422	682797	Yes	contig_3
+NA	Transposase	wg-ot-23-016_10030	682808	683144	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_10035	683295	683508	Yes	contig_3
+NA	DUF3857 domain-containing protein	wg-ot-23-016_10040	684893	686822	Yes	contig_3
+NA	DUF3857 domain-containing protein	wg-ot-23-016_10045	686867	688766	Yes	contig_3
+rhaT	Permease of the drug/metabolite transporter (DMT) superfamily	wg-ot-23-016_10050	688914	689532	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_10055	689528	689834	No	contig_3
+radA	DNA repair protein RadA	wg-ot-23-016_10060	689871	691227	Yes	contig_3
+rsmD	16S rRNA (guanine(966)-N(2))-methyltransferase RsmD	wg-ot-23-016_10065	691226	691799	Yes	contig_3
+fabZ	beta-hydroxyacyl-ACP dehydratase	wg-ot-23-016_10070	691802	692306	Yes	contig_3
+surf1	surfeit locus protein 1	wg-ot-23-016_10075	692544	693267	No	contig_3
+NA	conjugal transfer protein	wg-ot-23-016_10080	693261	693750	Yes	contig_3
+xerD	site-specific tyrosine recombinase XerD	wg-ot-23-016_10085	694078	695008	Yes	contig_3
+tolC	TolC family protein	wg-ot-23-016_10095	695351	696725	No	contig_3
+popZ	DUF2497 domain-containing protein	wg-ot-23-016_10100	696775	697342	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_10105	697343	699182	No	contig_3
+trmD	tRNA (guanine(37)-N(1))-methyltransferase	wg-ot-23-016_10110	699229	699994	No	contig_3
+rplS	50S ribosomal protein L19	wg-ot-23-016_10115	699990	700365	No	contig_3
+recD	ATP-dependent RecD-like DNA helicase	wg-ot-23-016_10120	700391	702587	No	contig_3
+ilvE	branched chain amino acid aminotransferase	wg-ot-23-016_10125	702876	703779	No	contig_3
+dapA	4-hydroxy-tetrahydrodipicolinate synthase	wg-ot-23-016_10130	703759	704656	No	contig_3
+smpB	SsrA-binding protein SmpB	wg-ot-23-016_10135	704658	705120	No	contig_3
+sppA	signal peptide peptidase SppA	wg-ot-23-016_10140	705140	706049	No	contig_3
+lipA	lipoyl synthase	wg-ot-23-016_10145	706059	706968	No	contig_3
+yfjG	ubiquinone-binding protein	wg-ot-23-016_10150	706988	707435	No	contig_3
+NA	Phosphoribosylaminoimidazolesuccinocarboxamide synthase	wg-ot-23-016_10155	707515	707635	No	contig_3
+NA	Phosphoribosylaminoimidazolesuccinocarboxamide synthase	wg-ot-23-016_10160	707644	707794	No	contig_3
+NA	Arm-DNA-bind-3 domain-containing protein	wg-ot-23-016_10165	707827	708100	No	contig_3
+NA	Putative integrase	wg-ot-23-016_10170	708309	708813	No	contig_3
+traL	conjugal transfer protein traL, complete TraL	wg-ot-23-016_10175	709136	709472	No	contig_3
+NA	Conjugal transfer protein TraE	wg-ot-23-016_10180	709471	709615	No	contig_3
+NA	TraE protein	wg-ot-23-016_10185	709698	710025	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_10190	710021	710324	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_10195	710323	710428	No	contig_3
+NA	Bacterial conjugation TrbI-like family protein	wg-ot-23-016_10200	710527	711004	No	contig_3
+traV	conjugal transfer protein TraV, complete TraV	wg-ot-23-016_10205	711003	711333	No	contig_3
+virB4	Type IV secretory pathway, VirB4 component	wg-ot-23-016_10210	711313	712939	No	contig_3
+NA	AAA-like domain protein	wg-ot-23-016_10215	712944	713814	No	contig_3
+traW	type-F conjugative transfer system protein TraW, complete TraW	wg-ot-23-016_10220	713810	714470	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_10225	714553	714727	No	contig_3
+traU	conjugal transfer protein TraU, complete TraU	wg-ot-23-016_10230	714760	715705	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_10235	715555	716293	Yes	contig_3
+NA	Toprim domain protein	wg-ot-23-016_10240	716344	716896	Yes	contig_3
+ykfC	reverse transcriptase	wg-ot-23-016_10245	717082	718411	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_10250	718595	718751	Yes	contig_3
+NA	AHH domain-containing protein	wg-ot-23-016_10255	719225	720908	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_10260	720934	721558	No	contig_3
+NA	transposase	wg-ot-23-016_10265	722126	723053	Yes	contig_3
+NA	truncated RelA/SpoT homolog (RSH) protein	wg-ot-23-016_10270	723173	723749	Yes	contig_3
+NA	sensor histidine kinase	wg-ot-23-016_10275	723849	724707	Yes	contig_3
+NA	ATP-binding protein	wg-ot-23-016_10280	724728	725457	Yes	contig_3
+NA	RNA-binding protein	wg-ot-23-016_10285	726472	728509	Yes	contig_3
+dam	DNA-adenine methylase	wg-ot-23-016_10290	729411	730224	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_10295	730227	730776	Yes	contig_3
+NA	Ankyrin repeat protein with 6 ankyrin repeats, Ank03	wg-ot-23-016_10300	730822	731467	Yes	contig_3
+NA	truncated RelA/SpoT homolog (RSH) protein	wg-ot-23-016_10305	731501	732077	Yes	contig_3
+NA	Replicative DNA helicase	wg-ot-23-016_10310	732309	733101	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_10315	733162	733309	No	contig_3
+NA	DnaB-like helicase N terminal domain protein	wg-ot-23-016_10320	733251	733746	Yes	contig_3
+NA	DnaA-N domain-containing protein	wg-ot-23-016_10325	733754	735470	Yes	contig_3
+traB	conjugal transfer protein TraB, complete TraB	wg-ot-23-016_10330	735678	737007	Yes	contig_3
+traK2	conjugal transfer protein traK2, complete TraK-2	wg-ot-23-016_10335	737045	737378	Yes	contig_3
+traK1	conjugal transfer protein traK1, complete TraK-1	wg-ot-23-016_10340	737742	738219	Yes	contig_3
+traE	conjugal transfer protein TraE, complete TraE	wg-ot-23-016_10345	738215	738767	Yes	contig_3
+traL	conjugal transfer protein traL, complete TraL	wg-ot-23-016_10350	738766	739102	Yes	contig_3
+bcp	peroxiredoxin	wg-ot-23-016_10355	739169	739640	Yes	contig_3
+xerD	Site-specific recombinase XerD	wg-ot-23-016_10360	739642	740782	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_10365	741199	741700	Yes	contig_3
+NA	Transposase	wg-ot-23-016_10370	741985	742276	No	contig_3
+NA	IS5 family transposase ISOt6	wg-ot-23-016_10375	742500	742713	Yes	contig_3
+NA	IS5 family transposase ISOt6	wg-ot-23-016_10380	742992	743160	Yes	contig_3
+NA	Sporulation related domain protein	wg-ot-23-016_10385	743222	743975	Yes	contig_3
+argS	arginine--tRNA ligase	wg-ot-23-016_10390	743986	745759	Yes	contig_3
+iscA	iron-sulfur cluster assembly accessory protein	wg-ot-23-016_10395	745924	746269	No	contig_3
+gltX	glutamate--tRNA ligase	wg-ot-23-016_10400	746269	747727	Yes	contig_3
+alaS	alanine--tRNA ligase	wg-ot-23-016_10405	747891	750558	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_10410	750690	752304	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_10415	752305	752938	No	contig_3
+atpG	ATPase	wg-ot-23-016_10420	752948	753839	Yes	contig_3
+atpA	ATP synthase subunit alpha	wg-ot-23-016_10425	753853	755392	Yes	contig_3
+atpH	ATP synthase subunit delta	wg-ot-23-016_10430	755434	755980	Yes	contig_3
+dut	deoxyuridine 5'-triphosphate nucleotidohydrolase	wg-ot-23-016_10435	756074	756521	Yes	contig_3
+infC	translation initiation factor IF-3	wg-ot-23-016_10440	756687	757233	Yes	contig_3
+thrS	threonine--tRNA ligase	wg-ot-23-016_10445	757229	759191	Yes	contig_3
+folC	bifunctional folylpolyglutamate synthase/dihydrofolate synthase	wg-ot-23-016_10450	759450	760782	No	contig_3
+NA	peptidylprolyl isomerase	wg-ot-23-016_10455	760882	761914	Yes	contig_3
+secA	preprotein translocase subunit SecA	wg-ot-23-016_10460	762159	764802	No	contig_3
+traA	conjugal transfer protein TraA	wg-ot-23-016_10465	765290	767522	Yes	contig_3
+NA	Conjugal transfer protein TraA	wg-ot-23-016_10470	767735	767855	Yes	contig_3
+rppH	RNA pyrophosphohydrolase	wg-ot-23-016_10475	768919	769405	Yes	contig_3
+NA	DnaA-N domain-containing protein	wg-ot-23-016_10480	769760	770171	No	contig_3
+NA	Ankyrin repeat family protein	wg-ot-23-016_10485	770519	770732	No	contig_3
+NA	IS5 family transposase ISOt6	wg-ot-23-016_10490	771927	772146	Yes	contig_3
+NA	Conjugal transfer protein TraH	wg-ot-23-016_10495	772174	772324	Yes	contig_3
+NA	Tetratricopeptide repeat protein	wg-ot-23-016_10500	773081	774281	No	contig_3
+NA	DUF4065 domain-containing protein	wg-ot-23-016_10505	774390	774951	No	contig_3
+traF	conjugal transfer protein TraF, complete TraF	wg-ot-23-016_10510	774962	775679	No	contig_3
+traH	conjugal transfer protein TraH, complete TraH	wg-ot-23-016_10515	775675	776977	No	contig_3
+traG	conjugal transfer protein TraG, complete TraG	wg-ot-23-016_10520	776976	779640	No	contig_3
+NA	Tetratricopeptide repeat protein	wg-ot-23-016_10525	779647	780790	No	contig_3
+traD	conjugal transfer protein TraD, complete TraD	wg-ot-23-016_10530	780793	782548	No	contig_3
+NA	Putative permease	wg-ot-23-016_10535	782557	783565	Yes	contig_3
+traI	conjugal transfer protein TraI, complete TraI	wg-ot-23-016_10540	783616	786286	Yes	contig_3
+traA	conjugal transfer protein TraA, complete TraA	wg-ot-23-016_10545	786551	789371	Yes	contig_3
+traD	conjugal transfer protein TraD, complete TraD	wg-ot-23-016_10550	789647	790103	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_10555	790172	791138	Yes	contig_3
+NA	Conjugal transfer protein TraD	wg-ot-23-016_10560	791436	791613	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_10565	791779	792778	Yes	contig_3
+NA	truncated RelA/SpoT homolog (RSH) protein	wg-ot-23-016_10570	792901	793489	Yes	contig_3
+NA	ATP-binding protein	wg-ot-23-016_10575	793530	794025	Yes	contig_3
+NA	ATP-binding protein	wg-ot-23-016_10580	794043	794979	Yes	contig_3
+NA	Putative signal transduction histidine kinase	wg-ot-23-016_10585	794995	795796	Yes	contig_3
+NA	Histidine kinase domain-containing protein	wg-ot-23-016_10590	795925	796627	Yes	contig_3
+NA	ATP-binding protein	wg-ot-23-016_10595	796691	796970	Yes	contig_3
+dam	DNA methyltransferase	wg-ot-23-016_10600	797337	798147	No	contig_3
+NA	Putative ompA-like autotransporter	wg-ot-23-016_10605	798150	798744	Yes	contig_3
+NA	Ankyrin repeat protein with 6 ankyrin repeats, Ank03	wg-ot-23-016_10610	798846	799491	Yes	contig_3
+NA	truncated RelA/SpoT homolog (RSH) protein	wg-ot-23-016_10615	799528	800104	Yes	contig_3
+dnaB	replicative DNA helicase	wg-ot-23-016_10620	800336	801785	Yes	contig_3
+NA	DnaA-N domain-containing protein	wg-ot-23-016_10625	801793	803509	Yes	contig_3
+NA	Transposase	wg-ot-23-016_10630	803754	804084	No	contig_3
+recF	DNA replication/repair protein RecF	wg-ot-23-016_10635	804234	805374	Yes	contig_3
+ftsQ	cell division protein FtsQ	wg-ot-23-016_10640	805391	806222	Yes	contig_3
+ddl	D-alanine--D-alanine ligase	wg-ot-23-016_10645	806214	807189	Yes	contig_3
+murB	UDP-N-acetylenolpyruvoylglucosamine reductase	wg-ot-23-016_10650	807166	808078	Yes	contig_3
+murC	UDP-N-acetylmuramate--L-alanine ligase	wg-ot-23-016_10655	808046	809612	Yes	contig_3
+NA	OMP-b-brl domain-containing protein	wg-ot-23-016_10660	809722	810448	Yes	contig_3
+tsa56	type-specific antigen TSA56	wg-ot-23-016_10665	810675	812286	Yes	contig_3
+glyQ	glycine--tRNA ligase subunit alpha	wg-ot-23-016_10670	812829	813699	No	contig_3
+glyS	glycine--tRNA ligase subunit beta	wg-ot-23-016_10675	813700	815752	No	contig_3
+tsaC	threonylcarbamoyl-AMP synthase	wg-ot-23-016_10680	815741	816698	No	contig_3
+NA	IS110 family transposase	wg-ot-23-016_10685	817981	818122	No	contig_3
+NA	Transposase	wg-ot-23-016_10690	818135	818291	No	contig_3
+NA	Transposase	wg-ot-23-016_10695	818268	818415	No	contig_3
+NA	SCO family protein	wg-ot-23-016_10700	819623	820274	No	contig_3
+NA	Integrase	wg-ot-23-016_10705	820700	820991	No	contig_3
+NA	Integrase	wg-ot-23-016_10710	821111	821456	No	contig_3
+NA	Integrase	wg-ot-23-016_10715	821480	821654	No	contig_3
+NA	Integrase	wg-ot-23-016_10720	821747	821924	No	contig_3
+traL	conjugal transfer protein traL, complete TraL	wg-ot-23-016_10725	822049	822385	No	contig_3
+NA	Conjugal transfer protein TraE	wg-ot-23-016_10730	822384	822804	No	contig_3
+NA	Conjugal transfer protein TraE	wg-ot-23-016_10735	822803	822935	No	contig_3
+traK1	conjugal transfer protein traK1, complete TraK-1	wg-ot-23-016_10740	822931	823396	No	contig_3
+xerD	Site-specific recombinase XerD	wg-ot-23-016_10745	823452	824094	Yes	contig_3
+NA	Integrase	wg-ot-23-016_10750	824202	824397	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_10755	824794	824995	Yes	contig_3
+NA	Transposase	wg-ot-23-016_10760	825107	825374	Yes	contig_3
+NA	IS630 family transposase	wg-ot-23-016_10765	825508	825637	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_10770	826681	826810	Yes	contig_3
+NA	DDE superendonuclease family protein	wg-ot-23-016_10775	828633	829053	Yes	contig_3
+NA	IS5 family transposase ISOt6	wg-ot-23-016_10780	829042	829336	Yes	contig_3
+NA	Putative transposase	wg-ot-23-016_10785	829326	829497	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_10790	829596	830343	Yes	contig_3
+rpsI	30S ribosomal protein S9	wg-ot-23-016_10800	830677	831169	Yes	contig_3
+rplM	50S ribosomal protein L13	wg-ot-23-016_10805	831172	831655	Yes	contig_3
+truA	tRNA pseudouridine(38-40) synthase TruA	wg-ot-23-016_10810	831796	832648	No	contig_3
+prmC	peptide chain release factor N(5)-glutamine methyltransferase	wg-ot-23-016_10815	832649	833516	No	contig_3
+ubiG	bifunctional 3-demethylubiquinone 3-O-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase	wg-ot-23-016_10820	833502	834243	Yes	contig_3
+yggU	UPF0235 protein OTT_0925	wg-ot-23-016_10825	834406	834745	No	contig_3
+dusB	tRNA dihydrouridine synthase DusB	wg-ot-23-016_10830	834773	835742	Yes	contig_3
+ruvC	crossover junction endodeoxyribonuclease RuvC	wg-ot-23-016_10835	835797	836313	Yes	contig_3
+NA	TrbC/VirB2 family protein	wg-ot-23-016_10840	836446	836806	Yes	contig_3
+NA	TrbC/VirB2 family protein	wg-ot-23-016_10845	836869	837226	Yes	contig_3
+NA	ATP/ADP translocase	wg-ot-23-016_10850	837468	838968	Yes	contig_3
+NA	IS630 family transposase	wg-ot-23-016_10855	839526	839841	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_10860	840052	840814	No	contig_3
+nuoF	NADH-quinone oxidoreductase subunit F	wg-ot-23-016_10865	841110	842379	Yes	contig_3
+nuoE	NADH-quinone oxidoreductase subunit E	wg-ot-23-016_10870	842396	842951	Yes	contig_3
+nuoD	NADH-quinone oxidoreductase subunit D	wg-ot-23-016_10875	842947	844138	Yes	contig_3
+nuoC	NADH-quinone oxidoreductase subunit C	wg-ot-23-016_10880	844163	844751	Yes	contig_3
+nuoB	NADH-quinone oxidoreductase subunit B	wg-ot-23-016_10885	844761	845277	Yes	contig_3
+nuoA	NADH-quinone oxidoreductase subunit A	wg-ot-23-016_10890	845289	845661	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_10895	845877	846096	No	contig_3
+NA	IS5 family transposase ISOt6	wg-ot-23-016_10900	846365	846548	No	contig_3
+brkB	Virulence factor BrkB	wg-ot-23-016_10905	848350	849196	No	contig_3
+NA	IS110 family transposase	wg-ot-23-016_10910	849478	849631	No	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_10915	849910	850066	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_10925	850902	851592	Yes	contig_3
+murA	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	wg-ot-23-016_10930	852405	853671	No	contig_3
+ftsZ	cell division protein FtsZ	wg-ot-23-016_10935	853875	855237	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_10940	855320	856292	No	contig_3
+otGTA	prohead protease	wg-ot-23-016_10945	856971	857526	No	contig_3
+otGTA	phage major capsid protein	wg-ot-23-016_10950	857537	858653	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_10955	858686	859232	No	contig_3
+NA	head-tail adaptor protein	wg-ot-23-016_10960	859233	859575	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_10965	859574	860000	No	contig_3
+NA	DUF2460 domain-containing protein	wg-ot-23-016_10970	859992	860595	No	contig_3
+otGTA	DUF2163 domain-containing protein	wg-ot-23-016_10975	860607	861411	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_10980	861508	861937	No	contig_3
+grxC	glutaredoxin	wg-ot-23-016_10985	862144	862528	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_10990	863067	864669	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_10995	865897	866098	Yes	contig_3
+NA	Transposase	wg-ot-23-016_11000	866201	866504	No	contig_3
+prfB	peptide chain release factor RF-2	wg-ot-23-016_11005	866690	866951	Yes	contig_3
+NA	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxy late synthase MenH and related esterases, alpha/beta hydrolase fold	wg-ot-23-016_11010	867075	867819	Yes	contig_3
+NA	truncated RelA/SpoT homolog (RSH) protein	wg-ot-23-016_11015	868760	868934	Yes	contig_3
+NA	truncated RelA/SpoT homolog (RSH) protein	wg-ot-23-016_11020	869024	869114	Yes	contig_3
+NA	sensor histidine kinase	wg-ot-23-016_11025	869214	870072	Yes	contig_3
+NA	Histidine kinase domain-containing protein	wg-ot-23-016_11030	870093	870822	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_11035	871170	871887	Yes	contig_3
+dam	DNA-adenine methylase	wg-ot-23-016_11040	872436	873201	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_11045	873350	874478	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_11050	874863	875322	Yes	contig_3
+NA	Putative membrane protein	wg-ot-23-016_11055	876023	876146	Yes	contig_3
+NA	TPR repeat-containing protein 02_02	wg-ot-23-016_11060	876149	876347	No	contig_3
+NA	Conjugal transfer protein TraD	wg-ot-23-016_11065	876677	876947	No	contig_3
+NA	transposase	wg-ot-23-016_11070	877009	877924	Yes	contig_3
+NA	truncated RelA/SpoT homolog (RSH) protein	wg-ot-23-016_11075	878045	878621	Yes	contig_3
+NA	sensor histidine kinase	wg-ot-23-016_11080	878721	879579	Yes	contig_3
+NA	ATP-binding protein	wg-ot-23-016_11085	879600	880329	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_11090	880677	880914	Yes	contig_3
+tnp-IS630	IS630 family transposase	wg-ot-23-016_11095	880957	881314	No	contig_3
+tnp-IS630	IS630 family transposase	wg-ot-23-016_11100	881318	881825	No	contig_3
+NA	sodium:proline symporter	wg-ot-23-016_11105	882441	885876	Yes	contig_3
+NA	Transposase	wg-ot-23-016_11110	886294	886414	No	contig_3
+dam	DNA methyltransferase	wg-ot-23-016_11115	886812	887127	No	contig_3
+dam	DNA methyltransferase	wg-ot-23-016_11120	887484	887625	No	contig_3
+NA	Putative ompA-like autotransporter	wg-ot-23-016_11125	887628	888132	Yes	contig_3
+NA	Ankyrin repeat protein with 6 ankyrin repeats, Ank03	wg-ot-23-016_11130	888178	888823	Yes	contig_3
+NA	truncated RelA/SpoT homolog (RSH) protein	wg-ot-23-016_11135	888860	889436	Yes	contig_3
+dnaB	replicative DNA helicase	wg-ot-23-016_11140	889668	890904	Yes	contig_3
+NA	DnaB-like helicase N terminal domain protein	wg-ot-23-016_11145	890997	891117	Yes	contig_3
+NA	DnaA-N domain-containing protein	wg-ot-23-016_11150	891125	892841	Yes	contig_3
+NA	Conjugative transfer protein	wg-ot-23-016_11155	893401	894040	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_11160	894175	895351	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_11165	895443	895848	No	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_11170	895942	896302	No	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_11175	896305	896584	No	contig_3
+NA	Conjugal transfer protein TraH	wg-ot-23-016_11180	896580	897195	No	contig_3
+NA	Conjugal transfer protein TraH	wg-ot-23-016_11185	897259	897883	No	contig_3
+traG	conjugal transfer protein TraG, complete TraG	wg-ot-23-016_11190	897882	900534	No	contig_3
+NA	Tetratricopeptide repeat protein	wg-ot-23-016_11195	900549	901695	No	contig_3
+traD	conjugal transfer protein TraD, complete TraD	wg-ot-23-016_11200	901700	903455	No	contig_3
+NA	Recombination-promoting DNA endonuclease RpnC/YadD	wg-ot-23-016_11205	903464	904520	Yes	contig_3
+NA	Conjugal transfer protein TraI	wg-ot-23-016_11210	904571	905198	Yes	contig_3
+ykfC	reverse transcriptase	wg-ot-23-016_11215	905309	906638	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_11220	906822	906978	Yes	contig_3
+NA	Conjugal transfer protein TraI	wg-ot-23-016_11225	907110	909171	Yes	contig_3
+traA	conjugal transfer protein TraA, complete TraA	wg-ot-23-016_11230	909434	912266	Yes	contig_3
+traD	conjugal transfer protein TraD, complete TraD	wg-ot-23-016_11235	912542	912998	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_11240	913081	913225	No	contig_3
+NA	Tetratricopeptide repeat protein	wg-ot-23-016_11245	913321	914191	No	contig_3
+fliH	Flagellar biosynthesis/type III secretory pathway protein FliH	wg-ot-23-016_11250	914576	915623	Yes	contig_3
+NA	truncated RelA/SpoT homolog (RSH) protein	wg-ot-23-016_11255	915744	916320	Yes	contig_3
+NA	sensor histidine kinase	wg-ot-23-016_11260	916420	917278	Yes	contig_3
+NA	Signal transduction histidine kinase	wg-ot-23-016_11265	917252	918029	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_11270	918377	919094	Yes	contig_3
+dam	DNA-adenine methylase	wg-ot-23-016_11275	919643	920456	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_11280	920459	920963	Yes	contig_3
+NA	Ankyrin repeat protein with 6 ankyrin repeats, Ank03	wg-ot-23-016_11285	921009	921657	Yes	contig_3
+NA	truncated RelA/SpoT homolog (RSH) protein	wg-ot-23-016_11290	921691	922267	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_11295	922496	924203	Yes	contig_3
+NA	Bacterial conjugation TrbI-like family protein	wg-ot-23-016_11300	924411	924885	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_11305	924984	925089	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_11310	925088	925391	Yes	contig_3
+NA	TraE protein	wg-ot-23-016_11315	925387	925714	Yes	contig_3
+NA	Conjugal transfer protein TraE	wg-ot-23-016_11320	925797	925941	Yes	contig_3
+traL	conjugal transfer protein traL, complete TraL	wg-ot-23-016_11325	925940	926276	Yes	contig_3
+NA	Putative integrase	wg-ot-23-016_11330	926599	927103	Yes	contig_3
+NA	Putative integrase	wg-ot-23-016_11335	927312	927657	Yes	contig_3
+NA	Tetratricopeptide repeat protein	wg-ot-23-016_11340	928480	928798	No	contig_3
+NA	Transposase	wg-ot-23-016_11345	928846	929149	Yes	contig_3
+NA	IS5 family transposase ISOt6	wg-ot-23-016_11350	929160	929430	Yes	contig_3
+ung	uracil-DNA glycosylase	wg-ot-23-016_11355	929826	930633	No	contig_3
+NA	Serine transporter YbeC, amino acid:H+ symporter family	wg-ot-23-016_11360	932316	933600	No	contig_3
+NA	HTH cro/C1-type domain-containing protein	wg-ot-23-016_11365	933939	936858	Yes	contig_3
+NA	Transposase	wg-ot-23-016_11370	937290	937566	No	contig_3
+NA	cytochrome b	wg-ot-23-016_11375	938381	939578	Yes	contig_3
+petA	ubiquinol-cytochrome c reductase iron-sulfur subunit	wg-ot-23-016_11380	939718	940384	Yes	contig_3
+NA	DUF2670 domain-containing protein	wg-ot-23-016_11385	940495	941635	Yes	contig_3
+ccmB	heme exporter protein B	wg-ot-23-016_11390	941788	942439	Yes	contig_3
+ccmA	cytochrome c biogenesis protein CcmA	wg-ot-23-016_11395	942435	943041	Yes	contig_3
+acnA	Aconitate hydratase A	wg-ot-23-016_11400	943132	943462	No	contig_3
+acnA	Aconitate hydratase A	wg-ot-23-016_11405	943409	944267	No	contig_3
+NA	Putative transposase	wg-ot-23-016_11410	944695	944851	No	contig_3
+NA	Transposase DDE domain protein	wg-ot-23-016_11415	945280	945517	Yes	contig_3
+NA	Tetratricopeptide repeat protein	wg-ot-23-016_11420	945713	946706	No	contig_3
+NA	DUF4065 domain-containing protein	wg-ot-23-016_11425	946821	947382	No	contig_3
+traF	conjugal transfer protein TraF, complete TraF	wg-ot-23-016_11430	947393	948110	No	contig_3
+traH	conjugal transfer protein TraH, complete TraH	wg-ot-23-016_11435	948106	949408	No	contig_3
+traG	conjugal transfer protein TraG	wg-ot-23-016_11440	949407	950358	No	contig_3
+NA	Conjugal transfer protein TraC	wg-ot-23-016_11445	950568	950874	No	contig_3
+NA	Site-specific DNA-methyltransferase (adenine-specific)	wg-ot-23-016_11450	951339	951522	No	contig_3
+rmd1	ribonuclease D	wg-ot-23-016_11455	951554	952424	Yes	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_11460	952771	952927	Yes	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_11465	953029	953176	Yes	contig_3
+NA	conjugal transfer protein TraB	wg-ot-23-016_11470	953436	953673	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_11475	954121	954259	Yes	contig_3
+ctaA	Heme A synthase	wg-ot-23-016_11480	954739	955819	Yes	contig_3
+NA	Transposase	wg-ot-23-016_11485	956812	957037	Yes	contig_3
+NA	Transposase	wg-ot-23-016_11490	957043	957319	No	contig_3
+NA	Transposase	wg-ot-23-016_11495	957318	957534	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_11500	957560	957671	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_11505	957733	958120	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_11510	958290	960231	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_11515	960262	962854	Yes	contig_3
+NA	DDE superendonuclease family protein	wg-ot-23-016_11520	963604	963787	Yes	contig_3
+NA	Conjugal transfer protein TraC	wg-ot-23-016_11525	964007	964604	No	contig_3
+NA	Conjugal transfer protein TraC	wg-ot-23-016_11530	964739	964922	No	contig_3
+NA	CvpA family protein	wg-ot-23-016_11535	964886	965501	Yes	contig_3
+ygfA	5-formyltetrahydrofolate cyclo-ligase	wg-ot-23-016_11540	965497	966070	Yes	contig_3
+NA	potassium transporter	wg-ot-23-016_11545	966242	967985	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_11550	967971	968463	No	contig_3
+NA	aspartate kinase	wg-ot-23-016_11555	968742	969957	No	contig_3
+NA	IS5 family transposase ISOt6	wg-ot-23-016_11560	970695	970815	No	contig_3
+NA	IS5 family transposase ISOt6	wg-ot-23-016_11565	970926	971055	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_11570	971842	971950	Yes	contig_3
+NA	Reverse transcriptase	wg-ot-23-016_11575	972076	972295	Yes	contig_3
+murG	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase	wg-ot-23-016_11580	972843	973923	Yes	contig_3
+ftsW	cell division protein FtsW	wg-ot-23-016_11585	973926	975054	Yes	contig_3
+murD	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase	wg-ot-23-016_11590	975060	976479	Yes	contig_3
+lplB	lipoate-protein ligase B	wg-ot-23-016_11595	976561	977188	No	contig_3
+NA	Reverse transcriptase	wg-ot-23-016_11600	978095	978257	Yes	contig_3
+NA	Reverse transcriptase	wg-ot-23-016_11605	978356	978749	Yes	contig_3
+NA	truncated RelA/SpoT homolog (RSH) protein	wg-ot-23-016_11610	979063	979261	No	contig_3
+NA	Ankyrin repeat protein with 6 ankyrin repeats, Ank03	wg-ot-23-016_11615	979295	979940	No	contig_3
+NA	Putative ompA-like autotransporter	wg-ot-23-016_11620	979987	980536	No	contig_3
+dam	DNA methyltransferase	wg-ot-23-016_11625	980539	981349	Yes	contig_3
+NA	Signal transduction histidine kinase	wg-ot-23-016_11630	981716	982493	No	contig_3
+NA	sensor histidine kinase	wg-ot-23-016_11635	982467	983325	No	contig_3
+NA	truncated RelA/SpoT homolog (RSH) protein	wg-ot-23-016_11640	983425	984001	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_11645	984076	984880	No	contig_3
+traD	conjugal transfer protein TraD, complete TraD	wg-ot-23-016_11650	984938	985394	Yes	contig_3
+NA	Conjugal transfer protein TraA	wg-ot-23-016_11655	985672	986719	No	contig_3
+NA	Conjugal transfer protein TraA	wg-ot-23-016_11660	986746	986989	No	contig_3
+recD	ATPase/5’-3’ helicase helicase subunit RecD of the DNA repair enzyme RecBCD (exonuclease V)	wg-ot-23-016_11665	986960	987653	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_11670	987874	988576	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_11675	988583	989264	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_11680	989337	989661	Yes	contig_3
+NA	DDE superendonuclease family protein	wg-ot-23-016_11685	989989	990160	Yes	contig_3
+NA	Toprim domain protein	wg-ot-23-016_11690	990296	990767	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_11695	990899	991028	No	contig_3
+ykfC	reverse transcriptase	wg-ot-23-016_11700	991237	992566	No	contig_3
+NA	Toprim domain protein	wg-ot-23-016_11705	992752	993304	No	contig_3
+NA	transposase	wg-ot-23-016_11710	993355	993916	No	contig_3
+NA	IS110-like element ISOt5 family transposase	wg-ot-23-016_11715	993931	994894	Yes	contig_3
+NA	Putative transposase	wg-ot-23-016_11720	995122	995524	No	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_11725	995533	996262	Yes	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_11730	996251	997202	Yes	contig_3
+NA	Conjugal transfer protein TraH	wg-ot-23-016_11735	997209	997464	Yes	contig_3
+NA	Conjugal transfer protein TraH	wg-ot-23-016_11740	997658	998288	Yes	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_11745	998284	998533	Yes	contig_3
+NA	F plasmid transfer operon family protein	wg-ot-23-016_11750	998536	998701	Yes	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_11755	998710	998938	Yes	contig_3
+NA	Conjugal transfer protein TraN	wg-ot-23-016_11760	998983	999280	Yes	contig_3
+NA	Putative integrase, complete integrase	wg-ot-23-016_11765	999674	1000886	No	contig_3
+traL	conjugal transfer protein traL	wg-ot-23-016_11770	1001006	1001312	No	contig_3
+NA	conjugative transfer protein	wg-ot-23-016_11775	1001341	1001659	No	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_11780	1001688	1001871	No	contig_3
+traV	conjugal transfer protein TraV, complete TraV	wg-ot-23-016_11785	1001870	1002200	No	contig_3
+NA	Conjugal transfer protein TraC	wg-ot-23-016_11790	1002180	1003053	No	contig_3
+NA	Conjugal transfer protein TraC	wg-ot-23-016_11795	1003054	1003174	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_11800	1003323	1004139	No	contig_3
+NA	Transposase	wg-ot-23-016_11805	1004189	1004435	Yes	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_11810	1004823	1005507	No	contig_3
+trbC	type-F conjugative transfer system pilin assembly protein TrbC	wg-ot-23-016_11815	1005575	1005914	No	contig_3
+NA	Conjugal transfer protein TraN	wg-ot-23-016_11820	1006010	1006289	No	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_11825	1006300	1006675	No	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_11830	1006709	1006988	No	contig_3
+NA	Conjugal transfer protein TraH	wg-ot-23-016_11835	1006984	1007224	No	contig_3
+NA	Conjugal transfer protein TraH	wg-ot-23-016_11840	1007213	1007615	No	contig_3
+NA	Conjugal transfer protein TraH	wg-ot-23-016_11845	1007809	1008289	No	contig_3
+NA	Conjugal transfer protein TraG	wg-ot-23-016_11850	1008288	1008540	No	contig_3
+traG	conjugal transfer protein TraG	wg-ot-23-016_11855	1008554	1010831	No	contig_3
+NA	Tetratricopeptide repeat protein	wg-ot-23-016_11860	1010943	1012086	No	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_11865	1012089	1012866	No	contig_3
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	wg-ot-23-016_11870	1012980	1013844	No	contig_3
+NA	Putative transposase	wg-ot-23-016_11875	1013853	1014255	Yes	contig_3
+NA	IS110-like element ISOt5 family transposase	wg-ot-23-016_11880	1014483	1015446	No	contig_3
+NA	transposase	wg-ot-23-016_11885	1015461	1016022	Yes	contig_3
+NA	Conjugal transfer protein TraI	wg-ot-23-016_11890	1016073	1017876	Yes	contig_3
+NA	Conjugal transfer protein TraI	wg-ot-23-016_11895	1018025	1018742	Yes	contig_3
+NA	Conjugal transfer protein TraA	wg-ot-23-016_11900	1019297	1019597	Yes	contig_3
+NA	Transposase family protein	wg-ot-23-016_11905	1019690	1019888	No	contig_3
+tnp-IS630	IS630 family transposase	wg-ot-23-016_11910	1020053	1020560	No	contig_3
+NA	Phosphoglycerate mutase GpmB	wg-ot-23-016_11915	1020508	1020793	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_11920	1020789	1021440	Yes	contig_3
+NA	M61 family peptidase	wg-ot-23-016_11925	1021474	1023148	Yes	contig_3
+NA	IS630 family transposase	wg-ot-23-016_11935	1024039	1024414	Yes	contig_3
+traD	conjugal transfer protein TraD	wg-ot-23-016_11940	1024515	1024914	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_11945	1024997	1025141	No	contig_3
+NA	Tetratricopeptide repeat protein	wg-ot-23-016_11950	1025237	1025597	No	contig_3
+NA	Conjugal transfer protein TraD	wg-ot-23-016_11955	1025928	1026093	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_11960	1026259	1027198	Yes	contig_3
+NA	Signal transduction histidine kinase	wg-ot-23-016_11965	1027321	1027852	Yes	contig_3
+NA	ATP-binding protein	wg-ot-23-016_11970	1027870	1028803	Yes	contig_3
+NA	sensor histidine kinase	wg-ot-23-016_11975	1028825	1029398	Yes	contig_3
+NA	Putative ompA-like autotransporter	wg-ot-23-016_11980	1029677	1030184	Yes	contig_3
+NA	Ankyrin repeat protein with 5 ankyrin repeats	wg-ot-23-016_11985	1030230	1030737	Yes	contig_3
+NA	Replicative DNA helicase	wg-ot-23-016_11990	1031094	1031886	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_11995	1031947	1032094	No	contig_3
+NA	DnaB-like helicase N terminal domain protein	wg-ot-23-016_12000	1032036	1032531	Yes	contig_3
+NA	DnaA-N domain-containing protein	wg-ot-23-016_12005	1032539	1033280	Yes	contig_3
+xerD	integrase, complete integrase	wg-ot-23-016_12010	1033737	1034937	No	contig_3
+traL	conjugal transfer protein traL, complete TraL	wg-ot-23-016_12015	1035057	1035393	No	contig_3
+NA	hypothetical protein, complete TraE	wg-ot-23-016_12020	1035392	1036415	No	contig_3
+traK2	conjugal transfer protein traK2, complete TraK-2	wg-ot-23-016_12025	1036571	1036892	No	contig_3
+traB	conjugal transfer protein TraB, complete TraB	wg-ot-23-016_12030	1036934	1038263	No	contig_3
+traV	conjugal transfer protein TraV, complete TraV	wg-ot-23-016_12035	1038262	1038592	No	contig_3
+traC	conjugal transfer protein TraC, complete TraC	wg-ot-23-016_12040	1038572	1041062	No	contig_3
+traW	type-F conjugative transfer system protein TraW, complete TraW	wg-ot-23-016_12045	1041058	1041718	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_12050	1041804	1042008	No	contig_3
+traU	conjugal transfer protein TraU, complete TraU	wg-ot-23-016_12055	1042008	1042986	No	contig_3
+trbC	type-F conjugative transfer system pilin assembly protein TrbC, complete trbC	wg-ot-23-016_12060	1043008	1043392	No	contig_3
+traN	conjugal transfer protein TraN, complete TraN	wg-ot-23-016_12065	1043388	1045080	No	contig_3
+NA	Ankyrin repeat protein with 7 ankyrin repeats	wg-ot-23-016_12070	1045147	1046746	No	contig_3
+traF	conjugal transfer protein TraF, complete TraF	wg-ot-23-016_12075	1046861	1047578	No	contig_3
+traH	conjugal transfer protein TraH, complete TraH	wg-ot-23-016_12080	1047574	1048876	No	contig_3
+traG	conjugal transfer protein TraG, complete TraG	wg-ot-23-016_12085	1048875	1051509	No	contig_3
+NA	Tetratricopeptide repeat protein	wg-ot-23-016_12090	1051521	1052661	No	contig_3
+traD	conjugal transfer protein TraD, complete TraD	wg-ot-23-016_12095	1052666	1054421	No	contig_3
+NA	Transposase-31 domain-containing protein	wg-ot-23-016_12100	1054430	1055474	Yes	contig_3
+NA	Toprim domain protein	wg-ot-23-016_12105	1055525	1056077	Yes	contig_3
+ykfC	reverse transcriptase	wg-ot-23-016_12110	1056263	1057592	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_12115	1057801	1057930	Yes	contig_3
+NA	Conjugal transfer protein TraI	wg-ot-23-016_12120	1058062	1060123	Yes	contig_3
+traA	conjugal transfer protein TraA, complete TraA	wg-ot-23-016_12125	1060389	1063209	Yes	contig_3
+traD	conjugal transfer protein TraD, complete TraD	wg-ot-23-016_12130	1063487	1063943	No	contig_3
+NA	Tetratricopeptide repeat protein	wg-ot-23-016_12135	1064267	1065878	No	contig_3
+NA	transposase	wg-ot-23-016_12140	1066222	1067257	Yes	contig_3
+NA	truncated RelA/SpoT homolog (RSH) protein	wg-ot-23-016_12145	1067381	1067606	Yes	contig_3
+NA	DnaA-N domain-containing protein	wg-ot-23-016_12150	1068326	1068458	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_12155	1068620	1068740	Yes	contig_3
+NA	ribonuclease E	wg-ot-23-016_12160	1068789	1070817	Yes	contig_3
+NA	Orientia SpoT-synthetase	wg-ot-23-016_12165	1071589	1075786	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_12170	1076237	1078217	No	contig_3
+NA	2-oxoacid-dh domain-containing protein	wg-ot-23-016_12175	1078351	1078606	No	contig_3
+aceF	dihydrolipoamide acetyltransferase	wg-ot-23-016_12180	1078608	1078911	No	contig_3
+mreB	rod shape-determining protein	wg-ot-23-016_12185	1079011	1080076	No	contig_3
+mreC	rod shape-determining protein MreC	wg-ot-23-016_12190	1080082	1080934	No	contig_3
+NA	Ankyrin repeat protein with 7 ankyrin repeats	wg-ot-23-016_12195	1081636	1082905	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_12200	1084774	1086535	Yes	contig_3
+NA	sigma-54-dependent Fis family transcriptional regulator	wg-ot-23-016_12205	1086629	1088099	Yes	contig_3
+NA	Histidine kinase	wg-ot-23-016_12210	1088239	1089817	Yes	contig_3
+comEC	competence protein ComEC	wg-ot-23-016_12220	1090476	1092525	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_12225	1092694	1093456	Yes	contig_3
+NA	DnaA-N domain-containing protein	wg-ot-23-016_12230	1094330	1094864	No	contig_3
+dnaB	Replicative DNA helicase	wg-ot-23-016_12235	1094872	1095304	No	contig_3
+NA	Integrase	wg-ot-23-016_12240	1095735	1095978	No	contig_3
+NA	Putative integrase	wg-ot-23-016_12245	1095993	1096584	No	contig_3
+xerD	Site-specific recombinase XerD	wg-ot-23-016_12250	1096583	1096970	No	contig_3
+traL	conjugal transfer protein traL	wg-ot-23-016_12255	1097022	1097328	No	contig_3
+NA	Conjugal transfer protein TraE	wg-ot-23-016_12260	1097431	1097758	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_12265	1097754	1098057	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_12270	1098056	1098161	No	contig_3
+NA	TraB/VirB10 family protein	wg-ot-23-016_12275	1098260	1098734	No	contig_3
+traV	conjugal transfer protein TraV, complete TraV	wg-ot-23-016_12280	1098733	1099063	No	contig_3
+virB4	conjugal transfer protein TraC	wg-ot-23-016_12285	1099043	1100906	No	contig_3
+NA	AAA-like domain protein	wg-ot-23-016_12290	1100917	1101307	No	contig_3
+virB4	conjugal transfer protein	wg-ot-23-016_12295	1101396	1101534	No	contig_3
+traW	type-F conjugative transfer system protein TraW, complete TraW	wg-ot-23-016_12300	1101530	1102190	No	contig_3
+traU	conjugal transfer protein TraU, complete TraU	wg-ot-23-016_12305	1102227	1103172	No	contig_3
+NA	Conjugal transfer protein TraN	wg-ot-23-016_12310	1103203	1103617	No	contig_3
+NA	Type-1V conjugative transfer system mating pair stabilization family protein	wg-ot-23-016_12315	1103653	1104070	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_12320	1104202	1104703	No	contig_3
+NA	DnaA-N domain-containing protein	wg-ot-23-016_12325	1104999	1105746	No	contig_3
+NA	DnaB-like helicase N terminal domain protein	wg-ot-23-016_12330	1105754	1106249	No	contig_3
+NA	Replicative DNA helicase	wg-ot-23-016_12335	1106399	1106753	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_12340	1106810	1107140	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_12345	1107007	1107535	Yes	contig_3
+NA	hypothetical protein	wg-ot-23-016_12350	1109646	1110036	Yes	contig_3
+NA	Replicative DNA helicase	wg-ot-23-016_12355	1110637	1110832	Yes	contig_3
+ahpC	alkyl hydroperoxide reductase	wg-ot-23-016_12360	1111421	1112024	No	contig_3
+dprA	DNA-processing protein DprA	wg-ot-23-016_12365	1112066	1113227	No	contig_3
+NA	Transposase	wg-ot-23-016_12370	1114300	1114501	No	contig_3
+dnaG	DNA primase	wg-ot-23-016_12375	1114940	1116716	No	contig_3
+rpoD	RNA polymerase sigma factor RpoD	wg-ot-23-016_12380	1116699	1118544	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_12385	1118755	1119214	No	contig_3
+NA	Putative integrase, complete integrase	wg-ot-23-016_12390	1119517	1120729	No	contig_3
+traL	conjugal transfer protein traL	wg-ot-23-016_12395	1120849	1121155	No	contig_3
+NA	Conjugal transfer protein TraE	wg-ot-23-016_12400	1121184	1121604	No	contig_3
+NA	Conjugal transfer protein TraE	wg-ot-23-016_12405	1121584	1121743	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_12410	1121732	1122035	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_12415	1122034	1122139	No	contig_3
+NA	TraB/VirB10 family protein	wg-ot-23-016_12420	1122238	1122712	No	contig_3
+traV	conjugal transfer protein TraV, complete TraV	wg-ot-23-016_12425	1122711	1123041	No	contig_3
+traC	conjugal transfer protein TraC, complete TraC	wg-ot-23-016_12430	1123021	1125514	No	contig_3
+traW	type-F conjugative transfer system protein TraW, complete TraW	wg-ot-23-016_12435	1125510	1126170	No	contig_3
+traU	conjugal transfer protein TraU, complete TraU	wg-ot-23-016_12440	1126207	1127152	No	contig_3
+NA	conjugal transfer protein TraN	wg-ot-23-016_12445	1127350	1127818	No	contig_3
+NA	F plasmid transfer operon family protein	wg-ot-23-016_12450	1127783	1127993	No	contig_3
+NA	Conjugal transfer protein TraH	wg-ot-23-016_12455	1127989	1128619	No	contig_3
+NA	Conjugal transfer protein TraH	wg-ot-23-016_12460	1128813	1129068	No	contig_3
+NA	Conjugal transfer protein	wg-ot-23-016_12465	1129075	1129663	No	contig_3
+virD4	Type IV secretory pathway, VirD4 component, TraG/TraD family ATPase	wg-ot-23-016_12470	1129777	1130641	No	contig_3
+NA	Putative transposase	wg-ot-23-016_12475	1130650	1131052	Yes	contig_3
+tnp-IS110	IS110 family transposase	wg-ot-23-016_12480	1131280	1132192	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_12485	1132280	1132481	No	contig_3
+NA	Phage integrase family protein, complete integrase	wg-ot-23-016_12490	1132614	1133835	No	contig_3
+traL	conjugal transfer protein traL, complete TraL	wg-ot-23-016_12495	1133966	1134302	No	contig_3
+traE	conjugal transfer protein TraE, complete TraE	wg-ot-23-016_12500	1134301	1134853	No	contig_3
+traK1	conjugal transfer protein traK1, complete TraK-1	wg-ot-23-016_12505	1134849	1135338	No	contig_3
+traK2	conjugal transfer protein traK2, complete TraK-2	wg-ot-23-016_12510	1135744	1136080	No	contig_3
+traB	conjugal transfer protein TraB, complete TraB	wg-ot-23-016_12515	1136118	1137444	No	contig_3
+traV	conjugal transfer protein TraV, complete TraV	wg-ot-23-016_12520	1137443	1137773	No	contig_3
+traC	conjugal transfer protein TraC, complete TraC	wg-ot-23-016_12525	1137753	1140243	No	contig_3
+traW	type-F conjugative transfer system protein TraW, complete TraW	wg-ot-23-016_12530	1140239	1140899	No	contig_3
+NA	hypothetical protein	wg-ot-23-016_12535	1140985	1141189	No	contig_3
+traU	conjugal transfer protein TraU, complete TraU	wg-ot-23-016_12540	1141189	1142158	No	contig_3

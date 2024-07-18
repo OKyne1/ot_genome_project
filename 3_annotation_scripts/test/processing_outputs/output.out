@@ -1,0 +1,73 @@
+Script directory: ../../6_rage_classification/scripts
+Running 1_gbff_2_txt_complement.py...
+Removing first line of modified_wgot23001_anked_completeness_checked_spotted.txt...
+Running 2_rage_derived_regions.py...
+RAGE derived regions done
+Running 2_rage_boundaries.py...
+RAGE boundaries done
+Starting RAGE boundary validation...
+File1: modified_wgot23001_anked_completeness_checked_spotted_rage_boundaries.bed
+File2: modified_wgot23001_anked_completeness_checked_spotted_rage_derived.bed
+Running bedtools intersect...
+Output saved to modified_wgot23001_anked_completeness_checked_spotted_validated_boundaries.bed
+Combined beds done
+Processing GBFF tables...
+Processing GBFF file: modified_wgot23001_anked_completeness_checked_spotted.txt
+Expected BED file: modified_wgot23001_anked_completeness_checked_spotted_validated_boundaries.bed
+Found BED file: modified_wgot23001_anked_completeness_checked_spotted_validated_boundaries.bed
+Running: python3 "../../6_rage_classification/scripts/3_boundaries_to_complete.py" "modified_wgot23001_anked_completeness_checked_spotted_validated_boundaries.bed" "modified_wgot23001_anked_completeness_checked_spotted.txt"
+Output written to modified_wgot23001_anked_completeness_checked_spotted_complete_RAGEs.bed
+Processed GBFF file: modified_wgot23001_anked_completeness_checked_spotted.txt
+Script execution completed.
+Script directory: ../../6_rage_classification/scripts
+Running 1_gbff_2_txt_complement.py...
+Removing first line of modified_wgot23016_anked_completeness_checked_spotted.txt...
+Running 2_rage_derived_regions.py...
+RAGE derived regions done
+Running 2_rage_boundaries.py...
+RAGE boundaries done
+Starting RAGE boundary validation...
+File1: modified_wgot23016_anked_completeness_checked_spotted_rage_boundaries.bed
+File2: modified_wgot23016_anked_completeness_checked_spotted_rage_derived.bed
+Running bedtools intersect...
+Output saved to modified_wgot23016_anked_completeness_checked_spotted_validated_boundaries.bed
+Combined beds done
+Processing GBFF tables...
+Processing GBFF file: modified_wgot23016_anked_completeness_checked_spotted.txt
+Expected BED file: modified_wgot23016_anked_completeness_checked_spotted_validated_boundaries.bed
+Found BED file: modified_wgot23016_anked_completeness_checked_spotted_validated_boundaries.bed
+Running: python3 "../../6_rage_classification/scripts/3_boundaries_to_complete.py" "modified_wgot23016_anked_completeness_checked_spotted_validated_boundaries.bed" "modified_wgot23016_anked_completeness_checked_spotted.txt"
+Output written to modified_wgot23016_anked_completeness_checked_spotted_complete_RAGEs.bed
+Processed GBFF file: modified_wgot23016_anked_completeness_checked_spotted.txt
+Script execution completed.
+mkdir: cannot create directory ‘rage_derived’: File exists
+mkdir: cannot create directory ‘complete_rage’: File exists
+Script directory: ../../6_rage_classification/scripts
+Running 1_gbff_2_txt_complement.py...
+Removing first line of modified_wgot23031_anked_completeness_checked_spotted.txt...
+Running 2_rage_derived_regions.py...
+RAGE derived regions done
+Running 2_rage_boundaries.py...
+Traceback (most recent call last):
+  File "/mnt/c/Users/oakem/Orientia Biology Dropbox/Oakem Kyne/PC/Documents/ot_genome_project/3_annotation_scripts/test/processing_outputs/../../6_rage_classification/scripts/2_rage_boundaries.py", line 216, in <module>
+    remove_temp_files(split_files + output_files)
+  File "/mnt/c/Users/oakem/Orientia Biology Dropbox/Oakem Kyne/PC/Documents/ot_genome_project/3_annotation_scripts/test/processing_outputs/../../6_rage_classification/scripts/2_rage_boundaries.py", line 195, in remove_temp_files
+    os.remove(file)
+PermissionError: [Errno 13] Permission denied: 'modified_wgot23031_anked_completeness_checked_spotted-contig_2-split-boundary.bed'
+RAGE boundaries done
+Starting RAGE boundary validation...
+File1: modified_wgot23031_anked_completeness_checked_spotted_rage_boundaries.bed
+File2: modified_wgot23031_anked_completeness_checked_spotted_rage_derived.bed
+Running bedtools intersect...
+Output saved to modified_wgot23031_anked_completeness_checked_spotted_validated_boundaries.bed
+Combined beds done
+Processing GBFF tables...
+Processing GBFF file: modified_wgot23031_anked_completeness_checked_spotted.txt
+Expected BED file: modified_wgot23031_anked_completeness_checked_spotted_validated_boundaries.bed
+Found BED file: modified_wgot23031_anked_completeness_checked_spotted_validated_boundaries.bed
+Running: python3 "../../6_rage_classification/scripts/3_boundaries_to_complete.py" "modified_wgot23031_anked_completeness_checked_spotted_validated_boundaries.bed" "modified_wgot23031_anked_completeness_checked_spotted.txt"
+Output written to modified_wgot23031_anked_completeness_checked_spotted_complete_RAGEs.bed
+Processed GBFF file: modified_wgot23031_anked_completeness_checked_spotted.txt
+Script execution completed.
+mkdir: cannot create directory ‘rage_derived’: File exists
+mkdir: cannot create directory ‘complete_rage’: File exists
