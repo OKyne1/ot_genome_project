@@ -1,0 +1,6 @@
+Desired info:
+1. Number of RAGE genes (Based on the bed file and gbff)
+2. Percentage of ORFs in RAGEs (need to use the gbff file here and then fishout info for different regions - careful on the boundaries issue)
+3. Number of RAGE blocks (wc -l bedfile.bed)
+4. Number of IR regions (this is the inverse, but not sure what needs to be done around the ends here - may need to define the length of contigs)
+5. Number of complete RAGEs (wc -l complete_rage.bed)

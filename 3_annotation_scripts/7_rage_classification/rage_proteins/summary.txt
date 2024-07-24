@@ -1,0 +1,6 @@
+Lists tested thoroughly;
+
+1. exclusion_list
+2. lists_combined
+
+These were refined with lots of bed file testing on different genomes (karp, gilliam, boryong) then tested on the others.

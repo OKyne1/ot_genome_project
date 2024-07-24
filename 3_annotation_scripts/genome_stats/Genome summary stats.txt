@@ -1,0 +1,65 @@
+Genome summary stats
+
+Percentage genome RAGE
+1. calculate the area in bed file
+2. calculate the length of the fasta file/length from gbff
+3. 1/2*100
+
+Percentage open reading frames RAGE
+1. Convert gbff to txt
+2. Count the number of lines (total)
+3. Count the number of lines in bed file regions
+4. 2/3*100
+
+Number of RAGE derived blocks
+wc -l rage_derived_regions.bed
+
+Number of IR regions
+1. wc -l rage_derived_regions.bed
+2. +1 if 1st value in bed file is >1
+3. +1 if last value in bed < length fasta (or length -1)
+
+Number of complete RAGEs
+wc -l complete_RAGE.bed
+
+
+Top of the bakta output:
+LOCUS       AM494475.1           2127051 bp    DNA     circular UNK 29-MAY-2024
+DEFINITION  AM494475.1, whole genome shotgun sequence.
+ACCESSION   AM494475
+VERSION     AM494475.1
+KEYWORDS    .
+SOURCE      None
+  ORGANISM  .
+            .
+COMMENT     Annotated with Bakta
+            Software: v1.5.1
+            Database: v4.0
+            DOI: 10.1099/mgen.0.000685
+            URL: github.com/oschwengers/bakta
+
+            ##Genome Annotation Summary:##
+            Annotation Date                :: 05/29/2024, 09:02:49
+            Annotation Pipeline            :: Bakta
+            Annotation Software version    ::  v1.5.1
+            Annotation Database version    ::  v4.0
+            CDSs                           :: 2,443
+            tRNAs                          ::    34
+            tmRNAs                         ::     0
+            rRNAs                          ::     3
+            ncRNAs                         ::     2
+            regulatory ncRNAs              ::     0
+            CRISPR Arrays                  ::     0
+            oriCs/oriVs                    ::     1
+            oriTs                          ::     0
+            gaps                           ::     0
+            pseudogenes                    ::    60
+
+Things we care about (and are present):
+1. Length (line 1)
+2. CDSs 
+3. tRNAs
+
+
+
+Need to reconsider this for contigs!

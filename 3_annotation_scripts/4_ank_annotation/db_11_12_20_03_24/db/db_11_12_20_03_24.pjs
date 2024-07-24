@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "db_11_12_20_03_24",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "ank_3_11_12_20_24",
+  "number-of-letters": 46273,
+  "number-of-sequences": 169,
+  "last-updated": "2024-06-04T11:04:00",
+  "number-of-volumes": 1,
+  "bytes-total": 100859,
+  "bytes-to-cache": 47907,
+  "files": [
+    "db_11_12_20_03_24.pdb",
+    "db_11_12_20_03_24.phr",
+    "db_11_12_20_03_24.pin",
+    "db_11_12_20_03_24.pot",
+    "db_11_12_20_03_24.psq",
+    "db_11_12_20_03_24.ptf",
+    "db_11_12_20_03_24.pto"
+  ]
+}

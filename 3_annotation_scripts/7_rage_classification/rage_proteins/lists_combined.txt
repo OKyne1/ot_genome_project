@@ -1,0 +1,134 @@
+hydrolase
+SpoT-synthetase
+dnaa
+integrase
+spot
+(p)pgpp
+dam
+methylase
+dnab
+helicase
+atp-binding
+hypothetical
+hnh
+endonuclease
+membrane protein
+ankyrin
+tetratricopeptide
+tpr repeat
+virb
+seca
+trbc
+uncharacterised
+uncharacterized
+methyltransferase
+baes
+atpase
+traa
+trab
+trac
+trad
+trae
+traf
+trag
+trah
+trai
+trak
+tral
+conjugal transfer protein
+conjugative transfer
+trau
+trav
+traw
+transposase
+tnp-is630
+is630
+is110
+is5
+isot6
+exodeoxyribonuclease iii
+c48 family peptidase
+scaf
+cold-shock protein
+toprim
+lipb
+ltra
+lipase-3
+scaa
+peroxiredoxin
+xtha2
+duf4065
+duf2659
+duf3857
+duf2610
+reverse transcriptase
+phospholipase
+vut1
+methionyl aminopeptidase
+putp
+phage portal protein
+scac
+cfla
+tryptophan--trna ligase
+ndk
+repeat-containing protein d
+vird4
+helix-turn-helix
+excinuclease abc subunit a
+uvra
+tyrs
+tyrosine--trna ligase
+laca
+ribose-5-phosphate isomerase
+znf/thioredoxin-put domain-containing protein
+mdtl
+flih
+ssb
+single-stranded dna-binding protein
+rna-binding protein
+phosphate dikinase
+ppdk
+vut1
+queuosine precursor transporter
+ctaa
+heme a synthase
+clpp
+atp-dependent clp protease
+hipb
+xre family transcriptional regulator
+histidine kinase domain-containing protein
+cafa
+ribonuclease e
+dde-3 domain-containing protein
+kdpd
+hybrid sensor histidine kinase/response regulator
+histidine kinase
+brkb
+cyay
+iron donor protein cyay
+dde tnp4 domain-containing protein
+conjugative pilus assembly protein
+sco family protein
+pranc
+putative signal transduction histidine kinase
+sycd
+lcrh
+aaa domain protein
+rap domain-containing protein
+hd domain protein
+arm-dna-bind-3 domain-containing protein
+moba/mobl family protein
+ribonuclease d
+hypotheical
+# hypotheical # seems to be a spelling mistake in the database somewhere
+putative permease
+ott_1508-like deaminase
+duf2748
+scab
+maturase-specific domain-containing protein
+autotransporter
+xerd
+thiosulfate sulfurtransferase
+outer membrane protein assembly factor
+bamb
+bacterial conjugation trbi-like family protein

@@ -1,0 +1,15 @@
+# Compare assemblies usage:
+python ../../../../ot_genome_project/1_assembly_scripts/other_scripts/misc/compare_assemblies.py --aligner edlib ../../240215_alignments/1_circlator/circularised/assembly_5000_unpolished_circ.fasta ../../../reference/Ot_karp_SAMEA104570320.fna > contig_to_ref.txt
+
+## To extract the desired lines:
+sed 's/^[ \t]*//' contig_to_ref.txt | grep "^contig_6" > test.txt
+
+## This strips off the leading spaces and extracts reads called contig_6. These are outputted to test.txt
+
+## Further cleaning of the file is then required, : must be removed and - between the positions must be replaced with a space.
+sed -e 's/://g' -e 's/\([0-9]\)-\([0-9]\)/\1 \2/g' test.txt | grep "^contig_6" > errors.bed
+
+## Further processing may be required, e.g. to remove the really large missing sections.
+
+## When the files have the same name (e.g. contig_6) every other line needs to be removed keeping the desired one. This code will remove the second and fourth line and so on.
+awk 'NR % 2 == 1' test.txt > errors_unpol_vs_med.txt

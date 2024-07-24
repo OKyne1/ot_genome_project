@@ -14,11 +14,15 @@ echo "OS="`uname -s`
 echo "username="`whoami`
 echo "Usage: $0 $@"
 
+######################################################## Medaka polishing ###############################################################################
+# Usage: $0 <assembly> <reads>
+# This should use all orientia reads
+# Ensure the flow cell technology is correct for the flow cell used
+#########################################################################################################################################################
+
+# Change for your conda environemnt/location
 source /well/moru-batty/users/vhs789/miniforge/etc/profile.d/conda.sh
 conda activate assembly
-
-# Used for polishing assemblies with nanopore reads
-## 1. Modify the -m for the correct flow cell model
 
 echo "script is running"
 # Check for the correct number of command-line arguments
@@ -29,8 +33,7 @@ fi
 
 assembly="$1"
 reads="$2"
-# usage suggests not to thread above 2 as it scales inefficiently past this, but says that it may use an additional 4 threads for the reading and preparing of data (hence 6 threads)
+
+# medaka command line argument, modify the flow cell technology as required
 medaka_consensus -t 2 -i "$reads" -d "$assembly" -o medaka_polished -m r1041_e82_400bps_hac_v4.2.0
-
-echo "medaka polishing code is finished"
-
+echo "medaka polishing finished"
