@@ -1,11 +1,11 @@
 #!/bin/bash
 
 ############################################################################################################################################################
-# This script needs to be run from a directory containing only the gbff files.
+# This script needs to be run from a directory containing only the gbff files within the 3_annotation_scripts directory (dropbox fucked things up)
 #
 # The ank and tpr stuff is still a bit messy as it doesn't try to match files. This isn't an issue, it just adds ~1 min to the run time (with 8 gbff files).
 # This also results in some error messages in the annotation.out file (file xxxx not found) this generatlly isn't an issue in this specific case.
-# *******This script does not work if files have names with "-" in******* due to the way it handles contigs.
+# **This script does not work if files have names with "-" in** due to the way it handles contigs.
 #
 ############################################################################################################################################################
 
