@@ -12,6 +12,8 @@
 # Get the directory of the current script
 SCRIPT_DIR=$(dirname "$(realpath "$0")")
 
+echo "$SCRIPT_DIR"
+
 # run cog removal
 echo "################################################################ COG removal messages ########################################################" >> annotation.out 2>&1
 python "$SCRIPT_DIR/2_cog_removal/1_cog_removal.py" *.gbff >> annotation.out

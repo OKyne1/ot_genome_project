@@ -2509,8 +2509,8 @@ Passed Vit filter:                        61  (0.0226766); expected 2.7 (0.001)
 Passed Fwd filter:                        54  (0.0200743); expected 0.0 (1e-05)
 Initial search space (Z):               2690  [actual number of targets]
 Domain search space  (domZ):              44  [number of targets reported over threshold]
-# CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.08
-# Mc/sec: 249.88
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.07
+# Mc/sec: 268.15
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -4298,8 +4298,8 @@ Passed Vit filter:                        57  (0.0262431); expected 2.2 (0.001)
 Passed Fwd filter:                        47  (0.021639); expected 0.0 (1e-05)
 Initial search space (Z):               2172  [actual number of targets]
 Domain search space  (domZ):              40  [number of targets reported over threshold]
-# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.07
-# Mc/sec: 211.04
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.06
+# Mc/sec: 257.83
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -6186,8 +6186,8 @@ Passed Vit filter:                        56  (0.0233918); expected 2.4 (0.001)
 Passed Fwd filter:                        49  (0.0204678); expected 0.0 (1e-05)
 Initial search space (Z):               2394  [actual number of targets]
 Domain search space  (domZ):              39  [number of targets reported over threshold]
-# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.08
-# Mc/sec: 238.68
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.07
+# Mc/sec: 267.50
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -9281,8 +9281,8 @@ Passed Vit filter:                        59  (0.0219331); expected 2.7 (0.001)
 Passed Fwd filter:                        54  (0.0200743); expected 0.0 (1e-05)
 Initial search space (Z):               2690  [actual number of targets]
 Domain search space  (domZ):              50  [number of targets reported over threshold]
-# CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.13
-# Mc/sec: 157.57
+# CPU time: 0.01u 0.01s 00:00:00.02 Elapsed: 00:00:00.10
+# Mc/sec: 214.03
 //
 Query:       TPR_2  [M=34]
 Accession:   PF07719.21
@@ -12357,8 +12357,8 @@ Passed Vit filter:                        59  (0.0219331); expected 2.7 (0.001)
 Passed Fwd filter:                        56  (0.0208178); expected 0.0 (1e-05)
 Initial search space (Z):               2690  [actual number of targets]
 Domain search space  (domZ):              50  [number of targets reported over threshold]
-# CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.12
-# Mc/sec: 179.79
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.09
+# Mc/sec: 229.11
 //
 Query:       TPR_3  [M=34]
 Accession:   PF07720.16
@@ -12386,8 +12386,8 @@ Passed Vit filter:                        39  (0.0144981); expected 2.7 (0.001)
 Passed Fwd filter:                        36  (0.0133829); expected 0.0 (1e-05)
 Initial search space (Z):               2690  [actual number of targets]
 Domain search space  (domZ):               0  [number of targets reported over threshold]
-# CPU time: 0.03u 0.00s 00:00:00.03 Elapsed: 00:00:00.03
-# Mc/sec: 585.41
+# CPU time: 0.04u 0.00s 00:00:00.04 Elapsed: 00:00:00.02
+# Mc/sec: 745.62
 //
 Query:       TPR_4  [M=26]
 Accession:   PF07721.18
@@ -12695,8 +12695,8 @@ Passed Vit filter:                        25  (0.00929368); expected 2.7 (0.001)
 Passed Fwd filter:                        18  (0.00669145); expected 0.0 (1e-05)
 Initial search space (Z):               2690  [actual number of targets]
 Domain search space  (domZ):               3  [number of targets reported over threshold]
-# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.03
-# Mc/sec: 427.92
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.03
+# Mc/sec: 537.47
 //
 Query:       TPR_5  [M=119]
 Accession:   PF12688.11
@@ -12724,8 +12724,8 @@ Passed Vit filter:                         1  (0.000371747); expected 2.7 (0.001
 Passed Fwd filter:                         0  (0); expected 0.0 (1e-05)
 Initial search space (Z):               2690  [actual number of targets]
 Domain search space  (domZ):               0  [number of targets reported over threshold]
-# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.02
-# Mc/sec: 3603.95
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.02
+# Mc/sec: 3373.40
 //
 Query:       TPR_6  [M=33]
 Accession:   PF13174.10
@@ -15530,8 +15530,8 @@ Passed Vit filter:                        59  (0.0219331); expected 2.7 (0.001)
 Passed Fwd filter:                        54  (0.0200743); expected 0.0 (1e-05)
 Initial search space (Z):               2690  [actual number of targets]
 Domain search space  (domZ):              40  [number of targets reported over threshold]
-# CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.11
-# Mc/sec: 184.43
+# CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.09
+# Mc/sec: 231.58
 //
 Query:       TPR_7  [M=36]
 Accession:   PF13176.10
@@ -17143,8 +17143,8 @@ Passed Vit filter:                        45  (0.0167286); expected 2.7 (0.001)
 Passed Fwd filter:                        43  (0.0159851); expected 0.0 (1e-05)
 Initial search space (Z):               2690  [actual number of targets]
 Domain search space  (domZ):              22  [number of targets reported over threshold]
-# CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.06
-# Mc/sec: 347.32
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.06
+# Mc/sec: 352.03
 //
 Query:       TPR_8  [M=34]
 Accession:   PF13181.10
@@ -20173,7 +20173,7 @@ Passed Fwd filter:                        55  (0.0204461); expected 0.0 (1e-05)
 Initial search space (Z):               2690  [actual number of targets]
 Domain search space  (domZ):              48  [number of targets reported over threshold]
 # CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.10
-# Mc/sec: 215.36
+# Mc/sec: 218.76
 //
 Query:       TPR_9  [M=73]
 Accession:   PF13371.10
@@ -22258,8 +22258,8 @@ Passed Vit filter:                        54  (0.0200743); expected 2.7 (0.001)
 Passed Fwd filter:                        50  (0.0185874); expected 0.0 (1e-05)
 Initial search space (Z):               2690  [actual number of targets]
 Domain search space  (domZ):              39  [number of targets reported over threshold]
-# CPU time: 0.20u 0.00s 00:00:00.20 Elapsed: 00:00:00.17
-# Mc/sec: 265.03
+# CPU time: 0.19u 0.01s 00:00:00.20 Elapsed: 00:00:00.17
+# Mc/sec: 266.17
 //
 Query:       TPR_10  [M=42]
 Accession:   PF13374.10
@@ -23900,8 +23900,8 @@ Passed Vit filter:                        42  (0.0156134); expected 2.7 (0.001)
 Passed Fwd filter:                        39  (0.0144981); expected 0.0 (1e-05)
 Initial search space (Z):               2690  [actual number of targets]
 Domain search space  (domZ):              21  [number of targets reported over threshold]
-# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.06
-# Mc/sec: 410.16
+# CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.06
+# Mc/sec: 415.97
 //
 Query:       TPR_12  [M=77]
 Accession:   PF13424.10
@@ -26111,8 +26111,8 @@ Passed Vit filter:                        57  (0.0211896); expected 2.7 (0.001)
 Passed Fwd filter:                        53  (0.0197026); expected 0.0 (1e-05)
 Initial search space (Z):               2690  [actual number of targets]
 Domain search space  (domZ):              40  [number of targets reported over threshold]
-# CPU time: 0.22u 0.00s 00:00:00.22 Elapsed: 00:00:00.19
-# Mc/sec: 258.65
+# CPU time: 0.23u 0.00s 00:00:00.23 Elapsed: 00:00:00.18
+# Mc/sec: 267.70
 //
 Query:       TPR_14  [M=45]
 Accession:   PF13428.10
@@ -28787,8 +28787,8 @@ Passed Vit filter:                        56  (0.0208178); expected 2.7 (0.001)
 Passed Fwd filter:                        51  (0.0189591); expected 0.0 (1e-05)
 Initial search space (Z):               2690  [actual number of targets]
 Domain search space  (domZ):              37  [number of targets reported over threshold]
-# CPU time: 0.48u 0.00s 00:00:00.48 Elapsed: 00:00:00.33
-# Mc/sec: 87.42
+# CPU time: 0.37u 0.00s 00:00:00.37 Elapsed: 00:00:00.27
+# Mc/sec: 104.36
 //
 Query:       TPR_15  [M=280]
 Accession:   PF13429.10
@@ -28816,8 +28816,8 @@ Passed Vit filter:                        21  (0.00780669); expected 2.7 (0.001)
 Passed Fwd filter:                        13  (0.00483271); expected 0.0 (1e-05)
 Initial search space (Z):               2690  [actual number of targets]
 Domain search space  (domZ):               0  [number of targets reported over threshold]
-# CPU time: 0.08u 0.00s 00:00:00.08 Elapsed: 00:00:00.06
-# Mc/sec: 2798.26
+# CPU time: 0.09u 0.01s 00:00:00.10 Elapsed: 00:00:00.08
+# Mc/sec: 2237.39
 //
 Query:       TPR_17  [M=34]
 Accession:   PF13431.10
@@ -31874,8 +31874,8 @@ Passed Vit filter:                        56  (0.0208178); expected 2.7 (0.001)
 Passed Fwd filter:                        52  (0.0193309); expected 0.0 (1e-05)
 Initial search space (Z):               2690  [actual number of targets]
 Domain search space  (domZ):              47  [number of targets reported over threshold]
-# CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.09
-# Mc/sec: 221.41
+# CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.10
+# Mc/sec: 212.77
 //
 Query:       TPR_16  [M=68]
 Accession:   PF13432.10
@@ -34327,8 +34327,8 @@ Passed Vit filter:                        57  (0.0211896); expected 2.7 (0.001)
 Passed Fwd filter:                        53  (0.0197026); expected 0.0 (1e-05)
 Initial search space (Z):               2690  [actual number of targets]
 Domain search space  (domZ):              43  [number of targets reported over threshold]
-# CPU time: 0.22u 0.00s 00:00:00.22 Elapsed: 00:00:00.20
-# Mc/sec: 214.98
+# CPU time: 0.22u 0.02s 00:00:00.24 Elapsed: 00:00:00.20
+# Mc/sec: 216.22
 //
 Query:       TPR_18  [M=145]
 Accession:   PF13512.10
@@ -34356,8 +34356,8 @@ Passed Vit filter:                         1  (0.000371747); expected 2.7 (0.001
 Passed Fwd filter:                         1  (0.000371747); expected 0.0 (1e-05)
 Initial search space (Z):               2690  [actual number of targets]
 Domain search space  (domZ):               0  [number of targets reported over threshold]
-# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.02
-# Mc/sec: 4124.51
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.02
+# Mc/sec: 4145.19
 //
 Query:       TPR_19  [M=68]
 Accession:   PF14559.10
@@ -36211,7 +36211,7 @@ Passed Fwd filter:                        50  (0.0185874); expected 0.0 (1e-05)
 Initial search space (Z):               2690  [actual number of targets]
 Domain search space  (domZ):              40  [number of targets reported over threshold]
 # CPU time: 0.10u 0.00s 00:00:00.10 Elapsed: 00:00:00.12
-# Mc/sec: 361.88
+# Mc/sec: 360.64
 //
 Query:       TPR_20  [M=90]
 Accession:   PF14561.10
@@ -36401,8 +36401,8 @@ Passed Vit filter:                        19  (0.0070632); expected 2.7 (0.001)
 Passed Fwd filter:                        15  (0.00557621); expected 0.0 (1e-05)
 Initial search space (Z):               2690  [actual number of targets]
 Domain search space  (domZ):               2  [number of targets reported over threshold]
-# CPU time: 0.08u 0.00s 00:00:00.08 Elapsed: 00:00:00.06
-# Mc/sec: 844.47
+# CPU time: 0.08u 0.00s 00:00:00.08 Elapsed: 00:00:00.07
+# Mc/sec: 815.93
 //
 Query:       TPR_22  [M=92]
 Accession:   PF18833.5
@@ -36430,8 +36430,8 @@ Passed Vit filter:                         3  (0.00111524); expected 2.7 (0.001)
 Passed Fwd filter:                         0  (0); expected 0.0 (1e-05)
 Initial search space (Z):               2690  [actual number of targets]
 Domain search space  (domZ):               0  [number of targets reported over threshold]
-# CPU time: 0.00u 0.01s 00:00:00.01 Elapsed: 00:00:00.02
-# Mc/sec: 2470.99
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.02
+# Mc/sec: 2567.65
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -37227,8 +37227,8 @@ Passed Vit filter:                        28  (0.0128913); expected 2.2 (0.001)
 Passed Fwd filter:                        24  (0.0110497); expected 0.0 (1e-05)
 Initial search space (Z):               2172  [actual number of targets]
 Domain search space  (domZ):              17  [number of targets reported over threshold]
-# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.03
-# Mc/sec: 443.81
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.04
+# Mc/sec: 430.24
 //
 Query:       TPR_2  [M=34]
 Accession:   PF07719.21
@@ -37985,8 +37985,8 @@ Passed Vit filter:                        31  (0.0142726); expected 2.2 (0.001)
 Passed Fwd filter:                        26  (0.0119705); expected 0.0 (1e-05)
 Initial search space (Z):               2172  [actual number of targets]
 Domain search space  (domZ):              16  [number of targets reported over threshold]
-# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.03
-# Mc/sec: 491.96
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.03
+# Mc/sec: 461.73
 //
 Query:       TPR_3  [M=34]
 Accession:   PF07720.16
@@ -38014,8 +38014,8 @@ Passed Vit filter:                        15  (0.00690608); expected 2.2 (0.001)
 Passed Fwd filter:                        10  (0.00460405); expected 0.0 (1e-05)
 Initial search space (Z):               2172  [actual number of targets]
 Domain search space  (domZ):               0  [number of targets reported over threshold]
-# CPU time: 0.00u 0.01s 00:00:00.01 Elapsed: 00:00:00.01
-# Mc/sec: 886.00
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.01
+# Mc/sec: 931.26
 //
 Query:       TPR_4  [M=26]
 Accession:   PF07721.18
@@ -38043,8 +38043,8 @@ Passed Vit filter:                         8  (0.00368324); expected 2.2 (0.001)
 Passed Fwd filter:                         4  (0.00184162); expected 0.0 (1e-05)
 Initial search space (Z):               2172  [actual number of targets]
 Domain search space  (domZ):               0  [number of targets reported over threshold]
-# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.01
-# Mc/sec: 733.94
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.01
+# Mc/sec: 746.41
 //
 Query:       TPR_5  [M=119]
 Accession:   PF12688.11
@@ -38073,7 +38073,7 @@ Passed Fwd filter:                         0  (0); expected 0.0 (1e-05)
 Initial search space (Z):               2172  [actual number of targets]
 Domain search space  (domZ):               0  [number of targets reported over threshold]
 # CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.01
-# Mc/sec: 3536.77
+# Mc/sec: 3315.54
 //
 Query:       TPR_6  [M=33]
 Accession:   PF13174.10
@@ -38636,7 +38636,7 @@ Passed Fwd filter:                        19  (0.0087477); expected 0.0 (1e-05)
 Initial search space (Z):               2172  [actual number of targets]
 Domain search space  (domZ):               8  [number of targets reported over threshold]
 # CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.03
-# Mc/sec: 478.30
+# Mc/sec: 534.72
 //
 Query:       TPR_7  [M=36]
 Accession:   PF13176.10
@@ -39039,8 +39039,8 @@ Passed Vit filter:                        17  (0.00782689); expected 2.2 (0.001)
 Passed Fwd filter:                        12  (0.00552486); expected 0.0 (1e-05)
 Initial search space (Z):               2172  [actual number of targets]
 Domain search space  (domZ):               6  [number of targets reported over threshold]
-# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.02
-# Mc/sec: 642.36
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.02
+# Mc/sec: 708.42
 //
 Query:       TPR_8  [M=34]
 Accession:   PF13181.10
@@ -39716,8 +39716,8 @@ Passed Vit filter:                        31  (0.0142726); expected 2.2 (0.001)
 Passed Fwd filter:                        28  (0.0128913); expected 0.0 (1e-05)
 Initial search space (Z):               2172  [actual number of targets]
 Domain search space  (domZ):              13  [number of targets reported over threshold]
-# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.03
-# Mc/sec: 497.53
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.03
+# Mc/sec: 525.51
 //
 Query:       TPR_9  [M=73]
 Accession:   PF13371.10
@@ -40126,8 +40126,8 @@ Passed Vit filter:                        22  (0.0101289); expected 2.2 (0.001)
 Passed Fwd filter:                        17  (0.00782689); expected 0.0 (1e-05)
 Initial search space (Z):               2172  [actual number of targets]
 Domain search space  (domZ):               7  [number of targets reported over threshold]
-# CPU time: 0.04u 0.00s 00:00:00.04 Elapsed: 00:00:00.05
-# Mc/sec: 686.44
+# CPU time: 0.03u 0.00s 00:00:00.03 Elapsed: 00:00:00.05
+# Mc/sec: 734.52
 //
 Query:       TPR_10  [M=42]
 Accession:   PF13374.10
@@ -40435,7 +40435,7 @@ Passed Fwd filter:                        14  (0.00644567); expected 0.0 (1e-05)
 Initial search space (Z):               2172  [actual number of targets]
 Domain search space  (domZ):               4  [number of targets reported over threshold]
 # CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.02
-# Mc/sec: 846.74
+# Mc/sec: 859.23
 //
 Query:       TPR_12  [M=77]
 Accession:   PF13424.10
@@ -40878,8 +40878,8 @@ Passed Vit filter:                        27  (0.0124309); expected 2.2 (0.001)
 Passed Fwd filter:                        21  (0.00966851); expected 0.0 (1e-05)
 Initial search space (Z):               2172  [actual number of targets]
 Domain search space  (domZ):               8  [number of targets reported over threshold]
-# CPU time: 0.05u 0.00s 00:00:00.05 Elapsed: 00:00:00.06
-# Mc/sec: 653.71
+# CPU time: 0.05u 0.00s 00:00:00.05 Elapsed: 00:00:00.05
+# Mc/sec: 697.09
 //
 Query:       TPR_14  [M=45]
 Accession:   PF13428.10
@@ -41400,8 +41400,8 @@ Passed Vit filter:                        24  (0.0110497); expected 2.2 (0.001)
 Passed Fwd filter:                        19  (0.0087477); expected 0.0 (1e-05)
 Initial search space (Z):               2172  [actual number of targets]
 Domain search space  (domZ):               7  [number of targets reported over threshold]
-# CPU time: 0.07u 0.00s 00:00:00.07 Elapsed: 00:00:00.06
-# Mc/sec: 341.40
+# CPU time: 0.06u 0.00s 00:00:00.06 Elapsed: 00:00:00.06
+# Mc/sec: 338.74
 //
 Query:       TPR_15  [M=280]
 Accession:   PF13429.10
@@ -41430,7 +41430,7 @@ Passed Fwd filter:                         2  (0.00092081); expected 0.0 (1e-05)
 Initial search space (Z):               2172  [actual number of targets]
 Domain search space  (domZ):               0  [number of targets reported over threshold]
 # CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.02
-# Mc/sec: 5666.80
+# Mc/sec: 5060.24
 //
 Query:       TPR_17  [M=34]
 Accession:   PF13431.10
@@ -42182,8 +42182,8 @@ Passed Vit filter:                        26  (0.0119705); expected 2.2 (0.001)
 Passed Fwd filter:                        20  (0.0092081); expected 0.0 (1e-05)
 Initial search space (Z):               2172  [actual number of targets]
 Domain search space  (domZ):              14  [number of targets reported over threshold]
-# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.03
-# Mc/sec: 511.35
+# CPU time: 0.00u 0.01s 00:00:00.01 Elapsed: 00:00:00.03
+# Mc/sec: 514.47
 //
 Query:       TPR_16  [M=68]
 Accession:   PF13432.10
@@ -42694,8 +42694,8 @@ Passed Vit filter:                        25  (0.0115101); expected 2.2 (0.001)
 Passed Fwd filter:                        21  (0.00966851); expected 0.0 (1e-05)
 Initial search space (Z):               2172  [actual number of targets]
 Domain search space  (domZ):              10  [number of targets reported over threshold]
-# CPU time: 0.05u 0.00s 00:00:00.05 Elapsed: 00:00:00.05
-# Mc/sec: 593.34
+# CPU time: 0.05u 0.00s 00:00:00.05 Elapsed: 00:00:00.06
+# Mc/sec: 547.02
 //
 Query:       TPR_18  [M=145]
 Accession:   PF13512.10
@@ -42752,7 +42752,7 @@ Passed Fwd filter:                         1  (0.000460405); expected 0.0 (1e-05
 Initial search space (Z):               2172  [actual number of targets]
 Domain search space  (domZ):               1  [number of targets reported over threshold]
 # CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.01
-# Mc/sec: 4579.81
+# Mc/sec: 3877.27
 //
 Query:       TPR_19  [M=68]
 Accession:   PF14559.10
@@ -43104,8 +43104,8 @@ Passed Vit filter:                        21  (0.00966851); expected 2.2 (0.001)
 Passed Fwd filter:                        17  (0.00782689); expected 0.0 (1e-05)
 Initial search space (Z):               2172  [actual number of targets]
 Domain search space  (domZ):               8  [number of targets reported over threshold]
-# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.03
-# Mc/sec: 1065.29
+# CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.03
+# Mc/sec: 1002.36
 //
 Query:       TPR_20  [M=90]
 Accession:   PF14561.10
@@ -43134,7 +43134,7 @@ Passed Fwd filter:                         6  (0.00276243); expected 0.0 (1e-05)
 Initial search space (Z):               2172  [actual number of targets]
 Domain search space  (domZ):               0  [number of targets reported over threshold]
 # CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.02
-# Mc/sec: 2069.26
+# Mc/sec: 1961.10
 //
 Query:       TPR_22  [M=92]
 Accession:   PF18833.5
@@ -43163,7 +43163,7 @@ Passed Fwd filter:                         0  (0); expected 0.0 (1e-05)
 Initial search space (Z):               2172  [actual number of targets]
 Domain search space  (domZ):               0  [number of targets reported over threshold]
 # CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.01
-# Mc/sec: 2943.98
+# Mc/sec: 2628.20
 //
 [ok]
 # hmmsearch :: search profile(s) against a sequence database
@@ -45516,8 +45516,8 @@ Passed Vit filter:                        52  (0.021721); expected 2.4 (0.001)
 Passed Fwd filter:                        48  (0.0200501); expected 0.0 (1e-05)
 Initial search space (Z):               2394  [actual number of targets]
 Domain search space  (domZ):              42  [number of targets reported over threshold]
-# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.09
-# Mc/sec: 214.92
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.07
+# Mc/sec: 264.34
 //
 Query:       TPR_2  [M=34]
 Accession:   PF07719.21
@@ -47751,7 +47751,7 @@ Passed Fwd filter:                        50  (0.0208855); expected 0.0 (1e-05)
 Initial search space (Z):               2394  [actual number of targets]
 Domain search space  (domZ):              38  [number of targets reported over threshold]
 # CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.07
-# Mc/sec: 272.47
+# Mc/sec: 270.22
 //
 Query:       TPR_3  [M=34]
 Accession:   PF07720.16
@@ -47779,8 +47779,8 @@ Passed Vit filter:                        34  (0.0142022); expected 2.4 (0.001)
 Passed Fwd filter:                        30  (0.0125313); expected 0.0 (1e-05)
 Initial search space (Z):               2394  [actual number of targets]
 Domain search space  (domZ):               0  [number of targets reported over threshold]
-# CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.02
-# Mc/sec: 751.81
+# CPU time: 0.03u 0.00s 00:00:00.03 Elapsed: 00:00:00.02
+# Mc/sec: 706.24
 //
 Query:       TPR_4  [M=26]
 Accession:   PF07721.18
@@ -47808,8 +47808,8 @@ Passed Vit filter:                        18  (0.0075188); expected 2.4 (0.001)
 Passed Fwd filter:                         8  (0.00334169); expected 0.0 (1e-05)
 Initial search space (Z):               2394  [actual number of targets]
 Domain search space  (domZ):               0  [number of targets reported over threshold]
-# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.02
-# Mc/sec: 709.02
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.02
+# Mc/sec: 760.77
 //
 Query:       TPR_5  [M=119]
 Accession:   PF12688.11
@@ -47838,7 +47838,7 @@ Passed Fwd filter:                         0  (0); expected 0.0 (1e-05)
 Initial search space (Z):               2394  [actual number of targets]
 Domain search space  (domZ):               0  [number of targets reported over threshold]
 # CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.02
-# Mc/sec: 3270.96
+# Mc/sec: 3494.17
 //
 Query:       TPR_6  [M=33]
 Accession:   PF13174.10
@@ -49841,8 +49841,8 @@ Passed Vit filter:                        50  (0.0208855); expected 2.4 (0.001)
 Passed Fwd filter:                        44  (0.0183793); expected 0.0 (1e-05)
 Initial search space (Z):               2394  [actual number of targets]
 Domain search space  (domZ):              30  [number of targets reported over threshold]
-# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.07
-# Mc/sec: 257.33
+# CPU time: 0.00u 0.01s 00:00:00.01 Elapsed: 00:00:00.06
+# Mc/sec: 290.12
 //
 Query:       TPR_7  [M=36]
 Accession:   PF13176.10
@@ -50847,7 +50847,7 @@ Passed Fwd filter:                        34  (0.0142022); expected 0.0 (1e-05)
 Initial search space (Z):               2394  [actual number of targets]
 Domain search space  (domZ):              14  [number of targets reported over threshold]
 # CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.04
-# Mc/sec: 436.60
+# Mc/sec: 478.32
 //
 Query:       TPR_8  [M=34]
 Accession:   PF13181.10
@@ -53013,8 +53013,8 @@ Passed Vit filter:                        56  (0.0233918); expected 2.4 (0.001)
 Passed Fwd filter:                        52  (0.021721); expected 0.0 (1e-05)
 Initial search space (Z):               2394  [actual number of targets]
 Domain search space  (domZ):              35  [number of targets reported over threshold]
-# CPU time: 0.00u 0.01s 00:00:00.01 Elapsed: 00:00:00.07
-# Mc/sec: 265.80
+# CPU time: 0.01u 0.01s 00:00:00.02 Elapsed: 00:00:00.07
+# Mc/sec: 277.25
 //
 Query:       TPR_9  [M=73]
 Accession:   PF13371.10
@@ -54591,8 +54591,8 @@ Passed Vit filter:                        45  (0.018797); expected 2.4 (0.001)
 Passed Fwd filter:                        40  (0.0167084); expected 0.0 (1e-05)
 Initial search space (Z):               2394  [actual number of targets]
 Domain search space  (domZ):              29  [number of targets reported over threshold]
-# CPU time: 0.14u 0.01s 00:00:00.15 Elapsed: 00:00:00.14
-# Mc/sec: 303.96
+# CPU time: 0.15u 0.01s 00:00:00.16 Elapsed: 00:00:00.15
+# Mc/sec: 291.34
 //
 Query:       TPR_10  [M=42]
 Accession:   PF13374.10
@@ -55423,7 +55423,7 @@ Passed Fwd filter:                        35  (0.0146199); expected 0.0 (1e-05)
 Initial search space (Z):               2394  [actual number of targets]
 Domain search space  (domZ):              13  [number of targets reported over threshold]
 # CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.04
-# Mc/sec: 563.41
+# Mc/sec: 544.82
 //
 Query:       TPR_12  [M=77]
 Accession:   PF13424.10
@@ -57013,8 +57013,8 @@ Passed Vit filter:                        50  (0.0208855); expected 2.4 (0.001)
 Passed Fwd filter:                        45  (0.018797); expected 0.0 (1e-05)
 Initial search space (Z):               2394  [actual number of targets]
 Domain search space  (domZ):              30  [number of targets reported over threshold]
-# CPU time: 0.18u 0.01s 00:00:00.19 Elapsed: 00:00:00.17
-# Mc/sec: 269.26
+# CPU time: 0.19u 0.02s 00:00:00.21 Elapsed: 00:00:00.16
+# Mc/sec: 275.28
 //
 Query:       TPR_14  [M=45]
 Accession:   PF13428.10
@@ -59011,8 +59011,8 @@ Passed Vit filter:                        47  (0.0196324); expected 2.4 (0.001)
 Passed Fwd filter:                        41  (0.0171261); expected 0.0 (1e-05)
 Initial search space (Z):               2394  [actual number of targets]
 Domain search space  (domZ):              29  [number of targets reported over threshold]
-# CPU time: 0.25u 0.00s 00:00:00.25 Elapsed: 00:00:00.19
-# Mc/sec: 138.19
+# CPU time: 0.22u 0.02s 00:00:00.24 Elapsed: 00:00:00.19
+# Mc/sec: 139.54
 //
 Query:       TPR_15  [M=280]
 Accession:   PF13429.10
@@ -59041,7 +59041,7 @@ Passed Fwd filter:                         7  (0.00292398); expected 0.0 (1e-05)
 Initial search space (Z):               2394  [actual number of targets]
 Domain search space  (domZ):               0  [number of targets reported over threshold]
 # CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.03
-# Mc/sec: 4363.94
+# Mc/sec: 4657.78
 //
 Query:       TPR_17  [M=34]
 Accession:   PF13431.10
@@ -61333,7 +61333,7 @@ Passed Fwd filter:                        44  (0.0183793); expected 0.0 (1e-05)
 Initial search space (Z):               2394  [actual number of targets]
 Domain search space  (domZ):              36  [number of targets reported over threshold]
 # CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.08
-# Mc/sec: 252.82
+# Mc/sec: 252.03
 //
 Query:       TPR_16  [M=68]
 Accession:   PF13432.10
@@ -62977,8 +62977,8 @@ Passed Vit filter:                        48  (0.0200501); expected 2.4 (0.001)
 Passed Fwd filter:                        45  (0.018797); expected 0.0 (1e-05)
 Initial search space (Z):               2394  [actual number of targets]
 Domain search space  (domZ):              32  [number of targets reported over threshold]
-# CPU time: 0.13u 0.01s 00:00:00.14 Elapsed: 00:00:00.14
-# Mc/sec: 282.58
+# CPU time: 0.14u 0.00s 00:00:00.14 Elapsed: 00:00:00.16
+# Mc/sec: 253.11
 //
 Query:       TPR_18  [M=145]
 Accession:   PF13512.10
@@ -63035,7 +63035,7 @@ Passed Fwd filter:                         1  (0.000417711); expected 0.0 (1e-05
 Initial search space (Z):               2394  [actual number of targets]
 Domain search space  (domZ):               1  [number of targets reported over threshold]
 # CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.02
-# Mc/sec: 4242.83
+# Mc/sec: 4268.06
 //
 Query:       TPR_19  [M=68]
 Accession:   PF14559.10
@@ -64333,8 +64333,8 @@ Passed Vit filter:                        45  (0.018797); expected 2.4 (0.001)
 Passed Fwd filter:                        40  (0.0167084); expected 0.0 (1e-05)
 Initial search space (Z):               2394  [actual number of targets]
 Domain search space  (domZ):              28  [number of targets reported over threshold]
-# CPU time: 0.06u 0.01s 00:00:00.06 Elapsed: 00:00:00.09
-# Mc/sec: 413.10
+# CPU time: 0.07u 0.00s 00:00:00.07 Elapsed: 00:00:00.09
+# Mc/sec: 432.08
 //
 Query:       TPR_20  [M=90]
 Accession:   PF14561.10
@@ -64448,8 +64448,8 @@ Passed Vit filter:                        23  (0.00960735); expected 2.4 (0.001)
 Passed Fwd filter:                        14  (0.00584795); expected 0.0 (1e-05)
 Initial search space (Z):               2394  [actual number of targets]
 Domain search space  (domZ):               1  [number of targets reported over threshold]
-# CPU time: 0.04u 0.00s 00:00:00.04 Elapsed: 00:00:00.05
-# Mc/sec: 931.72
+# CPU time: 0.05u 0.00s 00:00:00.05 Elapsed: 00:00:00.05
+# Mc/sec: 973.35
 //
 Query:       TPR_22  [M=92]
 Accession:   PF18833.5
@@ -64477,8 +64477,8 @@ Passed Vit filter:                         2  (0.000835422); expected 2.4 (0.001
 Passed Fwd filter:                         0  (0); expected 0.0 (1e-05)
 Initial search space (Z):               2394  [actual number of targets]
 Domain search space  (domZ):               0  [number of targets reported over threshold]
-# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.02
-# Mc/sec: 2524.89
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.02
+# Mc/sec: 2400.01
 //
 [ok]
 script 2 complete
@@ -64508,9 +64508,18 @@ script 4 complete
 Extraction completed. Output saved to modified_gilliam.faa
 Extraction completed. Output saved to modified_ikeda.faa
 Extraction completed. Output saved to modified_kato.faa
-BLAST Database error: Error: Not a valid version 4 database.
-BLAST Database error: Error: Not a valid version 4 database.
-BLAST Database error: Error: Not a valid version 4 database.
+Warning: [blastp] Examining 5 or more matches is recommended
+Warning: [blastp] Examining 5 or more matches is recommended
+Warning: [blastp] Examining 5 or more matches is recommended
+For gene 'gilliam_01985', adjusted end value from 313 to 214
+For gene 'ikeda_03555', adjusted end value from 941 to 936
+For gene 'ikeda_06375', adjusted end value from 235 to 214
+For gene 'ikeda_07430', adjusted end value from 495 to 494
+For gene 'ikeda_10510', adjusted end value from 215 to 214
+For gene 'kato_01555', adjusted end value from 495 to 494
+For gene 'kato_06635', adjusted end value from 284 to 214
+For gene 'kato_09400', adjusted end value from 939 to 936
+For gene 'kato_11425', adjusted end value from 235 to 214
 The script seems to be finished. Hopefully it worked.
 ################################################ RAGE protein completeness checks #################################################
 /mnt/c/Users/oakem/Documents/ot_genome_project/3_annotation_scripts/5_completeness_checks
@@ -64518,9 +64527,11 @@ The script seems to be finished. Hopefully it worked.
 Extraction completed. Output saved to modified_gilliam_anked.faa
 Extraction completed. Output saved to modified_ikeda_anked.faa
 Extraction completed. Output saved to modified_kato_anked.faa
-BLAST Database error: Error: Not a valid version 4 database.
-BLAST Database error: Error: Not a valid version 4 database.
-BLAST Database error: Error: Not a valid version 4 database.
+Warning: [blastp] Examining 5 or more matches is recommended
+Warning: [blastp] Examining 5 or more matches is recommended
+Warning: [blastp] Examining 5 or more matches is recommended
+For gene 'gilliam_07360', adjusted end value from 279 to 220
+For gene 'kato_11825', adjusted end value from 1366 to 890
 The script seems to be finished. Hopefully it worked.
 ######################################################## spoT annotation ########################################################
 /mnt/c/Users/oakem/Documents/ot_genome_project/3_annotation_scripts/6_spoT
@@ -64954,9 +64965,9 @@ Updated file: modified_kato_anked_completeness_checked.gbff
 Extraction completed. Output saved to modified_gilliam_anked_completeness_checked.faa
 Extraction completed. Output saved to modified_ikeda_anked_completeness_checked.faa
 Extraction completed. Output saved to modified_kato_anked_completeness_checked.faa
-BLAST Database error: Error: Not a valid version 4 database.
-BLAST Database error: Error: Not a valid version 4 database.
-BLAST Database error: Error: Not a valid version 4 database.
+Warning: [blastp] Examining 5 or more matches is recommended
+Warning: [blastp] Examining 5 or more matches is recommended
+Warning: [blastp] Examining 5 or more matches is recommended
 The script seems to be finished. Hopefully it worked.
 ######################################################## RAGE classification ####################################################
 Script directory: /mnt/c/Users/oakem/Documents/ot_genome_project/3_annotation_scripts/7_rage_classification
@@ -64970,7 +64981,6 @@ Starting RAGE boundary validation...
 File1: modified_gilliam_anked_completeness_checked_spotted_rage_boundaries.bed
 File2: modified_gilliam_anked_completeness_checked_spotted_rage_derived.bed
 Running bedtools intersect...
-/mnt/c/Users/oakem/Documents/ot_genome_project/3_annotation_scripts/7_rage_classification/main.sh: line 54: bedtools: command not found
 Output saved to modified_gilliam_anked_completeness_checked_spotted_validated_boundaries.bed
 Combined beds done
 Processing GBFF tables...
@@ -64992,7 +65002,6 @@ Starting RAGE boundary validation...
 File1: modified_ikeda_anked_completeness_checked_spotted_rage_boundaries.bed
 File2: modified_ikeda_anked_completeness_checked_spotted_rage_derived.bed
 Running bedtools intersect...
-/mnt/c/Users/oakem/Documents/ot_genome_project/3_annotation_scripts/7_rage_classification/main.sh: line 54: bedtools: command not found
 Output saved to modified_ikeda_anked_completeness_checked_spotted_validated_boundaries.bed
 Combined beds done
 Processing GBFF tables...
@@ -65016,7 +65025,6 @@ Starting RAGE boundary validation...
 File1: modified_kato_anked_completeness_checked_spotted_rage_boundaries.bed
 File2: modified_kato_anked_completeness_checked_spotted_rage_derived.bed
 Running bedtools intersect...
-/mnt/c/Users/oakem/Documents/ot_genome_project/3_annotation_scripts/7_rage_classification/main.sh: line 54: bedtools: command not found
 Output saved to modified_kato_anked_completeness_checked_spotted_validated_boundaries.bed
 Combined beds done
 Processing GBFF tables...

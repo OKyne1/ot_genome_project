@@ -1,4 +1,5 @@
 name: rage
+## Need to run this code first: conda config --set channel_priority flexible
 channels:
   - defaults
   - conda-forge
