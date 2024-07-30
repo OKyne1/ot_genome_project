@@ -1,7 +1,3 @@
 
 # Domain annotation:
-## hmm files to exclude
-##/2_annotation_scripts/domain_annotation/2_hmmersearch/tpr_hmm/
-## gbff and faa files to exclude
-/2_annotation_scripts/domain_annotation/1_gbff_2_faa/gbff
 /2_assembly_scripts/optimised_assembly/genomes_for_mapping/karp-2018_mouse-GRCm38_nanopore-DCS.fna.gz
