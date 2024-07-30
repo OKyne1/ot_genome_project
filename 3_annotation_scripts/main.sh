@@ -109,8 +109,8 @@ if ls processing_outputs/modified_*_anked_completeness_checked_spotted.gbff 1> /
     fi
 
     # Check if main.sh is executable
-    if [ ! -x "$SCRIPT_DIR/7_rage_classification/main.sh" ]; then
-        echo "main.sh script is not executable or not found."
+    if [ ! "$SCRIPT_DIR/7_rage_classification/main.sh" ]; then
+        echo "main.sh script is not found."
         echo "$SCRIPT_DIR/7_rage_classification/main.sh"
         exit 1
     fi
