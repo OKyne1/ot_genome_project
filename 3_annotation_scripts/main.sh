@@ -10,7 +10,7 @@
 ############################################################################################################################################################
 
 # Get the directory of the current script
-SCRIPT_DIR=$(dirname "$0")
+SCRIPT_DIR=$(dirname "$(realpath "$0")")
 
 # run cog removal
 echo "################################################################ COG removal messages ########################################################" >> annotation.out 2>&1
@@ -107,15 +107,15 @@ if ls processing_outputs/modified_*_anked_completeness_checked_spotted.gbff 1> /
     fi
 
     # Check if main.sh is executable
-    if [ ! -x "$SCRIPT_DIR/../7_rage_classification/main.sh" ]; then
+    if [ ! -x "$SCRIPT_DIR/7_rage_classification/main.sh" ]; then
         echo "main.sh script is not executable or not found."
-        echo "$SCRIPT_DIR/../7_rage_classification/main.sh"
+        echo "$SCRIPT_DIR/7_rage_classification/main.sh"
         exit 1
     fi
 
     # Run RAGE classification
     for file in modified_*_anked_completeness_checked_spotted.gbff; do
-        bash "$SCRIPT_DIR/../7_rage_classification/main.sh" $file >> ../annotation.out 2>&1
+        bash "$SCRIPT_DIR/7_rage_classification/main.sh" $file >> ../annotation.out 2>&1
         rm *.txt *.bed
     done
     echo "script 6 of 6 complete (7_rage_classification/main.sh)"
@@ -123,7 +123,3 @@ else
     echo "Failed to move files to processing_outputs."
     exit 1
 fi
-
-#rm *.txt *.bed
-# Remove intermediate files if necessary
-# rm *.txt *.bed
