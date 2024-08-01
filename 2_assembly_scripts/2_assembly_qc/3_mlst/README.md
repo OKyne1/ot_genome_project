@@ -8,7 +8,9 @@ Usage:
 
 The output will look something like this:
 wgot001.fasta        otsutsugamushi  -       gpsA(26)        mdh(1)  nrdB(8) nuoF(39)        ppdK(29)        sucB(22)             sucD(~35)
+
 wgot016.fasta        otsutsugamushi  -       gpsA(26)        mdh(1)  nrdB(3) nuoF(10)        ppdK(7) sucB(24)        sucD(22)
+
 wgot031.fasta        otsutsugamushi  -       gpsA(36)        mdh(1)  nrdB(3) nuoF(6) ppdK(36)        sucB(24)        sucD(22)
 
 Tilde symbols mean that there is potentially a new gene allele. New genomes should probably have their genes submitted to MLST, talk to Liz about this.
