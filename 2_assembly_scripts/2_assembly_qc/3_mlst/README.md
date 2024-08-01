@@ -1,5 +1,5 @@
 # MLST
-MLST (Multilocus Sequence Typing) is a molecular typing method used to characterize bacterial isolates by analyzing the sequences of several (usually 6-7) housekeeping genes. This method provides a way to classify strains based on their unique sequence types. To date all **Orientia** genomes have had different combinations of MLST genes.
+MLST (Multilocus Sequence Typing) is a molecular typing method used to characterize bacterial isolates by analyzing the sequences of several (usually 6-7) housekeeping genes. This method provides a way to classify strains based on their unique sequence types. To date all _Orientia_ genomes have had different combinations of MLST genes.
 
 For assemblies MLST can be used to check for genome completeness by confirming that all targeted housekeeping genes are present and intact in the sequenced genome. This is complementary to BUSCO as they use different genes.
 
