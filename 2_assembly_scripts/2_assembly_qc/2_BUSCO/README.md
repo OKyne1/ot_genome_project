@@ -4,7 +4,7 @@ BUSCO (Benchmarking Universal Single-Copy Orthologs) is a bioinformatics tool us
 
 Unfortunately for _Orientia_ genomes, even genomes present in many contigs they will normally still look complete in BUSCO. Additionally for the database used, _Orientia_ doesn't contain 100% of the genes in the rickettsiales database.
 
-Karp results in a BUSCO output with 92.9% of the genes present (not the 100%) that would normally be expected. Here are the full details for the complete Karp genome:
+Karp results in a BUSCO output with 92.9% of the genes complete (not the 100%) that would normally be expected (as a result of the genome reduction observed in intracellular bacteria). Here are the full details for the complete Karp genome:
 
 | Input_file                        | Dataset             | Complete | Single | Duplicated | Fragmented | Missing | n_markers | Scaffold N50 | Contigs N50 | Percent gaps | Number of scaffolds |
 |-----------------------------------|---------------------|----------|--------|------------|------------|---------|-----------|--------------|-------------|--------------|--------------------|
@@ -13,5 +13,7 @@ Karp results in a BUSCO output with 92.9% of the genes present (not the 100%) th
 
 Usage:
 `busco -i genomes/ -l rickettsiales_odb10 -o busco_output -m genome`
+
+The outputs can then be plotted using the `generate_plot.py` which is part of the BUSCO package.
 
 BUSCO will need to be present in the active environment to run this code. It also requires internet signal and so cannot be submitted as a job on the computer cluster.
