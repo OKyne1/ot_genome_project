@@ -35,5 +35,6 @@ assembly="$1"
 reads="$2"
 
 # medaka command line argument, modify the flow cell technology as required
+# Change the model as appropriate
 medaka_consensus -t 2 -i "$reads" -d "$assembly" -o medaka_polished -m r1041_e82_400bps_hac_v4.2.0
 echo "medaka polishing finished"

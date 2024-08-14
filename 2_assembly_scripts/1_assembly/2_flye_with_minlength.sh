@@ -15,7 +15,7 @@ echo "username="`whoami`
 echo "Usage: $0 $@"
 
 ############################################# Script to extract reads >x and run flye ###############################################
-# Usage: $0 <reads><coverage>
+# Usage: sbatch file_name.sh <reads> <min_read_length>
 # Lines 2-15 are BMRC cluster specific
 # Experiments found that >5000 bp reads generally resulted in the best assemblies; but it may be worth testing a few thresholds
 #####################################################################################################################################

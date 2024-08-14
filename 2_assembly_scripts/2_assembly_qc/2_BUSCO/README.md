@@ -1,5 +1,7 @@
 # BUSCO
 
+Install BUSCO
+
 BUSCO (Benchmarking Universal Single-Copy Orthologs) is a bioinformatics tool used to assess the completeness of genome assemblies by evaluating the presence of conserved single-copy genes. It provides a quantitative measure of genome quality by reporting the proportion of these orthologs that are complete, fragmented, or missing.
 
 Unfortunately for _Orientia_ genomes, even genomes present in many contigs they will normally still look complete in BUSCO. Additionally for the database used, _Orientia_ doesn't contain 100% of the genes in the rickettsiales database.

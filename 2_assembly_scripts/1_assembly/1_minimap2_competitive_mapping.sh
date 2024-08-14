@@ -27,6 +27,7 @@ echo "Usage: $0 $@"
 source /well/moru-batty/users/vhs789/miniforge/etc/profile.d/conda.sh
 conda activate minimap
 
+# /well/moru-batty/projects/ot/assembly/reference/karp_mouse_cds.fna
 
 # Check for the correct number of command-line arguments
 if [ "$#" -ne 2 ]; then

@@ -9,6 +9,9 @@
 #
 ############################################################################################################################################################
 
+source /well/moru-batty/users/vhs789/miniforge/etc/profile.d/conda.sh
+conda activate rage
+
 # Get the directory of the current script
 SCRIPT_DIR=$(dirname "$(realpath "$0")")
 
