@@ -1,4 +1,10 @@
-# Plotting  19 vs 4
+# Plot generation method for pairwise whole genome analysis
+#
+# 1. Rename fasta files (after ">" if desired)
+# 2. Perform sequence alignment (minimap2 -x asm20 -c –eqx –secondary=no {target.fasta} {query.fasta} > {output.alignment})
+# 3. Use the paf file in the code below
+# 4. Load the bed files for complete and rage derived regions in the code below
+# Note: this will not work if a complete RAGE bed file is empty and so the appropriate region should be commented/removed
 #-------------------------------------------------------------------------------
 library("SVbyEye")
 library(GenomicRanges)
@@ -40,7 +46,7 @@ annot_gr_ranges2 <- GRanges(seqnames = annot.gr2$seqnames,
                            ranges = IRanges(start = annot.gr2$start,
                                             end = annot.gr2$end),
                            strand = annot.gr2$strand)
-######## No RAGEs
+######## No RAGEs so these bits were commented for this comparison. Change if there are complete RAGEs in the genomes being compared
 # # Annotation for 5 complete RAGE
 # annot_file3 <- "modified_wgot004_anked_completeness_checked_spotted_complete_RAGEs.bed"  # Replace with your actual file path if different
 # annot.gr3 <- read.table(annot_file3, header = FALSE, sep = "\t", comment.char = "", stringsAsFactors = FALSE)
