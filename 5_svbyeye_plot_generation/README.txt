@@ -1,0 +1,3 @@
+I have given brief descriptions of how to generate the plots at the top of the R scripts. Read this. You can also check the scripts used to generate the plots (you will want to change the working directory) found in the folder I gave to Jeanne on dropbox.
+
+Note for pairwise comparisons, if complete RAGEs are also visualized, empty bed files (i.e. ones without rages) will result in errors and so shouldn't be included.
